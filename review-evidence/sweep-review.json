@@ -1,0 +1,350 @@
+{
+  "model_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+  "accepted_vehicle_poses_preserved": 338,
+  "source_report_hashes": {
+    "sampled-carrier-approaches.json": "c936941dae9d7ccdaa54a7506303a30142d76feb8fde86d506464b52892f0ec1",
+    "six-direction-broadphase.json": "5f76fcd42a23d5719f8f8eb4a4b3faedcb9ab80c4fa999abeb6ef01429d5a031",
+    "catalog-connections.json": "3d420858227534b471dd4b515711a025cd1bd8e922d32609b873e10f3ef842b2",
+    "repeat-recipes.json": "8876da66c957c5f5d346175409118e379091fa03dd26a277e073f97d2a4173b6"
+  },
+  "broadphase_paths": 906,
+  "mesh_sampled_paths": 18,
+  "mesh_tested_pair_poses": 3733,
+  "above_paths": [
+    {
+      "moving_ids": [
+        38,
+        39,
+        41,
+        42,
+        46,
+        48,
+        96,
+        97,
+        98,
+        115,
+        116,
+        117,
+        140,
+        197,
+        331
+      ],
+      "tested_pair_poses": 62,
+      "crossing_poses": 14,
+      "maximum_offset_with_witness_ldu": 2.0000008000000022,
+      "reported_stud_pairs": [
+        [
+          42,
+          63
+        ],
+        [
+          48,
+          91
+        ]
+      ],
+      "unreported_pairs": [
+        [
+          96,
+          99
+        ],
+        [
+          115,
+          129
+        ]
+      ]
+    },
+    {
+      "moving_ids": [
+        81,
+        82,
+        83,
+        87,
+        89,
+        93,
+        156,
+        157,
+        158,
+        166,
+        167,
+        176,
+        185,
+        205,
+        333
+      ],
+      "tested_pair_poses": 62,
+      "crossing_poses": 14,
+      "maximum_offset_with_witness_ldu": 2.000000799999995,
+      "reported_stud_pairs": [
+        [
+          83,
+          111
+        ],
+        [
+          93,
+          151
+        ]
+      ],
+      "unreported_pairs": [
+        [
+          156,
+          99
+        ],
+        [
+          166,
+          129
+        ]
+      ]
+    },
+    {
+      "moving_ids": [
+        14,
+        33,
+        34,
+        54,
+        58,
+        59,
+        100,
+        109,
+        118
+      ],
+      "tested_pair_poses": 173,
+      "crossing_poses": 25,
+      "maximum_offset_with_witness_ldu": 3.9799936190734897,
+      "reported_stud_pairs": [
+        [
+          14,
+          24
+        ],
+        [
+          14,
+          38
+        ],
+        [
+          58,
+          77
+        ],
+        [
+          58,
+          81
+        ]
+      ],
+      "unreported_pairs": [
+        [
+          100,
+          99
+        ],
+        [
+          109,
+          99
+        ],
+        [
+          118,
+          99
+        ]
+      ]
+    }
+  ],
+  "corrected_bed_order": {
+    "install_operation": 66,
+    "trim_introductions": {
+      "206": 67,
+      "214": 67
+    },
+    "old_obstruction_witnesses": [
+      {
+        "ids": [
+          100,
+          206
+        ],
+        "offset_ldu": 8.0,
+        "crossing_points": 71,
+        "sample_points_ldu": [
+          [
+            51.9998,
+            -74.3696,
+            26.0011
+          ],
+          [
+            51.9998,
+            -74.2811,
+            33.9813
+          ],
+          [
+            51.9998,
+            -74.1819,
+            34.1298
+          ],
+          [
+            51.9998,
+            -73.7057,
+            25.0076
+          ]
+        ],
+        "catalog_pair_reported": false
+      },
+      {
+        "ids": [
+          100,
+          206
+        ],
+        "offset_ldu": 9.500014100000001,
+        "crossing_points": 73,
+        "sample_points_ldu": [
+          [
+            51.9998,
+            -74.5456,
+            26.2644
+          ],
+          [
+            51.9998,
+            -74.4579,
+            26.1332
+          ],
+          [
+            51.9998,
+            -74.4571,
+            33.718
+          ],
+          [
+            51.9998,
+            -74.1358,
+            34.1987
+          ]
+        ],
+        "catalog_pair_reported": false
+      },
+      {
+        "ids": [
+          100,
+          206
+        ],
+        "offset_ldu": 16.0,
+        "crossing_points": 10,
+        "sample_points_ldu": [
+          [
+            55.9998,
+            -72.375,
+            24.7817
+          ],
+          [
+            55.9998,
+            -72.375,
+            35.0683
+          ],
+          [
+            55.9999,
+            -72.4947,
+            23.3979
+          ],
+          [
+            55.9999,
+            -72.4784,
+            23.48
+          ]
+        ],
+        "catalog_pair_reported": false
+      },
+      {
+        "ids": [
+          118,
+          214
+        ],
+        "offset_ldu": 8.0,
+        "crossing_points": 71,
+        "sample_points_ldu": [
+          [
+            51.9998,
+            -74.3696,
+            126.0011
+          ],
+          [
+            51.9998,
+            -74.2812,
+            133.9813
+          ],
+          [
+            51.9998,
+            -74.1819,
+            134.1298
+          ],
+          [
+            51.9998,
+            -73.7057,
+            125.0076
+          ]
+        ],
+        "catalog_pair_reported": false
+      },
+      {
+        "ids": [
+          118,
+          214
+        ],
+        "offset_ldu": 9.500014100000001,
+        "crossing_points": 73,
+        "sample_points_ldu": [
+          [
+            51.9998,
+            -74.5456,
+            126.2644
+          ],
+          [
+            51.9998,
+            -74.458,
+            126.1332
+          ],
+          [
+            51.9998,
+            -74.4571,
+            133.718
+          ],
+          [
+            51.9998,
+            -74.1358,
+            134.1988
+          ]
+        ],
+        "catalog_pair_reported": false
+      },
+      {
+        "ids": [
+          118,
+          214
+        ],
+        "offset_ldu": 16.0,
+        "crossing_points": 12,
+        "sample_points_ldu": [
+          [
+            55.9998,
+            -73.5564,
+            126.5493
+          ],
+          [
+            55.9998,
+            -72.5183,
+            134.854
+          ],
+          [
+            55.9998,
+            -72.375,
+            124.7817
+          ],
+          [
+            55.9998,
+            -72.375,
+            135.0683
+          ]
+        ],
+        "catalog_pair_reported": false
+      }
+    ]
+  },
+  "finding": "The earlier rear-trim obstruction is removed by sequencing. Sampled above approaches have no surface witnesses outside the final four LDU of seating. Other directions contain obstructions and are not prescribed.",
+  "near_seat_interpretation": "Reported stud pairs have nominal engagement witnesses. Unreported seam witnesses remain in unchanged source geometry and require dry-fit; they are not silently exempted as valid connections. The finite-pose surface predicate cannot determine interference volume, containment or coplanar contact.",
+  "shield_evidence": "The accepted shield-specific compound-path and stud-section reports apply unchanged to all 338 vehicle occurrences; figures are absent during these operations.",
+  "limits": [
+    "Not continuous collision certification.",
+    "Not a full-sequence insertion proof.",
+    "Not measured physical grip, strength, hand access or suspension testing."
+  ]
+}

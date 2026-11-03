@@ -1,0 +1,31 @@
+{
+  "actual_pairs": [
+    {
+      "ids": [
+        96,
+        97
+      ],
+      "same_strict_crossing_points": true,
+      "points": 0
+    },
+    {
+      "ids": [
+        96,
+        39
+      ],
+      "same_strict_crossing_points": true,
+      "points": 0
+    },
+    {
+      "ids": [
+        38,
+        14
+      ],
+      "same_strict_crossing_points": true,
+      "points": 0
+    }
+  ],
+  "translated_negative_control": true,
+  "baseline_predicate_sha256": "58177e1322dff972df1e05202a697a17d9ac4f15f3babe42324d3c5338446ddd",
+  "accelerator_sha256": "645dfc46788a98c1da30537346d01669406e50e7954019bde3b7b64d484a23a1"
+}

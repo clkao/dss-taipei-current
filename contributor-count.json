@@ -1,0 +1,57 @@
+{
+  "credited_creator_identities": 40,
+  "ldraw_named_or_pseudonymous_creators": 35,
+  "ldraw_creators": [
+    "Alex Taylor [anathema]",
+    "Brent Jackson [bjackson]",
+    "Chris Böhnke [KnightOfTarenta]",
+    "Chris Dee [cwdee]",
+    "Donald Sutter [technog]",
+    "Evert-Jan Boer [ejboer]",
+    "Gerald Lasser [GeraldLasser]",
+    "Guy Vivan [guyvivan]",
+    "Howard Lande [HowardLande]",
+    "J.C. Tchang [tchang]",
+    "James Jessiman",
+    "Jens Brühl [jb70]",
+    "Magnus Forsberg [MagFors]",
+    "Marc Klein [marckl]",
+    "Mark Kennedy [mkennedy]",
+    "Massimo Maso [Sirio]",
+    "Max Martin Richter [MMR1988]",
+    "Max Murtazin [SwampKryakwa]",
+    "Michael Heidemann [mikeheide]",
+    "Niels Karsdorp [nielsk]",
+    "Orion Pobursky [OrionP]",
+    "Owen Burgoyne [C3POwen]",
+    "Paul Easter [pneaster]",
+    "Philippe Hurbain [Philo]",
+    "Remco Braak [remco1974]",
+    "Rene Rechthaler [Blechtaler]",
+    "Santeri Piippo [arezey]",
+    "Steffen [Steffen]",
+    "Steve Bliss [sbliss]",
+    "Takeshi Takahashi [RainbowDolphin]",
+    "Tim Gould [timgould]",
+    "Tore Eriksson [Tore_Eriksson]",
+    "Vincent Messenet [Cheenzo]",
+    "William Howard [WilliamH]",
+    "Willy Tschager [Holly-Wood]"
+  ],
+  "other_upstream_creators": [
+    "KamalMYafi",
+    "Sylvain Sauvage",
+    "Roland Melkert",
+    "AYA／AYA全糖腐女中心"
+  ],
+  "project_creators": [
+    "CL Kao"
+  ],
+  "administrative_attributions": [
+    "[PTadmin]"
+  ],
+  "ldraw_attribution_entries": 36,
+  "ldraw_source_files": 370,
+  "scope": "Named credited creator identities across upstream sources and this project; excludes unnamed library contributors and collective credits such as the campaign, Three.js and pyldraw3. Not a count of direct collaborators.",
+  "catalog_sha256": "890e8ca24848e179e485b86c1ac925b2d5a3e63e88fb369774bd2ff3e53d3810"
+}

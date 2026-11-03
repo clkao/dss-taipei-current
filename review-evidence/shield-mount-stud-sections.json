@@ -1,0 +1,994 @@
+{
+  "bindings": {
+    "accepted_model_sha256": "da8685905555649204b121b1d13e52a0f54c6f8d86d36207af670b25c53a63ae",
+    "accepted_prototype_sha256": "1af77abeea4ca501d96c27431263fcde015ec4731d27caacba2434d002ef50be",
+    "base_catalog_sha256": "ce808f306bf93a61485cba111603157a0447ef53d1903e79cadc527f55582f8b",
+    "addon_catalog_sha256": "723f7b336f0d45ca750bcb2827bdd58d20778db98f8de8717b959385ff2d74df",
+    "contact_report_sha256": "a8c54a9bdfad2a72580056731712fa928f158c57678d9a7f8bc6e94673f07ba8",
+    "surface_screen_sha256": "645dfc46788a98c1da30537346d01669406e50e7954019bde3b7b64d484a23a1",
+    "check_source_sha256": "a4f35546160047284bafc6484c5ac4c4dfce9cfb53af8accb11575c8d1e9e527"
+  },
+  "sections": [
+    {
+      "piece_ids": [
+        2001,
+        2003
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          50.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31249999999999,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31249999999999,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          30.0,
+          0.0,
+          10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2001,
+        2003
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          30.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          10.0,
+          0.0,
+          10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761973493848,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761973493848,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2001,
+        2003
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          10.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          -10.0,
+          0.0,
+          10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761973493848,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761973493848,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2001,
+        2003
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          -10.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          -30.0,
+          0.0,
+          10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2001,
+        2003
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          -30.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          -50.0,
+          0.0,
+          10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2001,
+        2003
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          -50.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          -70.0,
+          0.0,
+          10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884762900831296,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884762900831296,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2002,
+        2004
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          50.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31249999999999,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31249999999999,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          30.0,
+          0.0,
+          -10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2002,
+        2004
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          30.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          10.0,
+          0.0,
+          -10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761973493848,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761973493848,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2002,
+        2004
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          10.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          -10.0,
+          0.0,
+          -10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761973493848,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761973493848,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2002,
+        2004
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          -10.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          -30.0,
+          0.0,
+          -10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2002,
+        2004
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          -30.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 32,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          -50.0,
+          0.0,
+          -10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2002,
+        2004
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          -50.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          -70.0,
+          0.0,
+          -10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884762900831296,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884762900831296,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2001,
+        2005
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          50.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31249999999999,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31249999999999,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          50.0,
+          0.0,
+          10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    },
+    {
+      "piece_ids": [
+        2002,
+        2005
+      ],
+      "status": "potential",
+      "geometry_supported": true,
+      "socket": {
+        "part": "3666",
+        "local_mouth_ldu": [
+          -50.0,
+          8.0,
+          0.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 38,
+            "maximum_angular_gap_deg": 70.31250000000001,
+            "minimum_radius_ldu": 6.0,
+            "full_stud_ring": false
+          }
+        ]
+      },
+      "stud": {
+        "part": "3034",
+        "local_mouth_ldu": [
+          50.0,
+          0.0,
+          -10.0
+        ],
+        "local_axis": [
+          0.0,
+          -1.0,
+          0.0
+        ],
+        "sections": [
+          {
+            "depth_ldu": 1.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          },
+          {
+            "depth_ldu": 3.0,
+            "surrounds_center": true,
+            "close_directions": 128,
+            "maximum_angular_gap_deg": 2.8125000000000413,
+            "minimum_radius_ldu": 5.884761775268415,
+            "full_stud_ring": true
+          }
+        ]
+      }
+    }
+  ],
+  "limits": "Finite nominal radial sections only. Catalog potential contacts remain potential; no measured clutch, plastic compliance, insertion force or strength."
+}

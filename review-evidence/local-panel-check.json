@@ -1,0 +1,147 @@
+{
+  "base": "http://127.0.0.1:18943/viewer.html",
+  "errors": [],
+  "steps": 68,
+  "recipeFrames": 65,
+  "viewports": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "canvasBounds": [
+        {
+          "step": 0,
+          "top": 104,
+          "width": 1120,
+          "height": 894
+        },
+        {
+          "step": 1,
+          "top": 104,
+          "width": 1120,
+          "height": 894
+        },
+        {
+          "step": 31,
+          "top": 104,
+          "width": 1120,
+          "height": 894
+        },
+        {
+          "step": 32,
+          "top": 104,
+          "width": 1120,
+          "height": 894
+        },
+        {
+          "step": 35,
+          "top": 104,
+          "width": 1120,
+          "height": 894
+        },
+        {
+          "step": 76,
+          "top": 104,
+          "width": 1120,
+          "height": 894
+        },
+        {
+          "step": 109,
+          "top": 104,
+          "width": 1120,
+          "height": 894
+        },
+        {
+          "step": 110,
+          "top": 104,
+          "width": 1120,
+          "height": 894
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "canvasBounds": [
+        {
+          "step": 0,
+          "top": 136,
+          "width": 390,
+          "height": 548.59375
+        },
+        {
+          "step": 1,
+          "top": 136,
+          "width": 390,
+          "height": 548.59375
+        },
+        {
+          "step": 31,
+          "top": 136,
+          "width": 390,
+          "height": 548.59375
+        },
+        {
+          "step": 32,
+          "top": 136,
+          "width": 390,
+          "height": 548.59375
+        },
+        {
+          "step": 35,
+          "top": 136,
+          "width": 390,
+          "height": 548.59375
+        },
+        {
+          "step": 76,
+          "top": 136,
+          "width": 390,
+          "height": 548.59375
+        },
+        {
+          "step": 109,
+          "top": 136,
+          "width": 390,
+          "height": 548.59375
+        },
+        {
+          "step": 110,
+          "top": 136,
+          "width": 390,
+          "height": 548.59375
+        }
+      ]
+    }
+  ],
+  "figureSteps": [
+    66,
+    67
+  ],
+  "installedComponentContinuity": true,
+  "guidedNavigation": {
+    "states": 128,
+    "approaches": [
+      "53:0:1",
+      "53:0:2"
+    ],
+    "finalStep": 68,
+    "finalVisible": 348
+  },
+  "requestedRefinements": {
+    "noDisplayBase": true,
+    "speakersCombined": true,
+    "speakerCopies": 2,
+    "mastAndFlagsCombined": true,
+    "candidatePreassembled": true,
+    "tsaiSuppliedAsOneUnit": true
+  },
+  "cameraContinuity": {
+    "mainViewChanges": 18,
+    "userAngleRestoredAfterCallout": true,
+    "directionResidual": 1.1102230246251565e-16
+  }
+}

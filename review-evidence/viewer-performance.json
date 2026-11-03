@@ -1,0 +1,67 @@
+{
+  "url": "http://127.0.0.1:18943/viewer.html",
+  "errors": [],
+  "actions": [
+    {
+      "name": "start",
+      "ms": 3.5,
+      "sceneUpdates": 1,
+      "cameraFits": 1
+    },
+    {
+      "name": "roof-continuity",
+      "ms": 12.600000381469727,
+      "sceneUpdates": 2,
+      "cameraFits": 2
+    },
+    {
+      "name": "road",
+      "ms": 5.5,
+      "sceneUpdates": 1,
+      "cameraFits": 1
+    },
+    {
+      "name": "launch",
+      "ms": 5.699999809265137,
+      "sceneUpdates": 1,
+      "cameraFits": 1
+    },
+    {
+      "name": "explode",
+      "ms": 6.5,
+      "sceneUpdates": 1,
+      "cameraFits": 1
+    }
+  ],
+  "loadAndReadyMs": 520,
+  "initial": {
+    "renderedFrames": 2,
+    "scheduledFrame": false,
+    "sceneUpdates": 1,
+    "totalUpdateMs": 15.399999618530273,
+    "lastUpdateMs": 15.399999618530273,
+    "cameraFits": 1,
+    "resizeNotifications": 1,
+    "bufferResizes": 0,
+    "pixelRatio": 1,
+    "calls": 149,
+    "triangles": 224886,
+    "geometryCache": true,
+    "instancedBatches": 116,
+    "decalPatches": 779,
+    "decalMeshes": 10,
+    "decalTriangles": 1558,
+    "preserveDrawingBuffer": false
+  },
+  "idle": {
+    "frames": 0,
+    "sceneUpdates": 0,
+    "canvasBufferResizes": 0
+  },
+  "sliderBurst": {
+    "events": 20,
+    "sceneUpdates": 1,
+    "cameraFits": 1,
+    "finalStep": 68
+  }
+}

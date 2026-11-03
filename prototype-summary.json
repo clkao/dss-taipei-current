@@ -1,0 +1,34 @@
+{
+  "revision": "yangliu-refined-source-v9",
+  "pieces": 348,
+  "lots": 111,
+  "modules": {
+    "truck": 274,
+    "cab-roof": 1,
+    "hood": 4,
+    "helm": 5,
+    "candidate": 8,
+    "banner": 6,
+    "ring-left": 2,
+    "ring-right": 2,
+    "deck": 3,
+    "interior": 1,
+    "speaker-left": 6,
+    "speaker-right": 6,
+    "sail": 9,
+    "shield": 11,
+    "tsai": 10
+  },
+  "mpd_roundtrip": {
+    "status": "pass",
+    "pieces": 348,
+    "submodels": 42,
+    "source_operations": 199,
+    "maximum_pose_error_ldu": 5.684341886080802e-14,
+    "inventory_matches": true,
+    "geometry_matches": true,
+    "physical_strength": "not_evaluated",
+    "model_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+    "mpd_sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2"
+  }
+}

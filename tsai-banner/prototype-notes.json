@@ -1,0 +1,30 @@
+{
+  "base_source": "projects/yangliu-vehicle/prototypes/final-fit-v6/model.json",
+  "source_sha256": "672e30d76e46a7e6c2e83af29d255d83386f873d5b4477ec2ec578369e377ace",
+  "figure_name": "蔡英文 / 小英",
+  "phrases": {
+    "bubble-rest": "叫你休息",
+    "bubble-listen": "講不聽"
+  },
+  "single_banner": true,
+  "faces": 2,
+  "parts": 11,
+  "display_base_optional": true,
+  "source_pose_approximation": "Existing figure joints reused; shoulder hinge and wrist-post twist align the nominal grip axis upright.",
+  "joint_angles_degrees": [
+    -59.19005357,
+    5.15976189
+  ],
+  "upright_axis_residual": 8.505453752507596e-17,
+  "custom_artwork": [
+    "speech bubble on each flag face",
+    "jacket opening and lapels"
+  ],
+  "catalog_geometry": "Original LDraw meshes; no invented speech-bubble part.",
+  "limits": [
+    "Visual prototype; no likeness acceptance yet.",
+    "Plain 973 torso uses a proposed custom jacket decal.",
+    "White 2335 flag has one decal on each face; this is a speech-bubble graphic on a real rectangular flag.",
+    "Grip axis uses nominal LDCad hand metadata, explicitly approximate; physical hand/bar/clip fit remains untested."
+  ]
+}
