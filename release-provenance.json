@@ -33,10 +33,12 @@
     "model.json": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
     "instruction-plan.json": "9d05fe11832876ad3ee4fb52412c7f9ebd1f41d5f1dfcc1a0c7cb34932fa8402",
     "tsai-banner-print.pdf": "bba473914dec131529169df13564bc936f03a3e25fa0b779b00e13ad8df96699",
-    "LICENSE.txt": "d1ca282bed24f84f70e8abca38e5b6102b7034d521db28fca5c2d1de1876606b",
+    "LICENSE.txt": "5d7eb1814c4e78fbe8c26465b632afc8b5047384614e00292811fa91cf9c387c",
     "licenses/CC-BY-SA-4.0.txt": "23ee78c8bae49cf08ea2f0c84945c66b987ebe4520881fb51b3dad4fb43d07c2",
     "tsai-banner/meme-attribution.json": "952a2c4d75573db89d5a932ea0a9d7d1116ed80405fd91785aa115a4df040a21",
-    "contributor-count.json": "8ba5cbab754e7e44ef1b20529ddc314588df3ee36a92682a520ce5a75bfa7ce5"
+    "contributor-count.json": "8ba5cbab754e7e44ef1b20529ddc314588df3ee36a92682a520ce5a75bfa7ce5",
+    "physical-vehicle-attribution.json": "4d43af46057d0d73afdbbf899bbe81c9fe75ea925194cd156ae5656190cc6c85",
+    "credits.html": "20749d5281fae639da90377c59a04c835cfe78c930e1b86e94b209be8b46f539"
   },
   "hood_sticker_sections": [
     {
@@ -160,5 +162,36 @@
     "source_branch": "gh-pages",
     "source_path": "/",
     "url": "https://clkao.github.io/dss-taipei-current/"
+  },
+  "physical_vehicle_reference": {
+    "reference": "Real-world \u6d0b\u6d41\u865f campaign vehicle",
+    "collective_credit": "Shen Po-yang campaign team / \u6c88\u4f2f\u6d0b\u7af6\u9078\u5718\u968a",
+    "credit_basis": "Launch reporting describes the vehicle as created by the campaign team. This is a collective project credit, not identification of its individual designer or fabricator.",
+    "individual_designer": null,
+    "fabricator": null,
+    "verification_status": "Individual physical-vehicle design and fabrication credits have not been independently identified.",
+    "official_project_url": "https://current.puma.taipei/",
+    "sources": [
+      {
+        "url": "https://udn.com/vote2026/story/124652/9785376",
+        "publisher": "United Daily News / \u806f\u5408\u5831",
+        "date": "2026-09-30",
+        "supports": "Campaign-team creation and launch of the physical \u6d0b\u6d41\u865f; helm supplied by Tsai Ing-wen."
+      },
+      {
+        "url": "https://www.ftvnews.com.tw/news/detail/2026A25W0161",
+        "publisher": "Formosa TV / \u6c11\u8996",
+        "date": "2026-10-25",
+        "supports": "Later vehicle configuration with a metal frame and transparent panels around three sides of the standing platform; no individual designer or fabricator named."
+      }
+    ],
+    "derived_elements": [
+      "Ship-themed pickup silhouette",
+      "Campaign deck, helm, mast, flags and speakers",
+      "Later transparent enclosure"
+    ],
+    "adaptation": "CL Kao translated the physical vehicle's appearance into a LEGO adaptation using the separately credited upstream pickup assembly. Part choices, attachment construction, proportions, instructions and DSS naming are project adaptations.",
+    "rights": "Reference attribution only. The project's CC BY-SA 4.0 grant does not relicense the original physical vehicle design or imply campaign endorsement.",
+    "checked_on": "2026-11-03"
   }
 }

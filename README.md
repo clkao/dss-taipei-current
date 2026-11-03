@@ -11,3 +11,5 @@ This repository contains the prebuilt static website on its single `gh-pages` br
 Original contributions and adaptations © 2026 CL Kao, licensed under **CC BY-SA 4.0**. Third-party creations retain their original terms and attribution; see [LICENSE.txt](LICENSE.txt) and the full source credits. The 40 named creator identities comprise 35 LDraw authors, four other upstream creators, and CL Kao. PTadmin and unnamed collective contributors are acknowledged separately.
 
 Real-brick fit, grip, suspension response and handling strength remain untested. The digital review and its limits are included in `digital-fit-audit.md` and `review-evidence/`.
+
+The real-world 洋流號 is credited collectively to the Shen Po-yang campaign team. Its individual vehicle designer and fabricator remain unverified; see [the physical-vehicle reference](credits.html#physical-vehicle). This attribution is separate from the upstream LEGO construction and graphic sources.

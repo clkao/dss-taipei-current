@@ -1,0 +1,27 @@
+{
+  "reference": "Real-world 洋流號 campaign vehicle",
+  "collective_credit": "Shen Po-yang campaign team / 沈伯洋競選團隊",
+  "credit_basis": "Launch reporting describes the vehicle as created by the campaign team. This is a collective project credit, not identification of its individual designer or fabricator.",
+  "individual_designer": null,
+  "fabricator": null,
+  "verification_status": "Individual physical-vehicle design and fabrication credits have not been independently identified.",
+  "official_project_url": "https://current.puma.taipei/",
+  "sources": [
+    {
+      "url": "https://udn.com/vote2026/story/124652/9785376",
+      "publisher": "United Daily News / 聯合報",
+      "date": "2026-09-30",
+      "supports": "Campaign-team creation and launch of the physical 洋流號; helm supplied by Tsai Ing-wen."
+    },
+    {
+      "url": "https://www.ftvnews.com.tw/news/detail/2026A25W0161",
+      "publisher": "Formosa TV / 民視",
+      "date": "2026-10-25",
+      "supports": "Later vehicle configuration with a metal frame and transparent panels around three sides of the standing platform; no individual designer or fabricator named."
+    }
+  ],
+  "derived_elements": ["Ship-themed pickup silhouette", "Campaign deck, helm, mast, flags and speakers", "Later transparent enclosure"],
+  "adaptation": "CL Kao translated the physical vehicle's appearance into a LEGO adaptation using the separately credited upstream pickup assembly. Part choices, attachment construction, proportions, instructions and DSS naming are project adaptations.",
+  "rights": "Reference attribution only. The project's CC BY-SA 4.0 grant does not relicense the original physical vehicle design or imply campaign endorsement.",
+  "checked_on": "2026-11-03"
+}

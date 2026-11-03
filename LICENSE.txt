@@ -26,6 +26,11 @@ original notices and attribution; comply with their separate terms.
 - LDCad Shadow material retains its CC BY-SA 4.0 terms and attribution to
   Roland Melkert and contributors.
 - Campaign lettering and print assets are attributed to their official sources.
+- The real-world 洋流號 is credited collectively to the Shen Po-yang campaign
+  team as reported at its launch. Its ship-themed vehicle and later transparent
+  enclosure informed this LEGO adaptation. Individual physical-vehicle design
+  and fabrication credits remain unverified; see physical-vehicle-attribution.json.
+  Our license does not relicense that original physical design.
 - The 小英拍背 / 叫你休息 meme is attributed to AYA / AYA全糖腐女中心.
   The two-sided speech-bubble layout is a project adaptation. The original
   character illustration is not reproduced.

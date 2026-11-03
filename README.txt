@@ -1,1 +1,3 @@
 DSS Taipei Current / Refined edition 10: open viewer.html in a current browser. DSS means Democratic Service Ship, a project-created civic prefix. The model, part-tray thumbnails and rendering code are embedded for offline viewing. Other local links open the PDF, inventory, source credits, print sheets and review evidence. BrickLink requires pasting/uploading the XML and verifying it. Physical tests remain open.
+
+The real-world 洋流號 is credited collectively to the Shen Po-yang campaign team. Its individual vehicle designer and fabricator remain unverified; see [the physical-vehicle reference](credits.html#physical-vehicle). This attribution is separate from the upstream LEGO construction and graphic sources.
