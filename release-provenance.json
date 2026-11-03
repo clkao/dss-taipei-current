@@ -17,14 +17,14 @@
   "source_geometry_artwork_log": "sources/donor-campaign-v10/artwork-modification-log.json",
   "catalog_notices": "Readable credits, per-file notices and exact source copies included.",
   "files": {
-    "instructions.pdf": "e6e71c6f494cea39222e6736f1caf5ddc30b2f732e0e60d8e05836fb4271ad17",
+    "instructions.pdf": "f10e7b1cd91f48fe23cfe06a9c64f2c0fb323603c909322e7552a1c0f8008232",
     "yangliu-shape.mpd": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
     "inventory.csv": "5237a9b7d39085b8b51761f1b2207ee72d0dd476396ec76ddf2dc4d45e677000",
     "wanted-list.xml": "600bf2ec6b45b2eb0993b03a5b9c9431bd8912e1b9d537e715a03fa8b1b50a20",
     "bricklink-inventory.csv": "b34b587913bf9c8082bb6edf9a593a531d91a5a68b7cc713d57e1f3867822262",
-    "sticker-artwork.zip": "96c397bd55036f34238b71a3ee6d45f7d98b81e27f07163564b497d7fead6946",
+    "sticker-artwork.zip": "5b555b25bba4fe07a48b2b921640d387cf3f1608b500d01813041a08bd1b208b",
     "digital-fit-audit.md": "97c188da4c7b33ec715f107b5ffa144ced3dd59585e7e62fab4184020e658e16",
-    "full-instruction-check.json": "053220a1e8edea8c80bf831fdb7ffec674d7a8feeaddea8d224a5d4b697901ab",
+    "full-instruction-check.json": "b0919cbdd971ebc1d248f98430eaf503b3935a9a407584359857a6200df92027",
     "stickers-a4.pdf": "b22e0a9752b7f3daa2ee7d145517bcb76528e8ddfe2451202620bfe1bb2fdd9e",
     "stickers-compact.pdf": "c35f327d13e3ba49623d0c4a023a92b953c9207f6b1b27faafdb0ddf13fbfb74",
     "soon-white.svg": "40b3ab5921c7f12957f2eb047d66cfe0652242614f55d50c3472ef52d4f94c46",
@@ -32,17 +32,23 @@
     "print-preflight.json": "2ab8e05dec62c14ec871f017efb37e65c943eace0da488c638bc6c0b68428dfb",
     "model.json": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
     "instruction-plan.json": "9d05fe11832876ad3ee4fb52412c7f9ebd1f41d5f1dfcc1a0c7cb34932fa8402",
-    "tsai-banner-print.pdf": "bba473914dec131529169df13564bc936f03a3e25fa0b779b00e13ad8df96699",
+    "tsai-banner-print.pdf": "0dc35f7eb12b52ebb8879b1faf22881ac8fcbe4514ce58f1cf9c7bfff1ac7ce6",
     "LICENSE.txt": "c1dc239072ccb99271ea51b85daa9568fb8d218a5e914ef81f83edaab9dc0dd4",
     "licenses/CC-BY-SA-4.0.txt": "23ee78c8bae49cf08ea2f0c84945c66b987ebe4520881fb51b3dad4fb43d07c2",
     "tsai-banner/meme-attribution.json": "952a2c4d75573db89d5a932ea0a9d7d1116ed80405fd91785aa115a4df040a21",
     "contributor-count.json": "8ba5cbab754e7e44ef1b20529ddc314588df3ee36a92682a520ce5a75bfa7ce5",
     "physical-vehicle-attribution.json": "7cfe02897ce2c02af3da90a6070c1c45b39988e9488ad11fe8e1e9d53ef0ac7e",
     "credits.html": "dbc328d6a808fc4504c97ab32db2b9de1bdc0ccfb6043056ee4351fa8369feb2",
-    "index.html": "a44b0c0b971c9629f453065135cd584ec716343dc8c9fb54a1255a208488a82e",
-    "viewer.html": "a44b0c0b971c9629f453065135cd584ec716343dc8c9fb54a1255a208488a82e",
-    "README.md": "bb1057e366eeeba7332b13c7a488434ca93b4c7ef87e672d271f8b9b75685ab3",
-    "README.txt": "d03e9c91f9478545dd51f60146801a458daa2ffbd47122841469cad43bef7595"
+    "index.html": "44a31755de663b64ac52373cd9cf59fa1a317166918da8e9d78482b78397e175",
+    "viewer.html": "44a31755de663b64ac52373cd9cf59fa1a317166918da8e9d78482b78397e175",
+    "README.md": "3d33ba8874602b83817e819c9b1b3cb8cddc24a9748ac777c08d9d41c673cf35",
+    "README.txt": "d03e9c91f9478545dd51f60146801a458daa2ffbd47122841469cad43bef7595",
+    "pdf-page-map.json": "38cda0279e0264e30c5eb5e59cb626b4d6b4468b377c301210827223b6f5d0af",
+    "tsai-banner/layout-notes.json": "26e4d59c74cb74f2c29fe149bb35b89f0e84475e791673c7e7d238b2e35b6272",
+    "tsai-banner/bubble-listen.svg": "afdff4308e4fed9aeb3d331dea0ad066bd1d4526c83bf9638d35ff947b5b9cc7",
+    "review-evidence/artifact-review.json": "bf22726a9d8dce312f19cc539e61cf81cf95f2735a186e6a578f5be049c50339",
+    "review-evidence/animation-preview-check.json": "faaf827b183e7cc0a256048377b1180ec6164a09d5c790c4bc2a57079b1d56c7",
+    "tsai-banner/bubble-listen.png": "af69b4cb40470647b843383c8980796e6e730185a6e67bffb0b03754088c7986"
   },
   "hood_sticker_sections": [
     {
@@ -159,7 +165,7 @@
   "credited_creator_identities": 40,
   "contribution_license": "CC-BY-SA-4.0",
   "license_scope": "Original contributions and adaptations only; third-party rights excluded. See LICENSE.txt and credits.html#license.",
-  "meme_attribution": "AYA\uff0fAYA\u5168\u7cd6\u8150\u5973\u4e2d\u5fc3 (@theaya1108); custom banner layout adapted by CL Kao.",
+  "meme_attribution": "AYA／AYA全糖腐女中心 (@theaya1108); custom banner layout adapted by CL Kao.",
   "hosting": {
     "provider": "GitHub Pages",
     "repository": "https://github.com/clkao/dss-taipei-current",
@@ -168,8 +174,8 @@
     "url": "https://clkao.github.io/dss-taipei-current/"
   },
   "physical_vehicle_reference": {
-    "reference": "Real-world \u6d0b\u6d41\u865f campaign vehicle",
-    "collective_credit": "Shen Po-yang campaign team and contributors / \u6c88\u4f2f\u6d0b\u7af6\u9078\u5718\u968a\u53ca\u53c3\u8207\u5275\u4f5c\u8005",
+    "reference": "Real-world 洋流號 campaign vehicle",
+    "collective_credit": "Shen Po-yang campaign team and contributors / 沈伯洋競選團隊及參與創作者",
     "credit_basis": "Launch reporting describes the vehicle as created by the campaign team. This is a collective project credit, not identification of its individual designer or fabricator.",
     "individual_designer": null,
     "fabricator": null,
@@ -178,13 +184,13 @@
     "sources": [
       {
         "url": "https://udn.com/vote2026/story/124652/9785376",
-        "publisher": "United Daily News / \u806f\u5408\u5831",
+        "publisher": "United Daily News / 聯合報",
         "date": "2026-09-30",
-        "supports": "Campaign-team creation and launch of the physical \u6d0b\u6d41\u865f; helm supplied by Tsai Ing-wen."
+        "supports": "Campaign-team creation and launch of the physical 洋流號; helm supplied by Tsai Ing-wen."
       },
       {
         "url": "https://www.ftvnews.com.tw/news/detail/2026A25W0161",
-        "publisher": "Formosa TV / \u6c11\u8996",
+        "publisher": "Formosa TV / 民視",
         "date": "2026-10-25",
         "supports": "Later vehicle configuration with a metal frame and transparent panels around three sides of the standing platform; no individual designer or fabricator named."
       }
@@ -202,5 +208,26 @@
     "url": "https://yangliu-lego.netlify.app/technic/",
     "status": "work in progress",
     "link_location": "footer gear easter egg"
+  },
+  "display_animation": {
+    "default": true,
+    "tires": "Four tire-and-rim pairs rotate together; helm stays still.",
+    "figures": "Candidate waves; 小英 walks in place with a fixed heading.",
+    "flags": "Rigid clip flags sway; no cloth deformation.",
+    "camera": "Slow orbit, suspended after manual interaction.",
+    "instructions": "Canonical static poses; motion pauses during building.",
+    "performance": "30 fps presentation; no scene rebuilds or geometry allocations per animation frame; pauses offscreen and respects reduced motion."
+  },
+  "speech_bubble_layout": {
+    "bubble-rest": {
+      "text": "叫你休息",
+      "tail": "left"
+    },
+    "bubble-listen": {
+      "text": "講不聽",
+      "tail": "right"
+    },
+    "text_mirrored": false,
+    "revision": "opposite tails / 2026-11-03"
   }
 }

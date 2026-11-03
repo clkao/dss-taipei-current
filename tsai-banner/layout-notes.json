@@ -1,0 +1,12 @@
+{
+  "bubble-rest": {
+    "text": "叫你休息",
+    "tail": "left"
+  },
+  "bubble-listen": {
+    "text": "講不聽",
+    "tail": "right"
+  },
+  "text_mirrored": false,
+  "revision": "opposite tails / 2026-11-03"
+}
