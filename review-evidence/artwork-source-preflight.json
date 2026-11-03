@@ -1,0 +1,117 @@
+{
+  "artwork": "artwork-v13",
+  "files": [
+    {
+      "name": "stickers-a4",
+      "path": "output/yangliu-stickers-v13/pdfs/yangliu-stickers-a4.pdf",
+      "page_mm": [
+        210.0000001583333,
+        297.00000007777777
+      ],
+      "requested_page_mm": [
+        210,
+        297
+      ],
+      "sets": 12,
+      "decals": 84,
+      "white_spot_operators": 204,
+      "cut_spot_operators": 2,
+      "image_xobjects": 0,
+      "vector_paths": true,
+      "printed_colored_backgrounds": true,
+      "declared_colored_artworks": {
+        "banner-upper-printed": "#CA4C0B",
+        "banner-lower-printed": "#CA4C0B"
+      },
+      "crop_mark_segments_checked": 672,
+      "crop_marks_outside_stickers": true,
+      "maximum_crop_position_error_mm": 0.00347980376196233,
+      "sha256": "b22e0a9752b7f3daa2ee7d145517bcb76528e8ddfe2451202620bfe1bb2fdd9e"
+    },
+    {
+      "name": "stickers-compact",
+      "path": "output/yangliu-stickers-v13/pdfs/yangliu-stickers-compact.pdf",
+      "page_mm": [
+        104.99999990277777,
+        147.99999998055554
+      ],
+      "requested_page_mm": [
+        105,
+        148
+      ],
+      "sets": 2,
+      "decals": 14,
+      "white_spot_operators": 32,
+      "cut_spot_operators": 2,
+      "image_xobjects": 0,
+      "vector_paths": true,
+      "printed_colored_backgrounds": true,
+      "declared_colored_artworks": {
+        "banner-upper-printed": "#CA4C0B",
+        "banner-lower-printed": "#CA4C0B"
+      },
+      "crop_mark_segments_checked": 112,
+      "crop_marks_outside_stickers": true,
+      "maximum_crop_position_error_mm": 0.0026841634456218344,
+      "sha256": "c35f327d13e3ba49623d0c4a023a92b953c9207f6b1b27faafdb0ddf13fbfb74"
+    },
+    {
+      "name": "stickers-white-ink-mask",
+      "path": "output/yangliu-stickers-v13/pdfs/yangliu-stickers-white-ink-mask.pdf",
+      "page_mm": [
+        210.0000001583333,
+        297.00000007777777
+      ],
+      "requested_page_mm": [
+        210,
+        297
+      ],
+      "sets": 12,
+      "decals": 84,
+      "white_spot_operators": 0,
+      "cut_spot_operators": 0,
+      "image_xobjects": 0,
+      "vector_paths": true,
+      "printed_colored_backgrounds": false,
+      "declared_colored_artworks": {
+        "banner-upper-printed": "#CA4C0B",
+        "banner-lower-printed": "#CA4C0B"
+      },
+      "crop_mark_segments_checked": 0,
+      "crop_marks_outside_stickers": true,
+      "maximum_crop_position_error_mm": 0,
+      "sha256": "00adb265d8d3c1125cd9edf34adfc105f528eb33393bd860b84ded2e249d4657"
+    },
+    {
+      "name": "stickers-cutlines",
+      "path": "output/yangliu-stickers-v13/pdfs/yangliu-stickers-cutlines.pdf",
+      "page_mm": [
+        210.0000001583333,
+        297.00000007777777
+      ],
+      "requested_page_mm": [
+        210,
+        297
+      ],
+      "sets": 12,
+      "decals": 84,
+      "white_spot_operators": 0,
+      "cut_spot_operators": 2,
+      "image_xobjects": 0,
+      "vector_paths": true,
+      "printed_colored_backgrounds": false,
+      "declared_colored_artworks": {
+        "banner-upper-printed": "#CA4C0B",
+        "banner-lower-printed": "#CA4C0B"
+      },
+      "crop_mark_segments_checked": 672,
+      "crop_marks_outside_stickers": true,
+      "maximum_crop_position_error_mm": 0.00347980376196233,
+      "sha256": "2057e34580921edb06c95ae08abf4ac7c63df9f55ad714230991c99ba0bdb2f0"
+    }
+  ],
+  "no_page_background_fill": true,
+  "scale": "100%; do not fit to page",
+  "layers": "White and TrimMarks are Separation color spaces. White-ink-mask PDF is a black plate for mapping to white ink.",
+  "geometry": "Short crop marks align with the exact sticker edges from outside; no continuous border is printed. Paper-test hood curvature before printing on film."
+}

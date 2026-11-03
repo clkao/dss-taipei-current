@@ -1,0 +1,30 @@
+{
+  "revision": "yangliu-technic-refined-v2-public-preview",
+  "model_sha256": "a998fed9c3847701ed0b872a69654eb5d57e2a16a4e272ed47f9ab04e057780b",
+  "kind": "Prototype viewer, not a construction release",
+  "files": {
+    "index.html": "666edd0b332280c83ae8dc21359feafbde4e90a2f541555fa3c23e8ef0a94006",
+    "provenance.json": "d806039875f5ebfe1a04c66a9a2906bd6a73cc599d1d9860b6b93f65d97672bf",
+    "readiness.html": "e69ba4852484d6d20a1fd1ba2efa67660c19850971e20c4d923b97c530c2e7c6",
+    "gallery.html": "4ee339e24833b4225d1f5f8fa0fa634f51b49099c60b8886d1500440207a6de1",
+    "LDRAW-CREDITS.txt": "310185bf6c8093fabfb3299f51230befe4dbc39b40119a2b5172b69d6e8545bb",
+    "viewer.html": "666edd0b332280c83ae8dc21359feafbde4e90a2f541555fa3c23e8ef0a94006",
+    "credits.html": "8d2ab610a09001256257cd2e986aa8574d7a483f7fc5e5c307a4ad28da493178",
+    "licenses/calicense.txt": "487265d3a122b2e54e460954cd2eca34ac2e545bcb1b2ac23cbda2a27e49a6c2",
+    "licenses/THREE-MIT.txt": "8b378ebe60e2fe500158cb0ac71cb5e8b7d92953c2abcc63a0eb90499653b5bc",
+    "licenses/careadme.txt": "c67a824bdab18e646337b5b26f7f039c84b0be71273c0c878e2749e648820497",
+    "licenses/calicense4.txt": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411",
+    "licenses/readme.txt": "e260ed6f12587eb73e3bbe63d8920129181f3d8f4ee89c66778a36c7de346fa5",
+    "images/rc-with-body.png": "498196e67616d3ac311e011c4c58a6b4e988f16935fec6a6eae173454e3708ce",
+    "images/rc-top.png": "ff3aee2888de647c997bcc5ea71e19e900985a94cd1f23f7824a69849bb8cbf1",
+    "images/steering-flange.png": "654668736a06e611f9c4d2cc213b947b85653d6de1a33844161fb0a622d04038",
+    "images/hub-orientation.png": "dcf22de004a14c7bd7f8527922c3c1ff99b2a364ca728da339aeb8cb83e75e33",
+    "images/drive-flange.png": "e8dff5f85df892bb0a25e8d734996be95378cac4bb64576b8c133bc805a7874b",
+    "images/rc-additions.png": "e4abb8678520e5a51c3be438c0a5af661866895a67802087f52bbc1e49328a88",
+    "images/rc-cutaway.png": "629af6c93c2f11964fae77fe9dda7328e4200071cf7bee79d38e111351fbd703",
+    "images/rc-with-body-rear.png": "6f2d81a395ab7c1830b6f1514c492e6df4ab37840f0191838a2ca2ebb606e6c5",
+    "construction/index.html": "005a102c1fd81d956b4c8791d490f332a900f8abb10d57c2d43bc174eec4407b",
+    "construction/guide-manifest.json": "c2581bb93cf1e3147718c723725578cec4e9f374aa544f0c30c9a68e5c1a3c70"
+  },
+  "hosting_adaptation": "Relative links and explicit HTML targets for a GitHub Pages project subdirectory; embedded model unchanged."
+}

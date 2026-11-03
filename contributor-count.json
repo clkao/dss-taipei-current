@@ -53,5 +53,6 @@
   "ldraw_attribution_entries": 36,
   "ldraw_source_files": 370,
   "scope": "Named credited creator identities across upstream sources and this project; excludes unnamed library contributors and collective credits such as the campaign, Three.js and pyldraw3. Not a count of direct collaborators.",
-  "catalog_sha256": "890e8ca24848e179e485b86c1ac925b2d5a3e63e88fb369774bd2ff3e53d3810"
+  "catalog_sha256": "890e8ca24848e179e485b86c1ac925b2d5a3e63e88fb369774bd2ff3e53d3810",
+  "edition": "Minifigure edition; Technic credits are listed separately."
 }

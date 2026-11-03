@@ -1,0 +1,3638 @@
+LDraw catalog credits for source libraries used in the reviewed Technic viewer.
+Rendered assembly and display emphasis prepared for this prototype.
+
+p/1-16chrd.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-16cyli.dat
+0 Author: Marc Klein [marckl]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-16cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-16edge.dat
+0 Author: Marc Klein [marckl]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-16ndis.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-16ring4.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-16tang.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4chrd.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con0.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con10.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con18.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con19.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con2.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con3.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con31.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con4.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con5.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con6.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4con9.dat
+0 Author: [PTadmin]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4cylc.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4cyli.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4cyls.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4cyls2.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4disc.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4edge.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ering.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ndis.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring1.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring10.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring11.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring12.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring2.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring3.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring4.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring5.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring6.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring7.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4ring8.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-4tang.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8chrd.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8cyli.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8cylo.dat
+0 Author: Tim Gould [timgould]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8cyls.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8cyls2.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8edge.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ndis.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ring1.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ring13.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ring18.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ring19.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ring2.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ring3.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ring35.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ring4.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ring8.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8ring9.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8sphe.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8tang.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8tndis.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/1-8tric.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/11-16cyli.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/11-16edge.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4chrd.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4con1.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4con10.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4con12.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4con4.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4cylc.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4cyli.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4disc.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4edge.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ering.dat
+0 Author: Damien Roux [Darats]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ndis.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ring1.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ring14.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ring16.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ring19.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ring2.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ring3.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ring4.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ring6.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ring8.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4ring9.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-4stud4.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/2-8sphe.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16chrd.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16con1.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16con2.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16cyli.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16cylo.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16cyls.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16cys2.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16edge.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16ndis.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16ring12.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16ring13.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16ring2.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16ring3.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16ring7.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16ring8.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16tang.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-16tndis.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-4chrd.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-4cyli.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-4cylo.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-4disc.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-4edge.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-4ndis.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-4ring1.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-4ring2.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-4ring8.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-4ring9.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-8con6.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-8con9.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-8cyli.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-8cylo.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-8edge.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-8ring12.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-8ring2.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-8ring7.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-8ring8.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/3-8ring9.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con0.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con1.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con11.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con12.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con19.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con2.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con20.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con3.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con4.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con5.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con6.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con7.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con8.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4con9.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4cyl1sph2.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4cylc.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4cyli.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4cylo.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4cyls.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4cylse.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4disc.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4edge.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ering.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ndis.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring1.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring10.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring12.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring13.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring14.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring18.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring19.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring2.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring20.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring25.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring3.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring4.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring5.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring6.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring7.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring8.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-4ring9.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/4-8sphe.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-12chrd.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-12cyli.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-12edge.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-12ring29.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-12ring39.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-16chrd.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-16cyli.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-16cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-16edge.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-16ring29.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-16ring39.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-16tang.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-24chrd.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-24cyli.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-24edge.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-3edge.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-48cyli.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-4chrd.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-4con1.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-4con23.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-4cyli.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-4edge.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-4ring9.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-4tang.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-6cyli.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-6cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-6edge.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-6ring17.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-6ring29.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-6ring39.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-8chrd.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-8con28.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-8cyli.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-8cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-8edge.dat
+0 Author: [PTadmin]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-8ring20.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-8ring28.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/1-8ring6.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/2-4cyli.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/2-4edge.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/3-16aring.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/3-16con10.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/3-16con8.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/3-16cyli.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/3-16cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/3-16edge.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/3-16ring29.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/3-16ring50.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4aring.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4con16.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4con24.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4con4.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4con5.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4con7.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4con8.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4con9.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4cyli.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4cylo.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4edge.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4ring12.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4ring2.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4ring20.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4ring22.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4ring3.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4ring4.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4ring5.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4ring6.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4ring8.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/4-4ring9.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/5-24cyli.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/5-24cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/5-24edge.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/5-48edge.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/7-48cyli.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/7-48cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/7-48edge.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/tm04i1000.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/tm04o1000.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/tm08i1333.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/48/tm08o1333.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/5-16cyli.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/5-16cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/5-16edge.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/5-16ring3.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/5-8cyli.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/5-8cylo.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/5-8edge.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-16chrd.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-16cyli.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-16cylo.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-16disc.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-16edge.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-16ndis.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-16ring2.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-16ring3.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-8cyli.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-8edge.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/7-8ring8.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8-8sphe.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/1-4cyli.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/1-4cylo.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/1-4cyls.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/1-4edge.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/1-4ndis.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/2-4chrd.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/2-4cyli.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/2-4cylo.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/2-4edge.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/2-4ndis.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/3-8chrd.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/3-8cyli.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/3-8cylo.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/8/3-8edge.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl2ho10.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl2hol2.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl2hol3.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl2hol8.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl2hol9.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl2hole.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl3ho10.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl3hol2.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl3hol3.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl3hol8.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl3hol9.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl3hole.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl4hol2.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl4hol3.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl4hole.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl5end.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl5ho10.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl5hol8.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axl5hol9.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axleconnect.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axleend2.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axleend20.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axleho10.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axleho12.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axlehol0.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axlehol2.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axlehol3.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axlehol4.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axlehol5.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axlehol6.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axlehol8.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axlehol9.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/axlehole.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/beamhol2.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/beamhole.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box0.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box2-11.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box2-5.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box2-7.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box2-9.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box2-9p.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box3u2p.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box3u4a.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box3u4p.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box3u5p.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box3u6.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box3u6a.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box3u8p.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box4-1.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box4-2p.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box4-4a.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box4-7a.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box4.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box4o4a.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box4o8a.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box4t.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box5-1.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box5-4a.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/box5.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/boxjcyl4.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/bump5000.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/bush.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/bush0.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/bush0a.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/bush1.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/clip1.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/clip2.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/clip6.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/clip8.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confric10.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confric3.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confric4.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confric5.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confric6.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confric8.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confric9.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confricrib1.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confricrib2.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confricrib3.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/confricrib4.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connect.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connect2.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connect3.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connect4.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connect7.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connect8.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connectcollar1.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connectcollar4.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connectring.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connectslit2.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connectslit3.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connectslit4.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connhol2.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connhol3.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/connhole.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/cylj4x6.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/cylj4x8.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/empty.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/fric.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/hipstud.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/joint8socket2.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/knob1.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol10.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol11.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol18.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol19.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol2.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol20.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol21.dat
+0 Author: Ralf Kochanowski [rkoch]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol3.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol3a.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol4.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol4a.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol6a.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol6c.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol6d.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol7.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol7a.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol8.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghol9.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/npeghole.dat
+0 Author: Max Murtazin [SwampKryakwa]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/peghole.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/peghole2.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/peghole4.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/peghole5.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/phandle1.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/r04o1000.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/rect.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/rect1.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/rect2a.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/rect2p.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/rect3.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/recte3.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/recte4.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/ridgea.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/ridges.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud10.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud12.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud2.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud2a.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud2s2.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud2s2e.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud3.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud3a.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud4.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud4a.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud4o.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud4od.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stud6a.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/studa.dat
+0 Author: Niels Karsdorp [nielsk]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-1x2.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-1x3.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-1x4.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-1x6.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-1x8.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-2x1.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-2x2.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-3x3.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-4x1.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-4x4.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug-6x6.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug10-2x2.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug2-12x1.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug2-1x2.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug2-1x4.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug2-2x2.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug3-1x2.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug3-1x3.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug3-1x5.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug3-1x7.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug4-1x2.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug4-1x4.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug4-1x5.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug4-2x2.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug4-3x3.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug4-4x4.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/stug4-5x5.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/t02i2258.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/t02o2000.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/t04i2258.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/t04i2500.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/t04o2000.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/t04o6250.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/t04q4000.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/tootb28.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/tootb28s.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/tooth16.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/tooth40.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/tooth8a.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/toothb12.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/toothr.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/tri3a1.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/tri3a4.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+p/tri3u1.dat
+0 Author: Mark Kennedy [mkennedy]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/10197.dat
+0 Author: Rolf Osterthun [Rolf]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/10928.dat
+0 Author: Daniele Benedettelli [benedettelli]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/11214.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/11455.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/11478.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/11946.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/11947.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/14719.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/14720.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/15068.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/15100.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/15458.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/15462.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/15712.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/18651.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/18654.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/18671.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/18946.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/22127.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/22169.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/22961.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2335.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/23801.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/23807.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/24116.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/24119.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2412b.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/24246.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2431.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/24316.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2456.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/24849.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/24851.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/24853.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2493.dat
+0 Author: [PTadmin]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2493b.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2494.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2525.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/25560.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/25560c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/25561.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/25561c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2569.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/26287.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2654a.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/26603.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2736.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2780.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/27940.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2850a.dat
+0 Author: Jeff Boen [onyx]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/2851.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/2852.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/2853.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2853a.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/2854.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/3001.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3002.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3003.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3004.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3005.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3009.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3010.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/30133.dat
+0 Author: Mark Chittenden [mdublade]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/30136.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3020.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3021.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3022.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3023.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3023b.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3024.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3031.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3034.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/30340.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3035.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3036.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3037.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3040b.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3062b.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3068b.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3069b.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3070b.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/31794.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32000.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32002.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32005.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32009.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32013.dat
+0 Author: Lutz Uhlmann [El-Lutzo]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32015.dat
+0 Author: Lutz Uhlmann [El-Lutzo]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32016.dat
+0 Author: Lutz Uhlmann [El-Lutzo]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32018.dat
+0 Author: Remco Braak [remco1974]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32034.dat
+0 Author: Lutz Uhlmann [El-Lutzo]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32039.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32054.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32062.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32065.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32073.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32123a.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32140.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32184.dat
+0 Author: Jeff Boen [onyx]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32249.dat
+0 Author: Ishino Keiichiro
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32269.dat
+0 Author: Marc Klein [marckl]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32270.dat
+0 Author: Marc Klein [marckl]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32278.dat
+0 Author: Ishino Keiichiro
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32291.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32316.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32333.dat
+0 Author: Marc Klein [marckl]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32449.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32523.dat
+0 Author: Tim Gould [timgould]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32524.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32525.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32526.dat
+0 Author: Jonathan P. Brown
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/32556.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32556a.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/32556b.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3326b.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/33299a.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3460.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/34745.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3622.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3623.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3626cp87.dat
+0 Author: Howard Lande [HowardLande]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/3649.dat
+0 Author: Adriano Aicardi
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/3665b.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3666.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/36841.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3700.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3705.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3706.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3707.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3708.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3710.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3713.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3737.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3749.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3794b.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3795.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3815.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3815c01.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3815c02.dat
+0 Author: Jonathan Wilson [jonwil]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/3816.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3817.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3818.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3819.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3820.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3828.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3829a.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3832.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3901.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3941.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/3958.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/39793.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/39794.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/40490.dat
+0 Author: Ross Crawford [rosco]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4070.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4079.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4081b.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4083.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4085c.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/40940.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4095.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/41239.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/4150.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4162.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/41677.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/41678.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/42003.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/42531.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4254.dat
+0 Author: Jeff Boen [onyx]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/42545.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4255.dat
+0 Author: Jeff Boen [onyx]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/4274.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4286.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/43093.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/4349.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/44294.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/44728.dat
+0 Author: Brent Jackson [bjackson]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/44809.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/4519.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/45411.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/46882.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/47157.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/4790.dat
+0 Author: Paul Easter [pneaster]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/47996.dat
+0 Author: William Howard [WilliamH]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/48989.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/49307.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/49618.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/50746.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/50950.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/52031.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/53585.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/54200.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/55615.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/55981.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/56908.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/59426.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/59443.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/60478.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/60481.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/60481a.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/60483.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/60484.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/60485.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/60593.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/60602.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/6091.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/61070.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/61071.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/61252.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/6141.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/6179.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/62462.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/62520.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/62531.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/62821.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/63864.dat
+0 Author: Tim Gould [timgould]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/63869.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/64179.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/64392.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/64393.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/64681.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/64682.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/64782.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/6536.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/65426.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/65429.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/6558.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/6562.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/6589.dat
+0 Author: Jeroen Ottens [JeroenOttens]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/6590.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/6628.dat
+0 Author: William Howard [WilliamH]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/6629.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/6632.dat
+0 Author: Guy Vivan [guyvivan]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/6636.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/67759.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/67811.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/69909.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/70038.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/71682.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/71689.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/71708.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/71709.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/71710.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/73507.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/76348.dat
+0 Author: Tim Gould [timgould]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/77.dat
+0 Author: William Howard [WilliamH]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/85861.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/85984.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/87079.dat
+0 Author: Tim Gould [timgould]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/87082.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/87083.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/87087.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/87408.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/87552.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/87580.dat
+0 Author: Joerg Sommerer [Brickaneer]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/87761.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/88930.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/92280.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/92402.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/92583.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/92907.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/92909.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/92910.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/92911.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/93274.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/93571.dat
+0 Author: Yu Zhang [ishkafel]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/93606.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/94925.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/973.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/973p5i.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/98263.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/98282.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/98385.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/99008.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/99146.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/99207.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/99773.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/12787s01.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/12787s02.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/14719s01.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/15068s01.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/15100s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/15535s02.dat
+0 Author: Max Martin Richter [MMR1988]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/18671s01.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/2335s01.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/23801s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/23801s02.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/23801s03.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/23816s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/24119s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/24246s01.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/24246s02.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/2431s01.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/24851s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/24851s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/24853s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/24853s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/2493s01.dat
+0 Author: Alex Taylor [anathema]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/2494s01.dat
+0 Author: Ulrich Röder [UR]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/2525s01.dat
+0 Author: Franklin W. Cain [fwcain]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/25561s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/26287s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/26287s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/2654as01.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/26603s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/2850s01.dat
+0 Author: Jeff Boen [onyx]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/s/2853s01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3001s01.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3002s01.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3003s01.dat
+0 Author: Steffen [Steffen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3003s02.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3004s01.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3005s01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3009s01.dat
+0 Author: James Jessiman
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3010s01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3023bs01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3024s01.dat
+0 Author: Tore Eriksson [Tore_Eriksson]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/30340s01.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/30340s02.dat
+0 Author: Michael Heidemann [mikeheide]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3037s01.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/30391s03.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/30391s04.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3040s01.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3062bs01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3068bs01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3069bs01.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3070bs01.dat
+0 Author: Chris Dee [cwdee]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/32005s01.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/32013s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/32039s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/32269s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/32269s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/32316s01.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/32523s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/32526s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/32556s01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/33299s01.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3460s01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3622s01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3623s01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3626cs02.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3626p87s01.dat
+0 Author: Howard Lande [HowardLande]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/s/3649s01.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3649s02.dat
+0 Author: Donald Sutter [technog]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3665bs01.dat
+0 Author: Owen Burgoyne [C3POwen]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3666s01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3710s01.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3815s01.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3816s01.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3816s02.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3817s01.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3818s01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3818s02.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3818s03.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3818s04.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/3941s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/39790s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/39790s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/39793s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/41014s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/4150s01.dat
+0 Author: Andy Westrate [westrate]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/4162s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/42531s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/42531s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/42545s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/42545s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/4286s01.dat
+0 Author: Chris Böhnke [KnightOfTarenta]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/45411s01.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/45411s02.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/45411s03.dat
+0 Author: Willy Tschager [Holly-Wood]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/46882s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/46882s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/46882s03.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/4790s00.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/4790s01.dat
+0 Author: Evert-Jan Boer [ejboer]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/47996s01.dat
+0 Author: William Howard [WilliamH]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/s/47996s02.dat
+0 Author: William Howard [WilliamH]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/s/48989s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/50950s01.dat
+0 Author: Rene Rechthaler [Blechtaler]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/53585s01.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/53585s02.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/54200s01.dat
+0 Author: Orion Pobursky [OrionP]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/55615s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/55981s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/55981s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/56908s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/57515s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/57515s02.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/60481as01.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/60483s01.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/6057s04.dat
+0 Author: William Howard [WilliamH]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/s/6057s05.dat
+0 Author: William Howard [WilliamH]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/s/61068s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/61068s02.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/6179s01.dat
+0 Author: Vincent Messenet [Cheenzo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/62531s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/63864s01.dat
+0 Author: Ulrich Röder [UR]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/64179s01.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/64680s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/64683s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/64683s02.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/64781s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/64782s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/65429s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/6636s01.dat
+0 Author: Takeshi Takahashi [RainbowDolphin]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/67759s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/67759s02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/67811s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/69909s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/69909s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/71682s01.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/71682s02.dat
+0 Author: Jens Brühl [jb70]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/71689s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/71708s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/71710s01.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/71710s02.dat
+0 Author: Gerald Lasser [GeraldLasser]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/85984s01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/87079s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/87082s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/87408s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/87552s01.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/87761s01.dat
+0 Author: Santeri Piippo [arezey]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/88930s01.dat
+0 Author: J.C. Tchang [tchang]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/92402s02.dat
+0 Author: Massimo Maso [Sirio]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/92911s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/93571s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/93606s01.dat
+0 Author: Magnus Forsberg [MagFors]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/973s01.dat
+0 Author: Steve Bliss [sbliss]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/u9485s01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/s/u9485s02.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/u9053.dat
+0 Author: William Howard [WilliamH]
+0 !LICENSE Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt
+
+parts/u9479.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/u9479c01.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/u9485.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt
+
+parts/u9486.dat
+0 Author: Philippe Hurbain [Philo]
+0 !LICENSE Licensed under CC BY 4.0 : see CAreadme.txt

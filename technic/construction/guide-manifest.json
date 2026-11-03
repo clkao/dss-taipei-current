@@ -1,0 +1,71 @@
+{
+  "schema": "partial-construction-guide/1",
+  "source_fragment": "projects/yangliu-vehicle/evidence/technic-construction-next-2026-10-22/core/drive-carrier-fragment.json",
+  "source_fragment_sha256": "ee596fde3137a01a5e092f7edaf20e37c126a53ceb6b47fe4a00916b6197fa96",
+  "source_vehicle_sha256": "a998fed9c3847701ed0b872a69654eb5d57e2a16a4e272ed47f9ab04e057780b",
+  "compiled_model_sha256": "7c1934569c82941e412aa2f474845e55fc71350e6a640eefbde859dc303f956e",
+  "source_operations": 84,
+  "canonical_operations": 88,
+  "optimization_status": "checked_with_explicit_rejections",
+  "repeated_recipes": 2,
+  "independent_groups": 17,
+  "standalone_recipes": 1,
+  "part_build_operations": 78,
+  "join_operations": 10,
+  "public_steps": 40,
+  "callouts": 8,
+  "grouping_evidence": [
+    {
+      "path": "projects/yangliu-vehicle/evidence/technic-construction-next-2026-10-22/core/drive-carrier-recipes.json",
+      "sha256": "de3816d375ef012b0b765140831f3c1dcfb384f1137110f61748bea8ceb3ce93"
+    },
+    {
+      "path": "projects/yangliu-vehicle/evidence/technic-construction-next-2026-10-22/core/drive-carrier-verification.json",
+      "sha256": "2dba091296962f5d5a7fd65608e43a789b59fb9d34518670c2d32aa4055d740e"
+    },
+    {
+      "path": "projects/yangliu-vehicle/evidence/technic-construction-next-2026-10-22/core/grouping/native-batch-checks.json",
+      "sha256": "014a8d4f62277c0837e3f410a8bc668853087f94cb5ca468faaceddce6e86716"
+    },
+    {
+      "path": "projects/yangliu-vehicle/evidence/technic-construction-next-2026-10-22/core/grouping/repeated-callout-proposals.json",
+      "sha256": "f2dfebbbee942dc3db555b6c738ae23aa7ade4aab184534af6ee10a1a91490d6"
+    }
+  ],
+  "parts": 78,
+  "geometry_preserved": true,
+  "color_only_corrections": [
+    {
+      "id": 2002,
+      "part": "39793",
+      "before": "ldraw-71",
+      "after": "ldraw-0"
+    },
+    {
+      "id": 2003,
+      "part": "39793",
+      "before": "ldraw-71",
+      "after": "ldraw-0"
+    },
+    {
+      "id": 2014,
+      "part": "39793",
+      "before": "ldraw-71",
+      "after": "ldraw-0"
+    },
+    {
+      "id": 2015,
+      "part": "39793",
+      "before": "ldraw-71",
+      "after": "ldraw-0"
+    },
+    {
+      "id": 2001,
+      "part": "22169",
+      "before": "ldraw-71",
+      "after": "ldraw-72"
+    }
+  ],
+  "color_evidence_sha256": "ac05b713ca723ce4d9ce3f3ac1e92929813049585cae3f91e85f1fd6787e1a7c",
+  "full_vehicle_instructions": false
+}

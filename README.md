@@ -15,3 +15,7 @@ Real-brick fit, grip, suspension response and handling strength remain untested.
 The real-world 洋流號 is credited collectively to the Shen Po-yang campaign team and contributors. Its individual vehicle designer and fabricator remain unverified; see [the physical-vehicle reference](credits.html#physical-vehicle). This attribution is separate from the upstream LEGO construction and graphic sources.
 
 The complete-model view animates forward-rolling tires, rigid flags, the candidate’s wave, and 小英 walking in place facing ahead, with a slow camera orbit. Pause is available; instructions use static poses. The shield enclosure separates as one component in exploded view. The two speech bubbles have opposite tails.
+
+[Technic preview](technic/) · [Partial Technic construction guide](technic/construction/) · [Technic readiness and limits](technic/readiness.html). Both editions are hosted here.
+
+Use one print download: `instructions.pdf` includes vehicle stickers on page 94 and the two banner faces and jacket on page 95. Print at 100% / actual size. `sticker-artwork.zip` contains editable sources.
