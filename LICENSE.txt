@@ -27,7 +27,7 @@ original notices and attribution; comply with their separate terms.
   Roland Melkert and contributors.
 - Campaign lettering and print assets are attributed to their official sources.
 - The real-world 洋流號 is credited collectively to the Shen Po-yang campaign
-  team as reported at its launch. Its ship-themed vehicle and later transparent
+  team and contributors as reported at its launch. Its ship-themed vehicle and later transparent
   enclosure informed this LEGO adaptation. Individual physical-vehicle design
   and fabrication credits remain unverified; see physical-vehicle-attribution.json.
   Our license does not relicense that original physical design.

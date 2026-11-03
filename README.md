@@ -12,4 +12,4 @@ Original contributions and adaptations © 2026 CL Kao, licensed under **CC BY-SA
 
 Real-brick fit, grip, suspension response and handling strength remain untested. The digital review and its limits are included in `digital-fit-audit.md` and `review-evidence/`.
 
-The real-world 洋流號 is credited collectively to the Shen Po-yang campaign team. Its individual vehicle designer and fabricator remain unverified; see [the physical-vehicle reference](credits.html#physical-vehicle). This attribution is separate from the upstream LEGO construction and graphic sources.
+The real-world 洋流號 is credited collectively to the Shen Po-yang campaign team and contributors. Its individual vehicle designer and fabricator remain unverified; see [the physical-vehicle reference](credits.html#physical-vehicle). This attribution is separate from the upstream LEGO construction and graphic sources.
