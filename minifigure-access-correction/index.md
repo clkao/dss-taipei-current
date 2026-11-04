@@ -51,7 +51,7 @@ Captain clarified step19: “the 3 90 degree parts to be installed under the pla
 
 No verdict, physical certification or replacement publication is claimed. The captain authorized workflow-driven correction and validation, not automatic gate approval.
 
-## Stage Report: authoring
+## Historical Stage Report: authoring — superseded tool hold
 
 - DONE: Bind the existing correction to one authoritative unchanged model and prove source, operation, child-stock and copy/guide identity.
   Static scope only: source commit `33cee74` adds `corrections/access-order-20261104/contract-assessment.json` with exact source/tool hashes and seven unit maps; an independent small Python comparison fails on any changed piece record except step or lost/duplicate introduction (348). Existing `checks.json`/crosswalk retain operation partitions, complete joins and unchanged copy metadata; no compiler proof follows.
@@ -79,3 +79,50 @@ Routing update `b8cc9925`: existing StudFleet owner `n03wrcncxxdrrcm090eqx610` r
 The captain instructed: “Studfleet is not a hard requirement as we opted for incremental adoption. If it cant generate what we need, we should still fix manually and publish”. This supersedes the earlier StudFleet hard delivery hold while retaining its historical evidence. DSS-local legacy/manual authoring is active; n0/tw/31/H1 are parallel optional tooling dependencies. Publication authority is now explicit, but the exact corrected package still requires independent review and captain acceptance before replacement. Main `ffd45b4` records the incremental-adoption process rule.
 
 The same authoring worktree owns the actual corrected PDF/offline viewer, one derived sequence and set-specific presentation adapter. No model geometry, rights/artwork or prior publication changes are authorized as an incidental effect. Heavy rendering remains coordinated with the parent; source preparation proceeds without a tool-capability hold.
+
+## Stage Report: authoring (cycle 2 — manual delivery)
+
+This current report supersedes the earlier tool-hold summary; historical evidence remains above.
+Source commit: `469dbd1`, branch `minifigure-access-correction`, assigned worktree `.worktrees/spacedock-ensign-minifigure-access-correction`.
+
+- DONE: Produce an actual corrected readable PDF and offline viewer from the same348piece model, using legacy/manual authoring where StudFleet is inadequate.
+  Complete142-page landscapeA4PDF and67-step offline viewer exist in `builds/access-corrected`;215 operations,52 corrected presentation panels including7 receiver-before views.
+  Legacy/manual adapter uses read-only retained renderer/template and unchanged mesh/image caches. No invented geometry, poses or movement proofs.
+- DONE: Verify exact inventory/geometry, original-operation correspondence, ordered local construction and receiving context for all reported corrections, preserving guides/artwork and reviewing analogous risks.
+  All348 source part/color/world-pose records compare exactly except introduction step;215 source-operation coverage and348 unique introductions verified; complete children are not recollected as loose stock.
+  Old5 pins move into new1. Corrected old11/12/13/18/19 map to10/11/12/17/18. Four separate rail recipes preserve exact child/copy ownership; source guides, art and MPD remain.
+  Actual panels show open-beam pins, layered bumper with dish last, both loose-rail recipes and receiving structures. Physical/insertion usability is not claimed; remaining AC-2/3 limits are below.
+- DONE: Retain full package hashes, actual page/navigation review and limitations in the canonical authoring report for fresh independent instruction review; keep publication unchanged pending exact-package acceptance.
+  `corrections/access-order-20261104/manual/REVIEW-HANDOFF.md` gives reviewer paths/actions, exact operation mapping, limits and preservation disclosure.
+  `manual/evidence/publication-file-map.json` maps28 exact package files to publication paths with old/new hashes; preserve Technic and all unrelated publication assets.
+
+### Exact artifact and review evidence
+
+Final PDF SHA256 `fb4c395924c33c8aca8e9e946f0f879d44d6634ccd61962d46507a4a85360c60`; actual142pages; page-map `d6014e49fb67cd2e0f714c6d704cc83f736c80da325ddaec96df3c55608833b0`.
+Viewer `9cc62a26a080d240634d0d2d9d446a788c1ce9750b12033e4cfc10a09441ac90`; real siteindex `593cd6bf008e855abce295443d2a54350a50551c248aff524381f987319c88f8`.
+Manifest `a1d58993f143bf6938a0bb6b344d03f06b245d7c292ec6e7abb3bbee4056bab4`; releaseZIP `2d6991ce9d6530469cc027134fdf9d581e1a61e85c87ea3d830dbd46c601f1ff`.
+All27 manifest hashes and ZIP members verified. Exact finalPDF print-preflight and sheets134–135 references match. Editableart bytes are unchanged except PRINTING.txt page refs; rights and Technic preserved.
+Actual file-viewer navigation passed67 main states/52 ordered frames, new/visible IDs, quantities, child trays, zero-stock receivers, NEXT/PREVIOUS local/main returns, corrected overview labels and legacylabels. Six actual UI screenshots inspected; no runtimeerrors.
+Author inspected all142 final A4 rasters in overview sheets, full-size finalpage48, prior corrected full-size renderimages/A4samples and sixUI screenshots. Independent every-page fullsize/actualUI review remains required; author overview is not substituted for it.
+Final rasters are `builds/access-corrected/a4-review/page-001.png` through `page-142.png`; exact142 hashes in `manual/evidence/final-raster-run.json`. Reviewer must reuse these, not regenerate needlessly.
+Parent's suspected p48 title clipping is deferred review-display ambiguity: author's fullsizePNG shows fulltitle afterbadge; source titlex88pt/badge30–75pt do not overlap. Parent declined mutation. Reviewer must inspect actualPDF48/53/64/69 fullsize.
+Captain asked “did we add back too many texts to the pdf ?”. Narrow final text reduction removed52 repeated disclaimers, generic captions and processheader; shortened stock notes, retained essential order warnings and guide/limits text; no image/order changes.
+The first map equality check failed solely on expected changedPDFhash; failure preserved. Fixed helper compares every other field and binds both hashes independently; passed without PDFregeneration. This was evidence-harness repair, not product failure.
+PDFmarker ran successfully exactlyonce before first creation. Three guidePNGs were emitted (initial wording saidtwo); disclosed. PriorPDFa93/map/142rasters preserved in `before-text-trim/`, not duplicated archives.
+Earlier badcameraPNGs/run/checks retained; some intermediate raw model/viewerbytes have hash/sourcecommit retention only. No reconstructed-original claim.
+PinnedNode24 and isolatedChrome navigation2.931s; all12ownedPIDs gone/profile removed. FinalPDF4.443s; fixedstatic0.597s; raster14.866s, exit0; ownedPIDs gone. Rasterpeak28,359,306bytes/minfree4,127,961,088. All leases explicitlyreleased; previewserver preserved.
+
+### Acceptance limits and next owner
+
+AC-1: static identity/stock and artifact evidence complete within stated scope; unchanged348model, inventory, guides and ownership.
+AC-2: ordered installed-state pictures and receiving context produced; no physical or supported continuous insertion exercise. Pinseating, bumperjoin/dishlast, localrails and wholecarrierseating still need scoped real-part or supported access proof.
+AC-3: retained199-operation/68-step static sweep reviewed, not a continuous collision test. Wholecarrier witnesses156/99,166/129 and left96/99,115/129 unresolved; suspension/floorclosure/caps/frontlights/cabin/shield/lateequipment remain suspected or ergonomic risks. Rearbed-before-trim preserved.
+DSS review owns remaining dispositions; optional actualmeshaccess proof remains StudFleet31 owner315f09esmt0nmg9mhfysv662. No speculative reorder, sharedfeature gatepass or gapclosure claimed.
+AC-4: complete actualpackage and author review evidence ready; fresh independent every-page A4/actualviewer review and deferredtitle concern remain open.
+AC-5: captain said “looks good. fix the text issue you mentioned. and publish. credit the bug report in instruction feedback on the website”. Recorded as actual localpreview feedback/publication authority scoped to requested edits and requiredreview, not physical acceptance.
+Site Instruction feedback credits 彭柏源 for original5 late2780pins and original13 bumper/2654a obstruction, then separately describes carrierreview; no invented endorsement. Index differs from testedviewer only by that section.
+Publication unchanged. Parent owns exact-package independentreview and subsequent authorized transport; no worker status/gate/adoption mutation.
+
+### Summary
+
+Manual-route authoring package is complete for fresh independent review. StudFleet hard delivery hold is superseded; insertion/physical proof, remaining sweep dispositions and exact-package independent acceptance are not manufactured. Required next action is independent review of the frozen complete package and actual viewer, including deferred title display evidence.
