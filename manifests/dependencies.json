@@ -79,9 +79,8 @@
       "id": "tz2fgk3x5t3j8ghwsrem380v",
       "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/continue-instructions-with-prior-built-context.md",
       "source_sha256": "464a4e6e2f503315e4b1233faec975fa72417b22b048ccb3879e43f229ab5eee",
-      "observed_status": "ideation",
       "notice_id": "305d5f3f-f449-4b57-8ec6-7d1a8bdce561",
-      "dispatch": "FO reports ideation dispatched to Bernoulli",
+      "dispatch": "FO reports implementation dispatched to /root/continue_instructions_with_prior_1630f543_implementation",
       "scope": "Step61: two prior rails from operation164, four new ring parts, full326-to330 boundary,324 explicitly omitted context pieces",
       "first_design_check": "Test supported full-plan plus section export before selecting a new finite contract",
       "availability": "Not delivered; no supported continuation CLI pass claimed",
@@ -91,8 +90,25 @@
       ],
       "does_not_expand_related_tasks": true,
       "new_dss_test_run": false,
-      "latest_notice": "229f1c15-794e-4078-8f25-d40d8cd1ea47",
-      "latest_progress": "FO reports API prototype16cases/full348 partition with6 visible/MPD passed; design review next, no implementation delivered"
+      "latest_notice": "80148e11-fe13-4eec-b681-5c452eb746b6",
+      "latest_progress": "Ideation approved; implementation dispatched from accepted main8c325eb. Source/static phase only.",
+      "historical_task_snapshot_status": "ideation",
+      "reported_status": "implementation",
+      "selected_contract": "Optional draft --continuation; full348 source, visible6/new4, entry326/exit330, omitted324/outside18; original164 rail ownership and right188/189 aliases",
+      "prototype_limits": "16-case spike covers core finite context/CSV/copy/MPD only",
+      "remaining_upstream_evidence": [
+        "public command",
+        "trays",
+        "export",
+        "saved verifier",
+        "A4",
+        "live"
+      ],
+      "implementation_scope_limit": {
+        "production_files": 18,
+        "changed_lines": 2000
+      },
+      "next_downstream_action": "Wait for immutable candidate and public-path evidence, then prepare independent contextual check under a separate lease"
     }
   }
 }

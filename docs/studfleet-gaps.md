@@ -238,3 +238,12 @@ Next priority is the continuation task's supported-path decision and bounded des
 No new combined-main CLI or fresh live/human evidence accompanies this delivery. Retained H1 `b410216e` and connector `1267d4eb` binaries stay separate. No runtime test repeated. Section and full-manual acceptance remain open, with all sections adopted=false.
 
 Next priority is continuation task `tz2fgk3x5t3j8ghwsrem380v`. FO reports its 16-case API prototype and full348/visible6 partition proof passed; design review is next. This is not implementation delivery or DSS CLI evidence. Figure operation 198, artwork and prior vehicle context remain distinct adoption requirements.
+
+
+### Continuation implementation dispatched
+
+FO notice `80148e11` reports approved ideation and actual implementation dispatch for task `tz2fgk3x5t3j8ghwsrem380v`. The worker starts from accepted main `8c325eb`. This advances the shared owner stage to implementation, not delivery or DSS compatibility.
+
+The selected optional `draft --continuation` contract retains all 348 source occurrences. Its section has entry326, exit330, visible6 and only4 new collection parts. It distinguishes324 omitted prior pieces from18 outside-section pieces. Rail ownership remains operation164, with right-copy aliases188/189. No prior seed, supplied arrival or prefix certification follows.
+
+The 16-case prototype covers the core context/CSV/copy/MPD mechanism only. Public command, trays, export, saved verification, A4 and live evidence remain implementation obligations. The current phase is source/static work. Next priority is upstream public-path evidence and an immutable candidate handoff, then an independently leased DSS contextual check. No tests ran for this status update. Existing evidence990e37b and H1 audit0164e44 remain separate and green; all sections remain adopted=false.
