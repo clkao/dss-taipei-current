@@ -167,3 +167,34 @@ Manual-route authoring package is complete for fresh independent review. StudFle
 ### Summary
 
 All 142 final pages were independently inspected, and the corrected printed sequence and receiving context are usable; narrow unsupported-symbol defects require correction. Physical/insertion exercises and independent live navigation remain unproven, with native-host unavailability distinct from a product defect; browser lease RELEASED, no tabs/processes created, user preview/server preserved.
+
+## Stage Report: authoring (cycle 3 — four-page glyph polish)
+
+Independent review reported missing-glyph boxes on pages36/39/127. Source inspection identified the same turn prefix on37. Parent selected FIX as polish under the captain's requested text correction. Source commit `c2ba183`; retained original template unchanged.
+
+- DONE: Produce an actual corrected readable PDF and offline viewer from the same348piece model, using legacy/manual authoring where StudFleet is inadequate.
+  Regenerated the142-page PDF once with two exact DSS overlay substitutions: U+21BB turn prefix becomes `Turn: `; banner-caption U+00B7 separators become `/`. No general Unicode replacement. The four actual new110dpi rasters are readable and inspected by the author.
+- DONE: Verify exact inventory/geometry, original-operation correspondence, ordered local construction and receiving context for all reported corrections, preserving guides/artwork and reviewing analogous risks.
+  Only four page text streams changed. All138 unaffected decoded content streams match exactly; all142 page images and media boxes match; all map fields match except the independently verified changed PDFhash. Model, CJK, artwork, order, stock and previous access evidence remain unchanged. No new insertion/physical proof.
+- DONE: Retain full package hashes, actual page/navigation review and limitations in the canonical authoring report for fresh independent instruction review; keep publication unchanged pending exact-package acceptance.
+  `manual/evidence/glyph-run.json`, `glyph-equivalence.json`, `glyph-package-check.json` and updated `publication-file-map.json` bind current outputs. Same independent reviewer checks four corrected pages plus equivalence; no full-review restart or browser rerun is claimed.
+
+### Current exact package
+
+PDF SHA256 `e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da`; map `83832334205fcca3022e138c8d12b69811f789e756998dad51a7527d6c3881f0`.
+Manifest `06b1fe09b521352e0a2b37ef7fd952208b7f0af22bd89b027173833627cae8ba`; ZIP `3ed8b0f7d7dda3f8c08462187368bf3c325d7167c0eb2cb74d5b1c966ed283fa`.
+Equivalence report `5ff236c095aadcf2ac5f497f31ccb37b3486cd25a4b60df5917a52f4dca7fba3`. All27 manifest and archive members verified; print-preflight matches newPDF and sheets134–135.
+Viewer `9cc62a26` and siteindex `593cd6bf` remain byte-identical to the prior navigation/review package; the requested credit, Technic link and rights remain.
+PriorPDFfb4/mapd601/site/source snapshots are retained in `builds/access-corrected/before-glyph-polish/`; all previous142rasters remain `a4-review/`.
+Use new `glyph-review/page-036.png`, `page-037.png`, `page-039.png`, `page-127.png` for affected pages. Reuse other138 priorrasters only with the exact equivalence report. Do not use the four superseded rasters as current evidence.
+
+### Runtime and limits
+
+FO grant `aaf80a13` executed once: pinnedPython PDF5.508s exit0, checker3.519s exit0, four pinnedPoppler commands exit0, combined11.091s. No marker replay, Chrome,3D or navigation run.
+All six owned PIDs30769/30859/30915/30924/30928/30935 exited. Peak net incremental files872,013bytes; minfree12,557,975,552bytes. Lease explicitly released. No shared/reference writes or publication changes.
+AC-1 identity/stock evidence unchanged. AC-2 insertion/physical exercise and AC-3 retained sweep limits remain as previously recorded. This glyph polish does not close a StudFleet gap, access risk or physical acceptance criterion.
+AC-4 awaits the same reviewer's four-page/equivalence confirmation. AC-5 publication authority remains the captain's actual instruction; exact-package acceptance/transport belongs to the parent. No status/gate/adoption mutation by this worker.
+
+### Summary
+
+The requested four-page text polish is authored, verified and packaged. Previous review evidence is preserved, with exact equivalence for unaffected pages. Ready for the same independent reviewer to confirm the correction; no physical certification or publication is claimed.
