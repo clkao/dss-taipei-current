@@ -1,12 +1,12 @@
 ---
 title: Correct minifigure assembly access and instruction order
-status: intake
+status: authoring
 source: Captain request 2026-11-04; community feedback from 彭柏源; captain step19 clarification
-started:
+started: 2026-11-04T16:00:25Z
 completed:
 verdict:
 score: 0.95
-worktree:
+worktree: .worktrees/spacedock-ensign-minifigure-access-correction
 issue:
 pr:
 mod-block:
