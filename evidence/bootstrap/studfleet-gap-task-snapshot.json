@@ -1,0 +1,118 @@
+{
+  "observed_at": "2026-11-04T05:12:15.564906+00:00",
+  "owner": "/Users/clkao/git/spacedock-research/studfleet/docs/dev",
+  "state_commit": "97f1fe0d94f7a3fc8d64a70de0d87478581556cc",
+  "state_worktree_status": "",
+  "source_commit": "9941400ac88c72a687a77da194c870731e67468e",
+  "tasks": [
+    {
+      "reference": "nk",
+      "id": "nkhp2342zcf5dgj31zb4cvjy",
+      "slug": "bootstrap-portable-set-workflow-from-skill",
+      "title": "Create and resume a standalone LEGO set through a packaged workflow skill",
+      "status": "backlog",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/bootstrap-portable-set-workflow-from-skill.md",
+      "source_sha256": "377a645cf25c95cd1db9a9593adf0661ca366d5591d54266e1f520862f1a6ed1"
+    },
+    {
+      "reference": "k4",
+      "id": "k4dcynsy7448tn03dfq6camd",
+      "slug": "inspect-large-model-connections-with-bounded-work",
+      "title": "Review large-model connections without losing interface coverage",
+      "status": "backlog",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/inspect-large-model-connections-with-bounded-work.md",
+      "source_sha256": "9e6d529702eaeb02166ba97b305571ccda08bb7f2a2620e1d42a9e8fdf6e46b4"
+    },
+    {
+      "reference": "31",
+      "id": "315f09esmt0nmg9mhfysv662",
+      "slug": "review-compound-installation-paths-with-catalog-meshes",
+      "title": "Review compound installation paths against actual catalog meshes",
+      "status": "backlog",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/review-compound-installation-paths-with-catalog-meshes.md",
+      "source_sha256": "7f68878730b390f7e6c8e633930a7b1a457054a5a6685297a051d16812bd8eee"
+    },
+    {
+      "reference": "h1",
+      "id": "h1cgyr7c1fw5pn4y1eh9pzzs",
+      "slug": "compose-main-model-operations-into-reader-steps",
+      "title": "Combine ordered main-model operations into readable instruction steps",
+      "status": "backlog",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/compose-main-model-operations-into-reader-steps.md",
+      "source_sha256": "5220d54bec38ab5a031498d0fdf182d3ec80037ecf086dff237fcd3509d3334e"
+    },
+    {
+      "reference": "90",
+      "id": "907006rndyw599jnh9w33gw3",
+      "slug": "collect-preassembled-units-without-building-recipes",
+      "title": "Show supplied assembled units without unwanted construction recipes",
+      "status": "backlog",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/collect-preassembled-units-without-building-recipes.md",
+      "source_sha256": "e2222a44bf8d25a70de73762e8344f3c3462886079b3349349dc1817aed9b689"
+    },
+    {
+      "reference": "rx",
+      "id": "rxcawq1n5cg7f0q2nn3s9vwj",
+      "slug": "export-imported-wanted-lists-with-reviewed-mappings",
+      "title": "Export imported-model wanted lists with reviewed catalog mappings",
+      "status": "backlog",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/export-imported-wanted-lists-with-reviewed-mappings.md",
+      "source_sha256": "9a75582471aab715c30d46d486ff22e2b7c1d1fbc9ee0163b5478e932c7ad1c3"
+    },
+    {
+      "reference": "mc",
+      "id": "mcfkg5wxhy8m5ppam04khe4p",
+      "slug": "review-model-revision-diffs",
+      "title": "Review changed LEGO occurrences between model revisions",
+      "status": "backlog",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/review-model-revision-diffs.md",
+      "source_sha256": "0c36662be9da68a2a1303a8951370d289ccc7288e031fb7a3b2b20f0fa1f9298"
+    },
+    {
+      "reference": "n0",
+      "id": "n03wrcncxxdrrcm090eqx610",
+      "slug": "join-components-inside-local-assemblies",
+      "title": "Join completed components inside local assemblies",
+      "status": "validation",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/join-components-inside-local-assemblies.md",
+      "source_sha256": "20489faa412d5159aa9ef4b2793606f1073af7c98c6fea1e0733f6ce78fc5dbc"
+    },
+    {
+      "reference": "7d",
+      "id": "7dgswvbe61knmgz3eww7cs30",
+      "slug": "schedule-local-recipes-at-use",
+      "title": "Place local recipes where builders need them",
+      "status": "validation",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/schedule-local-recipes-at-use.md",
+      "source_sha256": "5762b8948ae4d603378b71985effb86545575b2600282da6450600d524a4d31a"
+    },
+    {
+      "reference": "cn",
+      "id": "cngvyhnqan5bdevyse5vwc6s",
+      "slug": "include-guidance-without-inventory-additions",
+      "title": "Include authored guidance without inventing rigid pieces",
+      "status": "validation",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/include-guidance-without-inventory-additions.md",
+      "source_sha256": "84f92c00f4beb72900c39211722f144ba31798f6b31185b4209a3fae095cbb8e"
+    },
+    {
+      "reference": "w4",
+      "id": "w4pn97cy21d1arb274jq2d80",
+      "slug": "show-reader-labels-without-internal-clutter",
+      "title": "Show useful reader labels without internal instruction clutter",
+      "status": "ideation",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/show-reader-labels-without-internal-clutter.md",
+      "source_sha256": "c8b5ae3aaf6bb9990db92b71b70e28bf657ce7eeeebcdd898ddb968659cf52c5"
+    },
+    {
+      "reference": "tw",
+      "id": "twnqd1n3c07x51fd0qqa6a07",
+      "slug": "show-installed-drafts-without-unverified-placement-hints",
+      "title": "Show installed draft steps without unverified placement hints",
+      "status": "ideation",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/show-installed-drafts-without-unverified-placement-hints.md",
+      "source_sha256": "1e0c6c812de157cdd4cd5e0e90df5c49b0158296c4b7938c00d8f1e7ea028d31"
+    }
+  ],
+  "scope": "Read-only task lookup. Status is not evidence of an installed compatible release."
+}

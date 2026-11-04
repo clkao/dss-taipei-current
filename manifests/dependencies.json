@@ -21,6 +21,8 @@
     "connector_failure": "failed: connector malformed position: o/3/3/snap_cyl@L11:I0",
     "occurrence": "o/3/3",
     "part": "3818",
-    "route": "Existing shared inspection owner; no local implementation or new duplicate task."
-  }
+    "route": "Shared StudFleet inspection/connector area. No linked task explicitly owns this exact failure; record for routing, distinct from k4 scale gap."
+  },
+  "impact_and_simplification_record": "docs/studfleet-gaps.md",
+  "task_identity_snapshot": "evidence/bootstrap/studfleet-gap-task-snapshot.json"
 }
