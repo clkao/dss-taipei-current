@@ -1,0 +1,292 @@
+{
+  "adopted": false,
+  "runtime_exercised": false,
+  "source_files": {
+    "sources/minifigure/legacy-v10/model.json": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+    "sources/minifigure/legacy-v10/source.mpd": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
+    "corrections/access-order-20261104/candidate-authoring.json": "8094a5b8dd58df0dd864982602e396e82a6d461e8c86e3e28232f268e5418878",
+    "migration/minifigure-v10/occurrence-crosswalk.json": "337633ad4d462fafb66f639ef94cf1b999eb30629440b2675bc9c9848bf685e5",
+    "migration/minifigure-v10/assembly.json": "792ee898ed3238cd7c26ea8a7466c1e68fc259f394a8af41a015152d92ab3642",
+    "corrections/access-order-20261104/checks.json": "2ac9c6cbe049cda2e385ebfef69a4ef5884d9c807df3837940e153e5b56d20d9"
+  },
+  "static_identity_check": {
+    "all_piece_records_except_step_equal": true,
+    "unique_introductions": 348
+  },
+  "units": [
+    {
+      "unit": "front-lower-bumper",
+      "parent": "truck",
+      "join_operation": "legacy-035j",
+      "source_piece_ids": [
+        170,
+        182,
+        183,
+        184,
+        187,
+        189,
+        190,
+        215,
+        229
+      ],
+      "source_occurrences": {
+        "170": "o/14/30",
+        "182": "o/14/25",
+        "183": "o/14/23",
+        "184": "o/14/24",
+        "187": "o/14/26",
+        "189": "o/14/27",
+        "190": "o/14/22",
+        "215": "o/14/28",
+        "229": "o/14/29"
+      },
+      "local_operations": [
+        "legacy-032b",
+        "legacy-033a",
+        "legacy-033b",
+        "legacy-034",
+        "legacy-035a",
+        "legacy-035b"
+      ],
+      "nested_join_map": null
+    },
+    {
+      "unit": "left-upper-rail-1",
+      "parent": "left-side-carrier",
+      "join_operation": "legacy-049j1",
+      "source_piece_ids": [
+        38,
+        39,
+        41,
+        42
+      ],
+      "source_occurrences": {
+        "38": "o/14/55/11",
+        "39": "o/14/55/9",
+        "41": "o/14/55/14",
+        "42": "o/14/55/13"
+      },
+      "local_operations": [
+        "legacy-048a",
+        "legacy-047a",
+        "legacy-049a"
+      ],
+      "nested_join_map": {
+        "p38": "p38",
+        "p39": "p39",
+        "p41": "p41",
+        "p42": "p42"
+      }
+    },
+    {
+      "unit": "left-upper-rail-2",
+      "parent": "left-side-carrier",
+      "join_operation": "legacy-049j2",
+      "source_piece_ids": [
+        46,
+        48,
+        331
+      ],
+      "source_occurrences": {
+        "46": "o/14/55/10",
+        "48": "o/14/55/15",
+        "331": "o/14/55/12"
+      },
+      "local_operations": [
+        "legacy-048b",
+        "legacy-047b",
+        "legacy-049b"
+      ],
+      "nested_join_map": {
+        "p46": "p46",
+        "p48": "p48",
+        "p331": "p331"
+      }
+    },
+    {
+      "unit": "left-side-carrier",
+      "parent": "truck",
+      "join_operation": "legacy-050",
+      "source_piece_ids": [
+        38,
+        39,
+        41,
+        42,
+        46,
+        48,
+        96,
+        97,
+        98,
+        115,
+        116,
+        117,
+        140,
+        197,
+        331
+      ],
+      "source_occurrences": {
+        "38": "o/14/55/11",
+        "39": "o/14/55/9",
+        "41": "o/14/55/14",
+        "42": "o/14/55/13",
+        "46": "o/14/55/10",
+        "48": "o/14/55/15",
+        "96": "o/14/55/2",
+        "97": "o/14/55/1",
+        "98": "o/14/55/7",
+        "115": "o/14/55/3",
+        "116": "o/14/55/8",
+        "117": "o/14/55/4",
+        "140": "o/14/55/6",
+        "197": "o/14/55/5",
+        "331": "o/14/55/12"
+      },
+      "local_operations": [
+        "legacy-043",
+        "legacy-044",
+        "legacy-045",
+        "legacy-046",
+        "legacy-049j1",
+        "legacy-049j2"
+      ],
+      "nested_join_map": null
+    },
+    {
+      "unit": "right-upper-rail-1",
+      "parent": "right-side-carrier",
+      "join_operation": "legacy-057j1",
+      "source_piece_ids": [
+        81,
+        83,
+        87,
+        89
+      ],
+      "source_occurrences": {
+        "81": "o/14/56/12",
+        "83": "o/14/56/15",
+        "87": "o/14/56/10",
+        "89": "o/14/56/14"
+      },
+      "local_operations": [
+        "legacy-056a",
+        "legacy-055a",
+        "legacy-057a"
+      ],
+      "nested_join_map": {
+        "p81": "p81",
+        "p83": "p83",
+        "p87": "p87",
+        "p89": "p89"
+      }
+    },
+    {
+      "unit": "right-upper-rail-2",
+      "parent": "right-side-carrier",
+      "join_operation": "legacy-057j2",
+      "source_piece_ids": [
+        82,
+        93,
+        333
+      ],
+      "source_occurrences": {
+        "82": "o/14/56/9",
+        "93": "o/14/56/13",
+        "333": "o/14/56/11"
+      },
+      "local_operations": [
+        "legacy-056b",
+        "legacy-055b",
+        "legacy-057b"
+      ],
+      "nested_join_map": {
+        "p82": "p82",
+        "p93": "p93",
+        "p333": "p333"
+      }
+    },
+    {
+      "unit": "right-side-carrier",
+      "parent": "truck",
+      "join_operation": "legacy-058",
+      "source_piece_ids": [
+        81,
+        82,
+        83,
+        87,
+        89,
+        93,
+        156,
+        157,
+        158,
+        166,
+        167,
+        176,
+        185,
+        205,
+        333
+      ],
+      "source_occurrences": {
+        "81": "o/14/56/12",
+        "82": "o/14/56/9",
+        "83": "o/14/56/15",
+        "87": "o/14/56/10",
+        "89": "o/14/56/14",
+        "93": "o/14/56/13",
+        "156": "o/14/56/3",
+        "157": "o/14/56/8",
+        "158": "o/14/56/1",
+        "166": "o/14/56/2",
+        "167": "o/14/56/7",
+        "176": "o/14/56/6",
+        "185": "o/14/56/4",
+        "205": "o/14/56/5",
+        "333": "o/14/56/11"
+      },
+      "local_operations": [
+        "legacy-051",
+        "legacy-052",
+        "legacy-053",
+        "legacy-054",
+        "legacy-057j1",
+        "legacy-057j2"
+      ],
+      "nested_join_map": null
+    }
+  ],
+  "contracts": [
+    {
+      "checkout": "/Users/clkao/git/spacedock-research/studfleet",
+      "head": "e4a57b6a1e26812fe2312d41aa71c050dcbcf5aa",
+      "plan_go_sha256": "6656580c0eaf7d020449df43d4b3330c68e784bbe64b92e7e30a0e90a895a4f7",
+      "result": "Unknown movement supported; non-root joins explicitly refused at tools/plan.go:368."
+    },
+    {
+      "checkout": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-join-components-inside-local-assemblies",
+      "head": "2dc9daa7a4f554350c56b8bed90d295697ca1f45",
+      "plan_go_sha256": "e5a03f97b2de751cca11d62dd443b6fac29d593a58dbedf45243d4ed5884d7ac",
+      "result": "plan-2 nested identity joins supported; Operation lacks movement and line370 requires positive non-seed direction/distance."
+    }
+  ],
+  "smallest_trigger": {
+    "operation": "legacy-049j1",
+    "parent": "left-side-carrier",
+    "child": "left-upper-rail-1",
+    "pieces": [
+      38,
+      39,
+      41,
+      42
+    ],
+    "movement": "unknown",
+    "direction": null,
+    "distance": null
+  },
+  "owner": "StudFleet n0 integration with tw; no DSS tool implementation",
+  "release_condition": "A pinned public draft artifact combining plan-2 nested identity joins with unknown movement and installed-only presentation, followed by candidate-bound compilation and saved artifact proof. Native n0 acceptance is separate from this concrete compatibility requirement.",
+  "limits": [
+    "No compiler/import/backend/render/browser ran.",
+    "Map preparation is not a valid subset import or executable StudFleet plan.",
+    "No package/readability/insertion/full-edition parity or human acceptance."
+  ],
+  "artifact_kind": "Static assessment and source map only; not an authoring format"
+}

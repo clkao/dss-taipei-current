@@ -1,0 +1,37 @@
+{
+  "argv": [
+    "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+    "corrections/access-order-20261104/manual/make_pdf.py"
+  ],
+  "marker": [
+    "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+    "/Users/clkao/.codex/plugins/cache/openai-primary-runtime/pdf/26.1103.20233/skills/pdf/container_tools/mark_artifact_operation_started.mjs",
+    "--operation-kind",
+    "create",
+    "--expected-output-count",
+    "1",
+    "--output-format",
+    "pdf"
+  ],
+  "marker_exit": 0,
+  "marker_runs": 1,
+  "pid": 65606,
+  "exit": 0,
+  "stop_reason": null,
+  "remaining_pids": [],
+  "elapsed_seconds": 4.281308174133301,
+  "combined_elapsed_seconds": 53.02679991722107,
+  "min_free_bytes": 4628967424,
+  "peak_increment_bytes": 6776672,
+  "files": {
+    "jacket-print.png": "863c1b006740a0ce40466bbf7b83ef67101cc39f4f05a3c6d77d048b4b30c5bb",
+    "instructions.pdf": "a93ce9720b1637efe9b696d05886549630b11af7d9c328e19ca2d88210721cea",
+    "hood-sticker-cut.png": "9ea9ed255d01d97cb6907797010b5e1916c5645bc149ae6efcdc6e362d28825f",
+    "hood-upper-sticker-guide.png": "46d82a8a21a08593dfb253d70b89aafe56389c2ffafb0c0beea84a9823b18b1c",
+    "pdf-create.log": "a6b1d563d277b08bd4120cb17ebf29bf5b00741f31cf74613b7348af52576a16",
+    "pdf-page-map.json": "0158d9818f9248fb5ae5fad87da6834106580fff8db0675a7f9e6e336a6ebf96"
+  },
+  "pages": 142,
+  "final_output_bytes": 6776672,
+  "notes": "Exact template also writes jacket-print.png in addition to the two hood guide PNGs; all three are task-owned, total included in byte bound. Sampled peak includes final output size."
+}

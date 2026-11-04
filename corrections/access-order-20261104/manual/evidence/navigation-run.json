@@ -1,0 +1,34 @@
+{
+  "argv": [
+    "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/review-navigation.mjs",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction",
+  "inputs": {
+    "viewer.html": "9cc62a26a080d240634d0d2d9d446a788c1ce9750b12033e4cfc10a09441ac90",
+    "package-manifest.json": "6ba35a1ec878e1e5944726b00308bb28fc2d744b8f921398b00fbb10c2755abf",
+    "review-navigation.mjs": "ab7a4cf9d1c40589a978d4ef07a1d4fd98685cd8fed4559a1803e74bd1db2c95"
+  },
+  "exit": 0,
+  "elapsed_seconds": 2.9307993752881885,
+  "peak_increment_bytes": 14081329,
+  "min_free_bytes": 4401192960,
+  "pids": [
+    85598,
+    85601,
+    85621,
+    85622,
+    85624,
+    85625,
+    85628,
+    85629,
+    85630,
+    85632,
+    85633,
+    85635
+  ],
+  "remaining_pids": [],
+  "profile_removed": true,
+  "stop_reason": null
+}

@@ -1,0 +1,34 @@
+{
+  "stages": [
+    {
+      "argv": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "corrections/access-order-20261104/manual/make_pdf.py"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 4.443419083952904,
+      "pids": [
+        94396
+      ],
+      "remaining_pids": [],
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "-c",
+        "from pypdf import PdfReader\nfrom pathlib import Path\nimport json\np=Path('builds/access-corrected');r=PdfReader(p/'instructions.pdf');assert len(r.pages)==142\nassert all(abs(float(x.mediabox.width)-841.89)<1 and abs(float(x.mediabox.height)-595.276)<1 for x in r.pages)\nt='\\n'.join(x.extract_text() for x in r.pages)\nfor s in ['Installed view - insertion clearance','ACCESS-ORDER CORRECTION / LOCAL REVIEW','unchanged final model','pieces already built. Do not collect']:assert s not in t,s\nassert 'remain unverified' in t\nold=json.loads((p/'before-text-trim/pdf-page-map.json').read_text());new=json.loads((p/'pdf-page-map.json').read_text());assert old==new\nprint('142 landscape A4 pages; identical page/source/image map; reduced prose; retained limits')\n"
+      ],
+      "exit": 1,
+      "elapsed_seconds": 0.8198354998603463,
+      "pids": [
+        94464
+      ],
+      "remaining_pids": [],
+      "stop_reason": null
+    }
+  ],
+  "elapsed_seconds": 5.273842540569603,
+  "min_free_bytes": 4240777216,
+  "peak_increment_bytes": 6583443
+}

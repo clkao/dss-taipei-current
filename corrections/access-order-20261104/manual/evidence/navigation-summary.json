@@ -1,0 +1,8 @@
+{
+  "main_steps": 67,
+  "corrected_panels": 52,
+  "failures": [],
+  "full_trace_sha256": "803a1c05e2440270a2bb9118ddf8f0b624dadc454c25faad69a287d941e06bb0",
+  "full_trace_path": "builds/access-corrected/navigation-review.json",
+  "physical_tested": false
+}

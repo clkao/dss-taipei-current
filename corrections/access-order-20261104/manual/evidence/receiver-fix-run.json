@@ -1,0 +1,45 @@
+{
+  "argv": [
+    "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+    "/Users/clkao/git/house-demo/projects/yangliu-vehicle/render_preview.mjs",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/receiver-fix-jobs.json"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction",
+  "started_unix": 1793811083.382315,
+  "inputs": {
+    "model.json": "436ec8b84a337926f953ed0e5412f5e6fcbca78489c71d11a8cedac4dd5f085f",
+    "viewer.html": "c4afbb7b8efd589933a5fb44a49237d2c663e69d630224e39effc184a85fb16e",
+    "receiver-fix-jobs.json": "d240437371fcbc0b33f2da8209688b7bb7ebdfa8699e7c5537bbdf61c9d4c383"
+  },
+  "profile": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/tmp/yangliu-preview-chrome-824516a7",
+  "port": 19863,
+  "pids": [
+    65080,
+    65082,
+    65098,
+    65099,
+    65100,
+    65101,
+    65103,
+    65105,
+    65106,
+    65107,
+    65108
+  ],
+  "remaining_pids": [],
+  "profile_removed": true,
+  "exit": 0,
+  "stop_reason": null,
+  "elapsed_seconds": 3.0157003328204155,
+  "min_free_bytes": 4745392128,
+  "peak_increment_bytes": 13281809,
+  "images": {
+    "images/receiver-legacy-035j.png": "0bef942e4d38b8bfef20ad602f3b4b086781234d0e36ce5e891c47549ada2580",
+    "images/receiver-legacy-049j1.png": "5ae31cbaee01a2978f5fc6bbc828e73ec498c3491db1ed439ebf9e810ee17e17",
+    "images/receiver-legacy-049j2.png": "e4fc0ae247f1c8314746e61d39e40e34255f7bb39edf267c59a5274460e04dc7",
+    "images/receiver-legacy-057j1.png": "9453cda9c212c95a9f6a7fe722465d2031ef123507cc1fdf85b203a9fc8af001",
+    "images/receiver-legacy-057j2.png": "132aa8270bd9b88127ac02c512fafe6aa508d2a2e6e998d7b46b0039bfb70001"
+  },
+  "visual_review": "All five actual full-size images inspected. Four local receiver stud pairs visible; bumper underside sockets visible. Installed context only, not insertion certification."
+}

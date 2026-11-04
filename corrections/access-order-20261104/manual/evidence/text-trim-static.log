@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<string>", line 9, in <module>
+    old=json.loads((p/'before-text-trim/pdf-page-map.json').read_text());new=json.loads((p/'pdf-page-map.json').read_text());assert old==new
+                                                                                                                                    ^^^^^^^^
+AssertionError
