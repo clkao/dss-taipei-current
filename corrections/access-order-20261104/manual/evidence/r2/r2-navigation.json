@@ -1,0 +1,4319 @@
+{
+  "trace": [
+    {
+      "label": "11 main",
+      "state": {
+        "steps": 67,
+        "step": 11,
+        "recipeFrame": 0,
+        "approachFrame": 0,
+        "slider": 11,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          188,
+          204,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [
+          169
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Review the ordered panels above; each panel shows its own loose parts or completed unit."
+    },
+    {
+      "label": "11 separate seed",
+      "state": {
+        "steps": 67,
+        "step": 11,
+        "recipeFrame": 2,
+        "approachFrame": 0,
+        "slider": 11,
+        "visible": [
+          190
+        ],
+        "newIds": [
+          190
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Plate  1 x  43710 · Dark Bluish Gray"
+    },
+    {
+      "label": "11 local return",
+      "state": {
+        "steps": 67,
+        "step": 11,
+        "recipeFrame": 0,
+        "approachFrame": 0,
+        "slider": 11,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          188,
+          204,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [
+          169
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Review the ordered panels above; each panel shows its own loose parts or completed unit."
+    },
+    {
+      "label": "11 previous seed",
+      "state": {
+        "steps": 67,
+        "step": 11,
+        "recipeFrame": 2,
+        "approachFrame": 0,
+        "slider": 11,
+        "visible": [
+          190
+        ],
+        "newIds": [
+          190
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Plate  1 x  43710 · Dark Bluish Gray"
+    },
+    {
+      "label": "1 panel 1",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 1,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172
+        ],
+        "newIds": [
+          172
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Technic Brick  1 x 14 with Holes32018 · Black"
+    },
+    {
+      "label": "1 panel 2",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 2,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172,
+          216,
+          231
+        ],
+        "newIds": [
+          216,
+          231
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy2 ×Technic Pin with Friction and Slots2780 · Black"
+    },
+    {
+      "label": "1 panel 3",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 3,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          178
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Technic Brick  1 x 14 with Holes32018 · Black"
+    },
+    {
+      "label": "1 panel 4",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 4,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          150,
+          163,
+          172,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          150,
+          163
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy2 ×Plate  4 x  43031 · Light Bluish Gray"
+    },
+    {
+      "label": "1 panel 5",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 5,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          150,
+          153,
+          163,
+          168,
+          172,
+          177,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          153,
+          168,
+          177
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Plate  2 x  43020 · Dark Orange2 ×Plate  2 x  33021 · Light Bluish Gray"
+    },
+    {
+      "label": "1 panel 6",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 6,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          150,
+          153,
+          163,
+          168,
+          172,
+          173,
+          177,
+          178,
+          179,
+          216,
+          231
+        ],
+        "newIds": [
+          173,
+          179
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy2 ×Plate  1 x  1 Round6141 · Orange"
+    },
+    {
+      "label": "1 panel 7",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 7,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          134,
+          150,
+          153,
+          163,
+          164,
+          168,
+          172,
+          173,
+          177,
+          178,
+          179,
+          216,
+          231
+        ],
+        "newIds": [
+          134,
+          164
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Plate  2 x  43020 · Dark Orange1 ×Plate  2 x  23022 · Black"
+    },
+    {
+      "label": "1 panel 8",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 8,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          134,
+          150,
+          153,
+          163,
+          164,
+          168,
+          172,
+          173,
+          177,
+          178,
+          179,
+          216,
+          231
+        ],
+        "newIds": [
+          134,
+          150,
+          153,
+          163,
+          164,
+          168,
+          172,
+          173,
+          177,
+          178,
+          179,
+          216,
+          231
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Completed unit - no new loose stock1 × chassis core (13 pieces)"
+    },
+    {
+      "label": "1 overview return",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 0,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          134,
+          150,
+          153,
+          163,
+          164,
+          168,
+          172,
+          173,
+          177,
+          178,
+          179,
+          216,
+          231
+        ],
+        "newIds": [
+          134,
+          150,
+          153,
+          163,
+          164,
+          168,
+          172,
+          173,
+          177,
+          178,
+          179,
+          216,
+          231
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Review the ordered panels above; each panel shows its own loose parts or completed unit."
+    },
+    {
+      "label": "10 panel 1",
+      "state": {
+        "steps": 67,
+        "step": 10,
+        "recipeFrame": 1,
+        "approachFrame": 0,
+        "slider": 10,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [
+          171,
+          181
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy2 ×Dish  2 x  2 with Rim2654a · Trans Clear"
+    },
+    {
+      "label": "10 panel 2",
+      "state": {
+        "steps": 67,
+        "step": 10,
+        "recipeFrame": 2,
+        "approachFrame": 0,
+        "slider": 10,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          188,
+          204,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [
+          188,
+          204
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy2 ×Dish  2 x  2 with Rim2654a · Trans Clear"
+    },
+    {
+      "label": "10 overview return",
+      "state": {
+        "steps": 67,
+        "step": 10,
+        "recipeFrame": 0,
+        "approachFrame": 0,
+        "slider": 10,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          188,
+          204,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [
+          188,
+          204
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Review the ordered panels above; each panel shows its own loose parts or completed unit."
+    },
+    {
+      "label": "11 panel 1",
+      "state": {
+        "steps": 67,
+        "step": 11,
+        "recipeFrame": 1,
+        "approachFrame": 0,
+        "slider": 11,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          188,
+          204,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [
+          169
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Plate  1 x  4 with Socket Joint-8 Square98263 · Light Bluish Gray"
+    },
+    {
+      "label": "11 panel 2",
+      "state": {
+        "steps": 67,
+        "step": 11,
+        "recipeFrame": 2,
+        "approachFrame": 0,
+        "slider": 11,
+        "visible": [
+          190
+        ],
+        "newIds": [
+          190
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Plate  1 x  43710 · Dark Bluish Gray"
+    },
+    {
+      "label": "11 overview return",
+      "state": {
+        "steps": 67,
+        "step": 11,
+        "recipeFrame": 0,
+        "approachFrame": 0,
+        "slider": 11,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          188,
+          204,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [
+          169
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Review the ordered panels above; each panel shows its own loose parts or completed unit."
+    },
+    {
+      "label": "12 panel 1",
+      "state": {
+        "steps": 67,
+        "step": 12,
+        "recipeFrame": 1,
+        "approachFrame": 0,
+        "slider": 12,
+        "visible": [
+          183,
+          184,
+          190
+        ],
+        "newIds": [
+          183,
+          184
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy2 ×Bracket  1 x  2 -  2 x  2 Up99207 · Black"
+    },
+    {
+      "label": "12 panel 2",
+      "state": {
+        "steps": 67,
+        "step": 12,
+        "recipeFrame": 2,
+        "approachFrame": 0,
+        "slider": 12,
+        "visible": [
+          182,
+          183,
+          184,
+          190
+        ],
+        "newIds": [
+          182
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Plate  1 x  43710 · Dark Bluish Gray"
+    },
+    {
+      "label": "12 panel 3",
+      "state": {
+        "steps": 67,
+        "step": 12,
+        "recipeFrame": 3,
+        "approachFrame": 0,
+        "slider": 12,
+        "visible": [
+          182,
+          183,
+          184,
+          187,
+          189,
+          190
+        ],
+        "newIds": [
+          187,
+          189
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy2 ×Slope Brick 31  1 x  2 x  0.66785984 · Light Bluish Gray"
+    },
+    {
+      "label": "12 panel 4",
+      "state": {
+        "steps": 67,
+        "step": 12,
+        "recipeFrame": 4,
+        "approachFrame": 0,
+        "slider": 12,
+        "visible": [
+          182,
+          183,
+          184,
+          187,
+          189,
+          190,
+          215,
+          229
+        ],
+        "newIds": [
+          215,
+          229
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy2 ×Slope Brick 33  3 x  14286 · Black"
+    },
+    {
+      "label": "12 panel 5",
+      "state": {
+        "steps": 67,
+        "step": 12,
+        "recipeFrame": 5,
+        "approachFrame": 0,
+        "slider": 12,
+        "visible": [
+          170,
+          182,
+          183,
+          184,
+          187,
+          189,
+          190,
+          215,
+          229
+        ],
+        "newIds": [
+          170
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Tile  1 x  4 with Groove2431 · Black"
+    },
+    {
+      "label": "12 panel 6",
+      "state": {
+        "steps": 67,
+        "step": 12,
+        "recipeFrame": 6,
+        "approachFrame": 0,
+        "slider": 12,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          188,
+          204,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy"
+    },
+    {
+      "label": "12 panel 7",
+      "state": {
+        "steps": 67,
+        "step": 12,
+        "recipeFrame": 7,
+        "approachFrame": 0,
+        "slider": 12,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          182,
+          183,
+          184,
+          187,
+          188,
+          189,
+          190,
+          204,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [
+          170,
+          182,
+          183,
+          184,
+          187,
+          189,
+          190,
+          215,
+          229
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Completed unit - no new loose stock1 × front lower bumper (9 pieces)"
+    },
+    {
+      "label": "12 panel 8",
+      "state": {
+        "steps": 67,
+        "step": 12,
+        "recipeFrame": 8,
+        "approachFrame": 0,
+        "slider": 12,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          182,
+          183,
+          184,
+          187,
+          188,
+          189,
+          190,
+          191,
+          204,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [
+          191
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Parts for one copy1 ×Dish  2 x  2 with Rim2654a · Trans Clear"
+    },
+    {
+      "label": "12 overview return",
+      "state": {
+        "steps": 67,
+        "step": 12,
+        "recipeFrame": 0,
+        "approachFrame": 0,
+        "slider": 12,
+        "visible": [
+          107,
+          113,
+          128,
+          134,
+          145,
+          150,
+          152,
+          153,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          177,
+          178,
+          179,
+          181,
+          182,
+          183,
+          184,
+          187,
+          188,
+          189,
+          190,
+          191,
+          204,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [
+          191
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Follow all panels in order.",
+      "tray": "Review the ordered panels above; each panel shows its own loose parts or completed unit."
+    },
+    {
+      "label": "17 panel 1",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 1,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          97
+        ],
+        "newIds": [
+          97
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy1 ×Plate  1 x  63666 · Dark Orange"
+    },
+    {
+      "label": "17 panel 2",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 2,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          96,
+          97,
+          115
+        ],
+        "newIds": [
+          96,
+          115
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy2 ×Bracket  1 x  2 -  2 x  493274 · Black"
+    },
+    {
+      "label": "17 panel 3",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 3,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          96,
+          97,
+          115,
+          117,
+          140,
+          197
+        ],
+        "newIds": [
+          117,
+          140,
+          197
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy3 ×Slope Brick 31  1 x  2 x  0.66785984 · Black"
+    },
+    {
+      "label": "17 panel 4",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 4,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          96,
+          97,
+          98,
+          115,
+          116,
+          117,
+          140,
+          197
+        ],
+        "newIds": [
+          98,
+          116
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy2 ×Slope Brick 31  1 x  1 x  0.66754200 · Dark Orange"
+    },
+    {
+      "label": "17 panel 5",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 5,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          38
+        ],
+        "newIds": [
+          38
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy1 ×Plate  1 x 103666 · Dark Orange"
+    },
+    {
+      "label": "17 panel 6",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 6,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          38,
+          39
+        ],
+        "newIds": [
+          39
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy1 ×Bracket  1 x  2 -  2 x  2 Up99207 · Black"
+    },
+    {
+      "label": "17 panel 7",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 7,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          38,
+          39,
+          41,
+          42
+        ],
+        "newIds": [
+          41,
+          42
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy2 ×Bracket  1 x  2 -  2 x  2 Up99207 · Black"
+    },
+    {
+      "label": "17 panel 8",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 8,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          96,
+          97,
+          98,
+          115,
+          116,
+          117,
+          140,
+          197
+        ],
+        "newIds": [],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy"
+    },
+    {
+      "label": "17 panel 9",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 9,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          38,
+          39,
+          41,
+          42,
+          96,
+          97,
+          98,
+          115,
+          116,
+          117,
+          140,
+          197
+        ],
+        "newIds": [
+          38,
+          39,
+          41,
+          42
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Completed unit - no new loose stock1 × left upper rail 1 (4 pieces)"
+    },
+    {
+      "label": "17 panel 10",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 10,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          331
+        ],
+        "newIds": [
+          331
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy1 ×Front Dark Orange rail plate 383710 · Dark Orange"
+    },
+    {
+      "label": "17 panel 11",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 11,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          46,
+          331
+        ],
+        "newIds": [
+          46
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy1 ×Bracket  1 x  2 -  2 x  2 Up99207 · Black"
+    },
+    {
+      "label": "17 panel 12",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 12,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          46,
+          48,
+          331
+        ],
+        "newIds": [
+          48
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy1 ×Bracket  1 x  2 -  2 x  2 Up99207 · Black"
+    },
+    {
+      "label": "17 panel 13",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 13,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          38,
+          39,
+          41,
+          42,
+          96,
+          97,
+          98,
+          115,
+          116,
+          117,
+          140,
+          197
+        ],
+        "newIds": [],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy"
+    },
+    {
+      "label": "17 panel 14",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 14,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          38,
+          39,
+          41,
+          42,
+          46,
+          48,
+          96,
+          97,
+          98,
+          115,
+          116,
+          117,
+          140,
+          197,
+          331
+        ],
+        "newIds": [
+          46,
+          48,
+          331
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Completed unit - no new loose stock1 × left upper rail 2 (3 pieces)"
+    },
+    {
+      "label": "17 panel 15",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 15,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          63,
+          75,
+          90,
+          91,
+          99,
+          103,
+          104,
+          106,
+          107,
+          110,
+          111,
+          113,
+          128,
+          129,
+          134,
+          135,
+          139,
+          145,
+          146,
+          148,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          204,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248
+        ],
+        "newIds": [],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Parts for one copy"
+    },
+    {
+      "label": "17 panel 16",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 16,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          38,
+          39,
+          41,
+          42,
+          46,
+          48,
+          63,
+          75,
+          90,
+          91,
+          96,
+          97,
+          98,
+          99,
+          103,
+          104,
+          106,
+          107,
+          110,
+          111,
+          113,
+          115,
+          116,
+          117,
+          128,
+          129,
+          134,
+          135,
+          139,
+          140,
+          145,
+          146,
+          148,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          197,
+          204,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248,
+          331
+        ],
+        "newIds": [
+          38,
+          39,
+          41,
+          42,
+          46,
+          48,
+          96,
+          97,
+          98,
+          115,
+          116,
+          117,
+          140,
+          197,
+          331
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Completed unit - no new loose stock1 × left side carrier (15 pieces)"
+    },
+    {
+      "label": "17 overview return",
+      "state": {
+        "steps": 67,
+        "step": 17,
+        "recipeFrame": 0,
+        "approachFrame": 0,
+        "slider": 17,
+        "visible": [
+          38,
+          39,
+          41,
+          42,
+          46,
+          48,
+          63,
+          75,
+          90,
+          91,
+          96,
+          97,
+          98,
+          99,
+          103,
+          104,
+          106,
+          107,
+          110,
+          111,
+          113,
+          115,
+          116,
+          117,
+          128,
+          129,
+          134,
+          135,
+          139,
+          140,
+          145,
+          146,
+          148,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          197,
+          204,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248,
+          331
+        ],
+        "newIds": [
+          38,
+          39,
+          41,
+          42,
+          46,
+          48,
+          96,
+          97,
+          98,
+          115,
+          116,
+          117,
+          140,
+          197,
+          331
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Make 2 lower bases in panels a–d. Parts trays show one copy; keep the second base for step 18.",
+      "tray": "Review the ordered panels above; each panel shows its own loose parts or completed unit."
+    },
+    {
+      "label": "18 panel 5",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 5,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          81
+        ],
+        "newIds": [
+          81
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Parts for one copy1 ×Plate  1 x 103666 · Dark Orange"
+    },
+    {
+      "label": "18 panel 6",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 6,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          81,
+          87
+        ],
+        "newIds": [
+          87
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Parts for one copy1 ×Bracket  1 x  2 -  2 x  2 Up99207 · Black"
+    },
+    {
+      "label": "18 panel 7",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 7,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          81,
+          83,
+          87,
+          89
+        ],
+        "newIds": [
+          83,
+          89
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Parts for one copy2 ×Bracket  1 x  2 -  2 x  2 Up99207 · Black"
+    },
+    {
+      "label": "18 panel 8",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 8,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          156,
+          157,
+          158,
+          166,
+          167,
+          176,
+          185,
+          205
+        ],
+        "newIds": [],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Parts for one copy"
+    },
+    {
+      "label": "18 panel 9",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 9,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          81,
+          83,
+          87,
+          89,
+          156,
+          157,
+          158,
+          166,
+          167,
+          176,
+          185,
+          205
+        ],
+        "newIds": [
+          81,
+          83,
+          87,
+          89
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Completed unit - no new loose stock1 × right upper rail 1 (4 pieces)"
+    },
+    {
+      "label": "18 panel 10",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 10,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          333
+        ],
+        "newIds": [
+          333
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Parts for one copy1 ×Front Dark Orange rail plate 813710 · Dark Orange"
+    },
+    {
+      "label": "18 panel 11",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 11,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          82,
+          333
+        ],
+        "newIds": [
+          82
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Parts for one copy1 ×Bracket  1 x  2 -  2 x  2 Up99207 · Black"
+    },
+    {
+      "label": "18 panel 12",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 12,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          82,
+          93,
+          333
+        ],
+        "newIds": [
+          93
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Parts for one copy1 ×Bracket  1 x  2 -  2 x  2 Up99207 · Black"
+    },
+    {
+      "label": "18 panel 13",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 13,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          81,
+          83,
+          87,
+          89,
+          156,
+          157,
+          158,
+          166,
+          167,
+          176,
+          185,
+          205
+        ],
+        "newIds": [],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Parts for one copy"
+    },
+    {
+      "label": "18 panel 14",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 14,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          81,
+          82,
+          83,
+          87,
+          89,
+          93,
+          156,
+          157,
+          158,
+          166,
+          167,
+          176,
+          185,
+          205,
+          333
+        ],
+        "newIds": [
+          82,
+          93,
+          333
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": false,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": false
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Completed unit - no new loose stock1 × right upper rail 2 (3 pieces)"
+    },
+    {
+      "label": "18 panel 15",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 15,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          38,
+          39,
+          41,
+          42,
+          46,
+          48,
+          63,
+          75,
+          90,
+          91,
+          96,
+          97,
+          98,
+          99,
+          103,
+          104,
+          106,
+          107,
+          110,
+          111,
+          113,
+          115,
+          116,
+          117,
+          128,
+          129,
+          134,
+          135,
+          139,
+          140,
+          145,
+          146,
+          148,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          197,
+          204,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248,
+          331
+        ],
+        "newIds": [],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Parts for one copy"
+    },
+    {
+      "label": "18 panel 16",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 16,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          38,
+          39,
+          41,
+          42,
+          46,
+          48,
+          63,
+          75,
+          81,
+          82,
+          83,
+          87,
+          89,
+          90,
+          91,
+          93,
+          96,
+          97,
+          98,
+          99,
+          103,
+          104,
+          106,
+          107,
+          110,
+          111,
+          113,
+          115,
+          116,
+          117,
+          128,
+          129,
+          134,
+          135,
+          139,
+          140,
+          145,
+          146,
+          148,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          197,
+          204,
+          205,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248,
+          331,
+          333
+        ],
+        "newIds": [
+          81,
+          82,
+          83,
+          87,
+          89,
+          93,
+          156,
+          157,
+          158,
+          166,
+          167,
+          176,
+          185,
+          205,
+          333
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Completed unit - no new loose stock1 × right side carrier (15 pieces)"
+    },
+    {
+      "label": "18 overview return",
+      "state": {
+        "steps": 67,
+        "step": 18,
+        "recipeFrame": 0,
+        "approachFrame": 0,
+        "slider": 18,
+        "visible": [
+          38,
+          39,
+          41,
+          42,
+          46,
+          48,
+          63,
+          75,
+          81,
+          82,
+          83,
+          87,
+          89,
+          90,
+          91,
+          93,
+          96,
+          97,
+          98,
+          99,
+          103,
+          104,
+          106,
+          107,
+          110,
+          111,
+          113,
+          115,
+          116,
+          117,
+          128,
+          129,
+          134,
+          135,
+          139,
+          140,
+          145,
+          146,
+          148,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          197,
+          204,
+          205,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          245,
+          246,
+          247,
+          248,
+          331,
+          333
+        ],
+        "newIds": [
+          81,
+          82,
+          83,
+          87,
+          89,
+          93,
+          156,
+          157,
+          158,
+          166,
+          167,
+          176,
+          185,
+          205,
+          333
+        ],
+        "offsets": []
+      },
+      "bands": [
+        {
+          "anchorIds": [
+            227,
+            239
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        },
+        {
+          "anchorIds": [
+            242,
+            247
+          ],
+          "selfVisible": true,
+          "ancestors": [
+            {
+              "type": "Scene",
+              "visible": true
+            }
+          ],
+          "visible": true
+        }
+      ],
+      "copyNote": "Use the second lower base made at step 17. Build this side’s upper rails separately.",
+      "tray": "Review the ordered panels above; each panel shows its own loose parts or completed unit."
+    }
+  ],
+  "failures": [],
+  "physical_tested": false
+}

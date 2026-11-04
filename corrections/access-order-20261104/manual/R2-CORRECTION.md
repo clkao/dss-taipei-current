@@ -23,3 +23,13 @@ Grant1f711476 ran the frozen observer helper once. The outer80-second deadline f
 Two post-failure process inventories found no owned script/profile command; port19690 bound successfully. The freshly created own profile was removed. Per-PID history, exact process exit and peak profile size were not retained; no exit0 or per-PID wait proof is invented. Failure source/log/input bindings are retained in `evidence/r2/r2-navigation-failure.json` and the failed supervisor copy.
 
 Parent disposition: deferred evidence-run failure, DSS helper owner; telemetry-only FIX. The separately prepared helper records phase/per-call events, runtime console/exceptions and Chrome exit; it distinguishes installed observer, invoked callback and preview readiness. CDP calls are bounded5s, readiness15s. A supervisor persists observed PID/start/command identities before waits and signals only those same individual identities. This is one-run diagnostic instrumentation, not a new product API. No retry has run; product input hashes remain unchanged.
+
+## Telemetry attempt and actual viewer evidence
+
+The separately granted82eee89d attempt passed58 recorded states, including48 reachable corrected panels and10 eligible band panels. Actual scene objects and their ancestor visibility were observed; no rigid-count substitution. Setters chose initial/screenshot states; Next/Previous DOM clicks exercised traversal, group11 seed→root→seed returns, and group17 overview→group18 panel5. The four common-base trays show one-copy quantities with2x guidance, and the right copy-return uses the distinct retained base.
+
+Author inspected all eight actual UI PNGs. Bands are visible on the root/chassis and receiving views; seed190 and separate bases/rails have no unrelated bands. The two-copy base and second-base return notes are visible. This is author headless/visual evidence, not independent live UI navigation or physical proof.
+
+Node was explicitly reaped with exit0 and Chrome reported exit0. The supervisor originally exited1 because the post-exit port bind failed. Read-only attribution found only two TIME_WAIT sockets, no listener; fresh process identities/profile arguments were absent. Parent classified this as a closure-check false positive and authorized one fresh closure check. It passed exact port bind plus both process censuses; only the new owned profile was then removed. Original supervisor exit1 is retained separately from the resolution and Node/Chrome successes.
+
+Original run6.523s, peak incremental14,609,709bytes, minimum free9,948,786,688bytes; retained profile before authorized cleanup12,862,348bytes. No runtime retry or product mutation followed. Lease released. PDF/raster remain unrun pending their separate grant.

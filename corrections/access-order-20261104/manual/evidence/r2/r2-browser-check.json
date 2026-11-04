@@ -1,0 +1,46 @@
+{
+  "errors": [],
+  "screenshots": [
+    [
+      "rear-bands",
+      10,
+      1
+    ],
+    [
+      "bumper-root-overview",
+      11,
+      0
+    ],
+    [
+      "separate-bumper-seed",
+      11,
+      2
+    ],
+    [
+      "bumper-receiver-bands",
+      12,
+      6
+    ],
+    [
+      "two-copy-base",
+      17,
+      4
+    ],
+    [
+      "left-carrier-receiver-bands",
+      17,
+      15
+    ],
+    [
+      "second-base-return",
+      18,
+      5
+    ],
+    [
+      "right-carrier-installed-bands",
+      18,
+      16
+    ]
+  ],
+  "trace_count": 58
+}
