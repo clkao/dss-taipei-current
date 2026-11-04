@@ -1,0 +1,13 @@
+node:internal/modules/run_main:107
+    triggerUncaughtException(
+    ^
+
+page.goto: Timeout 12000ms exceeded.
+Call log:
+[2m  - navigating to "file:///Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/package/viewer.html", waiting until "load"[22m
+
+    at /Users/clkao/git/spacedock-research/dss-taipei-current/evidence/integration/supplied-dd6588c-artifact-plan/navigation.mjs:7:318 {
+  name: 'TimeoutError'
+}
+
+Node.js v24.22.1

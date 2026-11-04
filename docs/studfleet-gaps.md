@@ -204,3 +204,10 @@ The new frozen90 handoff passes read-only hashes, all18 exact source occurrences
 [Independent fresh import/check-only](../evidence/integration/supplied-dd6588c-check/README.md) passes with exact frozen assembly/source and a new same-binary sidecar. Supplied ownership is8+8; only the2 later accessories have construction provenance. No fake local recipes exist. All18 inventory quantities and release/use stock boundaries reconcile. `90` now has independent compiler/stock evidence. No DSS artifact/browser check ran for this increment. Next: leased90 artifact feedback;198/decorations/330context and all section acceptance remain open.
 
 FO notice1b09f595-8dd2-4c79-aeab-08f36188454d reports H1 guard fix b0748c9/binaryb410 clears the metadata counterexample upstream. This is not a DSS retest or release claim. Current upstream live/human review remains held. W4 remains delivered locally.
+
+
+### Frozen90 artifact increment and read-only diagnosis
+
+[Artifact review](../evidence/integration/supplied-dd6588c-artifact-review/README.md) records package verification exit 0 and inspection of the three existing full A4 rasters. Supplied cards, two later accessories, final placement/decal caption and draft limits remain visible. Headless navigation stopped at the initial 12-second load timeout. No step actions ran. The producer uses a 30-second default with the same viewer bytes and recorded runtime versions. This difference supports a bounded hypothesis, not a proven cause. Original failure telemetry is incomplete. No product defect or contention cause is established.
+
+The lease is released with all observed owned processes closed. A failed-only navigation proposal awaits separate authorization. No green compiler/export/verify check will repeat. Gap 90 advances to verified package and existing-raster evidence, but navigation/live/human acceptance remains open. Next priorities are navigation, operation 198/decorations/330 context, then contextual speakers/rings and H1 acceptance. All sections remain adopted=false.

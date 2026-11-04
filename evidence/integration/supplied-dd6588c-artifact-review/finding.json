@@ -1,0 +1,12 @@
+{
+  "trigger": "Initial file viewer page.goto waited for load under DSS 12000ms timeout.",
+  "expected_observed": "Expected load then instructionReady then three step assertions. Observed TimeoutError before readiness check; zero step observations.",
+  "materiality": "Independent navigation remains incomplete. Verify exit0 and earlier compiler/stock evidence remain valid. No product defect or contention cause established.",
+  "owner_disposition": "DSS evidence collector owns the shorter timeout and missing failure telemetry. StudFleet 90 owner supports runtime diagnosis. Proposed failed-only instrumented navigation retry awaits explicit authorization.",
+  "hypothesis": "The 12-second navigation budget is insufficient for this unchanged viewer to complete startup under this run environment; load and readiness will complete within the producer default 30-second budget.",
+  "falsification": "Same package/runtime still fails load or readiness at30s, or reports a concrete loader/page error. Success below12s does not establish the earlier cause.",
+  "known_difference": "Producer leaves navigation timeout at Playwright30000ms. DSS setDefaultTimeout12000 affects navigation. Both await load before instructionReady.",
+  "telemetry_limit": "DSS errors/network arrays are local to try and saved only after successful assertions. Failure result contains states[] only. Console and lifecycle events were not collected. Zero HTTP/errors cannot be asserted.",
+  "loader_read": "Self-contained inline data and bundled script. Final Ze(_n.id) initializes frame and sets instructionReady. No application-level load event await found in initialization tail. Browser load is a separate lifecycle condition; original temporal ordering is unobserved.",
+  "identity_comparison": "Producer proof PDF/viewer hashes equal frozen hashes. Node24.22.1, Chrome156.0.8078.80, Playwright1.58.2 match recorded identities. Same SwiftShader flags, file URL, offline context and1100x1100 viewport. DSS own temp/cache/profile differs; no causal inference."
+}

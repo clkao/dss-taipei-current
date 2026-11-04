@@ -1,0 +1,71 @@
+{
+  "observed": [
+    {
+      "pid": "36537",
+      "ppid": "36526",
+      "pgid": "36537",
+      "command": "(studfleet)"
+    },
+    {
+      "pid": "36601",
+      "ppid": "36526",
+      "pgid": "36601",
+      "command": "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node /Users/clkao/git/spacedock-research/dss-taipei-current/evidence/integration/supplied-dd6588c-artifact-plan/navigation.mjs /Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/navigation"
+    },
+    {
+      "pid": "36659",
+      "ppid": "36601",
+      "pgid": "36601",
+      "command": "(system_profiler)"
+    },
+    {
+      "pid": "36788",
+      "ppid": "36601",
+      "pgid": "36788",
+      "command": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument,OptimizationHints --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --disable-infobars --disable-search-engine-choice-screen --disable-sync --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --enable-webgl --use-gl=angle --use-angle=swiftshader --enable-unsafe-swiftshader --allow-file-access-from-files --user-data-dir=/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/tmp/playwright_chromiumdev_profile-NgQrsk --remote-debugging-pipe --no-startup-window"
+    },
+    {
+      "pid": "36900",
+      "ppid": "36788",
+      "pgid": "36788",
+      "command": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/156.0.8078.80/Helpers/Google Chrome Helper (GPU).app/Contents/MacOS/Google Chrome Helper (GPU) --type=gpu-process --gpu-recent-crash-count=0 --no-sandbox --disable-breakpad --headless --use-angle=swiftshader --enable-unsafe-swiftshader --noerrdialogs --user-data-dir=/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/tmp/playwright_chromiumdev_profile-NgQrsk --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAGAAQAAAAAAAAAADAAAAAAAAADgAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAAoAAAAAAAAAAgAAAAAAAAADAAAAAEAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --use-gl=angle --shared-files --field-trial-handle=1718379636,r,1389741067064436163,1330347760361038913,262144 --enable-features=CDPScreenshotNewSurface --disable-features=AutoDeElevate,AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,OptimizationHints,PaintHolding,RenderDocument,ThirdPartyStoragePartitioning,Translate --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8881133456541040866,5821207849904427135,4 --trace-process-track-uuid=3190708988185955192"
+    },
+    {
+      "pid": "36903",
+      "ppid": "36788",
+      "pgid": "36788",
+      "command": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/156.0.8078.80/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --no-sandbox --use-angle=swiftshader --use-gl=angle --mute-audio --noerrdialogs --user-data-dir=/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/tmp/playwright_chromiumdev_profile-NgQrsk --shared-files --field-trial-handle=1718379636,r,1389741067064436163,1330347760361038913,262144 --enable-features=CDPScreenshotNewSurface --disable-features=AutoDeElevate,AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,OptimizationHints,PaintHolding,RenderDocument,ThirdPartyStoragePartitioning,Translate --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8881133456541040866,5821207849904427135,4 --trace-process-track-uuid=3190708989122997041"
+    },
+    {
+      "pid": "36910",
+      "ppid": "36788",
+      "pgid": "36788",
+      "command": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/156.0.8078.80/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-sandbox --use-angle=swiftshader --use-gl=angle --mute-audio --noerrdialogs --user-data-dir=/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/tmp/playwright_chromiumdev_profile-NgQrsk --shared-files --field-trial-handle=1718379636,r,1389741067064436163,1330347760361038913,262144 --enable-features=CDPScreenshotNewSurface --disable-features=AutoDeElevate,AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,OptimizationHints,PaintHolding,RenderDocument,ThirdPartyStoragePartitioning,Translate --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8881133456541040866,5821207849904427135,4 --trace-process-track-uuid=3190708990060038890"
+    },
+    {
+      "pid": "36911",
+      "ppid": "36788",
+      "pgid": "36788",
+      "command": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/156.0.8078.80/Helpers/Google Chrome Helper (Alerts).app/Contents/MacOS/Google Chrome Helper (Alerts) --type=utility --utility-sub-type=mac_notifications.mojom.MacNotificationProvider --lang=en-US --service-sandbox-type=none --no-sandbox --use-angle=swiftshader --use-gl=angle --mute-audio --message-loop-type-ui --noerrdialogs --user-data-dir=/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/tmp/playwright_chromiumdev_profile-NgQrsk --shared-files --field-trial-handle=1718379636,r,1389741067064436163,1330347760361038913,262144 --enable-features=CDPScreenshotNewSurface --disable-features=AutoDeElevate,AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,OptimizationHints,PaintHolding,RenderDocument,ThirdPartyStoragePartitioning,Translate --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8881133456541040866,5821207849904427135,4 --trace-process-track-uuid=3190708990997080739"
+    },
+    {
+      "pid": "36966",
+      "ppid": "36788",
+      "pgid": "36788",
+      "command": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/156.0.8078.80/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --top-chrome-webui --noerrdialogs --user-data-dir=/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/tmp/playwright_chromiumdev_profile-NgQrsk --no-sandbox --allow-file-access-from-files --disable-back-forward-cache --disable-background-timer-throttling --disable-breakpad --enable-automation --force-color-profile=srgb --remote-debugging-pipe --allow-pre-commit-input --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=6 --launch-time-ticks=5319985537114 --shared-files --field-trial-handle=1718379636,r,1389741067064436163,1330347760361038913,262144 --enable-features=CDPScreenshotNewSurface --disable-features=AutoDeElevate,AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,OptimizationHints,PaintHolding,RenderDocument,ThirdPartyStoragePartitioning,Translate --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8881133456541040866,5821207849904427135,4 --trace-process-track-uuid=3190708991934122588"
+    },
+    {
+      "pid": "36982",
+      "ppid": "36788",
+      "pgid": "36788",
+      "command": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/156.0.8078.80/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --noerrdialogs --user-data-dir=/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/tmp/playwright_chromiumdev_profile-NgQrsk --no-sandbox --allow-file-access-from-files --disable-back-forward-cache --disable-background-timer-throttling --disable-breakpad --enable-automation --force-color-profile=srgb --remote-debugging-pipe --allow-pre-commit-input --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=8 --launch-time-ticks=5319985967501 --shared-files --field-trial-handle=1718379636,r,1389741067064436163,1330347760361038913,262144 --enable-features=CDPScreenshotNewSurface --disable-features=AutoDeElevate,AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,OptimizationHints,PaintHolding,RenderDocument,ThirdPartyStoragePartitioning,Translate --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8881133456541040866,5821207849904427135,4 --trace-process-track-uuid=3190708993808206286"
+    },
+    {
+      "pid": "36983",
+      "ppid": "36788",
+      "pgid": "36788",
+      "command": "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/156.0.8078.80/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --noerrdialogs --user-data-dir=/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/tmp/playwright_chromiumdev_profile-NgQrsk --no-sandbox --allow-file-access-from-files --disable-back-forward-cache --disable-background-timer-throttling --disable-breakpad --enable-automation --force-color-profile=srgb --remote-debugging-pipe --allow-pre-commit-input --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=7 --launch-time-ticks=5319985971267 --shared-files --field-trial-handle=1718379636,r,1389741067064436163,1330347760361038913,262144 --enable-features=CDPScreenshotNewSurface --disable-features=AutoDeElevate,AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,OptimizationHints,PaintHolding,RenderDocument,ThirdPartyStoragePartitioning,Translate --variations-seed-version --pseudonymization-salt-handle=1935764596,r,8881133456541040866,5821207849904427135,4 --trace-process-track-uuid=3190708992871164437"
+    }
+  ],
+  "remaining": []
+}
