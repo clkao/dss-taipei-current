@@ -15,6 +15,9 @@ block='''    if a.get('corrected'):
                 para('USE ONE COMPLETED UNIT',36,HH-146,174,11,font='Bold')
                 para(f['child'].replace('-',' '),36,HH-170,174,13,font='Bold')
                 para(str(len(f['ids']))+' pieces already built. Do not collect these as loose parts again.',36,HH-213,166,11)
+            elif f.get('awaiting_child'):
+                para('RECEIVING STRUCTURE',36,HH-146,174,11,font='Bold')
+                para('No new pieces in this view. Keep the completed '+f['awaiting_child'].replace('-',' ')+' aside.',36,HH-180,166,11)
             else:
                 part_box(f['ids'],x=36,y=HH-149,width=165)
             picture(D/f['image'],206,135,W-240,HH-260)

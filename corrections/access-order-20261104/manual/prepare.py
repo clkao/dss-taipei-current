@@ -55,11 +55,18 @@ for g in c['reader_groups']:
   frames=[]
   for index,panel in enumerate(g['panels'],1):
    o=byid[panel['operation_id']];new=newstock[o['id']];shown=states[o['id']];view=panel['view'] or 'rear'
+   if o['id'] in ['legacy-001a','legacy-001b']:view='underside'
+   if o['id']=='legacy-033b':view='top'
    # Open rail undersides and bumper mounting surfaces need a low-angle view.
    if 'upper-rail' in o['assembly'] or 'upper-rail' in o.get('child',''):view='underside'
    frame=dict(number=index,title=panel['title'],note=panel['note'],view=view,ids=new,shown_ids=shown,operations=[o['step']],source_operation=o['id'],kind=o['kind'],child=o.get('child'),assembly=o['assembly'],preassembled=False)
+   if o['id'] in ['legacy-035j','legacy-049j1','legacy-049j2','legacy-057j1','legacy-057j2','legacy-050','legacy-058']:
+    receiver=sorted(set(shown)-set(new));before=copy.deepcopy(frame)
+    before.update(number=len(frames)+1,title='Locate the receiving structure',note='Keep the completed '+o['child'].replace('-',' ')+' separate. Locate the mating surfaces shown here; the next panel shows the installed result. No insertion path is certified.',ids=[],shown_ids=receiver,kind='receiver-context',child=None,awaiting_child=o['child'])
+    before['image']=render(f'images/receiver-{o["id"]}',receiver,[],view,a.get('bands_installed',False));frames.append(before)
+   frame['number']=len(frames)+1
    frame['image']=render(f'images/corrected-{s["number"]:03}-{index:02}',shown,new,view,a.get('bands_installed',False));frames.append(frame)
-   bindings.append(dict(step=s['number'],frame=index,operation=o['id'],receiver_before=sorted(set(shown)-set(new)),new=new,after=shown,kind=o['kind'],child=o.get('child'),image=frame['image']))
+   bindings.append(dict(step=s['number'],frame=frame['number'],operation=o['id'],receiver_before=sorted(set(shown)-set(new)),new=new,after=shown,kind=o['kind'],child=o.get('child'),image=frame['image']))
   a['frames']=a['instance_frames']=frames;a['corrected']=True;a['title']=g['title'];a['note']='Follow every ordered panel. Completed units are built separately before their join. Insertion clearance and physical fit remain unverified.'
   for k in ['repeat_prefix_from','repeat_prefix_count','repeat_prefix_frames']:a.pop(k,None)
   s['copies']=1;s['repeat_count']=1
@@ -78,11 +85,25 @@ save(OUT/'model.json',m);save(OUT/'instruction-plan.json',m['instruction_plan'])
 html=(OLD/'viewer.html').read_text();match=re.search(r'atob\("([A-Za-z0-9+/=]+)"\)',html);assert match
 data=json.loads(gzip.decompress(base64.b64decode(match[1])));assert data['model']['pieces']==read(ROOT/'sources/minifigure/legacy-v10/model.json')['pieces']
 data['model']=m
+original_icons=copy.deepcopy(data.get('recipeIcons',{}))
+data['recipeIcons']={str(numbermap[int(k)]):v for k,v in data.get('recipeIcons',{}).items() if int(k)!=5}
+for step in steps:
+ if step['manual'].get('corrected'):continue
+ old=oldsteps[step['legacy_step']]
+ if str(old['number']) in original_icons:
+  assert data['recipeIcons'][str(step['number'])]==original_icons[str(old['number'])]
+  assert step['module']==old['module'] and step['assembly']==old['assembly']
+  assert step['manual']['instance_frames'][-1]['ids']==old['manual']['instance_frames'][-1]['ids']
+for step in steps:
+ for key in ['repeat_from','repeat_prefix_from']:
+  if oldsteps[step['legacy_step']]['manual'].get(key) and not step['manual'].get('corrected'):
+   assert step['manual'][key]==numbermap[oldsteps[step['legacy_step']]['manual'][key]]
+
 for s in steps:
  if s['manual'].get('corrected'):
   image=OUT/s['manual']['image']
   if image.exists():data.setdefault('recipeIcons',{})[str(s['number'])]='data:image/png;base64,'+base64.b64encode(image.read_bytes()).decode()
-payload=base64.b64encode(gzip.compress(json.dumps(data,ensure_ascii=False).encode())).decode();html=html[:match.start(1)]+payload+html[match.end(1):]
+payload=base64.b64encode(gzip.compress(json.dumps(data,ensure_ascii=False).encode(),mtime=0)).decode();html=html[:match.start(1)]+payload+html[match.end(1):]
 html=html.replace('68 build steps','67 build steps').replace('Digital fit audit complete.','Corrected sequence; physical access remains unverified.')
 html=html.replace('</html>', '<script>'+ (Path(__file__).parent/'viewer-notes.js').read_text()+'</script></html>')
 (OUT/'viewer.html').write_text(html)
