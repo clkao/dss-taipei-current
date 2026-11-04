@@ -1,0 +1,21 @@
+{
+  "changed": [
+    "credits.html",
+    "release-provenance.json",
+    "release.zip",
+    "package-manifest.json"
+  ],
+  "pins": {
+    "credits.html": "0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367",
+    "release-provenance.json": "74b0881217d0cddb1154cd3f59ba7dcbb4cd9d8435e82d89e34e5bd93dbcc519",
+    "release.zip": "976b234297c15e57f162ce7524144d114e41c1099e91ed67cd242c2989dcfd20",
+    "package-manifest.json": "cbccba603b3a6a5076b677e704d6ba78f987f40c7945099e1b9c91635b8961f6"
+  },
+  "pdf_sha256": "b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a",
+  "credit_heading_preserved": true,
+  "credit_paragraph_name_only": true,
+  "homepage_link_unchanged": true,
+  "other_files_and_zip_members_unchanged": true,
+  "manifest_hashes_pass": true,
+  "retained": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-r2/before-credit-name-only"
+}
