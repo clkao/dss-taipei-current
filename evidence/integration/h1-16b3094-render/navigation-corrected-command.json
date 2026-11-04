@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/h1-16b3094-render/navigation-corrected.mjs"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps",
+  "exit_code": 0,
+  "halt": "",
+  "elapsed_seconds": 53.62133395764977,
+  "peak_additional_bytes": 8099646,
+  "minimum_free_bytes": 1882697728
+}

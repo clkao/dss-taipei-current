@@ -1,0 +1,96 @@
+{
+  "mode": "headless offline, not native live or human acceptance",
+  "states": [
+    {
+      "step": "rear-frame-supports",
+      "detail": "rear-frame-1",
+      "source_frame": {
+        "id": "legacy-op-007",
+        "sha256": "6ac51654debcc674367c1b89f12f4364e60d8363d0579f05a694aeb184bce0a5"
+      },
+      "new": [
+        "o/12",
+        "o/13"
+      ],
+      "cumulative": [
+        "o/1",
+        "o/2",
+        "o/3",
+        "o/4",
+        "o/5",
+        "o/6",
+        "o/7",
+        "o/8",
+        "o/9",
+        "o/10",
+        "o/11",
+        "o/12",
+        "o/13"
+      ],
+      "parent": null
+    },
+    {
+      "step": "rear-frame-supports",
+      "detail": "rear-frame-2",
+      "source_frame": {
+        "id": "legacy-op-008",
+        "sha256": "8b7326a4806fef8e34e362b84681144baa443280601eb0575ce8a2871ee16ff3"
+      },
+      "new": [
+        "o/14",
+        "o/15"
+      ],
+      "cumulative": [
+        "o/1",
+        "o/2",
+        "o/3",
+        "o/4",
+        "o/5",
+        "o/6",
+        "o/7",
+        "o/8",
+        "o/9",
+        "o/10",
+        "o/11",
+        "o/12",
+        "o/13",
+        "o/14",
+        "o/15"
+      ],
+      "parent": null
+    },
+    {
+      "step": "rear-frame-supports",
+      "detail": "rear-frame-3",
+      "source_frame": {
+        "id": "legacy-op-009",
+        "sha256": "5a97cab41366023641bf2e9d5532a2166ab2a53c6ca587ba611793e76c6ef47e"
+      },
+      "new": [
+        "o/16"
+      ],
+      "cumulative": [
+        "o/1",
+        "o/2",
+        "o/3",
+        "o/4",
+        "o/5",
+        "o/6",
+        "o/7",
+        "o/8",
+        "o/9",
+        "o/10",
+        "o/11",
+        "o/12",
+        "o/13",
+        "o/14",
+        "o/15",
+        "o/16"
+      ],
+      "parent": null
+    }
+  ],
+  "exact_finished_return": true,
+  "page_errors": [],
+  "http_requests": []
+}

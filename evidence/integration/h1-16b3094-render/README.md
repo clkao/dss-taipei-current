@@ -11,3 +11,11 @@ Read-only source review shows that composed #approach is labelled Ordered detail
 Gap change: h1 now has verified-package and actual PDF evidence. Navigation remains incomplete until an explicit short browser lease permits the corrected check. No DSS native-live or human acceptance is claimed. Upstream live proof is separate evidence. All sections remain adopted=false.
 
 All owned export/browser/Poppler jobs ended and the lease was released. No candidate/input/package/shared-code/gate/publication changes occurred. Next: finish bounded H1 navigation when leased, then90 supplied-unit adoption. Runtime resources remain intact.
+
+## Authorized navigation retry
+
+Lease c64fc1b9-d891-4be0-ac3f-a08ad663a86c authorized only the corrected helper on the unchanged package. It exited0 in53.621seconds, with8099646 additional bytes and1882697728 minimum free bytes. Actual Ordered details labels and clicks preserved each binding and tray. All3 installed/omit states retained13/15/16 cumulative pieces and2/2/1 additions. Each Finished step return restored the exact overview state and five-part tray. Zero page errors and HTTP requests occurred. Screenshots of all3details and the finished view were inspected.
+
+The earlier failed result remains navigation.json. The successful result is navigation-corrected-result.json. No source/compiler/export/A4 repeat or package change occurred. The ordinary unknown noncomposition disabled-control invariant remains unchanged. This specimen contains no such nonseed frame, so prior evidence for that case remains separate.
+
+H1 now has bounded verified-package, A4 and headless navigation evidence. DSS native-live and human acceptance remain unclaimed. All sections remain adopted=false. The browser lease was released after all owned jobs ended. Next priority is90 supplied-unit integration.

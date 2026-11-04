@@ -182,3 +182,9 @@ FO notice22890108-29ff-4dbe-838d-5b24eda303d5 reports90 design approved and impl
 ### H1 artifact increment
 
 [H1 artifact evidence](../evidence/integration/h1-16b3094-render/README.md) advances h1 to successful export/package verification and two-page A4 review. Exact inputs,13/15/16 states and5-part tray remain intact. Navigation stopped on an obsolete DSS assertion: composed #approach is Ordered details, not a movement control. FO authorized a helper-only correction, prepared but not rerun pending a new browser lease. No demonstrated product defect or completed navigation claim. Next: finish H1 navigation, then90. All sections remain adopted=false.
+
+### H1 navigation completion and W4 delivery
+
+The authorized H1 helper retry passed on the unchanged package:13/15/16 states, five-part tray, Ordered details action and exact Finished step returns. No HTTP requests or page errors occurred. H1 now has bounded PDF/headless evidence. No section acceptance or full-manual parity is claimed. Next priority is90.
+
+FO notice742924a2-ba37-4434-a93c-7b8b8f6801c6 reports W4 locally merged at34064f05e60b973df6184098acea2aea8a4d0695 and archived done. Existing DSS evidence7c29bb4 applies to the same ea886884 binary. No merge-ID-only retest ran. TW, connector and W4 keep separate exact binary pins until a combined build arrives. Broader7d/cn holds remain.
