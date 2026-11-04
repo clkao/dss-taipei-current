@@ -50,3 +50,18 @@ Captain clarified step19: “the 3 90 degree parts to be installed under the pla
 ## Final and limits
 
 No verdict, physical certification or replacement publication is claimed. The captain authorized workflow-driven correction and validation, not automatic gate approval.
+
+## Stage Report: authoring
+
+- DONE: Bind the existing correction to one authoritative unchanged model and prove source, operation, child-stock and copy/guide identity.
+  Static scope only: source commit `33cee74` adds `corrections/access-order-20261104/contract-assessment.json` with exact source/tool hashes and seven unit maps; an independent small Python comparison fails on any changed piece record except step or lost/duplicate introduction (348). Existing `checks.json`/crosswalk retain operation partitions, complete joins and unchanged copy metadata; no compiler proof follows.
+- DONE: Establish the exact supported authoring/export path for the changed units; prepare concrete supported inputs and a bounded specimen proof proposal, or record a precise shared-tool blocker without fabricating semantics.
+  `CONTRACT-HOLD.md`: main `e4a57b6` supports unknown movement but refuses local joins at plan.go:368; provisional n0 `2dc9daa` supports nested plan-2 maps but plan.go:370 requires motion and Operation lacks movement. Exact trigger `legacy-049j1`, child38/39/41/42 into left-side-carrier; owner StudFleet n0 with tw. Read-only git/rg/sed inspection only; source hashes retained.
+- SKIPPED: Produce the revised package and access/readability evidence when dependencies and resource slot permit; otherwise retain an explicit authoring hold with remaining acceptance criteria and owner.
+  AUTHORING HOLD: no combined nested/unknown-movement artifact was available in either inspected revision; no runtime lease used or heavy command run. Shared owner must provide a pinned public draft artifact supporting both before a bounded complete-provenance specimen and saved verification. No invented vectors, seed or supplied stock.
+- SKIPPED: Complete authoring acceptance criteria and independent full-edition review.
+  AC-1 static only; AC-2 actual panels/insertion open; AC-3 retained199-operation/68-step sweep has unresolved risks; AC-4 full package, viewer paths and every-page A4 review open; AC-5 exact-package independent review/captain acceptance open. No gap closed from source inspection or upstream task status.
+
+### Summary
+
+Authoring is incomplete and remains held at its current status. The correction intent, geometry, original feedback/failure evidence, source snapshots, historical publication and existing static sweep are unchanged; the exact incompatibility is recorded for the shared owner. Native n0 acceptance is distinct from this source-level compatibility blocker, and no physical, digital artifact, headless, reader or full-edition acceptance is claimed.
