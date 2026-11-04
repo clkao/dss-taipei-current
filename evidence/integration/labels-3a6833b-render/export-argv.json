@@ -1,0 +1,18 @@
+[
+  "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-reader-labels-without-internal-clutter/builds/reader-label-implementation/studfleet",
+  "draft",
+  "--assembly",
+  "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/labels-3a6833b-check/speakers/intake/assembly.json",
+  "--provenance",
+  "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/labels-3a6833b-check/speakers/intake/import-report.json",
+  "--plan",
+  "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/labels-3a6833b-check/speakers/plan.json",
+  "--presentation",
+  "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/labels-3a6833b-check/speakers/presentation.json",
+  "--ldraw",
+  "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/ldraw-complete.zip",
+  "--browser",
+  "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+  "--out",
+  "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/labels-3a6833b-render/speakers"
+]

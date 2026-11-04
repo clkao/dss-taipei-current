@@ -162,3 +162,7 @@ StudFleet FO delivery notice e6fd0463-1b21-4c90-827e-7f5fe53db0f1 reports `tw` l
 DSS status: upstream delivered locally; bounded source, PDF verification and headless navigation evidence already present for that production mechanism. Full-manual human parity remains open. No rebuild ran solely for the merge ID. Source inherited from 7d/cn does not clear their broader human holds.
 
 Remaining priorities: w4 actual PDF/viewer validation awaits a render lease; h1 production and then90 supplied-unit adoption. Connector50dfc27 has independent DSS evidence at cebb011, but upstream validation/merge remain pending. No shared source, workflow gate or publication changed.
+
+### Reader-label artifact increment
+
+[W4 bounded artifacts](../evidence/integration/labels-3a6833b-render/README.md) now pass both exports/verification and corrected headless copy-return navigation. All10 actual PDF pages inspected: useful labels/captions, stock quantities and retained-copy references preserved; default internal IDs/hashes removed. Original title-only harness refusal is retained; required draft warning was correct and remains independently asserted. No product repair occurred. `w4` advances to bounded artifact evidence, not human/full-manual acceptance. Remaining priorities: h1, then90; broader7d/cn holds remain.

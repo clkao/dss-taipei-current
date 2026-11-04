@@ -1,0 +1,10 @@
+{
+  "trigger": "first headless title assertion",
+  "expected_by_original_harness": "authored title alone",
+  "actual": "DSS speakers \u00b7 Draft \u2014 construction unverified",
+  "materiality": "DSS test assertion error; product correctly retains mandatory status",
+  "owner": "DSS navigation harness",
+  "authorization": "c9bf306f-18bc-409d-b151-0c4727fc0362",
+  "correction": "independently assert exact Draft \u2014 construction unverified status; expect title plus separator plus literal status",
+  "candidate_input_package_changes": false
+}

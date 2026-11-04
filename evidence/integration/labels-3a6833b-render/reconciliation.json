@@ -1,0 +1,30 @@
+{
+  "speakers": {
+    "source_assembly_plan_bytes_equal_TW": true,
+    "stock_lots_equal_TW": true,
+    "frame_copy_schedule_semantics_equal_TW": true,
+    "artifact_sha256": {
+      "instructions.pdf": "e58b0a74f92e329d390a18a4ee1732489cc8e72f52166ab2b0d9e8b31ffdeae1",
+      "viewer.html": "b2407e2871016950420cdd4146bec84ec4bf3e23ac6cdf69a06aecce91440a8a",
+      "manifest.json": "ae0f9a29c2fc4e40c56223e856ee269fd5ed5c3f44d13a2bebafb56c33f3f4f8",
+      "assembly.json": "b0f10112d9d023a456659c7deede00d2dbc2e50ef57c00475229273efcf5dccb",
+      "plan.json": "288136ebd456bd913fb346df6847e11bb1abe0391fa73e2e57fdaa73a0de76c1",
+      "presentation.json": "9c2913bdb34d6efc9fcbade14610de48419b0e89b777484c464ff8106ea9307b",
+      "import-report.json": "8269b79c61a0201cdb4b90ff7aad110e3f467ef952d4ae1c427ff7183632cfe6"
+    }
+  },
+  "rings": {
+    "source_assembly_plan_bytes_equal_TW": true,
+    "stock_lots_equal_TW": true,
+    "frame_copy_schedule_semantics_equal_TW": true,
+    "artifact_sha256": {
+      "instructions.pdf": "6fb6fdfdd8950f703c1d3c38ad50d9a3bd909fe5858038cd278f7d4841855590",
+      "viewer.html": "5a7a6cecb2d1d0e70b602ac97e42c23e93679f28ce852e29304e3cea1f9d1157",
+      "manifest.json": "dc2e708af318ff87945b6e32e44b3acf909c458862a6ba3b357fb891a748a792",
+      "assembly.json": "c1a12498d0f95fb7905a98b1b7331d5edda0ce98330d80cf76b6f9f97007d8b2",
+      "plan.json": "f99c41bb4d4db2a0ae787326d64c3636f3f4f9598bf584d02f41ba3eed3aab54",
+      "presentation.json": "6990c3dd1d56181aa21d2886f340c0bd46e5e1da51b78dc9751ea7cead732f4c",
+      "import-report.json": "9bf29f2c7d1f5ce00c12c81fa6fa8e7bc24984766ee0e764d1269c545873d7d7"
+    }
+  }
+}

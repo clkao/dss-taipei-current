@@ -1,0 +1,21 @@
+node:internal/modules/run_main:107
+    triggerUncaughtException(
+    ^
+
+AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:
++ actual - expected
+
++ 'DSS speakers · Draft — construction unverified'
+- 'DSS speakers'
+               ^
+
+    at file:///Users/clkao/git/spacedock-research/dss-taipei-current/builds/labels-3a6833b-render/navigation.mjs:8:168 {
+  generatedMessage: true,
+  code: 'ERR_ASSERTION',
+  actual: 'DSS speakers · Draft — construction unverified',
+  expected: 'DSS speakers',
+  operator: 'strictEqual',
+  diff: 'simple'
+}
+
+Node.js v24.22.1

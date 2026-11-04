@@ -1,0 +1,7 @@
+{
+  "peak_recorded_owned_bytes": 13965354,
+  "minimum_recorded_free_bytes": 3241463808,
+  "lease_released": true,
+  "artifact_hashes": "reconciliation.json",
+  "browser_mode": "headless offline; no native/live/human acceptance"
+}
