@@ -57,13 +57,21 @@
       "full_manual_parity": false
     },
     "h1": {
-      "upstream_status": "provisional and unmerged; merge conflicts require reconciliation and validation/2",
-      "notice_id": "305d5f3f-f449-4b57-8ec6-7d1a8bdce561",
-      "review_reported": "Six-AC final review and labeled manual-equivalence bridge passed before merge preflight",
-      "merge_result": "No merge; five conflicts against accepted main84ab84b",
-      "approval_status": "FO reports guard --rework superseded terminal approval",
+      "upstream_status": "delivered locally; actual merge audited",
+      "merge": "8c325eb9550fb1e675705829f7287370cc48e333",
+      "parents": [
+        "592cd9b5cafab97bc23d4ce007c6caa0356c80f0",
+        "06f9f48b7c35eab2f29f902add245b073b7e4488"
+      ],
+      "tree": "cb435b150cfe07caed159acfbcdd3e84c9845fba",
+      "notice_id": "229f1c15-794e-4078-8f25-d40d8cd1ea47",
+      "production_feature": "0afde4c91600c4b76a2ecb6eafc328f436bad003",
+      "retained_binary_sha256": "b410216e4e90d80665853420f3bd91a0c41980c807625fd8d1df1df91f9f9f91",
+      "retained_binary_source": "b0748c90a24b6b84e38e8d20394ddacb0da89d9b",
+      "combined_main_cli_supplied": false,
+      "dss_audit": "evidence/integration/h1-local-delivery-audit/audit.json",
       "new_dss_test_run": false,
-      "dss_existing_evidence": "evidence/integration/h1-16b3094-render/README.md"
+      "full_section_acceptance": false
     }
   },
   "continuation_updates": {
@@ -82,7 +90,9 @@
         "cn"
       ],
       "does_not_expand_related_tasks": true,
-      "new_dss_test_run": false
+      "new_dss_test_run": false,
+      "latest_notice": "229f1c15-794e-4078-8f25-d40d8cd1ea47",
+      "latest_progress": "FO reports API prototype16cases/full348 partition with6 visible/MPD passed; design review next, no implementation delivered"
     }
   }
 }

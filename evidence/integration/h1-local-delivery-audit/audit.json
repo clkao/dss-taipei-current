@@ -1,0 +1,76 @@
+{
+  "kind": "Read-only delivery and retained-evidence audit; no runtime test",
+  "notice_id": "229f1c15-794e-4078-8f25-d40d8cd1ea47",
+  "merge": "8c325eb9550fb1e675705829f7287370cc48e333",
+  "parents": [
+    "592cd9b5cafab97bc23d4ce007c6caa0356c80f0",
+    "06f9f48b7c35eab2f29f902add245b073b7e4488"
+  ],
+  "tree": "cb435b150cfe07caed159acfbcdd3e84c9845fba",
+  "h1_blobs": {
+    "tools/build_package.go": {
+      "expected": "a75402588ddf056503d32373719f6d76c732ad42",
+      "actual": "a75402588ddf056503d32373719f6d76c732ad42"
+    },
+    "tools/viewer/trays.js": {
+      "expected": "6072e6e32f00f52bec2832b545ed88fe439503f5",
+      "actual": "6072e6e32f00f52bec2832b545ed88fe439503f5"
+    },
+    "tools/viewer/instructions.js": {
+      "expected": "2fc2df7f01bfa42303e77fd619cbb560cea6da7f",
+      "actual": "2fc2df7f01bfa42303e77fd619cbb560cea6da7f"
+    },
+    "tools/viewer/instructions.mjs": {
+      "expected": "ab4aa2add8410ad48684a0b3d5fad52d75351495",
+      "actual": "ab4aa2add8410ad48684a0b3d5fad52d75351495"
+    },
+    "tools/build_test.go": {
+      "expected": "0054f786d5327aeabe99937d8ce75e03d3acf8da",
+      "actual": "0054f786d5327aeabe99937d8ce75e03d3acf8da"
+    },
+    "tools/viewer/trays.test.js": {
+      "expected": "18ef015ba26083d27fad5b270e0ef98406b0ce81",
+      "actual": "18ef015ba26083d27fad5b270e0ef98406b0ce81"
+    },
+    "cmd/studfleet/draft_rigid_integration_test.go": {
+      "expected": "34fa121af8e95825b5292c864c3a15c3c8d3baad",
+      "actual": "34fa121af8e95825b5292c864c3a15c3c8d3baad"
+    }
+  },
+  "connector_files": {
+    "tools/connectivity/inspect.py": {
+      "expected": "3b8436a49aae2ed284774d80f72045137ab6f764781c724e184de58986c14c46",
+      "actual": "3b8436a49aae2ed284774d80f72045137ab6f764781c724e184de58986c14c46"
+    },
+    "cmd/studfleet/import_integration_test.go": {
+      "expected": "6330e7e83bfdc1ef5e9d044e4be9cc4c983a26082f55d9b5568d105e142ec970",
+      "actual": "6330e7e83bfdc1ef5e9d044e4be9cc4c983a26082f55d9b5568d105e142ec970"
+    },
+    "tools/testdata/connectivity/rounded-arm.mpd": {
+      "expected": "dd6fb379672acb5c4d36693bb9039645a984481b47aa091bf2224c22750fb6fb",
+      "actual": "dd6fb379672acb5c4d36693bb9039645a984481b47aa091bf2224c22750fb6fb"
+    }
+  },
+  "reference_hashes": {
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-validation/integration-2/source-and-bridge-audit.json": "03aed2b53d415abeec1582067e780769f265ed832f399acef94b3749b070b3b8",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-validation/cycle-2/viewer-equivalence-bridge.json": "3c4573ba37a5989e67fea2560c747145c5c4cfdb0880493d6245e3a4e5ce107b",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-validation/integration-2/final-validation-report.json": "bcc5295edd1eb8a4fbbfe64d952e1fa87b3c052fd4863eafa19c190850fec5f1"
+  },
+  "upstream_six_ac_statuses": {
+    "AC-1": "PASSED",
+    "AC-2": "PASSED",
+    "AC-3": "PASSED",
+    "AC-4": "PASSED",
+    "AC-5": "PASSED",
+    "AC-6": "PASSED"
+  },
+  "dss_viewer_matches_original_bridge": true,
+  "dss_original_pdf_sha256": "8f637e9bc9fe649c80e8852bd6aab91158dbd1dfc26c03df9ffdb3cfce02946e",
+  "bridge_original_pdf_sha256": "729ba395b677eb1846cc6b3f4be652adbe1309be03f6244c5e1658e40c905173",
+  "pdf_identity_limit": "DSS separate export PDF is not byte-identical to bridge original; no cross-package PDF identity claim. Existing DSS A4 review remains separately bound. No PDF comparison/render repeated.",
+  "retained_feature_cli": "b410216e4e90d80665853420f3bd91a0c41980c807625fd8d1df1df91f9f9f91",
+  "retained_feature_source": "b0748c90a24b6b84e38e8d20394ddacb0da89d9b",
+  "no_combined_cli": true,
+  "new_live_or_human_claim": false,
+  "all_adopted": false
+}

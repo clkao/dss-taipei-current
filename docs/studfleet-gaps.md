@@ -229,3 +229,12 @@ The first specimen is step 61: two prior rails from operation 164 plus four new 
 H1 remains provisional and unmerged. FO reports that its six-AC review and labeled manual-equivalence bridge passed, but merge preflight found five conflicts against accepted main `84ab84b`. No merge occurred. Guard rework superseded terminal approval. The producer now reconciles accepted main and H1 for `validation/2`. Existing DSS evidence does not establish the reconciled candidate.
 
 Next priority is the continuation task's supported-path decision and bounded design proof, followed by H1 reconciliation evidence when supplied. No heavy slot is available. Supplied-unit evidence `990e37b` remains green without a redundant test. Figure operation 198, artwork, vehicle context, live/human review and full-manual parity remain distinct. All sections remain `adopted=false`. This update changed only dependency and gap records; no tests or workflow actions ran.
+
+
+### H1 delivered locally; continuation design next
+
+[Read-only delivery audit](../evidence/integration/h1-local-delivery-audit/README.md) confirms actual merge `8c325eb9550fb1e675705829f7287370cc48e333`, its parents and tree. Audited H1 and connector file identities match the independent report. H1 advances from provisional/unmerged to delivered locally. DSS's viewer matches the bridge's original viewer, while its separately exported PDF remains a distinct artifact. The original labeled upstream manual drive, corrected artifact bridge and DSS headless/A4 evidence retain their respective scopes.
+
+No new combined-main CLI or fresh live/human evidence accompanies this delivery. Retained H1 `b410216e` and connector `1267d4eb` binaries stay separate. No runtime test repeated. Section and full-manual acceptance remain open, with all sections adopted=false.
+
+Next priority is continuation task `tz2fgk3x5t3j8ghwsrem380v`. FO reports its 16-case API prototype and full348/visible6 partition proof passed; design review is next. This is not implementation delivery or DSS CLI evidence. Figure operation 198, artwork and prior vehicle context remain distinct adoption requirements.
