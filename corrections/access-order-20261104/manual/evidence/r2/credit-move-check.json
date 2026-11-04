@@ -1,0 +1,24 @@
+{
+  "changed": [
+    "index.html",
+    "credits.html",
+    "release-provenance.json",
+    "release.zip",
+    "package-manifest.json"
+  ],
+  "pins": {
+    "index.html": "4c5c1401db161f3a49b7d05463b7c5b2cb4ef82a2ec1e085f60f0ff8da46b6f5",
+    "credits.html": "24328460b90a74d6690d5601986c8351aac7d6f357dd10e6154e36570d9ba21d",
+    "release-provenance.json": "be2902da9441bd93536480b5d67351465cdfb5267efac30b3ae40ddaca77a371",
+    "release.zip": "9b1a8e5c5f223add6be175c20ff19c651ca3ad4ae5c1d2b20451927e560895b3",
+    "package-manifest.json": "646b6333e8b5b41b34d920cb34b023cf61895e7583037369fdefa70ac6500c2a"
+  },
+  "pdf_sha256": "b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a",
+  "full_feedback_exactly_once_in_credits": true,
+  "homepage_anchor_link_only": true,
+  "index_scripts_and_embedded_data_unchanged": true,
+  "all_other_release_files_unchanged": true,
+  "zip_unchanged_members_byte_equal": true,
+  "manifest_hashes_pass": true,
+  "retained": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-r2/before-credit-move"
+}

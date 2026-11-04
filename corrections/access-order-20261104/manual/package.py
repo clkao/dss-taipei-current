@@ -21,12 +21,19 @@ payload=json.loads(gzip.decompress(base64.b64decode(match[1])));assert payload['
 encoded=base64.b64encode(gzip.compress(json.dumps(payload,ensure_ascii=False).encode(),mtime=0)).decode();h=h[:match.start(1)]+encoded+h[match.end(1):]
 (D/'viewer.html').write_text(h)
 idx=D/'index.html'
-# Published entry page keeps the complete tested viewer and adds the requested credit.
+# Preserve the old homepage anchor; the full feedback credit belongs on credits.html.
 feedback=(Path(__file__).parent/'instruction-feedback.html').read_text()
 anchor='  <p class="disclaimer">'
 assert h.count(anchor)==1
 if idx.is_symlink():idx.unlink()
-idx.write_text(h.replace(anchor,feedback+'\n'+anchor))
+feedback_link='<p id="instruction-feedback"><a href="credits.html#instruction-feedback">Instruction feedback / 組裝說明回饋</a></p>'
+idx.write_text(h.replace(anchor,feedback_link+'\n'+anchor))
+credits=(Path(__file__).parent/'retained-credits.html').read_text()
+credit_anchor='<section id="physical-vehicle">'
+assert credits.count(credit_anchor)==1 and 'id="instruction-feedback"' not in credits
+credit_path=D/'credits.html'
+if credit_path.is_symlink():credit_path.unlink()
+credit_path.write_text(credits.replace(credit_anchor,feedback+'\n'+credit_anchor))
 write(D/'print-preflight.json',dict(pdf='instructions.pdf',pdf_sha256=sha(D/'instructions.pdf'),pages=page['pages'],print_sheets=[dict(page=n,contents=title) for n,title in zip(sheets,['Vehicle stickers','Two speech-bubble faces and jacket'])],scale='100% / actual size; check the 20 mm scale bar.',editable_sources='sticker-artwork.zip'))
 # Keep every original editable artwork byte; replace only the obsolete page reference.
 zpath=D/'sticker-artwork.zip';tmp=D/'sticker-artwork-new.zip'
