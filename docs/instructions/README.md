@@ -110,6 +110,7 @@ Community feedback from 彭柏源 identified late pin installation at legacy ste
 - Preserve dependencies when grouping operations. A shared region or short part list does not make operations simultaneous. Show ordered intermediate panels when installation order matters; otherwise split the reader step.
 - Show the receiving structure and attachment points in every required panel. Review actual rendered images, not just cumulative counts or authored selections. New-part emphasis must not hide the previously built structure.
 - Prefer a sequence that avoids removal. If removal is necessary, show removal and reinstallation explicitly, with correct inventory ownership; never leave that work implicit.
+- A floating-part correction must preserve both connected intermediate assemblies and installation access. Review the local recipe and its later join separately. Reuse earlier evidence only for the exact parts, state and motion it checked; a shared recipe prefix does not cover later asymmetric operations.
 - After an access failure, inspect analogous closures and repeated copies. Record confirmed defects separately from suspected access or handling problems. Unknown motion stays unknown.
 - Review the corrected transition with exact entry/new/exit parts and original operation mappings. Check unchanged final geometry and unique part introductions, then inspect the actual panels and perform a physical or supported insertion exercise for any claimed clearance. Reader acceptance remains open until the exact correction is reviewed.
 
