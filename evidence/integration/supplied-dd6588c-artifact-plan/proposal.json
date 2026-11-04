@@ -1,0 +1,53 @@
+{
+  "status": "PROPOSED ONLY; no runtime executed",
+  "package": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/package",
+  "frozen_handoff_sha256": "2b516efe26a1465369c112142db9abb2ae184826da37af04309a157131bdb14b",
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes",
+  "proposed_limits": {
+    "total_seconds": 120,
+    "additional_owned_bytes": 41943040,
+    "free_disk_floor_bytes": 536870912,
+    "serial": true
+  },
+  "commands": [
+    [
+      "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/studfleet",
+      "verify",
+      "--out",
+      "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/package"
+    ],
+    [
+      "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+      "/Users/clkao/git/spacedock-research/dss-taipei-current/evidence/integration/supplied-dd6588c-artifact-plan/navigation.mjs",
+      "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/navigation"
+    ]
+  ],
+  "preflight": "Read-only rehash frozen package and exact binary; stop on mismatch. Require fresh output.",
+  "runtime_environment": {
+    "TMPDIR": "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/tmp",
+    "XDG_CACHE_HOME": "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-artifact-review/cache"
+  },
+  "visual_inputs": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/package/page-001.png",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/package/page-002.png",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/package/page-003.png"
+  ],
+  "pdf": "Use frozen instructions.pdf. Existing page rasters support visual inspection; no Poppler or rerender proposed.",
+  "cleanup": "Bounded wrapper records both commands; wait for owned processes, close browser in finally, terminate only owned process group on limit; retain compact logs/screenshots, remove only owned temp/cache after closure. Never remove shared node_modules.",
+  "checks": [
+    "Names and supplied completed cards8+8",
+    "Two loose accessories only; no body recollection",
+    "No fake recipe/copy-return callouts for supplied figures",
+    "Previous/next restores stock and frame context",
+    "Final decorations and positioning note against195-198",
+    "Neutral controls and required draft/physical limits",
+    "NoHTTP/pageerrors"
+  ],
+  "limits": [
+    "No330-piece vehicle context",
+    "No artwork/print packaging proof",
+    "Operation198 intent requires explicit reconciliation",
+    "No live/human AC5 or fullmanual acceptance",
+    "No adoption/gate/publication change"
+  ]
+}
