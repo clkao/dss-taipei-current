@@ -303,3 +303,43 @@ Parent owns review disposition and any subsequent authorized replacement. Curren
 ### Summary
 
 The complete R2 correction package is authored and evidence-bound for the same independent reviewer. Installed bands, shared two-copy bases and the related chassis overview now have actual author UI evidence; PDF138pages and references are consistent. Physical and independent-review limits remain explicit.
+
+## Stage Report: instruction-review (cycle 3)
+
+- DONE — Verify the actual corrected package preserves exact348piece geometry/inventory, all construction and guide coverage, consistent operation/page/recipe/copy references, and source/artifact identity.
+  Evidence: independently compared all 348 piece records and 215 build operations against retained access-corrected: equal; independently hashed all eight final pins below: match. Read static/package checks, copy proof, page correspondence and final rebind diff; 27 manifest/archive members verified by author.
+- DONE — Independently inspect actual finalPDF pages at A4 and viewer recipe/receiver/return paths, challenging pins/bumper/both carrier assembly order and receiving-context clarity; classify access limits without inferring physical proof.
+  Evidence: personally inspected all 138 actual A4 page rasters and all eight R2 screenshots at readable size; reviewed the observer/navigation source and saved results. Independent image judgment and source review are distinct from author headless navigation; no independent native interaction is claimed.
+- DONE — Produce an evidence-bound PASSED or REJECTED recommendation with concrete findings, originalfeedback closure and exactpackage hashes; no publication, package correction or gate mutation by reviewer.
+  Evidence: PASSED for the corrected digital publication scope under existing captain authority, with the inherited polish follow-up and acceptance limits below. Reviewer changed only this report.
+
+### Findings and evidence levels
+
+- Material/FIX closed digitally — Location: eligible chassis/detail/receiver/return states. Defect: installed bands disappeared. Evidence: screenshots show bands in rear, bumper receiver and both carrier contexts; author observer reads actual band objects and ancestor visibility across 58 traces including 10 eligible panels. Disposition: corrected; no suspension performance claim.
+- Material/FIX closed digitally — Location: groups 17/18, PDF40–43 and56. Defect: common lower bases were unnecessarily repeated. Evidence: four pages say “2x / parts for one copy”; right continuation uses the second base and retains side-specific upper rails/receivers. Disposition: two distinct eight-piece bases, each used once; no identical whole-carrier claim.
+- Material/FIX closed digitally — Location: group11 overview versus local seed. Defect: overview showed separate seed190. Evidence: root screenshot has installed truck/rear169 and bands; local seed screenshot remains separate; recorded Next/Previous DOM clicks exercise local→root→local. Disposition: corrected main/local distinction.
+- Polish/FOLLOW-UP — Location: step18 panel5 parts tray, r2-second-base-return.png, part3666. Defect: name says “Plate 1 x 10” beside six-stud geometry and part3666. Impact: verbal size can confuse selection although ID, image and quantity remain correct. Disposition: inherited source-label issue, not R2 introduction; identical retained/R2 piece records carry the same four labels at indices9/37/62/79; route a narrow label correction separately.
+- Copy-proof limit: rigid half-turn correspondence uses 0.0001 LDU tolerance, maximum error 4.16e-5 LDU, with symmetric plate3666 handled geometrically. Raw poses were retained; this is not exact world-matrix equality or geometry normalization.
+- Earlier corrections retained: pin-before-closure sequence, separately completed bumper with dish last, separate bracketed rails before both carrier joins, and legible Turn/slash glyph replacements. All construction, wheels, shield retained-copy return, stickers, figures, six inventory pages and limitations page remain present.
+- Final PDF is 138 pages; print guides are130–131 and retain scale/fit instructions. Reviewed final reference diff and package checks preserve links, 彭柏源 credit, rights and Technic acknowledgement.
+- Independently decoded tested281f and final viewer: all non-placement payload values and all script bytes outside payload are identical; geometry instances identical. Rebind changes static review/print text and placement provenance, not tested handlers, model state or quantities.
+- Author headless evidence uses setters for initial/screenshot states and actual DOM Next/Previous clicks for traversal and copy return; eight PNGs supply visible mesh/tray/label evidence. Runtime exceptions were absent in the saved author run; independent native runtime/network remain unknown.
+- Historical runtime failure preserved: original attempt supplied no product result; subsequent Node/Chrome exited0 but supervisor exited1 on TIME_WAIT bind. Separately authorized fresh empty owned-PID/profile census and free-port check resolved closure; no reviewer rerun or new runtime was used.
+- AC2 remains incomplete for literal physical/supported continuous insertion exercises; whole-carrier witnesses156/99,166/129,96/99,115/129 remain unresolved. AC3 sweep limits for suspension, floor/caps, lights/cabin/roof, shield and late equipment remain; optional shared mesh work belongs to StudFleet31 (315f09esmt0nmg9mhfysv662).
+- AC4 independent native main/local/copy-return exercise remains unavailable: prior CUA host inventory failed with no browsers; no retry, owned tab or process. Captain preview/publication authority is separate human evidence and does not certify physical assembly. No shared-gap or full-edition parity closure.
+
+### Exact reviewed package
+
+Candidate: builds/access-corrected-r2, source67d14d5; retained published d14e4df/access-corrected was not changed.
+- model.json SHA256: 3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229
+- instruction-plan.json SHA256: df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff
+- viewer.html SHA256: 8c6b1608d9d959fbea6072a864766ffecc2087734a3e531b33977bcb2848d30d
+- index.html SHA256: f485d4dfe9f2e53e86db7acb115a8734b8777b2c45110ec5f29ee7ba0d3a4128
+- instructions.pdf SHA256: b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a
+- pdf-page-map.json SHA256: 9c2d271fe423a4ad5331ff920ce121b7f05bea2182b59ce2e512049bd732626e
+- package-manifest.json SHA256: 70ebd2415d5bc5a9a58238b1be7ec94aede7ca3e76f17670c76df5c64e223d65
+- release.zip SHA256: 76f2f8ae957ff632c8c820296dacf324d0787b0a40725ec996da35d5510e79d3
+
+### Summary
+
+PASSED for the three authorized digital corrections, supported by independent inspection of all 138 pages/eight screenshots and bounded source/hash review. The inherited label discrepancy is a recorded polish follow-up; physical exercises, independent native UI acceptance and full-edition parity remain unfulfilled. Publication disposition belongs to the first officer under the captain's existing authority.
