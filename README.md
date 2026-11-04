@@ -71,6 +71,8 @@ The explicit shared-catalog inspection ran with `--connectivity pyldraw3` and pi
 
 [StudFleet gaps and simplification plan](docs/studfleet-gaps.md) records each exact gap, its DSS impact, adoption evidence, and the code or process it can replace.
 
+[Incremental adoption](docs/incremental-adoption.md) defines section boundaries, checks, and retirement conditions. The [section manifest](manifests/incremental-adoption.json) derives exact entry/new/exit occurrence sets from the retained plan.
+
 Resolve the linked shared-tool dependencies before a migrated instruction edition: portable installation (`nk`), large-model inspection (`k4`), compound approaches (`31`), main-step composition (`h1`), supplied preassembled units (`90`), wanted lists (`rx`) and revision diffs (`mc`). Nested joins (`n0`), recipe scheduling (`7d`), guidance (`cn`), reader labels (`w4`) and neutral views (`tw`) must be checked at their actual usable revisions. Captured statuses are observations, not claims that work is merged. Shared tooling and other project checkouts remain read-only here.
 
 Do not replace the legacy release until complete artifact and readability parity is demonstrated. A model defect returns to a linked model revision; sequencing, grouping, views and text remain instruction work. Publication needs the exact accepted package and applicable user authority.
