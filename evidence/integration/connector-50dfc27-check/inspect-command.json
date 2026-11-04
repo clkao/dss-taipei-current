@@ -1,0 +1,30 @@
+{
+  "argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-inspect-dss-minifigure-without-connector-backend-failure/builds/dss-connector-implementation/studfleet-1267d4eb9ef1c9de",
+    "inspect",
+    "--assembly",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/connector-50dfc27-check/intake/assembly.json",
+    "--provenance",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/connector-50dfc27-check/intake/import-report.json",
+    "--report",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/connector-50dfc27-check/inspection.json",
+    "--connectivity",
+    "pyldraw3",
+    "--python",
+    "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/connector-venv/bin/python",
+    "--shadow",
+    "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow",
+    "--ldraw",
+    "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/ldraw-complete.zip"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-inspect-dss-minifigure-without-connector-backend-failure",
+  "env": {
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "TMPDIR": "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/connector-50dfc27-check/tmp"
+  },
+  "exit_code": 0,
+  "halt": "",
+  "elapsed_seconds": 11.902596042491496,
+  "peak_owned_bytes": 1977638,
+  "minimum_free_bytes": 4511735808
+}

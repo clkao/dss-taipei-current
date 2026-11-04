@@ -1,0 +1,25 @@
+{
+  "source_sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
+  "binary_sha256": "1267d4eb9ef1c9defc1fbf31453a201add36dabf0d0753ac8b9ce803dd4fa677",
+  "assembly_sha256": "792ee898ed3238cd7c26ea8a7466c1e68fc259f394a8af41a015152d92ab3642",
+  "all_348_instance_records_exact": true,
+  "all_origin_chains_exact": true,
+  "source_bytes_exact": true,
+  "resource_pins": {
+    "python": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/connector-venv/bin/python",
+      "version": "Python 3.14.7",
+      "executable_sha256": "87d4df53fd91304be5bac391fb204643c36b7df2023c04a0953bcbc7d4fdf634"
+    },
+    "archive": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/ldraw-complete.zip",
+      "sha256": "f3e496d0ede69ca7942fa4aa198e661ee2d22723906101e2e339d8917a4dd5f2",
+      "copied": false
+    },
+    "shadow": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow",
+      "git_revision": "9b1131fb1991f8c0bfc072325e4e12f6271aba35",
+      "expected_content_sha256": "eee7a65bfdd91375e64eaefd212b9fa2768859c9ad9e647280907b2cdf3822e9"
+    }
+  }
+}

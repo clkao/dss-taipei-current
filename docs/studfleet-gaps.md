@@ -150,3 +150,7 @@ These are DSS adoption priorities, not upstream workflow status changes.
 ### Reader-label increment
 
 [Candidate 3a6833b input checks](../evidence/integration/labels-3a6833b-check/README.md) pass on freshly imported speakers and rings. `w4` advances to DSS parser/compiler compatibility: authored labels survive and frame/copy/source semantics remain unchanged. Visual clutter removal and saved-package verification remain pending; no render lease was used. Next: bounded label rendering when authorized, then h1 and 90. Modeling priorities are unchanged.
+
+### Connector increment
+
+[Independent exact348 check](../evidence/integration/connector-50dfc27-check/README.md) on provisional 50dfc27 replaces backend failure with usable inspection evidence. Fresh import/inspect exit0; all348 source instances/origins unchanged. Metadata coverage:342 complete,6 partial;562 confirmed and447 potential contact observations;29 unmatched. The affected arm retains explicit zero-confidence diagnostics and no contact claim. Upstream release remains pending. This does not change k4 or establish construction validity. Instructions remain w4 visual validation, h1, then90.

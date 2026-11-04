@@ -1,0 +1,254 @@
+{
+  "candidate_source": "50dfc277779413949e4ae882ecafff3d616a93aa",
+  "old_status": "failed: connector malformed position: o/3/3/snap_cyl@L11:I0",
+  "new_status": "review: metadata coverage and observed contacts only; no physical certification",
+  "total": 348,
+  "all_connector_occurrences_and_origins_exact": true,
+  "connector_summary": {
+    "complete": 342,
+    "confirmed": 562,
+    "features": 3463,
+    "pairs": 416,
+    "partial": 6,
+    "potential": 447
+  },
+  "contact_status_counts": {
+    "potential": 447,
+    "confirmed": 562
+  },
+  "unmatched_count": 29,
+  "unmatched": [
+    "o/3/3",
+    "o/3/4",
+    "o/3/5",
+    "o/3/6",
+    "o/3/8",
+    "o/12/1/4",
+    "o/12/1/5",
+    "o/13/1/4",
+    "o/13/1/5",
+    "o/14/1/8",
+    "o/14/1/9",
+    "o/14/29",
+    "o/14/62",
+    "o/14/63",
+    "o/14/103",
+    "o/14/105",
+    "o/14/111",
+    "o/14/113",
+    "o/14/134",
+    "o/14/135",
+    "o/14/167",
+    "o/14/168",
+    "o/14/169",
+    "o/14/170",
+    "o/14/187/2",
+    "o/14/188/2",
+    "o/14/189/2",
+    "o/14/190/2",
+    "o/15/1/8"
+  ],
+  "partial": [
+    {
+      "id": "o/3/4",
+      "coverage": "partial",
+      "invalid": 2,
+      "diagnostics": [
+        "connection feature 'snap_cyl@L11:I0' from /Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow/parts/3818.dat:11 rejected under invalid scale or reflection",
+        "connection feature 'snap_cyl@L14:I0' from /Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow/parts/3818.dat:14 rejected under invalid scale or reflection",
+        "Placed feature 3818@R0/s/3818s01@R0/knob1@R0/snap_cyl@L8:I0: upstream confidence=0; not usable for contacts; metadata coverage is separate.",
+        "Placed feature snap_cyl@L9:I0: upstream confidence=0; not usable for contacts; metadata coverage is separate.",
+        "Placed feature snap_cyl@L12:I0: upstream confidence=0; not usable for contacts; metadata coverage is separate."
+      ]
+    },
+    {
+      "id": "o/14/187/2",
+      "coverage": "partial",
+      "invalid": 0,
+      "diagnostics": []
+    },
+    {
+      "id": "o/14/188/2",
+      "coverage": "partial",
+      "invalid": 0,
+      "diagnostics": []
+    },
+    {
+      "id": "o/14/189/2",
+      "coverage": "partial",
+      "invalid": 0,
+      "diagnostics": []
+    },
+    {
+      "id": "o/14/190/2",
+      "coverage": "partial",
+      "invalid": 0,
+      "diagnostics": []
+    },
+    {
+      "id": "o/15/1/4",
+      "coverage": "partial",
+      "invalid": 2,
+      "diagnostics": [
+        "connection feature 'snap_cyl@L11:I0' from /Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow/parts/3818.dat:11 rejected under invalid scale or reflection",
+        "connection feature 'snap_cyl@L14:I0' from /Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow/parts/3818.dat:14 rejected under invalid scale or reflection"
+      ]
+    }
+  ],
+  "affected_arm": {
+    "occurrence": {
+      "id": "o/3/3",
+      "part": "3818",
+      "color": 272,
+      "module": "",
+      "matrix": [
+        [
+          0,
+          0,
+          -1,
+          49
+        ],
+        [
+          0.17,
+          0.985,
+          0,
+          -207.3750672
+        ],
+        [
+          0.985,
+          -0.17,
+          0,
+          64.44800000000001
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    "origin": {
+      "id": "o/3/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 11,
+          "reference": "assembly-candidate.ldr"
+        },
+        {
+          "definition": "assembly-candidate.ldr",
+          "line": 86,
+          "reference": "3818.dat"
+        }
+      ]
+    },
+    "coverage": "complete",
+    "invalid": 0,
+    "unsupported": 0,
+    "diagnostics": [
+      "Placed feature s/3818s01@R0/knob1@R0/snap_cyl@L8:I0: upstream confidence=0; not usable for contacts; metadata coverage is separate.",
+      "Placed feature snap_cyl@L11:I0: upstream confidence=0; not usable for contacts; metadata coverage is separate.",
+      "Placed feature snap_cyl@L14:I0: upstream confidence=0; not usable for contacts; metadata coverage is separate."
+    ],
+    "uninterpreted_kinds": [
+      "pin",
+      "pin_hole"
+    ],
+    "features": [
+      {
+        "id": "s/3818s01@R0/knob1@R0/snap_cyl@L8:I0",
+        "kind": "pin",
+        "source": "ldcad_shadow",
+        "provenance": [
+          "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow/p/knob1.dat:8"
+        ],
+        "local": [
+          0,
+          0,
+          0
+        ],
+        "world": [
+          49,
+          -207.3750672,
+          64.44800000000001
+        ],
+        "axis": [
+          0,
+          0.17007442384421062,
+          0.9854312205091027
+        ]
+      },
+      {
+        "id": "snap_cyl@L11:I0",
+        "kind": "pin",
+        "source": "ldcad_shadow",
+        "provenance": [
+          "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow/parts/3818.dat:11"
+        ],
+        "local": [
+          0.9999999999999972,
+          -1.2212453270876722e-14,
+          0
+        ],
+        "world": [
+          49,
+          -207.2050672,
+          65.433
+        ],
+        "axis": [
+          0,
+          -0.17007442384421062,
+          -0.9854312205091027
+        ]
+      },
+      {
+        "id": "snap_cyl@L14:I0",
+        "kind": "pin_hole",
+        "source": "ldcad_shadow",
+        "provenance": [
+          "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow/parts/3818.dat:14"
+        ],
+        "local": [
+          -5,
+          18.883900000000004,
+          -9.883899999999997
+        ],
+        "world": [
+          58.8839,
+          -189.6244257,
+          56.312737000000006
+        ],
+        "axis": [
+          -0.7072615115676899,
+          -0.6966525888941745,
+          0.12023445696650728
+        ]
+      }
+    ]
+  },
+  "affected_arm_contact_claims": 0,
+  "connector_identity": {
+    "adapter": "pyldraw3-1.7.0-stud-query/2",
+    "assembly": "792ee898ed3238cd7c26ea8a7466c1e68fc259f394a8af41a015152d92ab3642",
+    "compat.py": "6da7ae5975d3058a0ca97cfc96e1f9dce8482f05ab05993b4d89be88f67a5f3d",
+    "geometry_manifest": "d5e3363a3d0910343285235c77d6feb7f408b31a520db6fbd3f94df21b901709",
+    "inspect.py": "3b8436a49aae2ed284774d80f72045137ab6f764781c724e184de58986c14c46",
+    "packages": "{\"certifi\":\"2026.7.22\",\"charset-normalizer\":\"3.5.2\",\"idna\":\"3.20\",\"numpy\":\"2.5.3\",\"platformdirs\":\"4.12.4\",\"progress\":\"1.6.1\",\"pyldraw3\":\"1.7.0\",\"pystache\":\"0.6.8\",\"pyyaml\":\"6.0.3\",\"requests\":\"2.34.2\",\"urllib3\":\"2.8.0\"}",
+    "pyldraw_source": "eedb5fb7c4282497452ba95f6c0dcdb674d95398a3d6ff1c5db9595ad5acd7a9",
+    "python": "3.14.7",
+    "requirements.lock": "8aab18cffe515724e06c21bcbf5c8f6bbcf42b794218585f239c446614fdd981",
+    "shadow_commit": "9b1131fb1991f8c0bfc072325e4e12f6271aba35",
+    "shadow_tree": "eee7a65bfdd91375e64eaefd212b9fa2768859c9ad9e647280907b2cdf3822e9",
+    "source": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2"
+  },
+  "static_geometry_supported": 52,
+  "static_unresolved": 296,
+  "required_failure": false,
+  "limits": [
+    "Conservative rectangular bodies exclude stud/socket engagement; 0.001 LDU contact tolerance.",
+    "Fine mesh interference, grip, stiffness, tipping and physical strength untested.",
+    "Supported body bounds are not complete render bounds."
+  ],
+  "report_sha256": "996dc6248d986b3bcd338753c5dc7add19dac65fc651d6a959a53dc5fc7cecd0"
+}
