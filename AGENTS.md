@@ -13,3 +13,7 @@ Reference reconciliation is unresolved. A shared-reference update does not updat
 Record unknowns and source hashes. Never change geometry, colors or poses to satisfy migration formats.
 Use small specimens and shared caches; disk is constrained. Do not duplicate release bundles or catalog archives.
 Communicate in English; Facebook post drafts use zh-TW.
+
+After every tested StudFleet update, report which DSS gaps changed status, the evidence and limits, and the remaining priorities.
+Distinguish input/compilation, artifact verification, visual/headless review, human acceptance, and full-edition parity.
+Do not mark a gap closed from a task status or a partial test alone.

@@ -1,0 +1,17 @@
+studfleet: draft renderer (npm ci and Node 24+ required): exit status 1
+node:fs:621
+  return binding.open(
+                 ^
+
+Error: ENOENT: no such file or directory, open 'node_modules/playwright-core/package.json'
+    at Object.openSync (node:fs:621:18)
+    at Object.readFileSync (node:fs:487:35)
+    at file:///Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints/tools/viewer/instructions.mjs:90:220 {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'node_modules/playwright-core/package.json'
+}
+
+Node.js v24.22.1
+

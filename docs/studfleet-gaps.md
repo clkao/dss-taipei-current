@@ -128,3 +128,21 @@ Physical trials remain separate from digital evidence.
 The current tasks do not establish full parity for publication animation, print-sheet packaging, or every custom viewer interaction.
 Those features need explicit parity evidence before their existing implementations can leave the active path.
 A shared generator release does not authorize publication. Publication still requires the exact accepted package and applicable user authority.
+
+## DSS priority and tested update (2026-11-03)
+
+These are DSS adoption priorities, not upstream workflow status changes.
+
+| Area | Priority | Gaps |
+| --- | --- | --- |
+| Modeling | First | Exact 348-piece connector inspection failure; independently validate the forthcoming fix. |
+| Modeling | When Technic resumes | k4: inspection beyond 500 occurrences. |
+| Modeling | Before repeated revisions | mc: occurrence-aware model diffs. |
+| Instructions | Current integration | tw: neutral views; 7d: recipe scheduling and retained copies. |
+| Instructions | Next | h1: ordered main-step composition, then 90: supplied figures. |
+| Instructions | Complete-edition parity | cn: guidance; w4: reader labels; shared prefixes 18/19; retained panels. n0 only where actual nesting requires it. |
+| Instructions | Purchasing deliverable | rx: reviewed wanted-list export. |
+| Both | Before replacing shield path evidence | 31: compound installation paths. |
+| Both | Before portable adoption | nk: reproducible tool/workflow package. |
+
+[Bounded TW render evidence](../evidence/integration/tw-95b67ce-render/README.md) advances tw from input checks to PDF/headless evidence, and strengthens 7d copy/tray/navigation evidence. Both packages verify; speaker exporter exit remains unknown after a DSS monitor failure. Neither task is declared closed. Main-anchor relocation, prefixes, full edition parity and human acceptance remain outstanding.

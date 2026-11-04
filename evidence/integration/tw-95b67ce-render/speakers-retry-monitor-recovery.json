@@ -1,0 +1,12 @@
+{
+  "finding": "DSS monitor temporary-file stat race; exporter continued independently",
+  "owned_exporter_pid": 36402,
+  "export_exit_code": null,
+  "exit_code_reason": "Original monitor exited before waiting for child",
+  "takeover_peak_owned_bytes": 0,
+  "minimum_free_bytes": 4264222720,
+  "halt": "",
+  "package_exists": true,
+  "elapsed_seconds": 0.005389249883592129,
+  "monitor_correction": "Ignore FileNotFoundError for disappearing temporary files. No candidate or input change."
+}

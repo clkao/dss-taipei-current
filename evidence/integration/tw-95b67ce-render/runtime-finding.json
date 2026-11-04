@@ -1,0 +1,41 @@
+{
+  "candidate": "95b67ce1177afbe4323ed7fcb9da772f71d759b5",
+  "resources": {
+    "binary": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints/builds/placement-hint-implementation/studfleet",
+      "sha256": "ba331fec26dea7351a89a8fc52fe295f164a34ebc169fe5a62af444bc09bdc22"
+    },
+    "package_lock": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints/package-lock.json",
+      "sha256": "1572b9357d3e1e7100c2b24397fbbf2cba6809775d1654cd2ceeaf42dd739983"
+    },
+    "renderer": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints/tools/viewer/instructions.mjs",
+      "sha256": "dd177aa65fa50f1d8b3fb7eefe0537f543611138203404066d178b5d6a43924c"
+    },
+    "root_playwright": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/node_modules/playwright-core/package.json",
+      "sha256": "16a25dbd7368a87af8b58a45c6216b9cec5a91a72cf704533344701997ebde22"
+    },
+    "catalog": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/ldraw-complete.zip",
+      "sha256": "f3e496d0ede69ca7942fa4aa198e661ee2d22723906101e2e339d8917a4dd5f2"
+    },
+    "chrome": {
+      "path": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+      "sha256": "3f0acaf1e585195596d73ffa1824baa72c3c3ac115b5cfc43d789030a3f23d93"
+    }
+  },
+  "node": "v24.22.1",
+  "finding": {
+    "trigger": "Speakers public draft export after all input checks passed.",
+    "expected": "Complete PDF/offline viewer package.",
+    "observed": "Exit 1; instructions.mjs:90 ENOENT node_modules/playwright-core/package.json.",
+    "impact": "No usable package retained. Ring export not attempted.",
+    "materiality": "Material runtime blocker.",
+    "owner": "Shared candidate runtime dependency availability.",
+    "diagnosis": "Candidate node_modules link observed present at preflight and absent after export. Root dependency still exists. Concurrent removal is suspected, not proven.",
+    "correction": "None. Requested owner restoration and stable resource reservation.",
+    "process_status": "Exporter exited; renderer closes browser in finally. No DSS browser/Poppler job started separately."
+  }
+}
