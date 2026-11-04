@@ -1,0 +1,703 @@
+{
+  "same348_piece_records": true,
+  "same215_operations_and_unique_stock": true,
+  "fail_before": [
+    "legacy detailed handler unconditionally disables bands",
+    "group11 root overview is local seed190",
+    "both carrier groups discard source common-prefix metadata"
+  ],
+  "eligible_band_frames": [
+    {
+      "step": 10,
+      "panel": 1,
+      "source_operation": "legacy-030",
+      "kind": "build",
+      "anchors": [
+        [
+          227,
+          239
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "step": 10,
+      "panel": 2,
+      "source_operation": "legacy-031a",
+      "kind": "build",
+      "anchors": [
+        [
+          227,
+          239
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "step": 11,
+      "panel": 1,
+      "source_operation": "legacy-032a",
+      "kind": "build",
+      "anchors": [
+        [
+          227,
+          239
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "step": 12,
+      "panel": 6,
+      "source_operation": "legacy-035j",
+      "kind": "receiver-context",
+      "anchors": [
+        [
+          227,
+          239
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "step": 12,
+      "panel": 7,
+      "source_operation": "legacy-035j",
+      "kind": "join",
+      "anchors": [
+        [
+          227,
+          239
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "step": 12,
+      "panel": 8,
+      "source_operation": "legacy-031b",
+      "kind": "build",
+      "anchors": [
+        [
+          227,
+          239
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "step": 17,
+      "panel": 15,
+      "source_operation": "legacy-050",
+      "kind": "receiver-context",
+      "anchors": [
+        [
+          227,
+          239
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "step": 17,
+      "panel": 16,
+      "source_operation": "legacy-050",
+      "kind": "join",
+      "anchors": [
+        [
+          227,
+          239
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "step": 18,
+      "panel": 15,
+      "source_operation": "legacy-058",
+      "kind": "receiver-context",
+      "anchors": [
+        [
+          227,
+          239
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    },
+    {
+      "step": 18,
+      "panel": 16,
+      "source_operation": "legacy-058",
+      "kind": "join",
+      "anchors": [
+        [
+          227,
+          239
+        ],
+        [
+          242,
+          247
+        ]
+      ]
+    }
+  ],
+  "overview_sweep": [
+    {
+      "step": 1,
+      "source_operation": "legacy-006",
+      "assembly": "truck",
+      "changed": false
+    },
+    {
+      "step": 10,
+      "source_operation": "legacy-031a",
+      "assembly": "truck",
+      "changed": false
+    },
+    {
+      "step": 11,
+      "source_operation": "legacy-032a",
+      "assembly": "truck",
+      "changed": true
+    },
+    {
+      "step": 12,
+      "source_operation": "legacy-031b",
+      "assembly": "truck",
+      "changed": false
+    },
+    {
+      "step": 17,
+      "source_operation": "legacy-050",
+      "assembly": "truck",
+      "changed": false
+    },
+    {
+      "step": 18,
+      "source_operation": "legacy-058",
+      "assembly": "truck",
+      "changed": false
+    }
+  ],
+  "common_prefix": {
+    "pieces_per_copy": 8,
+    "copies": 2,
+    "parts_per_panel_per_copy": [
+      1,
+      2,
+      3,
+      2
+    ],
+    "matrix_correspondence": [
+      {
+        "left": 97,
+        "right": 158,
+        "left_exact_matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            219.9997664
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0,
+            -86.3750086
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            7.999996599999999
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "right_exact_matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            219.99982
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            -86.37506220000002
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0,
+            152.0000146
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "origin_error_ldu": 0.0,
+        "plate_local_half_turn": true
+      },
+      {
+        "left": 96,
+        "right": 166,
+        "left_exact_matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            179.9997902
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -96.3750126
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            29.999983399999998
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "right_exact_matrix": [
+          [
+            -1.0,
+            0.0,
+            0.0,
+            259.9997902
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -96.37505440000001
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0,
+            130.0000102
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "origin_error_ldu": 1.760000000672335e-05,
+        "plate_local_half_turn": false
+      },
+      {
+        "left": 115,
+        "right": 156,
+        "left_exact_matrix": [
+          [
+            1.0,
+            0.0,
+            0.0,
+            259.9997616
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -96.3750126
+          ],
+          [
+            0.0,
+            0.0,
+            1.0,
+            29.999983399999998
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "right_exact_matrix": [
+          [
+            -1.0,
+            0.0,
+            0.0,
+            179.9998248
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            -96.37505440000001
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0,
+            130.00001319999998
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "origin_error_ldu": 1.460000001429762e-05,
+        "plate_local_half_turn": false
+      },
+      {
+        "left": 117,
+        "right": 185,
+        "left_exact_matrix": [
+          [
+            -1.0,
+            0.0,
+            -3.3e-07,
+            179.9997712
+          ],
+          [
+            -3.3e-07,
+            0.0,
+            1.0,
+            -66.3750072
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            16.0000206
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "right_exact_matrix": [
+          [
+            1.0,
+            0.0,
+            3.3e-07,
+            259.9997974
+          ],
+          [
+            -3.3e-07,
+            0.0,
+            1.0,
+            -66.37506680000001
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0,
+            144.0000088
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "origin_error_ldu": 1.8199999999524152e-05,
+        "plate_local_half_turn": false
+      },
+      {
+        "left": 140,
+        "right": 176,
+        "left_exact_matrix": [
+          [
+            -1.0,
+            0.0,
+            -3.3e-07,
+            259.99975440000003
+          ],
+          [
+            -3.3e-07,
+            0.0,
+            1.0,
+            -66.3750072
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            16.0000206
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "right_exact_matrix": [
+          [
+            1.0,
+            0.0,
+            3.3e-07,
+            179.99982
+          ],
+          [
+            -3.3e-07,
+            0.0,
+            1.0,
+            -66.37506680000001
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0,
+            144.0000116
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "origin_error_ldu": 2.1000000003823516e-05,
+        "plate_local_half_turn": false
+      },
+      {
+        "left": 197,
+        "right": 205,
+        "left_exact_matrix": [
+          [
+            -1.0,
+            0.0,
+            -3.3e-07,
+            219.9998164
+          ],
+          [
+            -3.3e-07,
+            0.0,
+            1.0,
+            -66.3750072
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            16.0000206
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "right_exact_matrix": [
+          [
+            1.0,
+            0.0,
+            3.3e-07,
+            219.9998116
+          ],
+          [
+            -3.3e-07,
+            0.0,
+            1.0,
+            -66.37507860000001
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0,
+            144.0000236
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "origin_error_ldu": 4.159999997455088e-05,
+        "plate_local_half_turn": false
+      },
+      {
+        "left": 98,
+        "right": 167,
+        "left_exact_matrix": [
+          [
+            0.0,
+            0.0,
+            -1.0,
+            149.9997884
+          ],
+          [
+            -1.0,
+            0.0,
+            0.0,
+            -86.3750086
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            15.9999966
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "right_exact_matrix": [
+          [
+            0.0,
+            0.0,
+            1.0,
+            289.9997712
+          ],
+          [
+            -1.0,
+            0.0,
+            0.0,
+            -86.37506220000002
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0,
+            144.0000088
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "origin_error_ldu": 2.6800000000548607e-05,
+        "plate_local_half_turn": false
+      },
+      {
+        "left": 116,
+        "right": 157,
+        "left_exact_matrix": [
+          [
+            0.0,
+            0.0,
+            1.0,
+            289.9997472
+          ],
+          [
+            1.0,
+            0.0,
+            0.0,
+            -86.3750086
+          ],
+          [
+            0.0,
+            1.0,
+            0.0,
+            15.9999966
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "right_exact_matrix": [
+          [
+            0.0,
+            0.0,
+            -1.0,
+            149.99982119999999
+          ],
+          [
+            1.0,
+            0.0,
+            0.0,
+            -86.37506220000002
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0,
+            144.0000028
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "origin_error_ldu": 1.8000000011397788e-05,
+        "plate_local_half_turn": false
+      }
+    ],
+    "max_origin_error_ldu": 4.159999997455088e-05,
+    "origin_tolerance_ldu": 0.0001,
+    "exact_pose_equality_claimed": false,
+    "3666_local_half_turn_vertexset_precision": 0.0001,
+    "new_geometry_or_normalization": false
+  },
+  "pins": {
+    "model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+    "instruction-plan.json": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+    "viewer.html": "281f091079fd61c6820d28bff03e56208c074417ba5d25d899cd5151389ed3f5"
+  },
+  "published_snapshot_pins": {
+    "model.json": "436ec8b84a337926f953ed0e5412f5e6fcbca78489c71d11a8cedac4dd5f085f",
+    "instructions.pdf": "e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da",
+    "viewer.html": "9cc62a26a080d240634d0d2d9d446a788c1ce9750b12033e4cfc10a09441ac90",
+    "index.html": "593cd6bf008e855abce295443d2a54350a50551c248aff524381f987319c88f8",
+    "package-manifest.json": "06b1fe09b521352e0a2b37ef7fd952208b7f0af22bd89b027173833627cae8ba"
+  },
+  "limits": "Static source/presentation evidence only. Actual flexible visibility, copy returns and PDF/UI readability await separately leased checks; no physical proof."
+}

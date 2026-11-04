@@ -1,0 +1,708 @@
+{
+  "old_pages": 142,
+  "new_pages": 138,
+  "removed_only_duplicate_right_prefix_pages": [
+    56,
+    57,
+    58,
+    59
+  ],
+  "all_remaining_page_records_identical_except_page_number": true,
+  "actual_mapping": [
+    {
+      "old": 1,
+      "new": 1,
+      "kind": "cover"
+    },
+    {
+      "old": 2,
+      "new": 2,
+      "kind": "reading-guide"
+    },
+    {
+      "old": 3,
+      "new": 3,
+      "kind": "contents"
+    },
+    {
+      "old": 4,
+      "new": 4,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 5,
+      "new": 5,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 6,
+      "new": 6,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 7,
+      "new": 7,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 8,
+      "new": 8,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 9,
+      "new": 9,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 10,
+      "new": 10,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 11,
+      "new": 11,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 12,
+      "new": 12,
+      "kind": "build-step"
+    },
+    {
+      "old": 13,
+      "new": 13,
+      "kind": "build-step"
+    },
+    {
+      "old": 14,
+      "new": 14,
+      "kind": "build-step"
+    },
+    {
+      "old": 15,
+      "new": 15,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 16,
+      "new": 16,
+      "kind": "build-step"
+    },
+    {
+      "old": 17,
+      "new": 17,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 18,
+      "new": 18,
+      "kind": "build-step"
+    },
+    {
+      "old": 19,
+      "new": 19,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 20,
+      "new": 20,
+      "kind": "build-step"
+    },
+    {
+      "old": 21,
+      "new": 21,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 22,
+      "new": 22,
+      "kind": "build-step"
+    },
+    {
+      "old": 23,
+      "new": 23,
+      "kind": "build-step"
+    },
+    {
+      "old": 24,
+      "new": 24,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 25,
+      "new": 25,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 26,
+      "new": 26,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 27,
+      "new": 27,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 28,
+      "new": 28,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 29,
+      "new": 29,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 30,
+      "new": 30,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 31,
+      "new": 31,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 32,
+      "new": 32,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 33,
+      "new": 33,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 34,
+      "new": 34,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 35,
+      "new": 35,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 36,
+      "new": 36,
+      "kind": "build-step"
+    },
+    {
+      "old": 37,
+      "new": 37,
+      "kind": "build-step"
+    },
+    {
+      "old": 38,
+      "new": 38,
+      "kind": "build-step"
+    },
+    {
+      "old": 39,
+      "new": 39,
+      "kind": "build-step"
+    },
+    {
+      "old": 40,
+      "new": 40,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 41,
+      "new": 41,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 42,
+      "new": 42,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 43,
+      "new": 43,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 44,
+      "new": 44,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 45,
+      "new": 45,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 46,
+      "new": 46,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 47,
+      "new": 47,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 48,
+      "new": 48,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 49,
+      "new": 49,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 50,
+      "new": 50,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 51,
+      "new": 51,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 52,
+      "new": 52,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 53,
+      "new": 53,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 54,
+      "new": 54,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 55,
+      "new": 55,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 60,
+      "new": 56,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 61,
+      "new": 57,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 62,
+      "new": 58,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 63,
+      "new": 59,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 64,
+      "new": 60,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 65,
+      "new": 61,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 66,
+      "new": 62,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 67,
+      "new": 63,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 68,
+      "new": 64,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 69,
+      "new": 65,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 70,
+      "new": 66,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 71,
+      "new": 67,
+      "kind": "corrected-ordered-panel"
+    },
+    {
+      "old": 72,
+      "new": 68,
+      "kind": "build-step"
+    },
+    {
+      "old": 73,
+      "new": 69,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 74,
+      "new": 70,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 75,
+      "new": 71,
+      "kind": "build-step"
+    },
+    {
+      "old": 76,
+      "new": 72,
+      "kind": "build-step"
+    },
+    {
+      "old": 77,
+      "new": 73,
+      "kind": "build-step"
+    },
+    {
+      "old": 78,
+      "new": 74,
+      "kind": "build-step"
+    },
+    {
+      "old": 79,
+      "new": 75,
+      "kind": "build-step"
+    },
+    {
+      "old": 80,
+      "new": 76,
+      "kind": "build-step"
+    },
+    {
+      "old": 81,
+      "new": 77,
+      "kind": "build-step"
+    },
+    {
+      "old": 82,
+      "new": 78,
+      "kind": "build-step"
+    },
+    {
+      "old": 83,
+      "new": 79,
+      "kind": "build-step"
+    },
+    {
+      "old": 84,
+      "new": 80,
+      "kind": "build-step"
+    },
+    {
+      "old": 85,
+      "new": 81,
+      "kind": "build-step"
+    },
+    {
+      "old": 86,
+      "new": 82,
+      "kind": "build-step"
+    },
+    {
+      "old": 87,
+      "new": 83,
+      "kind": "build-step"
+    },
+    {
+      "old": 88,
+      "new": 84,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 89,
+      "new": 85,
+      "kind": "build-step"
+    },
+    {
+      "old": 90,
+      "new": 86,
+      "kind": "build-step"
+    },
+    {
+      "old": 91,
+      "new": 87,
+      "kind": "build-step"
+    },
+    {
+      "old": 92,
+      "new": 88,
+      "kind": "build-step"
+    },
+    {
+      "old": 93,
+      "new": 89,
+      "kind": "build-step"
+    },
+    {
+      "old": 94,
+      "new": 90,
+      "kind": "build-step"
+    },
+    {
+      "old": 95,
+      "new": 91,
+      "kind": "build-step"
+    },
+    {
+      "old": 96,
+      "new": 92,
+      "kind": "build-step"
+    },
+    {
+      "old": 97,
+      "new": 93,
+      "kind": "build-step"
+    },
+    {
+      "old": 98,
+      "new": 94,
+      "kind": "build-step"
+    },
+    {
+      "old": 99,
+      "new": 95,
+      "kind": "build-step"
+    },
+    {
+      "old": 100,
+      "new": 96,
+      "kind": "build-step"
+    },
+    {
+      "old": 101,
+      "new": 97,
+      "kind": "build-step"
+    },
+    {
+      "old": 102,
+      "new": 98,
+      "kind": "build-step"
+    },
+    {
+      "old": 103,
+      "new": 99,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 104,
+      "new": 100,
+      "kind": "build-step"
+    },
+    {
+      "old": 105,
+      "new": 101,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 106,
+      "new": 102,
+      "kind": "build-step"
+    },
+    {
+      "old": 107,
+      "new": 103,
+      "kind": "build-step"
+    },
+    {
+      "old": 108,
+      "new": 104,
+      "kind": "build-step"
+    },
+    {
+      "old": 109,
+      "new": 105,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 110,
+      "new": 106,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 111,
+      "new": 107,
+      "kind": "build-step"
+    },
+    {
+      "old": 112,
+      "new": 108,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 113,
+      "new": 109,
+      "kind": "installation-approach"
+    },
+    {
+      "old": 114,
+      "new": 110,
+      "kind": "build-step"
+    },
+    {
+      "old": 115,
+      "new": 111,
+      "kind": "build-step"
+    },
+    {
+      "old": 116,
+      "new": 112,
+      "kind": "build-step"
+    },
+    {
+      "old": 117,
+      "new": 113,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 118,
+      "new": 114,
+      "kind": "build-step"
+    },
+    {
+      "old": 119,
+      "new": 115,
+      "kind": "build-step"
+    },
+    {
+      "old": 120,
+      "new": 116,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 121,
+      "new": 117,
+      "kind": "build-step"
+    },
+    {
+      "old": 122,
+      "new": 118,
+      "kind": "build-step"
+    },
+    {
+      "old": 123,
+      "new": 119,
+      "kind": "build-step"
+    },
+    {
+      "old": 124,
+      "new": 120,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 125,
+      "new": 121,
+      "kind": "build-step"
+    },
+    {
+      "old": 126,
+      "new": 122,
+      "kind": "build-step"
+    },
+    {
+      "old": 127,
+      "new": 123,
+      "kind": "build-step"
+    },
+    {
+      "old": 128,
+      "new": 124,
+      "kind": "build-step"
+    },
+    {
+      "old": 129,
+      "new": 125,
+      "kind": "build-step"
+    },
+    {
+      "old": 130,
+      "new": 126,
+      "kind": "build-step"
+    },
+    {
+      "old": 131,
+      "new": 127,
+      "kind": "local-recipe"
+    },
+    {
+      "old": 132,
+      "new": 128,
+      "kind": "build-step"
+    },
+    {
+      "old": 133,
+      "new": 129,
+      "kind": "build-step"
+    },
+    {
+      "old": 134,
+      "new": 130,
+      "kind": "sticker-sheet"
+    },
+    {
+      "old": 135,
+      "new": 131,
+      "kind": "speech-bubble-print-sheet"
+    },
+    {
+      "old": 136,
+      "new": 132,
+      "kind": "inventory"
+    },
+    {
+      "old": 137,
+      "new": 133,
+      "kind": "inventory"
+    },
+    {
+      "old": 138,
+      "new": 134,
+      "kind": "inventory"
+    },
+    {
+      "old": 139,
+      "new": 135,
+      "kind": "inventory"
+    },
+    {
+      "old": 140,
+      "new": 136,
+      "kind": "inventory"
+    },
+    {
+      "old": 141,
+      "new": 137,
+      "kind": "inventory"
+    },
+    {
+      "old": 142,
+      "new": 138,
+      "kind": "validation"
+    }
+  ],
+  "reader_text_changes": [
+    "pages40\u201343 common base 2x/per-copy label",
+    "new56 explicit remaining-base return"
+  ],
+  "limits": "Record/source-image correspondence, not independent visual or physical proof."
+}

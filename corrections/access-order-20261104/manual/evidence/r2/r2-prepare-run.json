@@ -1,0 +1,26 @@
+{
+  "commands": [
+    {
+      "argv": [
+        "python3",
+        "corrections/access-order-20261104/manual/prepare.py"
+      ],
+      "exit": 0,
+      "stdout": "{\"output\": \"/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-r2\", \"render_jobs\": 55, \"panels\": 45}\n",
+      "stderr": ""
+    },
+    {
+      "argv": [
+        "python3",
+        "corrections/access-order-20261104/manual/check_r2.py"
+      ],
+      "exit": 0,
+      "stdout": "{\"eligible_band_frames\": 10, \"main_overview_changes\": [11], \"common_prefix_copies\": 2, \"max_origin_error_ldu\": 4.159999997455088e-05, \"pins\": {\"model.json\": \"3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229\", \"instruction-plan.json\": \"df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff\", \"viewer.html\": \"281f091079fd61c6820d28bff03e56208c074417ba5d25d899cd5151389ed3f5\"}}\n",
+      "stderr": ""
+    }
+  ],
+  "elapsed_seconds": 2.15348141733557,
+  "owned_regular_output_bytes": 7537271,
+  "start_free_bytes": 4058836992,
+  "end_free_bytes": 4057960448
+}

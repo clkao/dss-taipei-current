@@ -1,0 +1,502 @@
+{
+  "started": "2026-11-04T20:49:37.397Z",
+  "nodePid": 13853,
+  "phase": "finally-complete",
+  "events": [
+    {
+      "time": 1793825377403,
+      "phase": "before-chrome-spawn"
+    },
+    {
+      "time": 1793825377411,
+      "phase": "chrome-spawned",
+      "pid": 13857
+    },
+    {
+      "time": 1793825377412,
+      "phase": "before-target-discovery"
+    },
+    {
+      "time": 1793825378487,
+      "phase": "target-found"
+    },
+    {
+      "time": 1793825378512,
+      "phase": "websocket-open"
+    },
+    {
+      "time": 1793825378514,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.enable",
+      "id": 1
+    },
+    {
+      "time": 1793825378598,
+      "phase": "cdp-result",
+      "method": "Runtime.enable",
+      "elapsed": 84,
+      "error": null
+    },
+    {
+      "time": 1793825378598,
+      "phase": "before-cdp-wait",
+      "method": "Page.enable",
+      "id": 2
+    },
+    {
+      "time": 1793825378788,
+      "phase": "cdp-result",
+      "method": "Page.enable",
+      "elapsed": 190,
+      "error": null
+    },
+    {
+      "time": 1793825378788,
+      "phase": "before-cdp-wait",
+      "method": "Page.addScriptToEvaluateOnNewDocument",
+      "id": 3
+    },
+    {
+      "time": 1793825378789,
+      "phase": "browser-event",
+      "method": "Page.loadEventFired",
+      "details": {
+        "timestamp": 5356652.47443
+      }
+    },
+    {
+      "time": 1793825378834,
+      "phase": "cdp-result",
+      "method": "Page.addScriptToEvaluateOnNewDocument",
+      "elapsed": 46,
+      "error": null
+    },
+    {
+      "time": 1793825378834,
+      "phase": "before-cdp-wait",
+      "method": "Page.reload",
+      "id": 4
+    },
+    {
+      "time": 1793825378839,
+      "phase": "cdp-result",
+      "method": "Page.reload",
+      "elapsed": 5,
+      "error": null
+    },
+    {
+      "time": 1793825378839,
+      "phase": "before-cdp-wait",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "id": 5
+    },
+    {
+      "time": 1793825378967,
+      "phase": "browser-event",
+      "method": "Page.frameNavigated",
+      "details": {
+        "frame": {
+          "id": "0538988D51425C42D828C14FF30A1533",
+          "loaderId": "387FE69BD1217AEF3720B639B218528C",
+          "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-r2/viewer.html",
+          "domainAndRegistry": "",
+          "securityOrigin": "file://",
+          "securityOriginDetails": {
+            "isLocalhost": false
+          },
+          "mimeType": "text/html",
+          "adFrameStatus": {
+            "adFrameType": "none"
+          },
+          "secureContextType": "Secure",
+          "crossOriginIsolatedContextType": "NotIsolated",
+          "gatedAPIFeatures": []
+        },
+        "type": "Navigation"
+      }
+    },
+    {
+      "time": 1793825378978,
+      "phase": "cdp-result",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "elapsed": 139,
+      "error": null
+    },
+    {
+      "time": 1793825378979,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 6
+    },
+    {
+      "time": 1793825378982,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 3,
+      "error": null
+    },
+    {
+      "time": 1793825378982,
+      "phase": "readiness-state",
+      "state": {
+        "previewReady": false,
+        "hookInstalled": true,
+        "callbackInvoked": false,
+        "observer": "undefined"
+      }
+    },
+    {
+      "time": 1793825379083,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 7
+    },
+    {
+      "time": 1793825379111,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 28,
+      "error": null
+    },
+    {
+      "time": 1793825379112,
+      "phase": "browser-event",
+      "method": "Page.loadEventFired",
+      "details": {
+        "timestamp": 5356652.797246
+      }
+    },
+    {
+      "time": 1793825379213,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 8
+    },
+    {
+      "time": 1793825379295,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 82,
+      "error": null
+    },
+    {
+      "time": 1793825379296,
+      "phase": "readiness-state",
+      "state": {
+        "previewReady": true,
+        "hookInstalled": true,
+        "callbackInvoked": true,
+        "observer": "function"
+      }
+    },
+    {
+      "time": 1793825379296,
+      "phase": "ready-for-assertions"
+    },
+    {
+      "time": 1793825379448,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 9
+    },
+    {
+      "time": 1793825379552,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 103,
+      "error": null
+    },
+    {
+      "time": 1793825379552,
+      "phase": "assertions-returned"
+    },
+    {
+      "time": 1793825379553,
+      "phase": "before-screenshot",
+      "name": "rear-bands",
+      "step": 10,
+      "panel": 1
+    },
+    {
+      "time": 1793825379553,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 10
+    },
+    {
+      "time": 1793825379571,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 18,
+      "error": null
+    },
+    {
+      "time": 1793825379571,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 11
+    },
+    {
+      "time": 1793825379683,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 112,
+      "error": null
+    },
+    {
+      "time": 1793825379684,
+      "phase": "before-screenshot",
+      "name": "bumper-root-overview",
+      "step": 11,
+      "panel": 0
+    },
+    {
+      "time": 1793825379684,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 12
+    },
+    {
+      "time": 1793825379702,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 18,
+      "error": null
+    },
+    {
+      "time": 1793825379703,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 13
+    },
+    {
+      "time": 1793825379821,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 118,
+      "error": null
+    },
+    {
+      "time": 1793825379822,
+      "phase": "before-screenshot",
+      "name": "separate-bumper-seed",
+      "step": 11,
+      "panel": 2
+    },
+    {
+      "time": 1793825379823,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 14
+    },
+    {
+      "time": 1793825379834,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 11,
+      "error": null
+    },
+    {
+      "time": 1793825379834,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 15
+    },
+    {
+      "time": 1793825379921,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 87,
+      "error": null
+    },
+    {
+      "time": 1793825379921,
+      "phase": "before-screenshot",
+      "name": "bumper-receiver-bands",
+      "step": 12,
+      "panel": 6
+    },
+    {
+      "time": 1793825379921,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 16
+    },
+    {
+      "time": 1793825379936,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 14,
+      "error": null
+    },
+    {
+      "time": 1793825379936,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 17
+    },
+    {
+      "time": 1793825380055,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 119,
+      "error": null
+    },
+    {
+      "time": 1793825380056,
+      "phase": "before-screenshot",
+      "name": "two-copy-base",
+      "step": 17,
+      "panel": 4
+    },
+    {
+      "time": 1793825380056,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 18
+    },
+    {
+      "time": 1793825380068,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 11,
+      "error": null
+    },
+    {
+      "time": 1793825380068,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 19
+    },
+    {
+      "time": 1793825380150,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 82,
+      "error": null
+    },
+    {
+      "time": 1793825380150,
+      "phase": "before-screenshot",
+      "name": "left-carrier-receiver-bands",
+      "step": 17,
+      "panel": 15
+    },
+    {
+      "time": 1793825380151,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 20
+    },
+    {
+      "time": 1793825380168,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 17,
+      "error": null
+    },
+    {
+      "time": 1793825380168,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 21
+    },
+    {
+      "time": 1793825380269,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 100,
+      "error": null
+    },
+    {
+      "time": 1793825380270,
+      "phase": "before-screenshot",
+      "name": "second-base-return",
+      "step": 18,
+      "panel": 5
+    },
+    {
+      "time": 1793825380270,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 22
+    },
+    {
+      "time": 1793825380284,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 14,
+      "error": null
+    },
+    {
+      "time": 1793825380285,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 23
+    },
+    {
+      "time": 1793825380353,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 68,
+      "error": null
+    },
+    {
+      "time": 1793825380354,
+      "phase": "before-screenshot",
+      "name": "right-carrier-installed-bands",
+      "step": 18,
+      "panel": 16
+    },
+    {
+      "time": 1793825380354,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 24
+    },
+    {
+      "time": 1793825380368,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 14,
+      "error": null
+    },
+    {
+      "time": 1793825380368,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 25
+    },
+    {
+      "time": 1793825380462,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 94,
+      "error": null
+    },
+    {
+      "time": 1793825380463,
+      "phase": "before-owned-chrome-close",
+      "chromePid": 13857,
+      "exitCode": null,
+      "stderrTail": "\nDevTools listening on ws://127.0.0.1:19690/devtools/browser/bddb36e6-bea4-4d55-98a5-cb2ecfcfdc4c\nTrying to load the allocator multiple times. This is *not* supported.\n[13901:1566214895:1104/124938.482664:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214938:1104/124938.483790:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214895:1104/124938.487367:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214938:1104/124938.487424:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214895:1104/124938.488117:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214938:1104/124938.488160:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214895:1104/124938.488252:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214938:1104/124938.488289:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214895:1104/124938.488377:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214938:1104/124938.488441:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214895:1104/124938.501860:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[13901:1566214938:1104/124938.501947:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n"
+    },
+    {
+      "time": 1793825380498,
+      "phase": "chrome-exit",
+      "code": 0,
+      "signal": null
+    },
+    {
+      "time": 1793825380499,
+      "phase": "finally-complete",
+      "chromeExitCode": 0,
+      "chromeSignal": null
+    }
+  ],
+  "chromeExit": {
+    "code": 0,
+    "signal": null
+  },
+  "chromePid": 13857
+}

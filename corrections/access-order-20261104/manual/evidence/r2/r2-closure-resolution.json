@@ -1,0 +1,12 @@
+{
+  "time": 1793825474.2659578,
+  "attributed_live": {},
+  "exact_profile_users": {},
+  "port_free": true,
+  "port_error": null,
+  "original_supervisor_exit": 1,
+  "original_node_exit": 0,
+  "original_chrome_exit": 0,
+  "disposition": "Parent-authorized single fresh closure check after observed TIME_WAIT",
+  "profile_removed": true
+}
