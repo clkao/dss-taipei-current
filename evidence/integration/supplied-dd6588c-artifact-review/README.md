@@ -41,3 +41,14 @@ No source, model, package, shared dependency, gate, publication or adoption stat
 Gap 90 now has independent compiler/stock evidence, successful package verification and review of the existing three A4 rasters.
 Independent navigation remains incomplete. Live/human acceptance and full-edition parity remain open. Every section remains `adopted=false`.
 Priority: finish bounded 90 navigation, reconcile operation 198/artwork/330 context, then contextual speaker/ring adoption and H1 acceptance.
+
+## Authorized preparation only
+
+FO disposition `b37a9114` classifies the timeout as Deferred risk / evidence-run budget, owned by the DSS collector.
+`navigation-retry.mjs` now exists. `prepared-retry.json` records its exact hash, command and static comparison.
+The helper uses an explicit 30-second `goto` timeout. It retains `load`, readiness and every original semantic assertion.
+Lifecycle, console, error, failed-request and process/profile records persist through the failure path.
+The original helper and failure remain unchanged. No Node, browser or other runtime check ran during preparation.
+A separate bounded runner must enforce the lease limits and establish final process closure after Node exits.
+Runtime remains on hold until a separate lease. Card title wrapping is Polish/DECLINE for this increment.
+No tested gap status changed during this preparation. Navigation, live/human acceptance and contextual adoption remain open.

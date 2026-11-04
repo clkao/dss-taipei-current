@@ -1,0 +1,27 @@
+{
+  "status": "PREPARED ONLY; runtime HOLD pending separate lease",
+  "limits": {
+    "seconds_including_cleanup": 90,
+    "additional_bytes": 41943040,
+    "free_disk_floor": 536870912,
+    "serial": true
+  },
+  "only_behavior_change": "Explicit goto timeout30000, retain waitUntil load and readiness check; no relaxed semantic assertions.",
+  "diagnostic_instrumentation": "Retain monotonic launch/goto/DOMContentLoaded/load/readiness/action times, console/pageerror/requestfailed/HTTP events in finally, owned PID/profile records.",
+  "command_proposed": [
+    "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/evidence/integration/supplied-dd6588c-artifact-review/navigation-retry.mjs",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-navigation-retry"
+  ],
+  "helper_status": "Prepared under FO b37a9114; no Node or browser runtime executed",
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes",
+  "scope": "One headless navigation only against frozen package. No verify/import/compiler/export/Poppler/live attempt.",
+  "stop": "Stop on any new finding, no automatic second retry.",
+  "cleanup": "Close owned context/browser, wait attributed processes, remove only owned temp/cache; never shared dependencies.",
+  "pass_scope": "Headless evidence only; live/human,330 context,198 reconciliation and adoption remain separate.",
+  "script_sha256": "7645e96734ea88fb6627f63095e06eac0a909c0233ea2a1ae21e1b099952a252",
+  "original_script_sha256": "f2e78a3d79e82f243d6f744fd8ae9192260ac205a2a8bffac5b94b63f38c595c",
+  "static_review": "Original semantic/action block matches after removing the step-start telemetry call. Original helper byte-identical. No Node syntax/runtime test authorized or run.",
+  "process_attribution": "Collector records Node PID/version, sampled descendant PID/PPID/PGID/commands and Chrome profile. Outer bounded runner must enforce90s/40MiB/floor and confirm process closure after Node exit.",
+  "classification": "Deferred risk / evidence-run budget; DSS collector owner. No demonstrated product defect or contention cause."
+}
