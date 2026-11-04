@@ -1,6 +1,6 @@
 ---
 title: Correct minifigure assembly access and instruction order
-status: authoring
+status: instruction-review
 source: Captain request 2026-11-04; community feedback from 彭柏源; captain step19 clarification
 started: 2026-11-04T16:00:25Z
 completed:
