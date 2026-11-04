@@ -1,251 +1,41 @@
 {
-  "revision": "yangliu-minifigure-test-build-v10",
-  "model_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
-  "accepted_source_sha256": "be5a93440d508627b6aeb1a1ccb7099d7d50f3efecf45d1d9bc6d3ee6f223464",
-  "rigid_pieces": 348,
-  "suspension_bands": 2,
-  "public_steps": 68,
-  "pdf_pages": 102,
-  "procurement_units": 349,
-  "purchase_lots": 112,
-  "manufactured_part_colors_verified": true,
-  "bricklink_import_retested": false,
+  "edition": "Access-order correction / local review",
+  "source_model_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+  "candidate_model_sha256": "436ec8b84a337926f953ed0e5412f5e6fcbca78489c71d11a8cedac4dd5f085f",
+  "pieces": 348,
+  "main_steps": 67,
+  "operations": 215,
+  "pdf_pages": 142,
+  "retained_artwork_zip_sha256": "bebaff5968483c2672df521bee60e601241e33e1421bcbe126935adbe76ca93d",
+  "generator": "DSS-local adapter with retained house-demo renderer and PDF template",
+  "publication_changed": false,
+  "accepted": false,
   "physical_tested": false,
-  "artwork": "artwork-v13",
-  "wedge_background": "transparent; white emblem only",
-  "all_sticker_backgrounds": "Square flags: printed Reddish Orange on White parts. Hood and wedge: transparent outside white strips/marks and dark lettering.",
-  "source_geometry_artwork_log": "sources/donor-campaign-v10/artwork-modification-log.json",
-  "catalog_notices": "Readable credits, per-file notices and exact source copies included.",
   "files": {
-    "instructions.pdf": "f10e7b1cd91f48fe23cfe06a9c64f2c0fb323603c909322e7552a1c0f8008232",
+    "sequence-audit.json": "1d7f9b6035bcd4fff064a10bfb2bb7f9839eaea4e82e4492c638aacb8bf61f54",
+    "model.json": "436ec8b84a337926f953ed0e5412f5e6fcbca78489c71d11a8cedac4dd5f085f",
+    "instruction-plan.json": "7d97cf2cb7c894865a0f72553ee7ed59fee12104f71d095d9727537881627e3d",
+    "render-scene.json": "1a1dcfadcc760a184da330c447be4a64f2e29561c1ee2dafdfd2aa87be310943",
+    "catalog-meshes.json": "890e8ca24848e179e485b86c1ac925b2d5a3e63e88fb369774bd2ff3e53d3810",
+    "index.html": "593cd6bf008e855abce295443d2a54350a50551c248aff524381f987319c88f8",
+    "viewer.html": "9cc62a26a080d240634d0d2d9d446a788c1ce9750b12033e4cfc10a09441ac90",
+    "instructions.pdf": "e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da",
+    "pdf-page-map.json": "83832334205fcca3022e138c8d12b69811f789e756998dad51a7527d6c3881f0",
+    "full-instruction-check.json": "f90fd8cefca5801599805097c0d74e5fc38cc2d8f9ce6e5517d9efe768be78e7",
+    "print-preflight.json": "1be80e2fd7e99ff61e4c877e23fc3459831a4a2f8b64a5ce25585a9912bd4a62",
+    "digital-fit-audit.md": "9035719ca9afda97c8da5422b0ce7645a7dbe5fed8ef3f429e0ab71730382c0e",
+    "README.txt": "8a295d56f53a8a0fe03c0ba12e95212c0a8199f30a09b790b8eb396498decd1a",
+    "sticker-artwork.zip": "e6ff826548bbf8df073653285d7fd4012913c686553a306cacd27c5c0dde9c94",
     "yangliu-shape.mpd": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
     "inventory.csv": "5237a9b7d39085b8b51761f1b2207ee72d0dd476396ec76ddf2dc4d45e677000",
     "wanted-list.xml": "600bf2ec6b45b2eb0993b03a5b9c9431bd8912e1b9d537e715a03fa8b1b50a20",
     "bricklink-inventory.csv": "b34b587913bf9c8082bb6edf9a593a531d91a5a68b7cc713d57e1f3867822262",
-    "sticker-artwork.zip": "bebaff5968483c2672df521bee60e601241e33e1421bcbe126935adbe76ca93d",
-    "digital-fit-audit.md": "97c188da4c7b33ec715f107b5ffa144ced3dd59585e7e62fab4184020e658e16",
-    "full-instruction-check.json": "b0919cbdd971ebc1d248f98430eaf503b3935a9a407584359857a6200df92027",
-    "soon-white.svg": "40b3ab5921c7f12957f2eb047d66cfe0652242614f55d50c3472ef52d4f94c46",
-    "soon-white-4096.png": "8ea39a606395ae850774d2eb131e1a0931c0237c761f3abb32c2684ad76ab5e3",
-    "print-preflight.json": "fe06610e2beabccab92a540f6d94edbab9c08189609d79cfa80c91f4f939aead",
-    "model.json": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
-    "instruction-plan.json": "9d05fe11832876ad3ee4fb52412c7f9ebd1f41d5f1dfcc1a0c7cb34932fa8402",
+    "bricklink-mapping.json": "1a5b70edf850f3ebdb173fc6c8cef1f0912bf601fe50ca39ce6c19d67ff0605e",
     "LICENSE.txt": "c1dc239072ccb99271ea51b85daa9568fb8d218a5e914ef81f83edaab9dc0dd4",
-    "licenses/CC-BY-SA-4.0.txt": "23ee78c8bae49cf08ea2f0c84945c66b987ebe4520881fb51b3dad4fb43d07c2",
-    "tsai-banner/meme-attribution.json": "952a2c4d75573db89d5a932ea0a9d7d1116ed80405fd91785aa115a4df040a21",
-    "contributor-count.json": "a67b61c78a6cd76f6fb0c6a5f3e3d1028f8d13c230baa3afc5a16e79aa0f63b2",
-    "physical-vehicle-attribution.json": "7cfe02897ce2c02af3da90a6070c1c45b39988e9488ad11fe8e1e9d53ef0ac7e",
     "credits.html": "0cf80ac5f4822441f4169ad5d1dcb0401ef4b9a04b71fc06baebd50e3aa2c38a",
-    "index.html": "8a4561b59dda919fa53ac7c238766fa0d2dde58c6568b95932dd3657c244be25",
-    "viewer.html": "8a4561b59dda919fa53ac7c238766fa0d2dde58c6568b95932dd3657c244be25",
-    "README.md": "5e15c508d8fca782fa729dc47b61116aed0178a507f9ee087586c3c8044ec17a",
-    "README.txt": "d03e9c91f9478545dd51f60146801a458daa2ffbd47122841469cad43bef7595",
-    "pdf-page-map.json": "38cda0279e0264e30c5eb5e59cb626b4d6b4468b377c301210827223b6f5d0af",
-    "tsai-banner/layout-notes.json": "26e4d59c74cb74f2c29fe149bb35b89f0e84475e791673c7e7d238b2e35b6272",
-    "tsai-banner/bubble-listen.svg": "afdff4308e4fed9aeb3d331dea0ad066bd1d4526c83bf9638d35ff947b5b9cc7",
-    "review-evidence/artifact-review.json": "bf22726a9d8dce312f19cc539e61cf81cf95f2735a186e6a578f5be049c50339",
-    "review-evidence/animation-preview-check.json": "faaf827b183e7cc0a256048377b1180ec6164a09d5c790c4bc2a57079b1d56c7",
-    "tsai-banner/bubble-listen.png": "af69b4cb40470647b843383c8980796e6e730185a6e67bffb0b03754088c7986",
-    "technic/index.html": "666edd0b332280c83ae8dc21359feafbde4e90a2f541555fa3c23e8ef0a94006",
-    "technic/construction/index.html": "005a102c1fd81d956b4c8791d490f332a900f8abb10d57c2d43bc174eec4407b",
-    "technic/package-manifest.json": "a9c7274c98c46a76592d2eae94ba45f9a18902b8fb5feffbd216abd46ac567ae"
-  },
-  "hood_sticker_sections": [
-    {
-      "name": "hood-upper",
-      "piece_id": 334,
-      "piece_ids": [
-        334,
-        339,
-        340
-      ],
-      "width_mm": 30.16,
-      "height_mm": 15.76,
-      "svg": "hood-upper.svg",
-      "png": "hood-upper.png",
-      "crop_viewbox": [
-        11.893333333333336,
-        0.18,
-        40.21333333333334,
-        23.64
-      ],
-      "edge_inset_mm": 0.12,
-      "internal_seam_cut": false,
-      "physical_height_method": "one flat film over three coplanar tiles"
-    },
-    {
-      "name": "hood-front",
-      "piece_id": 29,
-      "width_mm": 30.160000000000004,
-      "height_mm": 16.11447679644521,
-      "svg": "hood-front.svg",
-      "png": "hood-front.png",
-      "crop_viewbox": [
-        11.893333333333336,
-        24.180000000000007,
-        40.21333333333334,
-        23.639999999999986
-      ],
-      "edge_inset_mm": 0.12,
-      "physical_height_method": "mesh centerline arc length"
-    }
-  ],
-  "printed_color_backgrounds": {
-    "banner-upper-printed": "#CA4C0B",
-    "banner-lower-printed": "#CA4C0B"
-  },
-  "banner_mast_revision": {
-    "piece_ids": [
-      342,
-      343,
-      341,
-      265,
-      267,
-      266
-    ],
-    "mount_build_order": [
-      342,
-      343,
-      341
-    ],
-    "parts": {
-      "mast_ldraw": "76348",
-      "mast_bricklink": "75c10",
-      "base_ldraw": "85861",
-      "riser_ldraw": "3062b",
-      "jumper_ldraw": "3794b"
-    },
-    "original_part": "2569",
-    "status": "accepted; focused digital fit checked; physical grip and stiffness untested",
-    "factory_length_studs": 10,
-    "mount_note": "Stack the white round brick on the deck stud shown. Fit the jumper with its centre stud half a stud toward the rear, then add the open-stud round collar.",
-    "notes": [
-      "Place342riser,343jumper,341collar before inserting265hose, then267lowerflag and266upperflag.",
-      "Uncut factory10L Blackrigid3mmhose; Whitecompactmount; flagsmove4mmrear with their artwork.",
-      "Fourflagclip/bar contacts checked; real hose straightness, bending and socketgrip need dryfit."
-    ],
-    "appearance_accepted": true
-  },
-  "purchase_exclusions": [],
-  "flexible_accessories": [
-    {
-      "id": "suspension-band-red",
-      "bricklink_part": "x37",
-      "bricklink_color_id": 5,
-      "quantity": 1,
-      "description": "Red medium round-section rubber belt",
-      "included_in_rigid_mpd": false,
-      "reference": "75875 book2 page57 step58; routing is reproduced in our own instruction step"
-    },
-    {
-      "id": "decorative-cord",
-      "quantity": 1,
-      "description": "Cream craft cord, cut and tie to fit",
-      "included_in_rigid_mpd": false
-    },
-    {
-      "id": "suspension-band-light-bluish-gray",
-      "bricklink_part": "x37",
-      "bricklink_color_id": 86,
-      "quantity": 1,
-      "description": "Light Bluish Gray medium round-section rubber belt",
-      "included_in_rigid_mpd": false,
-      "reference": "75875 book2 page57 step58; routing is reproduced in our own instruction step"
-    }
-  ],
-  "presentation_revision": "yangliu-minifigure-test-build-v10-20261103",
-  "design": "CL Kao",
-  "powered_by": "https://spacedock.md/",
-  "copyright_status": "Readable attribution added; upstream assembly and campaign-logo reuse permissions remain unconfirmed.",
-  "accepted_shield_source_sha256": "da8685905555649204b121b1d13e52a0f54c6f8d86d36207af670b25c53a63ae",
-  "display_name": "DSS Taipei Current",
-  "ship_prefix": "DSS",
-  "ship_prefix_expansion": "Democratic Service Ship",
-  "ship_prefix_scope": "A project-created civic prefix for the fictional ship theme.",
-  "credited_creator_identities": 40,
-  "contribution_license": "CC-BY-SA-4.0",
-  "license_scope": "Original contributions and adaptations only; third-party rights excluded. See LICENSE.txt and credits.html#license.",
-  "meme_attribution": "AYA／AYA全糖腐女中心 (@theaya1108); custom banner layout adapted by CL Kao.",
-  "hosting": {
-    "provider": "GitHub Pages",
-    "repository": "https://github.com/clkao/dss-taipei-current",
-    "source_branch": "gh-pages",
-    "source_path": "/",
-    "url": "https://clkao.github.io/dss-taipei-current/"
-  },
-  "physical_vehicle_reference": {
-    "reference": "Real-world 洋流號 campaign vehicle",
-    "collective_credit": "Shen Po-yang campaign team and contributors / 沈伯洋競選團隊及參與創作者",
-    "credit_basis": "Launch reporting describes the vehicle as created by the campaign team. This is a collective project credit, not identification of its individual designer or fabricator.",
-    "individual_designer": null,
-    "fabricator": null,
-    "verification_status": "Individual physical-vehicle design and fabrication credits have not been independently identified.",
-    "official_project_url": "https://current.puma.taipei/",
-    "sources": [
-      {
-        "url": "https://udn.com/vote2026/story/124652/9785376",
-        "publisher": "United Daily News / 聯合報",
-        "date": "2026-09-30",
-        "supports": "Campaign-team creation and launch of the physical 洋流號; helm supplied by Tsai Ing-wen."
-      },
-      {
-        "url": "https://www.ftvnews.com.tw/news/detail/2026A25W0161",
-        "publisher": "Formosa TV / 民視",
-        "date": "2026-10-25",
-        "supports": "Later vehicle configuration with a metal frame and transparent panels around three sides of the standing platform; no individual designer or fabricator named."
-      }
-    ],
-    "derived_elements": [
-      "Ship-themed pickup silhouette",
-      "Campaign deck, helm, mast, flags and speakers",
-      "Later transparent enclosure"
-    ],
-    "adaptation": "CL Kao translated the physical vehicle's appearance into a LEGO adaptation using the separately credited upstream pickup assembly. Part choices, attachment construction, proportions, instructions and DSS naming are project adaptations.",
-    "rights": "Reference attribution only. The project's CC BY-SA 4.0 grant does not relicense the original physical vehicle design or imply campaign endorsement.",
-    "checked_on": "2026-11-03"
-  },
-  "technic_preview": {
-    "url": "technic/",
-    "status": "work in progress",
-    "link_location": "footer gear easter egg",
-    "model_sha256": "a998fed9c3847701ed0b872a69654eb5d57e2a16a4e272ed47f9ab04e057780b"
-  },
-  "display_animation": {
-    "default": true,
-    "tires": "Four tire-and-rim pairs rotate together; helm stays still.",
-    "figures": "Candidate waves; 小英 walks in place with a fixed heading.",
-    "flags": "Rigid clip flags sway; no cloth deformation.",
-    "camera": "Slow orbit, suspended after manual interaction.",
-    "instructions": "Canonical static poses; motion pauses during building.",
-    "performance": "30 fps presentation; no scene rebuilds or geometry allocations per animation frame; pauses offscreen and respects reduced motion."
-  },
-  "speech_bubble_layout": {
-    "bubble-rest": {
-      "text": "叫你休息",
-      "tail": "left"
-    },
-    "bubble-listen": {
-      "text": "講不聽",
-      "tail": "right"
-    },
-    "text_mirrored": false,
-    "revision": "opposite tails / 2026-11-03"
-  },
-  "print_download": {
-    "pdf": "instructions.pdf",
-    "pages": 102,
-    "print_sheets": [
-      {
-        "page": 94,
-        "contents": "Vehicle stickers"
-      },
-      {
-        "page": 95,
-        "contents": "Two speech-bubble faces and jacket"
-      }
-    ],
-    "scale": "100% / actual size; check the printed scale bar.",
-    "editable_sources": "sticker-artwork.zip",
-    "scope": "One public print PDF. Editable SVG files retain specialist cut and white-ink layouts."
+    "physical-vehicle-attribution.json": "7cfe02897ce2c02af3da90a6070c1c45b39988e9488ad11fe8e1e9d53ef0ac7e",
+    "contributor-count.json": "a67b61c78a6cd76f6fb0c6a5f3e3d1028f8d13c230baa3afc5a16e79aa0f63b2",
+    "soon-white.svg": "40b3ab5921c7f12957f2eb047d66cfe0652242614f55d50c3472ef52d4f94c46",
+    "soon-white-4096.png": "8ea39a606395ae850774d2eb131e1a0931c0237c761f3abb32c2684ad76ab5e3"
   }
 }

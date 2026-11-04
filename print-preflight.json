@@ -1,17 +1,17 @@
 {
   "pdf": "instructions.pdf",
-  "pages": 102,
+  "pdf_sha256": "e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da",
+  "pages": 142,
   "print_sheets": [
     {
-      "page": 94,
+      "page": 134,
       "contents": "Vehicle stickers"
     },
     {
-      "page": 95,
+      "page": 135,
       "contents": "Two speech-bubble faces and jacket"
     }
   ],
-  "scale": "100% / actual size; check the printed scale bar.",
-  "editable_sources": "sticker-artwork.zip",
-  "scope": "One public print PDF. Editable SVG files retain specialist cut and white-ink layouts."
+  "scale": "100% / actual size; check the 20 mm scale bar.",
+  "editable_sources": "sticker-artwork.zip"
 }
