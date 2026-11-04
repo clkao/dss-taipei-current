@@ -1,0 +1,14 @@
+{
+  "actual_pages": 138,
+  "corrected_printed_panels": 48,
+  "left_common_2x_pages": 4,
+  "right_prefix_omitted": true,
+  "right_explicit_remaining_copy_note": true,
+  "actual_print_pages": [
+    130,
+    131
+  ],
+  "pdf_sha256": "b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a",
+  "page_map_sha256": "9c2d271fe423a4ad5331ff920ce121b7f05bea2182b59ce2e512049bd732626e",
+  "limits": "Artifact/text accounting only; actual A4 visual review remains separate."
+}

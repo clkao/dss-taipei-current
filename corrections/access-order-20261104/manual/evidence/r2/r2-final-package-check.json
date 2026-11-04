@@ -1,0 +1,27 @@
+{
+  "pins": {
+    "model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+    "instruction-plan.json": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+    "viewer.html": "8c6b1608d9d959fbea6072a864766ffecc2087734a3e531b33977bcb2848d30d",
+    "index.html": "f485d4dfe9f2e53e86db7acb115a8734b8777b2c45110ec5f29ee7ba0d3a4128",
+    "instructions.pdf": "b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a",
+    "pdf-page-map.json": "9c2d271fe423a4ad5331ff920ce121b7f05bea2182b59ce2e512049bd732626e",
+    "package-manifest.json": "70ebd2415d5bc5a9a58238b1be7ec94aede7ca3e76f17670c76df5c64e223d65",
+    "release.zip": "76f2f8ae957ff632c8c820296dacf324d0787b0a40725ec996da35d5510e79d3"
+  },
+  "navigation_tested_viewer_sha256": "281f091079fd61c6820d28bff03e56208c074417ba5d25d899cd5151389ed3f5",
+  "all_handler_script_bytes_identical_after_payload_placeholder": true,
+  "all_model_state_quantity_values_identical": true,
+  "all_geometry_instances_identical": true,
+  "payload_changes_only_placement_source_metadata": true,
+  "all_other_html_changes_exactly_allowlisted_static_text": true,
+  "actual_pdf_pages": 138,
+  "actual_print_pages": [
+    130,
+    131
+  ],
+  "manifest_and_zip_members_verified": 27,
+  "reader_text_stale_reference_scan": "pass",
+  "credit_rights_technic_preserved": true,
+  "physical_certification": false
+}

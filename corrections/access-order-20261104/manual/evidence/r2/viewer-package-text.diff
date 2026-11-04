@@ -1,0 +1,17 @@
+--- navigation-tested-281f
++++ final-packaged
+@@ -58,3 +58,3 @@
+ .pdf-link{display:inline-block;background:#a84d2b;color:#fff;padding:11px 16px;border-radius:7px;font-weight:700;text-decoration:none;white-space:nowrap}header{height:auto;min-height:100px;gap:16px;flex-wrap:wrap}</style>
+-<header><div><h1>洋流號 <span style="font-weight:350">/ DSS TAIPEI CURRENT</span></h1><p>Minifigure edition · local preview</p></div><nav aria-label="Downloads"><a class="pdf-link" href="instructions.pdf">Download instructions (PDF)</a></nav></header>
++<header><div><h1>洋流號 <span style="font-weight:350">/ DSS TAIPEI CURRENT</span></h1><p>Minifigure edition · Access-order correction</p></div><nav aria-label="Downloads"><a class="pdf-link" href="instructions.pdf">Download instructions (PDF)</a></nav></header>
+ <main><div class="stage"><canvas></canvas><div class="note">Drag to orbit · scroll to zoom · click any piece</div><div class="toolbar"><button data-view="front">Front ¾</button><button data-view="rear">Rear ¾</button><button data-view="side">Side</button><button id="road">Road configuration</button><button id="all">Launch configuration</button><button id="cabin">Inspect cabin</button></div></div>
+@@ -82,3 +82,3 @@
+     <p>348 rigid pieces · 67 build steps<br>8 studs wide · 24 studs long</p>
+-    <p class="build-status">Test-build edition. Physical grip, suspension and handling strength remain untested.</p>
++    <p class="build-status">Access-order correction for review. Insertion clearance, physical grip, suspension and handling strength remain untested.</p>
+     <p>Bands, stickers and craft cord are additional. <a href="digital-fit-audit.md">Digital fit review</a></p>
+@@ -89,3 +89,3 @@
+       <li><a href="yangliu-shape.mpd" download>3D model (MPD)</a> · <a href="inventory.csv" download>Parts list (CSV)</a></li>
+-      <li><a href="instructions.pdf#page=94">Print sheets: pages 94–95 in the instruction PDF</a></li>
++      <li><a href="instructions.pdf#page=130">Print sheets: pages 130–131 in the instruction PDF</a></li>
+     </ul>
