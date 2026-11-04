@@ -1,0 +1,126 @@
+{
+  "schema": "dss-specimen-corrections/1",
+  "historical_snapshot": "migration/minifigure-v10/specimens.json",
+  "authority": "DSS integration coordination with StudFleet first officer, 2026-11-03",
+  "source_plan_sha256": "9d05fe11832876ad3ee4fb52412c7f9ebd1f41d5f1dfcc1a0c7cb34932fa8402",
+  "main_composition": {
+    "step": 2,
+    "operations": [
+      7,
+      8,
+      9
+    ],
+    "piece_ids": [
+      107,
+      128,
+      152,
+      162,
+      113
+    ],
+    "context_after_operation": 6,
+    "source_step": {
+      "number": 2,
+      "end_operation": 9,
+      "operations": [
+        7,
+        8,
+        9
+      ],
+      "module": "truck",
+      "assembly": "truck",
+      "section": "01 / Chassis frame",
+      "new_ids": [
+        107,
+        128,
+        152,
+        162,
+        113
+      ],
+      "placements": [
+        {
+          "ids": [
+            107,
+            128
+          ],
+          "direction": "top",
+          "contacts": []
+        },
+        {
+          "ids": [
+            152,
+            162
+          ],
+          "direction": "top",
+          "contacts": []
+        },
+        {
+          "ids": [
+            113
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "recipe_operations": [],
+      "recipe_step": null,
+      "copies": 3,
+      "repeat_count": 1,
+      "label": "component",
+      "manual": {
+        "title": "Build the rear frame supports",
+        "note": "Attach both brackets to the longitudinal plates before adding the centre cap.",
+        "view": "rear",
+        "context": null,
+        "hold": null,
+        "bands_installed": false,
+        "ids": [
+          107,
+          113,
+          128,
+          134,
+          150,
+          152,
+          153,
+          162,
+          163,
+          164,
+          168,
+          172,
+          173,
+          177,
+          178,
+          179
+        ],
+        "image": "images/step-002.png",
+        "instance_frames": [],
+        "frames": [],
+        "approach_frames": []
+      }
+    },
+    "supersedes_selection": {
+      "step": 1,
+      "reason": "Local chassis construction and join, not arbitrary ordered main-operation composition"
+    }
+  },
+  "shared_prefix": {
+    "steps": [
+      18,
+      19
+    ],
+    "prefix_frames": 4,
+    "copies": 2,
+    "distinct_continuations": true,
+    "whole_recipe_scheduling_proves_requirement": false
+  },
+  "retained_panels": {
+    "step": 53,
+    "build_count": 3,
+    "side_panels_installed": 2,
+    "remaining_front_panel": 1,
+    "requirements": [
+      "Exact retained copy and later consumption",
+      "Independent compound lift-slide-lower evidence"
+    ]
+  },
+  "policy": "Historical snapshot and accepted source remain unchanged. Future integration uses this correction overlay."
+}

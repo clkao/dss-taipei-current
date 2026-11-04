@@ -1,0 +1,324 @@
+{
+  "name": "rings",
+  "main_step": 61,
+  "source_mpd": "sources/minifigure/legacy-v10/source.mpd",
+  "source_mpd_sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
+  "reduced_mpd": "evidence/integration/scheduler-410a7a2/rings.mpd",
+  "reduced_mpd_sha256": "1cdd759d251897a8cb2173ff30df519665d898cb961f8d9290834d6b1356beaa",
+  "root_reference_lines_verbatim": [
+    "1 16 80 -196.3750672 -4 1 0 0 0 1 0 0 0 1 assembly-ring-left.ldr",
+    "1 16 80 -196.3750672 156 1 0 0 0 1 0 0 0 1 assembly-ring-right.ldr"
+  ],
+  "definitions_copied_verbatim": [
+    "assembly-ring-left.ldr",
+    "assembly-ring-left-unit.ldr",
+    "assembly-ring-right.ldr",
+    "assembly-ring-right-unit.ldr"
+  ],
+  "occurrences": [
+    {
+      "piece_id": 268,
+      "instance_id": "15b14c71-f623-5b64-a425-08a63ef5ddad",
+      "occurrence_id": "o/8/1/1",
+      "module": "ring-left",
+      "part": "15712",
+      "color": 15,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 26,
+          "reference": "assembly-ring-left.ldr"
+        },
+        {
+          "definition": "assembly-ring-left.ldr",
+          "line": 166,
+          "reference": "assembly-ring-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-left-unit.ldr",
+          "line": 173,
+          "reference": "15712.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 269,
+      "instance_id": "ea0d63d1-5dda-5b5e-9270-268763358576",
+      "occurrence_id": "o/8/1/2",
+      "module": "ring-left",
+      "part": "30340",
+      "color": 4,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 26,
+          "reference": "assembly-ring-left.ldr"
+        },
+        {
+          "definition": "assembly-ring-left.ldr",
+          "line": 166,
+          "reference": "assembly-ring-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-left-unit.ldr",
+          "line": 177,
+          "reference": "30340.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 270,
+      "instance_id": "234788fc-5452-572c-8595-82d92902a15c",
+      "occurrence_id": "o/9/1/1",
+      "module": "ring-right",
+      "part": "15712",
+      "color": 15,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 29,
+          "reference": "assembly-ring-right.ldr"
+        },
+        {
+          "definition": "assembly-ring-right.ldr",
+          "line": 183,
+          "reference": "assembly-ring-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-right-unit.ldr",
+          "line": 190,
+          "reference": "15712.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 271,
+      "instance_id": "e38ed6d8-cc57-51f9-ac67-c40f0b334427",
+      "occurrence_id": "o/9/1/2",
+      "module": "ring-right",
+      "part": "30340",
+      "color": 4,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 29,
+          "reference": "assembly-ring-right.ldr"
+        },
+        {
+          "definition": "assembly-ring-right.ldr",
+          "line": 183,
+          "reference": "assembly-ring-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-right-unit.ldr",
+          "line": 194,
+          "reference": "30340.dat"
+        }
+      ]
+    }
+  ],
+  "legacy_operations_exact": [
+    {
+      "kind": "build",
+      "module": "ring-left",
+      "assembly": "ring-left-unit",
+      "ids": [
+        268
+      ],
+      "direction": "top",
+      "section_name": "11 / Rear banner and life rings",
+      "placements": [
+        {
+          "ids": [
+            268
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [],
+      "manual": {
+        "title": "Life-ring mount",
+        "note": "",
+        "view": "rear",
+        "context": null,
+        "hold": null
+      },
+      "step": 185
+    },
+    {
+      "kind": "build",
+      "module": "ring-left",
+      "assembly": "ring-left-unit",
+      "ids": [
+        269
+      ],
+      "direction": "top",
+      "section_name": "11 / Rear banner and life rings",
+      "placements": [
+        {
+          "ids": [
+            269
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [
+        {
+          "piece_ids": [
+            268,
+            269
+          ],
+          "confirmed": 0,
+          "potential": 1
+        }
+      ],
+      "manual": {
+        "title": "Fit the red life ring",
+        "note": "",
+        "view": "rear",
+        "context": null,
+        "hold": null
+      },
+      "step": 186
+    },
+    {
+      "kind": "join",
+      "module": "ring-left",
+      "assembly": "ring-left",
+      "child": "ring-left-unit",
+      "ids": [],
+      "direction": "top",
+      "section_name": "11 / Rear banner and life rings",
+      "instruction_component": true,
+      "placements": [
+        {
+          "ids": [
+            268,
+            269
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "manual": {
+        "title": "Fit both life rings",
+        "note": "2×",
+        "view": "rear",
+        "context": [
+          "deck"
+        ],
+        "hold": "The mount-to-rail connection is digitally aligned. Test clip grip before moving the platform.",
+        "unit_name": "life ring"
+      },
+      "repeat_group": "Life rings",
+      "repeat_index": 1,
+      "repeat_count": 2,
+      "instruction_batch": "both-life-rings",
+      "step": 187
+    },
+    {
+      "kind": "build",
+      "module": "ring-right",
+      "assembly": "ring-right-unit",
+      "ids": [
+        270
+      ],
+      "direction": "top",
+      "section_name": "11 / Rear banner and life rings",
+      "placements": [
+        {
+          "ids": [
+            270
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [],
+      "manual": {
+        "title": "Life-ring mount",
+        "note": "",
+        "view": "rear-other",
+        "context": null,
+        "hold": null
+      },
+      "step": 188
+    },
+    {
+      "kind": "build",
+      "module": "ring-right",
+      "assembly": "ring-right-unit",
+      "ids": [
+        271
+      ],
+      "direction": "top",
+      "section_name": "11 / Rear banner and life rings",
+      "placements": [
+        {
+          "ids": [
+            271
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [
+        {
+          "piece_ids": [
+            270,
+            271
+          ],
+          "confirmed": 0,
+          "potential": 1
+        }
+      ],
+      "manual": {
+        "title": "Fit the red life ring",
+        "note": "",
+        "view": "rear-other",
+        "context": null,
+        "hold": null
+      },
+      "step": 189
+    },
+    {
+      "kind": "join",
+      "module": "ring-right",
+      "assembly": "ring-right",
+      "child": "ring-right-unit",
+      "ids": [],
+      "direction": "top",
+      "section_name": "11 / Rear banner and life rings",
+      "instruction_component": true,
+      "placements": [
+        {
+          "ids": [
+            270,
+            271
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "manual": {
+        "title": "Fit both life rings",
+        "note": "2×",
+        "view": "rear",
+        "context": [
+          "deck"
+        ],
+        "hold": "The mount-to-rail connection is digitally aligned. Test clip grip before moving the platform.",
+        "unit_name": "life ring"
+      },
+      "repeat_group": "Life rings",
+      "repeat_index": 2,
+      "repeat_count": 2,
+      "instruction_batch": "both-life-rings",
+      "step": 190
+    }
+  ],
+  "scope": "Isolated recipe/copy-identity specimen. Vehicle support context omitted. No claim of in-situ placement or physical validity.",
+  "reimport_status": "Pending explicit heavy-slot grant. Do not reuse full-model provenance for this reduced MPD."
+}

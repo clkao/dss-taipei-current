@@ -1,0 +1,702 @@
+{
+  "name": "speakers",
+  "main_step": 56,
+  "source_mpd": "sources/minifigure/legacy-v10/source.mpd",
+  "source_mpd_sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
+  "reduced_mpd": "evidence/integration/scheduler-410a7a2/speakers.mpd",
+  "reduced_mpd_sha256": "938027ec9ed24310e1431005fdf402387fdfe226b6739a75784cbd5a532de353",
+  "root_reference_lines_verbatim": [
+    "1 16 190 -240.4 30 1 0 0 0 1 0 0 0 1 assembly-speaker-left.ldr",
+    "1 16 190 -240.4 110 1 0 0 0 1 0 0 0 1 assembly-speaker-right.ldr"
+  ],
+  "definitions_copied_verbatim": [
+    "assembly-speaker-left.ldr",
+    "assembly-speaker-left-unit.ldr",
+    "assembly-speaker-right.ldr",
+    "assembly-speaker-right-unit.ldr"
+  ],
+  "occurrences": [
+    {
+      "piece_id": 288,
+      "instance_id": "fb5c6602-a9ea-5cb1-8d6d-0f428c29a346",
+      "occurrence_id": "o/12/1/1",
+      "module": "speaker-left",
+      "part": "3022",
+      "color": 0,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 309,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 289,
+      "instance_id": "6898fe9d-277d-5670-b53c-9ddaea025a12",
+      "occurrence_id": "o/12/1/2",
+      "module": "speaker-left",
+      "part": "4070",
+      "color": 0,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 313,
+          "reference": "4070.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 290,
+      "instance_id": "31d1252d-0f3a-5d37-a323-264600541933",
+      "occurrence_id": "o/12/1/3",
+      "module": "speaker-left",
+      "part": "4070",
+      "color": 0,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 315,
+          "reference": "4070.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 291,
+      "instance_id": "cf559dcc-add8-5a57-a556-1672380fc519",
+      "occurrence_id": "o/12/1/4",
+      "module": "speaker-left",
+      "part": "6141",
+      "color": 72,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 319,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 292,
+      "instance_id": "c383133f-76ca-507e-a069-a5c27f112a3b",
+      "occurrence_id": "o/12/1/5",
+      "module": "speaker-left",
+      "part": "6141",
+      "color": 72,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 321,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 293,
+      "instance_id": "4f1ba285-aaed-582d-a3cc-75174d5338f5",
+      "occurrence_id": "o/12/1/6",
+      "module": "speaker-left",
+      "part": "3068b",
+      "color": 0,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 325,
+          "reference": "3068b.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 294,
+      "instance_id": "39fec8f4-8d9d-54bf-bf2c-36b1fef776cf",
+      "occurrence_id": "o/13/1/1",
+      "module": "speaker-right",
+      "part": "3022",
+      "color": 0,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 338,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 295,
+      "instance_id": "431663b9-93e9-594d-a297-6de347cebc4d",
+      "occurrence_id": "o/13/1/2",
+      "module": "speaker-right",
+      "part": "4070",
+      "color": 0,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 342,
+          "reference": "4070.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 296,
+      "instance_id": "8e9a1a46-3fb6-5c17-914f-70eb6b230adb",
+      "occurrence_id": "o/13/1/3",
+      "module": "speaker-right",
+      "part": "4070",
+      "color": 0,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 344,
+          "reference": "4070.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 297,
+      "instance_id": "8f4e0c88-0afd-569b-aea2-03e860bd881d",
+      "occurrence_id": "o/13/1/4",
+      "module": "speaker-right",
+      "part": "6141",
+      "color": 72,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 348,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 298,
+      "instance_id": "4dd36b0a-37c0-586a-ae14-3acc03d2a812",
+      "occurrence_id": "o/13/1/5",
+      "module": "speaker-right",
+      "part": "6141",
+      "color": 72,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 350,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "piece_id": 299,
+      "instance_id": "3ae0844f-f66e-5860-855f-353be7b6276c",
+      "occurrence_id": "o/13/1/6",
+      "module": "speaker-right",
+      "part": "3068b",
+      "color": 0,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 354,
+          "reference": "3068b.dat"
+        }
+      ]
+    }
+  ],
+  "legacy_operations_exact": [
+    {
+      "kind": "build",
+      "module": "speaker-left",
+      "assembly": "speaker-left-unit",
+      "ids": [
+        288
+      ],
+      "direction": "top",
+      "section_name": "09 / Speakers",
+      "placements": [
+        {
+          "ids": [
+            288
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [],
+      "manual": {
+        "title": "Speaker base plate",
+        "note": "",
+        "view": "front",
+        "context": null,
+        "hold": null
+      },
+      "step": 165
+    },
+    {
+      "kind": "build",
+      "module": "speaker-left",
+      "assembly": "speaker-left-unit",
+      "ids": [
+        289,
+        290
+      ],
+      "direction": "top",
+      "section_name": "09 / Speakers",
+      "placements": [
+        {
+          "ids": [
+            289,
+            290
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [
+        {
+          "piece_ids": [
+            288,
+            289
+          ],
+          "confirmed": 0,
+          "potential": 1
+        },
+        {
+          "piece_ids": [
+            288,
+            290
+          ],
+          "confirmed": 0,
+          "potential": 1
+        }
+      ],
+      "manual": {
+        "title": "Fit both side-stud bricks",
+        "note": "",
+        "view": "front",
+        "context": null,
+        "hold": null
+      },
+      "step": 166
+    },
+    {
+      "kind": "build",
+      "module": "speaker-left",
+      "assembly": "speaker-left-unit",
+      "ids": [
+        291,
+        292
+      ],
+      "direction": "top",
+      "section_name": "09 / Speakers",
+      "placements": [
+        {
+          "ids": [
+            291,
+            292
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [],
+      "manual": {
+        "title": "Fit both speaker cones",
+        "note": "",
+        "view": "front",
+        "context": null,
+        "hold": null
+      },
+      "step": 167
+    },
+    {
+      "kind": "build",
+      "module": "speaker-left",
+      "assembly": "speaker-left-unit",
+      "ids": [
+        293
+      ],
+      "direction": "top",
+      "section_name": "09 / Speakers",
+      "placements": [
+        {
+          "ids": [
+            293
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [
+        {
+          "piece_ids": [
+            289,
+            293
+          ],
+          "confirmed": 1,
+          "potential": 0
+        },
+        {
+          "piece_ids": [
+            290,
+            293
+          ],
+          "confirmed": 1,
+          "potential": 0
+        }
+      ],
+      "manual": {
+        "title": "Fit the smooth top tile",
+        "note": "",
+        "view": "front",
+        "context": null,
+        "hold": null
+      },
+      "step": 168
+    },
+    {
+      "kind": "join",
+      "module": "speaker-left",
+      "assembly": "speaker-left",
+      "child": "speaker-left-unit",
+      "ids": [],
+      "direction": "top",
+      "section_name": "09 / Speakers",
+      "instruction_component": true,
+      "placements": [
+        {
+          "ids": [
+            288,
+            289,
+            290,
+            291,
+            292,
+            293
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "manual": {
+        "title": "Fit both roof speakers",
+        "note": "2×",
+        "view": "front",
+        "context": [
+          "cab-roof"
+        ],
+        "hold": "The cones are aligned to the side studs. Their socket fit has geometry support but still needs a fitting check.",
+        "unit_name": "speaker"
+      },
+      "repeat_group": "Speakers",
+      "repeat_index": 1,
+      "repeat_count": 2,
+      "instruction_batch": "both-speakers",
+      "step": 169
+    },
+    {
+      "kind": "build",
+      "module": "speaker-right",
+      "assembly": "speaker-right-unit",
+      "ids": [
+        294
+      ],
+      "direction": "top",
+      "section_name": "09 / Speakers",
+      "placements": [
+        {
+          "ids": [
+            294
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [],
+      "manual": {
+        "title": "Speaker base plate",
+        "note": "",
+        "view": "front",
+        "context": null,
+        "hold": null
+      },
+      "step": 170
+    },
+    {
+      "kind": "build",
+      "module": "speaker-right",
+      "assembly": "speaker-right-unit",
+      "ids": [
+        295,
+        296
+      ],
+      "direction": "top",
+      "section_name": "09 / Speakers",
+      "placements": [
+        {
+          "ids": [
+            295,
+            296
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [
+        {
+          "piece_ids": [
+            294,
+            295
+          ],
+          "confirmed": 0,
+          "potential": 1
+        },
+        {
+          "piece_ids": [
+            294,
+            296
+          ],
+          "confirmed": 0,
+          "potential": 1
+        }
+      ],
+      "manual": {
+        "title": "Fit both side-stud bricks",
+        "note": "",
+        "view": "front",
+        "context": null,
+        "hold": null
+      },
+      "step": 171
+    },
+    {
+      "kind": "build",
+      "module": "speaker-right",
+      "assembly": "speaker-right-unit",
+      "ids": [
+        297,
+        298
+      ],
+      "direction": "top",
+      "section_name": "09 / Speakers",
+      "placements": [
+        {
+          "ids": [
+            297,
+            298
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [],
+      "manual": {
+        "title": "Fit both speaker cones",
+        "note": "",
+        "view": "front",
+        "context": null,
+        "hold": null
+      },
+      "step": 172
+    },
+    {
+      "kind": "build",
+      "module": "speaker-right",
+      "assembly": "speaker-right-unit",
+      "ids": [
+        299
+      ],
+      "direction": "top",
+      "section_name": "09 / Speakers",
+      "placements": [
+        {
+          "ids": [
+            299
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [
+        {
+          "piece_ids": [
+            295,
+            299
+          ],
+          "confirmed": 1,
+          "potential": 0
+        },
+        {
+          "piece_ids": [
+            296,
+            299
+          ],
+          "confirmed": 1,
+          "potential": 0
+        }
+      ],
+      "manual": {
+        "title": "Fit the smooth top tile",
+        "note": "",
+        "view": "front",
+        "context": null,
+        "hold": null
+      },
+      "step": 173
+    },
+    {
+      "kind": "join",
+      "module": "speaker-right",
+      "assembly": "speaker-right",
+      "child": "speaker-right-unit",
+      "ids": [],
+      "direction": "top",
+      "section_name": "09 / Speakers",
+      "instruction_component": true,
+      "placements": [
+        {
+          "ids": [
+            294,
+            295,
+            296,
+            297,
+            298,
+            299
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "manual": {
+        "title": "Fit both roof speakers",
+        "note": "2×",
+        "view": "front",
+        "context": [
+          "cab-roof"
+        ],
+        "hold": "The cones are aligned to the side studs. Their socket fit has geometry support but still needs a fitting check.",
+        "unit_name": "speaker"
+      },
+      "repeat_group": "Speakers",
+      "repeat_index": 2,
+      "repeat_count": 2,
+      "instruction_batch": "both-speakers",
+      "step": 174
+    }
+  ],
+  "scope": "Isolated recipe/copy-identity specimen. Vehicle support context omitted. No claim of in-situ placement or physical validity.",
+  "reimport_status": "Pending explicit heavy-slot grant. Do not reuse full-model provenance for this reduced MPD."
+}

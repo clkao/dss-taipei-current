@@ -68,6 +68,22 @@ The finite construction profiles cover seven of the current 87 part types.
 The other 80 types are not thereby missing from the render catalog or shared connector metadata.
 Broader rendering, connector coverage, collision checks, insertion checks, manufacturing evidence, and physical strength remain separate properties.
 
+## Confirmed specimen distinctions
+
+The original bootstrap specimen file remains a historical snapshot.
+[Specimen corrections](../migration/minifigure-v10/specimen-corrections.json) supplies the current selection and scope.
+
+- **Main composition:** use step 2, operations 7–9, with the state after operation 6 as context. These are ordered root-assembly additions.
+  Step 1 builds a local chassis unit and joins it. That specimen does not prove arbitrary main-operation composition for `h1`.
+- **Repeated recipes:** step 56 contains two six-piece speakers. Step 61 contains two two-piece life rings.
+  Both are useful scheduling specimens. Neither alone proves nested-join support.
+- **Shared prefixes:** steps 18/19 share four recipe frames before their distinct carrier continuations.
+  Two complete identical recipes cannot represent that requirement. Whole-recipe scheduling alone does not establish shared-prefix support.
+- **Retained panels:** step 53 calls for three shield panels, installs two side panels, and retains the third for the front.
+  Retained-copy behavior and compound-path evidence need separate proof. The later front-panel use must consume the correct remaining copy.
+
+These distinctions refine the adoption evidence. They do not expand the accepted implementation scope of an upstream task.
+
 ## What we can simplify, and when
 
 The target active path is:

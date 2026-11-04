@@ -1,0 +1,68 @@
+0 FILE clkao-house.ldr
+0 DSS isolated speakers scheduling compatibility specimen
+0 !LDRAW_ORG Model
+0 // MODULE speaker-left
+1 16 190 -240.4 30 1 0 0 0 1 0 0 0 1 assembly-speaker-left.ldr
+0 STEP
+0 // MODULE speaker-right
+1 16 190 -240.4 110 1 0 0 0 1 0 0 0 1 assembly-speaker-right.ldr
+0 STEP
+0 NOFILE
+0 FILE assembly-speaker-left.ldr
+0 House assembly speaker-left
+0 !LDRAW_ORG Model
+0 // HOUSE_STEP 169 join
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 assembly-speaker-left-unit.ldr
+0 NOFILE
+0 FILE assembly-speaker-left-unit.ldr
+0 House assembly speaker-left-unit
+0 !LDRAW_ORG Model
+0 // HOUSE_STEP 165 build
+0 // INSTANCE fb5c6602-a9ea-5cb1-8d6d-0f428c29a346
+1 0 10 32 10 1 0 0 0 1 0 0 0 1 3022.dat
+0 STEP
+0 // HOUSE_STEP 166 build
+0 // INSTANCE 6898fe9d-277d-5670-b53c-9ddaea025a12
+1 0 0 8 0 0 0 -1 0 1 0 1 0 0 4070.dat
+0 // INSTANCE 31d1252d-0f3a-5d37-a323-264600541933
+1 0 0 8 20 0 0 -1 0 1 0 1 0 0 4070.dat
+0 STEP
+0 // HOUSE_STEP 167 build
+0 // INSTANCE cf559dcc-add8-5a57-a556-1672380fc519
+1 72 14 18 0 0 -1 0 0 0 -1 1 0 0 6141.dat
+0 // INSTANCE c383133f-76ca-507e-a069-a5c27f112a3b
+1 72 14 18 20 0 -1 0 0 0 -1 1 0 0 6141.dat
+0 STEP
+0 // HOUSE_STEP 168 build
+0 // INSTANCE 4f1ba285-aaed-582d-a3cc-75174d5338f5
+1 0 10 0 10 1 0 0 0 1 0 0 0 1 3068b.dat
+0 NOFILE
+0 FILE assembly-speaker-right.ldr
+0 House assembly speaker-right
+0 !LDRAW_ORG Model
+0 // HOUSE_STEP 174 join
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 assembly-speaker-right-unit.ldr
+0 NOFILE
+0 FILE assembly-speaker-right-unit.ldr
+0 House assembly speaker-right-unit
+0 !LDRAW_ORG Model
+0 // HOUSE_STEP 170 build
+0 // INSTANCE 39fec8f4-8d9d-54bf-bf2c-36b1fef776cf
+1 0 10 32 10 1 0 0 0 1 0 0 0 1 3022.dat
+0 STEP
+0 // HOUSE_STEP 171 build
+0 // INSTANCE 431663b9-93e9-594d-a297-6de347cebc4d
+1 0 0 8 0 0 0 -1 0 1 0 1 0 0 4070.dat
+0 // INSTANCE 8e9a1a46-3fb6-5c17-914f-70eb6b230adb
+1 0 0 8 20 0 0 -1 0 1 0 1 0 0 4070.dat
+0 STEP
+0 // HOUSE_STEP 172 build
+0 // INSTANCE 8f4e0c88-0afd-569b-aea2-03e860bd881d
+1 72 14 18 0 0 -1 0 0 0 -1 1 0 0 6141.dat
+0 // INSTANCE 4dd36b0a-37c0-586a-ae14-3acc03d2a812
+1 72 14 18 20 0 -1 0 0 0 -1 1 0 0 6141.dat
+0 STEP
+0 // HOUSE_STEP 173 build
+0 // INSTANCE 3ae0844f-f66e-5860-855f-353be7b6276c
+1 0 10 0 10 1 0 0 0 1 0 0 0 1 3068b.dat
+0 NOFILE

@@ -1,0 +1,55 @@
+{
+  "schema": "dss-candidate-compatibility/1",
+  "candidate_worktree": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-schedule-local-recipes-at-use",
+  "candidate_head": "f8553aac9c5dd4f855fd0837fa18c9f862f6da05",
+  "candidate_acceptance": "Provisional scheduling candidate; upstream human acceptance held. Not a merged release.",
+  "product_candidate": "2a1051247610fd0b1f4a2f299e90af8dd6f83908",
+  "product_source": "410a7a2",
+  "binary": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-schedule-local-recipes-at-use/builds/schedule-implementation/bin/studfleet-410a7a2",
+  "binary_sha256": "5ae767972ff74d7cba8b0d098cd78a1c82ab60fcb7a0825acbb9727d0bbad69c",
+  "source_files": {
+    "tools/plan.go": "844e25f8530ca2cc7f8da0ce50d5502a645f957a71a42ed8de93840cfb05c545",
+    "cmd/studfleet/draft.go": "3de026951bf89c18eba50cd4fe92021ec946ef41c4edc4e31d8cb08db9f0b1c7",
+    "tools/README.md": "bf031cd3a56d654e40b0a242cf960bf7ef98d92007a73c81446a0bd090bd98f8",
+    "docs/lego/instruction-generator-contract.md": "adbafcb9089faad0bd89b9b3945e0a841c90b9bb38c5eb0a23e8ac63e8cb45d7"
+  },
+  "analysis_method": "Read-only supported-input inspection; no public compiler invocation or renderer run.",
+  "supported": "Recipe scheduling over existing plan-1 units/copies through presentation-1 recipe_schedule. Proper-rigid draft poses supported.",
+  "blocking_contract": {
+    "file": "tools/plan.go",
+    "line": 278,
+    "condition": "!op.Seed && (op.Distance == 0 || !validDirection(&op.Direction, false))",
+    "error_template": "operation %s: invalid placement direction/distance",
+    "effect": "Draft compilation requires positive distance and a valid signed direction for every nonseed placement, before instruction composition.",
+    "legacy_input": "Speaker/ring source operations have top labels and no numerical insertion distances. Cone note explicitly refers to side studs. Labels do not establish complete paths.",
+    "missing_capability": "tw: explicit omission of unsupported placement hints while retaining exact installed views and structural checks.",
+    "not_a_result": "The error template is source evidence, not captured stderr from a new execution."
+  },
+  "specimens": [
+    {
+      "name": "speakers",
+      "main_step": 56,
+      "reduced_mpd": "evidence/integration/scheduler-410a7a2/speakers.mpd",
+      "reduced_mpd_sha256": "938027ec9ed24310e1431005fdf402387fdfe226b6739a75784cbd5a532de353",
+      "reimport_status": "Pending explicit heavy-slot grant. Do not reuse full-model provenance for this reduced MPD."
+    },
+    {
+      "name": "rings",
+      "main_step": 61,
+      "reduced_mpd": "evidence/integration/scheduler-410a7a2/rings.mpd",
+      "reduced_mpd_sha256": "1cdd759d251897a8cb2173ff30df519665d898cb961f8d9290834d6b1356beaa",
+      "reimport_status": "Pending explicit heavy-slot grant. Do not reuse full-model provenance for this reduced MPD."
+    }
+  ],
+  "adoption_conditions": [
+    "Fresh import for each reduced MPD with its own source.mpd, assembly.json and import-report.json.",
+    "Compare every imported part, color and world matrix through retained UUIDs against full-model source. Preserve exact copy identity.",
+    "Neutral placement requires supported explicit semantics. Do not invent distance/direction, label nonseed operations as seed, or use independent groups to bypass a refusal.",
+    "Compile with source-bound plan/presentation against the same candidate resources. Baseline and scheduled variants must preserve construction meaning.",
+    "Show one 2x recipe, per-copy trays, both exact copy uses, useful labels and matching PDF/viewer navigation.",
+    "Report retained-copy state and draft limits. These isolated examples do not prove nested joins, shared prefixes, or whole-model physical placement.",
+    "Full model, publication and workflow gates remain unchanged."
+  ],
+  "execution_status": "Heavy slot queued after h1. No import, draft --check-only, compilation or rendering run in this slice yet.",
+  "publication_status": "No push or publication authorized for these records."
+}
