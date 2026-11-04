@@ -14,7 +14,8 @@
     "7d": "schedule-local-recipes-at-use",
     "cn": "include-guidance-without-inventory-additions",
     "w4": "show-reader-labels-without-internal-clutter",
-    "tw": "show-installed-drafts-without-unverified-placement-hints"
+    "tw": "show-installed-drafts-without-unverified-placement-hints",
+    "tz": "continue-instructions-with-prior-built-context"
   },
   "policy": "Snapshot is not availability. Resolve current state and require exact usable revision/invocation before clearing holds. No tasks created or advanced by this bootstrap.",
   "new_observation": {
@@ -54,6 +55,34 @@
       "dss_evidence": "evidence/integration/labels-3a6833b-render/README.md",
       "new_test_run": false,
       "full_manual_parity": false
+    },
+    "h1": {
+      "upstream_status": "provisional and unmerged; merge conflicts require reconciliation and validation/2",
+      "notice_id": "305d5f3f-f449-4b57-8ec6-7d1a8bdce561",
+      "review_reported": "Six-AC final review and labeled manual-equivalence bridge passed before merge preflight",
+      "merge_result": "No merge; five conflicts against accepted main84ab84b",
+      "approval_status": "FO reports guard --rework superseded terminal approval",
+      "new_dss_test_run": false,
+      "dss_existing_evidence": "evidence/integration/h1-16b3094-render/README.md"
+    }
+  },
+  "continuation_updates": {
+    "tz": {
+      "id": "tz2fgk3x5t3j8ghwsrem380v",
+      "source_path": "/Users/clkao/git/spacedock-research/studfleet/docs/dev/.spacedock-state/continue-instructions-with-prior-built-context.md",
+      "source_sha256": "464a4e6e2f503315e4b1233faec975fa72417b22b048ccb3879e43f229ab5eee",
+      "observed_status": "ideation",
+      "notice_id": "305d5f3f-f449-4b57-8ec6-7d1a8bdce561",
+      "dispatch": "FO reports ideation dispatched to Bernoulli",
+      "scope": "Step61: two prior rails from operation164, four new ring parts, full326-to330 boundary,324 explicitly omitted context pieces",
+      "first_design_check": "Test supported full-plan plus section export before selecting a new finite contract",
+      "availability": "Not delivered; no supported continuation CLI pass claimed",
+      "related_tasks": [
+        "7d",
+        "cn"
+      ],
+      "does_not_expand_related_tasks": true,
+      "new_dss_test_run": false
     }
   }
 }

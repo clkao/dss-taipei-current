@@ -218,3 +218,14 @@ The lease is released with all observed owned processes closed. A failed-only na
 [The single authorized retry](../evidence/integration/supplied-dd6588c-navigation-retry/README.md) passed all original headless assertions on the unchanged package. It retained 8/16/18 states, supplied cards, two accessories, draft limits and exact previous/next frame/tray returns. No page errors, failed requests or HTTP requests occurred. Load took 12.1204 seconds, supporting this run's timing hypothesis without proving the original cause. Four GPU performance warnings remain Deferred risk / runtime timing evidence under FO disposition. No correction or retry follows from them.
 
 Gap 90 now has bounded independent headless evidence alongside the retained compiler/stock, package verification and A4 raster evidence. The lease ended after 54.0097 seconds with all observed owned processes closed. Live/human acceptance and operation 198/artwork/330-context reconciliation remain open. Those boundaries precede section adoption and removal of equivalent custom generation. Contextual speakers/rings and H1 acceptance remain next priorities. All sections remain adopted=false.
+
+
+### Continuation owner assigned; H1 merge held
+
+FO notice `305d5f3f` assigns the continuation gap to StudFleet task `tz2fgk3x5t3j8ghwsrem380v`, `continue-instructions-with-prior-built-context`. The read-only task record is at ideation. FO reports dispatch to Bernoulli after backlog approval. This is ownership and design progress, not a delivered capability or CLI pass.
+
+The first specimen is step 61: two prior rails from operation 164 plus four new ring parts from operations 185–190. The full boundary remains 326 to 330 pieces, with 324 earlier pieces explicitly omitted from the focused view. Ideation first examines a supported full-plan/section-export alternative. No new schema is preapproved. The task owns this boundary separately from 7d, cn and 90. Fake seeds or supplied-stock declarations cannot replace prior ownership.
+
+H1 remains provisional and unmerged. FO reports that its six-AC review and labeled manual-equivalence bridge passed, but merge preflight found five conflicts against accepted main `84ab84b`. No merge occurred. Guard rework superseded terminal approval. The producer now reconciles accepted main and H1 for `validation/2`. Existing DSS evidence does not establish the reconciled candidate.
+
+Next priority is the continuation task's supported-path decision and bounded design proof, followed by H1 reconciliation evidence when supplied. No heavy slot is available. Supplied-unit evidence `990e37b` remains green without a redundant test. Figure operation 198, artwork, vehicle context, live/human review and full-manual parity remain distinct. All sections remain `adopted=false`. This update changed only dependency and gap records; no tests or workflow actions ran.
