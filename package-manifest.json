@@ -22,13 +22,13 @@
     "bricklink-inventory.csv": "b34b587913bf9c8082bb6edf9a593a531d91a5a68b7cc713d57e1f3867822262",
     "bricklink-mapping.json": "1a5b70edf850f3ebdb173fc6c8cef1f0912bf601fe50ca39ce6c19d67ff0605e",
     "LICENSE.txt": "c1dc239072ccb99271ea51b85daa9568fb8d218a5e914ef81f83edaab9dc0dd4",
-    "credits.html": "24328460b90a74d6690d5601986c8351aac7d6f357dd10e6154e36570d9ba21d",
+    "credits.html": "0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367",
     "physical-vehicle-attribution.json": "7cfe02897ce2c02af3da90a6070c1c45b39988e9488ad11fe8e1e9d53ef0ac7e",
     "contributor-count.json": "a67b61c78a6cd76f6fb0c6a5f3e3d1028f8d13c230baa3afc5a16e79aa0f63b2",
     "soon-white.svg": "40b3ab5921c7f12957f2eb047d66cfe0652242614f55d50c3472ef52d4f94c46",
     "soon-white-4096.png": "8ea39a606395ae850774d2eb131e1a0931c0237c761f3abb32c2684ad76ab5e3",
-    "release-provenance.json": "be2902da9441bd93536480b5d67351465cdfb5267efac30b3ae40ddaca77a371",
-    "release.zip": "9b1a8e5c5f223add6be175c20ff19c651ca3ad4ae5c1d2b20451927e560895b3"
+    "release-provenance.json": "74b0881217d0cddb1154cd3f59ba7dcbb4cd9d8435e82d89e34e5bd93dbcc519",
+    "release.zip": "976b234297c15e57f162ce7524144d114e41c1099e91ed67cd242c2989dcfd20"
   },
   "retained_unmodified": [
     "technic/"
