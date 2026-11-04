@@ -65,3 +65,9 @@ No verdict, physical certification or replacement publication is claimed. The ca
 ### Summary
 
 Authoring is incomplete and remains held at its current status. The correction intent, geometry, original feedback/failure evidence, source snapshots, historical publication and existing static sweep are unchanged; the exact incompatibility is recorded for the shared owner. Native n0 acceptance is distinct from this source-level compatibility blocker, and no physical, digital artifact, headless, reader or full-edition acceptance is claimed.
+
+### Authoring hold — shared owner acknowledgement
+
+StudFleet FO acknowledgement `8fc36c84` confirms **no validated combined n0+tw candidate/binary exists**. Existing owner `n03wrcncxxdrrcm090eqx610` owns compatibility reconciliation; its gates remain intact, with old `2dc9daa` offline AC-1–5 supported and human AC-6/7 held. Release still requires a pinned public draft artifact combining nested identity joins, unknown movement, installed-only presentation and saved artifact verification before the bounded DSS specimen can run.
+
+Finite actual-mesh access is owned separately by existing `315f09esmt0nmg9mhfysv662` (priority0.94), retaining step5/13/18/19 witnesses and **not dispatched**. Shared generic rules are committed in StudFleet main `e4a57b6`, `docs/dev/README.md#instruction-quality`. This is owner/status evidence only, with no new test, runtime, insertion proof, gap closure, stage advance or gate change. The compact source record is `corrections/access-order-20261104/CONTRACT-HOLD.md`; authoring remains incomplete and source correction remains the priority.
