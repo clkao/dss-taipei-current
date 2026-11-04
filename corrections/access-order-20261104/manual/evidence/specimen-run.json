@@ -1,0 +1,55 @@
+{
+  "argv": [
+    "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+    "/Users/clkao/git/house-demo/projects/yangliu-vehicle/render_preview.mjs",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/specimen-jobs.json"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction",
+  "node_sha256": "6f32069480ec14d52b6d7b1f3c7124cfbbc46203abf5ddf5c65b127435f3f329",
+  "profile": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/tmp/yangliu-preview-chrome-824516a7",
+  "port": 19863,
+  "pids": [
+    44653,
+    44655,
+    44695,
+    44696,
+    44697,
+    44698,
+    44700,
+    44702,
+    44706,
+    44707,
+    44708
+  ],
+  "remaining_pids": [],
+  "profile_removed": true,
+  "exit": 0,
+  "stop_reason": null,
+  "elapsed_seconds": 7.643235499970615,
+  "min_free_bytes": 4878274560,
+  "peak_increment_bytes": 12835945,
+  "images": {
+    "corrected-001-04.png": "04559194898fcef8871cd16faf114aabc6e663c3f7b1d2986f9575b72caf7cc0",
+    "corrected-001-01.png": "f08736aa0a23557c91399256181af661284f12899c569c3079f8ccf18b6eb176",
+    "corrected-001-03.png": "dd9bea7dc0ff5711703cea1f0deaa518a5d1998c443a0dc16f3994268edf4e37",
+    "corrected-001-02.png": "06dd9e4d2abd206df25f0e1e508f085990812a09c0bf11403e29c11d26a608ef"
+  },
+  "visual_review": {
+    "reviewed_images": [
+      "corrected-001-04.png",
+      "corrected-001-01.png",
+      "corrected-001-03.png",
+      "corrected-001-02.png"
+    ],
+    "result": "camera correction required",
+    "finding": {
+      "actor": "builder",
+      "trigger": "panel 1c mating second beam",
+      "harm": "Top view hides side pin/hole mating; a receiving-context view is required.",
+      "evidence": "images/corrected-001-03.png",
+      "proposed_change": "Use underside camera for 1c; optionally same camera for 1a. No geometry/order edit."
+    },
+    "physical_access": "not tested"
+  }
+}

@@ -21,7 +21,12 @@ payload=json.loads(gzip.decompress(base64.b64decode(match[1])));assert payload['
 encoded=base64.b64encode(gzip.compress(json.dumps(payload,ensure_ascii=False).encode(),mtime=0)).decode();h=h[:match.start(1)]+encoded+h[match.end(1):]
 (D/'viewer.html').write_text(h)
 idx=D/'index.html'
-if not idx.exists():idx.symlink_to('viewer.html')
+# Published entry page keeps the complete tested viewer and adds the requested credit.
+feedback=(Path(__file__).parent/'instruction-feedback.html').read_text()
+anchor='  <p class="disclaimer">'
+assert h.count(anchor)==1
+if idx.is_symlink():idx.unlink()
+idx.write_text(h.replace(anchor,feedback+'\n'+anchor))
 write(D/'print-preflight.json',dict(pdf='instructions.pdf',pdf_sha256=sha(D/'instructions.pdf'),pages=page['pages'],print_sheets=[dict(page=n,contents=title) for n,title in zip(sheets,['Vehicle stickers','Two speech-bubble faces and jacket'])],scale='100% / actual size; check the 20 mm scale bar.',editable_sources='sticker-artwork.zip'))
 # Keep every original editable artwork byte; replace only the obsolete page reference.
 zpath=D/'sticker-artwork.zip';tmp=D/'sticker-artwork-new.zip'
@@ -48,7 +53,7 @@ write(D/'release-provenance.json',dict(edition=m['instruction_edition'],source_m
 files['release-provenance.json']=sha(D/'release-provenance.json')
 with zipfile.ZipFile(D/'release.zip','w',zipfile.ZIP_DEFLATED) as z:
  for n in files:
-  if n!='index.html':z.write(D/n,n)
+  z.write(D/n,n)
  for name in ['licenses','tsai-banner','ldraw']:
   if not (D/name).exists():continue
   for parent,dirs,fnames in os.walk(D/name,followlinks=True):

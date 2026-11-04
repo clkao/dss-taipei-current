@@ -17,7 +17,7 @@ const correctionTimer=setInterval(()=>{
  };
  window.setInstructionStep=(n,options)=>{
   const result=main(n,options),s=window.PROTOTYPE.model.instruction_plan.steps[n-1];
-  if(s?.manual.corrected){const tray=document.querySelector('#step-parts');tray.textContent='Review the ordered panels above; each panel shows its own loose parts or completed unit.';tray.hidden=false;document.querySelector('#recipe-copy-note').textContent='Follow all panels in order. Each side has its own complete recipe.';}
+  if(s?.manual.corrected){document.querySelector('#recipe-frame').options[0].textContent='Step overview';const tray=document.querySelector('#step-parts');tray.textContent='Review the ordered panels above; each panel shows its own loose parts or completed unit.';tray.hidden=false;document.querySelector('#recipe-copy-note').textContent='Follow all panels in order. Each side has its own complete recipe.';}
   return result;
  };
 },50);

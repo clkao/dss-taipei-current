@@ -1,0 +1,55 @@
+{
+  "argv": [
+    "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+    "/Users/clkao/git/house-demo/projects/yangliu-vehicle/render_preview.mjs",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/receiver-jobs.json"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction",
+  "started_unix": 1793810690.538193,
+  "inputs": {
+    "model.json": "3f4ce76753b6b17af1d98dfc52a406b842e0bbd7e7595136338483ade771b1cc",
+    "viewer.html": "118bfe08854a386f68e595afb307372811ffac6dd4f600ab0f8f0463245ee604",
+    "receiver-jobs.json": "bb9f48e34b249d68ec478486f9f29b8e0595741a0a321dda840c2ee76c74f36d"
+  },
+  "profile": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/tmp/yangliu-preview-chrome-824516a7",
+  "port": 19863,
+  "pids": [
+    58915,
+    58918,
+    58923,
+    58930,
+    58931,
+    58932,
+    58933,
+    58944,
+    58946,
+    58947,
+    58948,
+    58949
+  ],
+  "remaining_pids": [],
+  "profile_removed": true,
+  "exit": 0,
+  "stop_reason": null,
+  "elapsed_seconds": 2.438834583386779,
+  "min_free_bytes": 4865630208,
+  "peak_increment_bytes": 8604761,
+  "images": {
+    "images/corrected-012-02.png": "23a8393ab4be327d427b54d7e21509cc74526a8a2c5abc6108a81fcfce1471e7",
+    "images/receiver-legacy-035j.png": "3f386fb6599a15a22b1bf7c3f813165fd82ae7e0f4112b3130a0564886d175ff",
+    "images/receiver-legacy-049j1.png": "5fcb654043f473fef7837a29b646041e32792289413b5726a1316851407b1a70",
+    "images/receiver-legacy-049j2.png": "cc2f09ef1646a91e3e6575d6668d426b2177603c182a575764f1befaa35e3724",
+    "images/receiver-legacy-050.png": "59e266afd26d12adb2f132e4dd502793f66967c2d32670c05c6167ba7cece179",
+    "images/receiver-legacy-057j1.png": "44f74d54b12bc9941a8d658d9ad00376542b7f01f523ba3f1f30b85603b0e5de",
+    "images/receiver-legacy-057j2.png": "04f30dfb6f45edc3fa6fc1891fd19ea12287805e3a1acf3e97c9e07259638949",
+    "images/receiver-legacy-058.png": "cad37c01e80e987ade9a4aef67dedfd7fb0e0a5c390d2a6943343999fae9ca31"
+  },
+  "visual_review": {
+    "all_eight_inspected_full_size": true,
+    "cap_top": "visible new plate; pass",
+    "local_receiver_views": "underside hides mount studs; above view needed for 049j1/049j2/057j1/057j2",
+    "whole_carrier_receivers": "prior structure visible; no physical access claim",
+    "pdf_stage": "not run; conditional entry not met"
+  }
+}

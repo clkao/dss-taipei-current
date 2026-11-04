@@ -1,0 +1,21 @@
+{
+  "actual_pdf_pages": 142,
+  "all_pages_landscape_A4": true,
+  "pdf_sha256": "a93ce9720b1637efe9b696d05886549630b11af7d9c328e19ca2d88210721cea",
+  "exact_render_instances": 348,
+  "unique_operation_coverage": 215,
+  "unique_reader_introductions": 348,
+  "source_operations_identical_to_candidate": true,
+  "guides_and_decals_unchanged": true,
+  "unchanged_files": {
+    "yangliu-shape.mpd": true,
+    "inventory.csv": true,
+    "wanted-list.xml": true,
+    "bricklink-inventory.csv": true,
+    "LICENSE.txt": true,
+    "credits.html": true
+  },
+  "editable_artwork_only_printing_note_changed": true,
+  "manifest_hashes_verified": 27,
+  "limits": "Artifact identity/coverage only; A4 visual and full navigation reviews still pending."
+}
