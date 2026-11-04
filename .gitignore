@@ -1,0 +1,6 @@
+.worktrees/
+docs/models/.spacedock-state/
+docs/instructions/.spacedock-state/
+builds/
+__pycache__/
+.DS_Store
