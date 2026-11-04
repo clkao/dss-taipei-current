@@ -1,6 +1,6 @@
 ---
 title: Correct minifigure assembly access and instruction order
-status: instruction-review
+status: authoring
 source: Captain request 2026-11-04; community feedback from 彭柏源; captain step19 clarification
 started: 2026-11-04T16:00:25Z
 completed:
@@ -251,3 +251,12 @@ Reviewed page map SHA256 `83832334205fcca3022e138c8d12b69811f789e756998dad51a752
 Formal AC2 physical or supported insertion exercises remain **UNPROVEN**. Formal AC4 independent live main/local/receiver/copy-return UI navigation remains **UNPROVEN** because the reviewer browser host was unavailable. Live byte hashes do not supply that missing UI evidence. Independent all142-page review, author67/52 headless checks and captain preview are separate evidence. Whole-carrier witness and sweep limits remain recorded; no all-AC pass, full physical certification, shared StudFleet gap closure or full-edition parity follows from publication.
 
 This worker only recorded the parent's transport/live verification. No regeneration, package change, publication push, repeated network test or status/gate/adoption mutation was performed for this release record.
+
+### Feedback Cycles
+
+Post-publication captain correction — published snapshot d14e4df / PDF e3d00b24 / viewer9cc62a26. Captain asks why suspension disappears after installation and whether both sides now duplicate a former2x recipe; authorized “proceed.” This is the same edition, not a new model or tooling task.
+
+1. Material presentation regression / FIX, DSS author owner. Reader enters ordered root-detail panels after fitting suspension bands. Retained viewer setRecipeFrame forces showSuspensionBands=false (published minified Ql=!1), although step bands_installed remains true. Harm: previously installed flexible elements disappear without removal instruction. Preserve bands in eligible chassis/receiver views when installed and their anchors are visible; hide them for genuinely separate subassemblies. Verify actual displayed bands across main/detail/return paths, not only348 rigid occurrence counts.
+2. Material instruction repetition regression / FIX, DSS author owner. Corrected side carriers17/18 erase repeat_prefix_frames=4, repeat_prefix_count=2 and right repeat_prefix_from=18 from legacy18/19. Harm: identical lower-carrier construction is redundantly shown twice. Restore one source-bound2x common lower-base recipe, explicit quantity/copy consumption and distinct side-specific rail details/installation. Do not claim the complete carriers are identical without proving geometry/pose correspondence. Preserve access-before-closure order and individual receiving context.
+
+Next: same author prepares bounded source correction and exact test/render proposal; same independent reviewer rechecks changed scope. Published snapshot retained until corrected package review and authorized replacement. No physical certification, StudFleet adoption or shared-tool dependency is introduced.
