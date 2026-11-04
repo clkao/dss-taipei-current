@@ -126,3 +126,44 @@ Publication unchanged. Parent owns exact-package independentreview and subsequen
 ### Summary
 
 Manual-route authoring package is complete for fresh independent review. StudFleet hard delivery hold is superseded; insertion/physical proof, remaining sweep dispositions and exact-package independent acceptance are not manufactured. Required next action is independent review of the frozen complete package and actual viewer, including deferred title display evidence.
+
+## Stage Report: instruction-review
+
+- DONE: Verify the actual corrected package preserves exact348piece geometry/inventory, all construction and guide coverage, consistent operation/page/recipe/copy references, and source/artifact identity.
+  Independent bounded comparison preserved all 348 piece records except step; 348 unique introductions, 215 operations covering 199 legacy operations, 67 groups, all 27 manifest hashes and 142 raster hashes matched; guide/copy coverage was visually inspected. A changed pose, missing introduction or stale artifact would fail these checks.
+- FAILED: Independently inspect actual finalPDF pages at A4 and viewer recipe/receiver/return paths, challenging pins/bumper/both carrier assembly order and receiving-context clarity; classify access limits without inferring physical proof.
+  Individually inspected all 142 final A4 rasters at readable size; actual independent UI attempt stopped at CUA inventory: “Browsers: Error: The browser access host is unavailable”; browser list empty. No live paths, runtime errors or network telemetry were independently observed.
+- DONE: Produce an evidence-bound PASSED or REJECTED recommendation with concrete findings, originalfeedback closure and exactpackage hashes; no publication, package correction or gate mutation by reviewer.
+  Recommendation: REJECTED for this candidate pending narrow glyph correction; AC2 exercise proof and the independent live-UI portion of AC4 remain unfulfilled, separately from this demonstrated polish defect. No package bytes or gate state changed.
+
+### Findings and evidence levels
+
+- Finding F1 — Classification: Polish, fix before publication (PDF skill requires no missing glyphs).
+  Location: PDF pages 36 and 39 before “Studs up,” page 37 before “Underside,” and page 127 between “洋 above,” “流 below,” and “both faces.”
+  Evidence: actual final-page raster inspection shows square missing-symbol boxes; source Unicode characters were not independently identified. FO separately confirmed pages 36/39/127.
+  Correction: replace only unsupported symbols with supported text/punctuation; preserve geometry, sequence and imagery. Same reviewer checks affected pages and new hash binding; unchanged-page review remains valid.
+- Digital readability: pins are visible before beam closure (pages 4–11); rear/center dishes, separate nine-piece bumper, receiver and front dish last are clear (24–35). Both carriers show all underside brackets on loose rails, then receivers and completed placement (40–71); four rail recipes and seven receiver panels have usable context.
+- Pages 48/53/64/69 titles are readable; no title-clipping correction is requested. Rear bed precedes trim (73–76). No additional material geometry, quantity or sequencing defect was established.
+- Stock/copies inspected: wheels four copies (103–104), risers four (105–106), shields three with remaining-copy reference (112–115), speakers two (117–118), rings two (124–125), figures (130–132), final scene (133), artwork/scale guidance (134–135), inventory (136–141), explicit limits (142).
+- Original feedback closure is supported for printed ordering/context, not insertion clearance: legacy step 5 pins moved to revised 1; original 11/12/13 map to 10/11/12 and 18/19 to 17/18. Removal of the former pin-only group explains 68 → 67 main groups.
+- Author evidence reused, not independently relabeled: 67 main/52 ordered viewer assertions, archive-member verification and deeper operation crosswalk. Independent source checks confirm exact feedback snippet, Technic link and CC BY-SA footer; credit names 彭柏源 for original steps 5/13 without attributing step 19 or endorsement.
+- AC1: supported by independent identity/coverage checks plus visible stock guides and author crosswalk. AC2: ordered panels supported; scoped physical or supported insertion exercises NOT performed. Whole-carrier witnesses 156/99, 166/129, 96/99 and 115/129 remain unresolved.
+- AC3: full sweep records remain explicit holds for suspension/floor closure/caps/front lights/cabin/roof/shield compound/late equipment; these are not cleared by this visual review. Optional mesh evidence remains with StudFleet31 (315f09esmt0nmg9mhfysv662); physical handling needs real parts.
+- AC4: all-page A4 review and artifact identity complete; fresh actual main/local/receiver/copy-return navigation unavailable because native host failed. Author headless assertions are separate evidence. AC5: hashes and independent findings recorded; captain acceptance/publication authority belongs to FO, not reviewer.
+- Captain independently previewed and said “looks good” with text-fix/publication instructions (reported by FO); this is user evidence, not this reviewer's navigation or physical acceptance. No shared gap or full-edition parity is certified.
+
+### Exact reviewed candidate
+
+- Source authoring commit: 469dbd1; package: builds/access-corrected; existing final rasters: a4-review/page-001.png through page-142.png. PDF is 142 pages, 841.89 × 595.276 pt A4, 6,564,492 bytes.
+- PDF SHA-256: fb4c395924c33c8aca8e9e946f0f879d44d6634ccd61962d46507a4a85360c60
+- Viewer SHA-256: 9cc62a26a080d240634d0d2d9d446a788c1ce9750b12033e4cfc10a09441ac90
+- Index SHA-256: 593cd6bf008e855abce295443d2a54350a50551c248aff524381f987319c88f8
+- Page-map SHA-256: d6014e49fb67cd2e0f714c6d704cc83f736c80da325ddaec96df3c55608833b0
+- Manifest SHA-256: a1d58993f143bf6938a0bb6b344d03f06b245d7c292ec6e7abb3bbee4056bab4
+- ZIP SHA-256: 2d6991ce9d6530469cc027134fdf9d581e1a61e85c87ea3d830dbd46c601f1ff
+- Model SHA-256: 436ec8b84a337926f953ed0e5412f5e6fcbca78489c71d11a8cedac4dd5f085f
+- Provenance: independent bounded static comparison used the author's pinned Node v24.22.1; final-package-check.json and final-raster-run.json supplied expected artifact/raster hashes. No deterministic full-suite rerun or new render occurred.
+
+### Summary
+
+All 142 final pages were independently inspected, and the corrected printed sequence and receiving context are usable; narrow unsupported-symbol defects require correction. Physical/insertion exercises and independent live navigation remain unproven, with native-host unavailability distinct from a product defect; browser lease RELEASED, no tabs/processes created, user preview/server preserved.
