@@ -353,3 +353,24 @@ Parent verified Pages status `built`, error null, updated `2026-11-04T21:06:12Z`
 Authority is the captain's R2 “proceed” and earlier “looks good. fix the text issue you mentioned. and publish. credit the bug report in instruction feedback on the website”. Installed-band visibility, common two-copy lower bases, and group11 root/local overview regressions are closed digitally under the independent review. The inherited part3666 verbal size mismatch remains a separate DSS label-metadata FOLLOW-UP. Credit, rights and Technic acknowledgement are preserved.
 
 Live byte verification does not establish independent native interaction. Formal AC2 physical/supported continuous insertion and AC4 independent native main/local/copy-return exercises remain UNPROVEN. Sweep/witness limits, shared-gap and full-edition parity limits remain. No all-AC pass or physical certification is recorded. This worker made only durable source/report records; no package generation, tests, publication push, status or gate mutation.
+
+## Stage Report: authoring (cycle 5 — hybrid prefix static preparation)
+
+- DONE for static intent; pending asset — Bind the exact four-piece diagram intent and source operations, with paired pin targets and unchanged model/order/stock.
+  Bound chassis-core operations legacy-001a / legacy-012 / legacy-001b and introductions172 /216+231 /178 against exact R2 model3d23390f. Exact records and frames retained in hybrid/binding.json; stock is two black32018 beams plus two black2780 pins. Actual old diagram238d6970 inspected; assessment.md and inspection.md read. Action3's single left marker remains ambiguous. Root routes authorized paired-target216+231 correction to upstream task66 (source5ef0722/proof26d477e2). Corrected asset/path/hash is pending; original bitmap is preserved and cannot pass preparation preflight as final.
+- DONE for static source preparation — Prepare the smallest real hybrid PDF/viewer integration and honest producer/adoption record, preserving published R2 fixes and name-only credit.
+  Source commit b534d5a adds opt-in existing-composer PDF grouping, one aggregate tray and existing-bitmap reuse; no new renderer. Viewer overlay groups first3 frames into one primary diagram, optional exact-state inspection, primaryNext→frame4 and Previous→diagram. Existing R2 handlers/state remain authority. Candidate staging uses a fresh output path and refuses missing corrected asset pins; no candidate package was generated. Current name-only credits and homepage link are preserved. Producer explicitly remains task66 experimental projection plus DSS legacy adapter, not native StudFleet production output. docs/incremental-adoption.md now permits captain-directed section-by-section hybrid integration without whole-manual cutover; historical records/adopted=false remain.
+- DONE — Return exact static commits/pins and a bounded affected-generation/review plan without heavy runtime or publication.
+  Source b534d5a. PDF overlay SHA f47663108f95c686e63b5c1cae9f5466710265551cc2bffe06af78c98651aa3b; viewer overlay f789c22aab6c53c3d261ea221fda1183b0091456eaef3499ff66f48d20c608f8; preparation1dbefee08033ad5219b52f290ebe9c5b9d4afe38b349a791c28367e47f371950; bindinge9a4b36ce2ac28dd31d984f3356d746d99dfc3737e74c33e9166fc3cc92e2d02. Details and bounded proposal: corrections/access-order-20261104/manual/hybrid/PROPOSAL.md.
+
+### Actual scope and release conditions
+
+Only static file inspection, hashing, source writing and source commit occurred. No browser/Node/render/PDF/Poppler/compiler/package mutation/publication. Upstream proof's failed resource cohorts remain failures; usable saved artifacts do not change that history. No runtime pass, paired-mark acceptance, native support or physical access is claimed.
+
+Expected138→136PDFpages: oldpages4–6 become newpage4; subsequent pages shiftminus2, print130/131→128/129. Actual generated map will be authoritative. Future package binding must update all references/provenance/archive only after generation; source/stock remain348records/215operations. Same-reviewer affected actualA4/UI inspection remains required.
+
+Next minimum: exact corrected upstream image/path/SHA and two-target provenance, then freeze one-off UI/static-check argv and obtain coordinated lease. Proposed PDF/static90s100MiB, UI60s60MiB, affected raster20s15MiB; total170s175MiB including closure,576MiBstart/512floor. Reuse current pinned runtimes and safe owned-identity closure path, no standing harness. No grant is inferred from this proposal. Same source sequence, R2 fixes, name-only credit and old publication remain unchanged. Formal physical/nativeUI limits persist.
+
+### Summary
+
+Static hybrid integration is committed and ready for corrected asset handoff. Generation is explicitly blocked until that exact asset and a coordinated lease arrive; this is not a completed artifact or adoption claim.
