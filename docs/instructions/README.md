@@ -45,7 +45,7 @@ Use temporary per-revision branches/worktrees, never permanent model/instruction
 | score | Priority from 0.0 to 1.0. |
 | worktree | Temporary worker checkout, retained across review until durable artifacts are preserved. |
 | issue, pr | Optional external references. |
-| mod-block | Dispatch hold; `dependency:` records unresolved prerequisites, cleared only with cited evidence. |
+| mod-block | Reserved for launcher/mod lifecycle blocks; dependencies are recorded in the body. |
 
 Subject kind, variant, reference revision, linked model/edition, artifact hashes, deviations and dependencies belong in the body and versioned manifests. They are not custom engine frontmatter.
 Use `spacedock new --workflow-dir docs/instructions --folder SLUG` with a complete stdin stub to create revisions. Never mint IDs manually. Validate before trusting state.
@@ -95,7 +95,7 @@ Retain the accepted local edition, or the explicitly historical legacy delivery.
 - **Repo mutation layer.** Design/authoring uses isolated temporary worktrees. Retain accepted artifacts before cleanup. Reviews use a fresh worker against exact candidate bytes.
 - **Local delivery.** No PR merge mod: this set uses local delivery and the no-mod terminal ceremony. Publication has separate authority and never runs as a workflow side effect.
 - **Historical adoption.** Seed records may start terminal only as explicit administrative adoption of existing scoped authority. Blank verdict and dates do not imply stages ran. Never fabricate a gate or backdate a review.
-- **Dependency holds.** Any nonempty `mod-block` prevents dispatch. The body names the owner, blocked outcome, minimum evidence and release condition. Existing StudFleet dev tasks are read-only dependencies; source branches under review are not usable releases.
+- **Dependency holds.** Before dispatch, the operator must read the body and confirm every prerequisite for the intended work. `status --next` reports stage eligibility; it does not enforce these dependency holds. The body names the owner, blocked outcome, minimum evidence and release condition. Do not dispatch blocked work. Existing StudFleet dev tasks are read-only dependencies; source branches under review are not usable releases. No dependency scheduler or custom frontmatter is installed.
 - **Reference consistency.** Record shared reference revision and applicable features, accepted deviations, pending changes and source hashes for each variant. An unresolved legacy association is explicit; reference changes never propagate silently.
 - **Checks.** On each material LEGO candidate and independently at review, use shared catalog import/inspect/preview. Request `--connectivity pyldraw3` with pinned archive, Shadow and Python. Diagnose unmatched/potential contacts and use local pair controls. Connectivity, collision, insertion, manufacturing and physical strength are distinct. A reference-only revision needs no LEGO checks.
 - **Tool boundaries.** Shared fixes stay in StudFleet docs/dev. The old modified binary only proves the commands actually exercised. Eleven construction profiles covering seven of 87 part types do not imply the other 80 lack catalog render or connector metadata. Technic exceeds the connector backend's 500-occurrence cap.
