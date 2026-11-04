@@ -1,0 +1,119 @@
+{
+  "four_fields": {
+    "released_user_and_normal_workflow": "DSS author consumes an advertised immutable supplied-unit handoff for read-only preparation.",
+    "observable_harm": "Advertised manifest digest did not match the current package; consumer correctly stopped its audit before any CLI use.",
+    "affected_boundary": "value-ac[AC-2] Source-bound saved artifact identity must be reviewable; no product defect or authoring/source mutation is established.",
+    "trigger_evidence": {
+      "trigger": "Read-only early-handoff file hash audit",
+      "expected_manifest_sha256": "0c440c4a8a71ba38cd153b1740b9df489d30a2495f76e37f6596e4d8de91625d",
+      "observed_manifest_sha256": "1280c3e5d5c270d99bf33498c4ac740639785555376d371adee21a0f153611c3",
+      "materiality": "Cannot bind current package to advertised early snapshot; no product defect established",
+      "owner": "StudFleet supplied-unit handoff producer",
+      "proposed_disposition": "Provide frozen or refreshed handoff and distinguish changing artifact-only files from authoring/source changes",
+      "cli_executed": false,
+      "correction_made": false
+    }
+  },
+  "materiality": "Material handoff integrity failure for the supported downstream audit; no product behavior defect proven.",
+  "ownership": "This task producer handoff/active artifact control timing.",
+  "FO_authorized_disposition": "Fix handoff metadata only after read-only comparison; preserve early snapshot and failure; no exports or green-control rerun.",
+  "root_cause": "Early handoff captured the manifest while intentional corruption controls were mutating it. Its digest is exactly reproduced in memory by one known control.",
+  "matching_control": "banner counted twice",
+  "reconstructed_control_digests": [
+    {
+      "control": "supplied member omitted",
+      "manifest_sha256": "cdbc5da0e8187bf18b792b2c79ec795d45c5b078015771c7302af723e8b3f27a",
+      "matches_early_snapshot": false
+    },
+    {
+      "control": "supplied body given an invented recipe",
+      "manifest_sha256": "7fe756b8e464215ef540ef0f39ef848953efa9e9ed6ac98e219e0699a03e0d78",
+      "matches_early_snapshot": false
+    },
+    {
+      "control": "banner counted twice",
+      "manifest_sha256": "0c440c4a8a71ba38cd153b1740b9df489d30a2495f76e37f6596e4d8de91625d",
+      "matches_early_snapshot": true
+    },
+    {
+      "control": "supplied copy membership changed",
+      "manifest_sha256": "4be2c0046e6bd0c0aab206fda988ad6bda39628e1b2030b90b6f0c79ec03fc25",
+      "matches_early_snapshot": false
+    },
+    {
+      "control": "supplied provenance replaced with construction",
+      "manifest_sha256": "ae8d3e2c894c3210f75bc3d619cba0e5f073579f11fa35d402186482f7ced916",
+      "matches_early_snapshot": false
+    },
+    {
+      "control": "supplied card recollects loose constituents",
+      "manifest_sha256": "6bca49e36b86465a8e9f7fed2b660d7869c421bb841f83ba627740b814ca7a21",
+      "matches_early_snapshot": false
+    },
+    {
+      "control": "consumed supplied copy shown as remaining stock",
+      "manifest_sha256": "e7a0c433d75ef92be3fc7e62fbf356bad3628c05a1938a855f821c87e3581f65",
+      "matches_early_snapshot": false
+    }
+  ],
+  "current_manifest_sha256": "1280c3e5d5c270d99bf33498c4ac740639785555376d371adee21a0f153611c3",
+  "current_manifest_matches_DSS_observed": true,
+  "all_current_manifest_file_hashes_match": true,
+  "current_compiled_equals_initial_public_check_only": true,
+  "source_or_binary_changes": {},
+  "recorded_exact_restoration": {
+    "controls": [
+      {
+        "control": "supplied member omitted",
+        "exit_code": 1,
+        "refusal": "studfleet: page 1 tray: collection identity differs at entry 1",
+        "file_hashes_recomputed": true
+      },
+      {
+        "control": "supplied body given an invented recipe",
+        "exit_code": 1,
+        "refusal": "studfleet: page 1 tray: collection identity differs at entry 1",
+        "file_hashes_recomputed": true
+      },
+      {
+        "control": "banner counted twice",
+        "exit_code": 1,
+        "refusal": "studfleet: page 3 tray: collection identity differs at entry 2",
+        "file_hashes_recomputed": true
+      },
+      {
+        "control": "supplied copy membership changed",
+        "exit_code": 1,
+        "refusal": "studfleet: draft derived compiled-plan.json differs",
+        "file_hashes_recomputed": true
+      },
+      {
+        "control": "supplied provenance replaced with construction",
+        "exit_code": 1,
+        "refusal": "studfleet: draft derived compiled-plan.json differs",
+        "file_hashes_recomputed": true
+      },
+      {
+        "control": "supplied card recollects loose constituents",
+        "exit_code": 1,
+        "refusal": "studfleet: page 1 tray: collection identity differs at entry 1",
+        "file_hashes_recomputed": true
+      },
+      {
+        "control": "consumed supplied copy shown as remaining stock",
+        "exit_code": 1,
+        "refusal": "studfleet: draft derived compiled-plan.json differs",
+        "file_hashes_recomputed": true
+      }
+    ],
+    "exact_metadata_restored": true,
+    "final_verification": "Draft integrity and coverage verified; construction unverified"
+  },
+  "timing_ns": {
+    "early-handoff.json": 1793780081453658718,
+    "saved-controls.json": 1793780083461736608,
+    "saved-controls-resources.json": 1793780083795938527
+  },
+  "package_mutated_by_diagnosis": false,
+  "CLI_or_renderer_rerun": false
+}

@@ -1,0 +1,138 @@
+{
+  "product_source_commit": "dd6588ce03105cb0821320ca9523f20fa202dfc6",
+  "W4_dependency_merge": "88d17285175116bb84e8fed17d4621eb4927deff",
+  "binary_sha256": "e4fa38243ebbc1ec3d7e9c06801d2581491110a2b3232d7af1e9d421e1352a6d",
+  "literal_producer_token": "studfleet/import-1;binary_sha256=e4fa38243ebbc1ec3d7e9c06801d2581491110a2b3232d7af1e9d421e1352a6d;vcs.revision=69a73d11c9781ae70badaf40388e0b871d13288f;vcs.modified=true",
+  "package_revision": "0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21",
+  "manifest_identity": {
+    "schema": "studfleet/draft-package-1",
+    "presentation_sha256": "458009b4804527b7fae933114e7f7acea53b82c568c2b36ef45d8cc8657a5693",
+    "revision": "0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21",
+    "assembly_sha256": "19bdb995044399694332a79353cec0f82d66074bfd04f2df26604d1d45b9e608",
+    "plan_sha256": "8aca21e68d422c291e6868f58ac6cc2237d20b2feff4114a23156c80a96c886e",
+    "tool_sha256": "bb498a7edf0f4a622a4e23156b54d74f613c2a3eaa222a4e83ae16408c90e9cb",
+    "profiles_sha256": "e69064b980b0630fe0dc1512994bf6f8b2e05be5590c018ae242b7d6a0b91829",
+    "mapping_sha256": "1791ebf7237a953d025bf54907c5c856642b22ef8c98c82de5e7c4013076749e",
+    "catalog_sha256": "f3e496d0ede69ca7942fa4aa198e661ee2d22723906101e2e339d8917a4dd5f2",
+    "classification": "draft",
+    "source_sha256": "8ebcc9326398b2e670186fc6f374743163887c3afc0d1b808081f56a2f429b69",
+    "provenance_sha256": "b04497edfcbc4027ee8feeb0721231c8d068c8b45f8a69b3dcf7611220345625",
+    "inspection_sha256": "88d81bcd7d1853205a1a2c3214ab7d755f5b8fa51c3c0ca0e7ca2f162be0e035"
+  },
+  "paths": {
+    "source_mpd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/intake/source.mpd",
+    "assembly": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/intake/assembly.json",
+    "provenance": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/intake/import-report.json",
+    "plan": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/plan.json",
+    "presentation": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/presentation.json",
+    "source_binding": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/source-bound.json",
+    "package": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/package",
+    "package_manifest": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/package/manifest.json",
+    "catalog_dependencies": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/package/catalog-dependencies.json",
+    "binary": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/studfleet"
+  },
+  "file_sha256": {
+    "source_mpd": "8ebcc9326398b2e670186fc6f374743163887c3afc0d1b808081f56a2f429b69",
+    "assembly": "19bdb995044399694332a79353cec0f82d66074bfd04f2df26604d1d45b9e608",
+    "provenance": "b04497edfcbc4027ee8feeb0721231c8d068c8b45f8a69b3dcf7611220345625",
+    "plan": "8aca21e68d422c291e6868f58ac6cc2237d20b2feff4114a23156c80a96c886e",
+    "presentation": "458009b4804527b7fae933114e7f7acea53b82c568c2b36ef45d8cc8657a5693",
+    "source_binding": "c2479083be6627090c2c42802862015d087848a4c0ce1d5fb893140ccc34f06e",
+    "package_manifest": "1280c3e5d5c270d99bf33498c4ac740639785555376d371adee21a0f153611c3",
+    "catalog_dependencies": "2d02bd6b4fc57b2a5a29611d0486880833d45242d0bd9405eedfc6fd39545dfc",
+    "binary": "e4fa38243ebbc1ec3d7e9c06801d2581491110a2b3232d7af1e9d421e1352a6d"
+  },
+  "runtime": {
+    "node": "v24.22.1",
+    "browser": "156.0.8078.80",
+    "playwright": "1.58.2"
+  },
+  "invocation": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/studfleet",
+    "draft",
+    "--assembly",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/intake/assembly.json",
+    "--provenance",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/intake/import-report.json",
+    "--plan",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/plan.json",
+    "--presentation",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/presentation.json",
+    "--ldraw",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/ldraw-complete.zip",
+    "--browser",
+    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    "--out",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/package"
+  ],
+  "invocation_cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes",
+  "resource_limits": {
+    "time_seconds": 300,
+    "owned_plus_measured_cache_bytes": 157286400,
+    "disk_floor_bytes": 536870912
+  },
+  "scope": "Read-only exact source/author-input preparation. Same18 original members and poses; no adoption gate, migration, artwork, checked/physical or SKU acceptance.",
+  "schema": "studfleet/supplied-unit-frozen-handoff-1",
+  "frozen_at_utc": "2026-11-04T08:20:53.797758+00:00",
+  "package_files_sha256": {
+    "assembly.json": "19bdb995044399694332a79353cec0f82d66074bfd04f2df26604d1d45b9e608",
+    "assembly.mpd": "71e3412ad7aad437974c492b4a4332a09eda9a2762f16b4a968088e9c3159bae",
+    "catalog-dependencies.json": "2d02bd6b4fc57b2a5a29611d0486880833d45242d0bd9405eedfc6fd39545dfc",
+    "catalog-meshes.json": "65920f6a57c3a75f76a1e0af01dd20d84c60f495020b36f14bb37c4e81629149",
+    "catalog-notices.txt": "d23e6b727607cdca00588369aa3e2c34726c3d965e36124ee44a9e0533ac27bf",
+    "compiled-plan.json": "7de706a016a0c936482c0886b5b75d528d4a7df3a4f15030e5c850d255c6ff93",
+    "draft-status.json": "f9d8a422e50ef7fb411bdb73a6cc090246ec09ab7f86df056dc0059e74121400",
+    "exports.json": "e945fb177ffd5c5a774d02d8bcd84d58c13da6740fe5f0c609107e38ef993c2a",
+    "import-report.json": "b04497edfcbc4027ee8feeb0721231c8d068c8b45f8a69b3dcf7611220345625",
+    "inspection.json": "88d81bcd7d1853205a1a2c3214ab7d755f5b8fa51c3c0ca0e7ca2f162be0e035",
+    "instruction-frames.json": "88e55ffcb6449554c3f73259251e200661828bb205f8d60deefd1136b33de19a",
+    "instructions.pdf": "2420ee2deae0c914b029af32b1bec836da898f6d3d7bcb8d24cdafc52bb2b309",
+    "inventory.csv": "6b976e23dd64c46fe3fcc92ac2e435c83a015f58ed4337233817d947a22e3751",
+    "page-001.png": "9c736be283c4bd8c127d8b03c1cd417c8b0cf4d39eb3b95bfdfb13cf0f51a017",
+    "page-002.png": "a196f371556a0a76818561fcec0074c17264edb5e2393036e67c27de4605469d",
+    "page-003.png": "18f8333f1383cd61d37fa2bd400ea79ca7058828389e0db3b4cdb943aff57a02",
+    "pages.json": "f6111e6668d09c309272a7a051d404963dc691dd97b4338564778b8510cc51c6",
+    "plan.json": "8aca21e68d422c291e6868f58ac6cc2237d20b2feff4114a23156c80a96c886e",
+    "presentation.json": "458009b4804527b7fae933114e7f7acea53b82c568c2b36ef45d8cc8657a5693",
+    "render-scene.json": "12006e1d3bfc6ee1c2422176124e0c15be996cbd0575c3fe393f1dfc781f32f2",
+    "runtime.json": "3aef3826b5d1e1b8a974070303a23c4c076c81e5555fa9f457455770f3e99838",
+    "source.mpd": "8ebcc9326398b2e670186fc6f374743163887c3afc0d1b808081f56a2f429b69",
+    "tray-1c36c3aba152d7c25e0edf0c7bfaa27e6db6d70a9b24d6316f3102dc3e2739f7.png": "1c36c3aba152d7c25e0edf0c7bfaa27e6db6d70a9b24d6316f3102dc3e2739f7",
+    "tray-3c4bb3d83e116f4a68bba87298441ebabdc4abfbb50cc6b9303483746652e58f.png": "3c4bb3d83e116f4a68bba87298441ebabdc4abfbb50cc6b9303483746652e58f",
+    "tray-4903075b447a80137ab0a4f97973179b2a621181570dc2a010116db61f6a95e3.png": "4903075b447a80137ab0a4f97973179b2a621181570dc2a010116db61f6a95e3",
+    "tray-4d9eef5035f07d4467af9b5794466898623f27cb339e170f3e3fa2e6f05cb30c.png": "4d9eef5035f07d4467af9b5794466898623f27cb339e170f3e3fa2e6f05cb30c",
+    "viewer.html": "fe564d24af71beb4cd163e017334582534bb8042db878df9f7ea24dff3e415a2",
+    "manifest.json": "1280c3e5d5c270d99bf33498c4ac740639785555376d371adee21a0f153611c3"
+  },
+  "source_vs_artifact": {
+    "product_source_commit": "dd6588ce03105cb0821320ca9523f20fa202dfc6",
+    "binary_sha256": "e4fa38243ebbc1ec3d7e9c06801d2581491110a2b3232d7af1e9d421e1352a6d",
+    "literal_VCS_stamp_is_not_product_source_commit": true,
+    "authoring_or_source_input_changes_since_early_handoff": false,
+    "artifact_snapshot_change": "Early manifest captured intentional banner-quantity corruption; current manifest is exact restored known-verified baseline."
+  },
+  "preserved_early_handoff": {
+    "path": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/early-handoff.json",
+    "sha256": "4ebb5e8b22fde3d5c9daa4d9045d92cba1aae6355440eac2213bcaeeaf5103ac",
+    "advertised_transient_manifest_sha256": "0c440c4a8a71ba38cd153b1740b9df489d30a2495f76e37f6596e4d8de91625d"
+  },
+  "diagnosis": {
+    "path": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/handoff-diagnosis.json",
+    "sha256": "012eab703a0df3a23ca22011418444965bf1c2ac99d74026711701fbd6e40b22",
+    "matched_control": "banner counted twice",
+    "package_mutated_by_diagnosis": false,
+    "CLI_or_renderer_rerun": false
+  },
+  "freeze_promise": {
+    "no_further_package_mutation": true,
+    "applies_to": [
+      "package",
+      "ordinary-package",
+      "mixed-package",
+      "multicopy-package"
+    ],
+    "all_intentional_corruptions_restored": true,
+    "no_export_or_green_control_rerun": "Per FO authorization, only read-only comparison and new handoff metadata were performed.",
+    "future_corrections": "Require new versioned output and distinct FO authorization; preserve these frozen packages."
+  }
+}

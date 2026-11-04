@@ -194,3 +194,7 @@ FO notice742924a2-ba37-4434-a93c-7b8b8f6801c6 reports W4 locally merged at34064f
 [90 preparation](../evidence/integration/supplied-dd6588c-preparation/README.md) is read-only. The early package manifest differs from its advertised hash while producer artifact work remains active. A frozen handoff is required before package identity claims. No DSS CLI probe ran. Membership intent is8+8 supplied with2 later accessories; original198 sequence/context still needs explicit reconciliation for full section adoption.
 
 FO notice29bf6d4e-4bd7-43cf-8bbf-14ef7f2ac901 reports H1 verification accepted false overview-Approach metadata in an independent negative control. Upstream AC3 repair is pending. Positive DSS PDF/navigation evidence remains provisional and does not cover that refusal. Next: frozen90 probe, then exact H1 fix feedback when supplied.
+
+### Frozen90 identity preparation
+
+The new frozen90 handoff passes read-only hashes, all18 exact source occurrences and8+8 supplied/2 accessory membership checks. Producer diagnosis links the old hash to an intentional negative-control window. Old failure evidence remains intact. Fresh same-binary import/check-only commands are prepared but unexecuted pending lease. This resolves the preparation identity hold, not compiler or section acceptance. H1 verification repair remains pending.

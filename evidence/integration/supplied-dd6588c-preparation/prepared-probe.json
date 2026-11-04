@@ -1,0 +1,68 @@
+{
+  "execution_status": "PREPARED ONLY; awaits explicit lease",
+  "frozen_handoff_sha256": "2b516efe26a1465369c112142db9abb2ae184826da37af04309a157131bdb14b",
+  "product_source": "dd6588ce03105cb0821320ca9523f20fa202dfc6",
+  "binary_sha256": "e4fa38243ebbc1ec3d7e9c06801d2581491110a2b3232d7af1e9d421e1352a6d",
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes",
+  "read_only_audit": {
+    "all_advertised_file_hashes_match": true,
+    "all_package_file_hashes_match": true,
+    "all_retained_source_bindings_match": true,
+    "exact_occurrences": 18,
+    "supplied_piece_ids": [
+      [
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        262,
+        263
+      ],
+      [
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407
+      ]
+    ],
+    "later_accessories": [
+      408,
+      409
+    ]
+  },
+  "import_argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/studfleet",
+    "import-mpd",
+    "--input",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/intake/source.mpd",
+    "--out",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-check/intake"
+  ],
+  "before_check": "Require fresh assembly bytes equal frozen assembly. Stop on any mismatch; never rewrite provenance or normalize poses.",
+  "check_argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/studfleet",
+    "draft",
+    "--assembly",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-check/intake/assembly.json",
+    "--provenance",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-check/intake/import-report.json",
+    "--plan",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/plan.json",
+    "--presentation",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/presentation.json",
+    "--check-only"
+  ],
+  "limits": "No CLI execution until lease. No renderer. Use explicit future lease resource bounds.",
+  "adoption_limits": [
+    "Operation198 and decorations reconciliation",
+    "330-piece entry context",
+    "Artwork and full section acceptance",
+    "No supplier SKU or physical claim"
+  ]
+}
