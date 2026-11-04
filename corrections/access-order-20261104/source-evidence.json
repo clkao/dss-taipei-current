@@ -1,0 +1,1419 @@
+{
+  "schema": "dss-access-static-evidence/1",
+  "adopted": false,
+  "feedback": {
+    "attributed_to": "彭柏源",
+    "verbatim_relayed_by_parent": "稍事 debug 。這個組裝說明的第 5 步牽涉到兩支 2780 (雙頭卡榫) 的組裝，但如果在這個步驟組裝的話，恐怕還是要拆開來。\n\n類似的問題也發生在第 13 步車頭保險桿的組裝，透明的 2654a 可能還是要拆下來才能完成這一步。類似的「拆下部份零件才能正確組裝」的步驟發現好幾個，也有「拆下部份零件才比較好裝」的步驟。\n整體來說還是很有趣的嘗試。",
+    "captain_step19_verbatim": "the 3 90 degree parts to be installed under the plate already attached to two of those"
+  },
+  "catalog_archive_sha256": "f3e496d0ede69ca7942fa4aa198e661ee2d22723906101e2e339d8917a4dd5f2",
+  "catalog_files": {
+    "parts/2780.dat": {
+      "sha256": "2628d30bcfa42b3a616da38b8020cbc2b1edb98b055329cfac56425cdc9a8277",
+      "description": "0 Technic Pin with Friction and Slots"
+    },
+    "p/confric5.dat": {
+      "sha256": "171ab5f7673337292eaf1477798e7fea5163cf409c379dce04f22c755380dafd",
+      "description": "0 Technic Friction Pin 1.0 Slotted with Split Base Collar"
+    },
+    "parts/32018.dat": {
+      "sha256": "52544f2b606467ec6f4097afc6b3d3a85cc4827031f16f166c8ec817140265e1",
+      "description": "0 Technic Brick  1 x 14 with Holes"
+    },
+    "parts/2654a.dat": {
+      "sha256": "bfc1e914300019b7bf1d8721c82d37315725e0edded205717dc797bae6d859d8",
+      "description": "0 Dish  2 x  2 with Rim"
+    },
+    "parts/99207.dat": {
+      "sha256": "fa15d4d820a874ab370cde738955e56094d3aec22b9d23d3987209edc3dc8432",
+      "description": "0 Bracket  1 x  2 -  2 x  2 Up"
+    },
+    "parts/93274.dat": {
+      "sha256": "a79e081e0e2bad746ee66458e4f5c342bf1ce5b7a2161e0fde9732bf26bc1e8f",
+      "description": "0 Bracket  1 x  2 -  2 x  4"
+    },
+    "parts/3710.dat": {
+      "sha256": "1a2d17e3e35750ccf02a54c7aee0cf7485c1c8596492746fc798d341399a3a6e",
+      "description": "0 Plate  1 x  4"
+    },
+    "parts/3666.dat": {
+      "sha256": "f4fc83d8c3fc1df32c1a217dc09775a99fad1ced348cffc5167f9c6a69aa9bca",
+      "description": "0 Plate  1 x  6"
+    }
+  },
+  "part_records": [
+    {
+      "id": 81,
+      "part": "3666",
+      "color": "dark-orange",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Plate  1 x 10",
+      "instance_id": "5279c7e6-65c4-5e7f-8eec-5900dbd6309d",
+      "transform": {
+        "origin": [
+          8.99998963,
+          6.50000021,
+          5.61875315
+        ],
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "106",
+        "ldd_design": "4477",
+        "original_ldraw_color": 1,
+        "original_position_ldu": [
+          219.999793,
+          -112.375063,
+          130.000004
+        ],
+        "original_rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "step": 56
+    },
+    {
+      "id": 82,
+      "part": "99207",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Bracket  1 x  2 -  2 x  2 Up",
+      "instance_id": "64d0a4fe-ad3d-5c9d-9391-5f5e1a167691",
+      "transform": {
+        "origin": [
+          12.9999907,
+          6.50000051,
+          5.21875294
+        ],
+        "matrix": [
+          [
+            -1.0,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "107",
+        "ldd_design": "99207",
+        "original_ldraw_color": 1,
+        "original_position_ldu": [
+          259.999814,
+          -104.375059,
+          130.00001
+        ],
+        "original_rotation": [
+          [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ]
+      },
+      "step": 55
+    },
+    {
+      "id": 83,
+      "part": "99207",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Bracket  1 x  2 -  2 x  2 Up",
+      "instance_id": "4f19490e-1ca1-5c10-98d9-78e7b7178597",
+      "transform": {
+        "origin": [
+          6.99999091,
+          6.50000021,
+          5.21875234
+        ],
+        "matrix": [
+          [
+            -1.0,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "108",
+        "ldd_design": "99207",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          139.999818,
+          -104.375047,
+          130.000004
+        ],
+        "original_rotation": [
+          [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ]
+      },
+      "step": 57
+    },
+    {
+      "id": 87,
+      "part": "99207",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Bracket  1 x  2 -  2 x  2 Up",
+      "instance_id": "87dd8e67-613d-5512-b0a0-07ffc6a2a7ca",
+      "transform": {
+        "origin": [
+          8.99999243,
+          6.50000066,
+          5.21875294
+        ],
+        "matrix": [
+          [
+            -1.0,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "112",
+        "ldd_design": "99207",
+        "original_ldraw_color": 1,
+        "original_position_ldu": [
+          179.999849,
+          -104.375059,
+          130.000013
+        ],
+        "original_rotation": [
+          [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ]
+      },
+      "step": 55
+    },
+    {
+      "id": 89,
+      "part": "99207",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Bracket  1 x  2 -  2 x  2 Up",
+      "instance_id": "76b7a9cf-6847-5568-ab1e-49a1887a4d10",
+      "transform": {
+        "origin": [
+          10.99999261,
+          6.50000095,
+          5.21875264
+        ],
+        "matrix": [
+          [
+            -1.0,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "114",
+        "ldd_design": "99207",
+        "original_ldraw_color": 1,
+        "original_position_ldu": [
+          219.999852,
+          -104.375053,
+          130.000019
+        ],
+        "original_rotation": [
+          [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ]
+      },
+      "step": 57
+    },
+    {
+      "id": 93,
+      "part": "99207",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Bracket  1 x  2 -  2 x  2 Up",
+      "instance_id": "f4cc79af-ea2c-5967-84cc-9584c5be505e",
+      "transform": {
+        "origin": [
+          14.99998999,
+          6.49999991,
+          5.21875204
+        ],
+        "matrix": [
+          [
+            -1.0,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "118",
+        "ldd_design": "99207",
+        "original_ldraw_color": 1,
+        "original_position_ldu": [
+          299.9998,
+          -104.375041,
+          129.999998
+        ],
+        "original_rotation": [
+          [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ]
+      },
+      "step": 57
+    },
+    {
+      "id": 99,
+      "part": "3036",
+      "color": "gray",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Plate  6 x  8",
+      "instance_id": "170dafa1-3828-5cf8-a1ab-33012b74991b",
+      "transform": {
+        "origin": [
+          6.99998981,
+          3.99999976,
+          4.41875072
+        ],
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "124",
+        "ldd_design": "3036",
+        "original_ldraw_color": 72,
+        "original_position_ldu": [
+          139.999796,
+          -88.375014,
+          79.999995
+        ],
+        "original_rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "step": 36
+    },
+    {
+      "id": 129,
+      "part": "3036",
+      "color": "gray",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Plate  6 x  8",
+      "instance_id": "a140f892-bcee-5430-8d48-a376637a7893",
+      "transform": {
+        "origin": [
+          14.99998903,
+          3.99999917,
+          4.41875072
+        ],
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "154",
+        "ldd_design": "3036",
+        "original_ldraw_color": 72,
+        "original_position_ldu": [
+          299.999781,
+          -88.375014,
+          79.999983
+        ],
+        "original_rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "step": 36
+    },
+    {
+      "id": 156,
+      "part": "93274",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Bracket  1 x  2 -  2 x  4",
+      "instance_id": "c7a9aafb-5723-5c7d-9216-e6d9a9e8f864",
+      "transform": {
+        "origin": [
+          8.99999124,
+          6.50000066,
+          4.81875272
+        ],
+        "matrix": [
+          [
+            -1.0,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "181",
+        "ldd_design": "93274",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          179.999825,
+          -96.375054,
+          130.000013
+        ],
+        "original_rotation": [
+          [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ]
+      },
+      "step": 52
+    },
+    {
+      "id": 166,
+      "part": "93274",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Bracket  1 x  2 -  2 x  4",
+      "instance_id": "0d89d346-e11f-5d19-9f43-63476ec3f66c",
+      "transform": {
+        "origin": [
+          12.99998951,
+          6.50000051,
+          4.81875272
+        ],
+        "matrix": [
+          [
+            -1.0,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "191",
+        "ldd_design": "93274",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          259.99979,
+          -96.375054,
+          130.00001
+        ],
+        "original_rotation": [
+          [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ]
+      },
+      "step": 52
+    },
+    {
+      "id": 172,
+      "part": "32018",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Technic Brick  1 x 14 with Holes",
+      "instance_id": "0582d195-9079-5cda-adba-06af4908bf8d",
+      "transform": {
+        "origin": [
+          10.99999005,
+          3.50000143,
+          3.21875203
+        ],
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "197",
+        "ldd_design": "32018",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          219.999801,
+          -64.375041,
+          70.000029
+        ],
+        "original_rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "step": 1
+    },
+    {
+      "id": 178,
+      "part": "32018",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Technic Brick  1 x 14 with Holes",
+      "instance_id": "206bd7fe-0248-56a3-bdc8-36cc58b3bcc3",
+      "transform": {
+        "origin": [
+          10.99999094,
+          4.5000004,
+          3.21875263
+        ],
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "203",
+        "ldd_design": "32018",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          219.999819,
+          -64.375053,
+          90.000008
+        ],
+        "original_rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "step": 1
+    },
+    {
+      "id": 182,
+      "part": "3710",
+      "color": "gray",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Plate  1 x  4",
+      "instance_id": "01a529cd-8a64-5ec4-bb6f-42fab62de019",
+      "transform": {
+        "origin": [
+          18.49999666,
+          3.99999826,
+          3.21875246
+        ],
+        "matrix": [
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "207",
+        "ldd_design": "3710",
+        "original_ldraw_color": 72,
+        "original_position_ldu": [
+          369.999933,
+          -64.375049,
+          79.999965
+        ],
+        "original_rotation": [
+          [
+            -0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            0.0,
+            -0.0
+          ]
+        ]
+      },
+      "step": 33
+    },
+    {
+      "id": 183,
+      "part": "99207",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Bracket  1 x  2 -  2 x  2 Up",
+      "instance_id": "4b283cbe-fc63-50da-aa96-a7a243e3c901",
+      "transform": {
+        "origin": [
+          18.49999428,
+          2.99999821,
+          2.81875046
+        ],
+        "matrix": [
+          [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "208",
+        "ldd_design": "99207",
+        "original_ldraw_color": 1,
+        "original_position_ldu": [
+          369.999886,
+          -56.375009,
+          59.999964
+        ],
+        "original_rotation": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      "step": 33
+    },
+    {
+      "id": 184,
+      "part": "99207",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Bracket  1 x  2 -  2 x  2 Up",
+      "instance_id": "cc56c573-ae42-5f35-b427-74447ac71870",
+      "transform": {
+        "origin": [
+          18.49999547,
+          4.99999735,
+          2.81875105
+        ],
+        "matrix": [
+          [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "209",
+        "ldd_design": "99207",
+        "original_ldraw_color": 1,
+        "original_position_ldu": [
+          369.999909,
+          -56.375021,
+          99.999947
+        ],
+        "original_rotation": [
+          [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      "step": 33
+    },
+    {
+      "id": 190,
+      "part": "3710",
+      "color": "gray",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Plate  1 x  4",
+      "instance_id": "d10a2d57-7a61-5c3d-909b-07a5b09a1f10",
+      "transform": {
+        "origin": [
+          18.49999547,
+          3.99999766,
+          2.41875203
+        ],
+        "matrix": [
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "215",
+        "ldd_design": "3710",
+        "original_ldraw_color": 72,
+        "original_position_ldu": [
+          369.999909,
+          -48.375041,
+          79.999953
+        ],
+        "original_rotation": [
+          [
+            -0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            0.0,
+            -0.0
+          ]
+        ]
+      },
+      "step": 32
+    },
+    {
+      "id": 191,
+      "part": "2654a",
+      "color": "clear",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Dish  2 x  2 with Rim",
+      "instance_id": "1435d503-da99-5ba1-8198-d89e420c108a",
+      "transform": {
+        "origin": [
+          17.99999285,
+          3.99999726,
+          2.01875203
+        ],
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "216",
+        "ldd_design": "2654",
+        "original_ldraw_color": 47,
+        "original_position_ldu": [
+          359.999857,
+          -40.375041,
+          79.999945
+        ],
+        "original_rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "step": 31
+    },
+    {
+      "id": 216,
+      "part": "2780",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Technic Pin with Friction and Slots",
+      "instance_id": "0bad7be1-14f1-580d-9b85-ede56e99ae0c",
+      "transform": {
+        "origin": [
+          5.00000033,
+          4.0,
+          2.71875372
+        ],
+        "matrix": [
+          [
+            -3.3e-07,
+            -1.0,
+            0.0
+          ],
+          [
+            1.0,
+            -3.3e-07,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "241",
+        "ldd_design": "2780",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          100.000007,
+          -54.875074,
+          80.0
+        ],
+        "original_rotation": [
+          [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            -0.0
+          ]
+        ]
+      },
+      "step": 12
+    },
+    {
+      "id": 231,
+      "part": "2780",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Technic Pin with Friction and Slots",
+      "instance_id": "f17392aa-ada1-51f0-96b0-c6b9e95e943c",
+      "transform": {
+        "origin": [
+          16.9999865,
+          4.0,
+          2.71875372
+        ],
+        "matrix": [
+          [
+            -3.3e-07,
+            -1.0,
+            0.0
+          ],
+          [
+            1.0,
+            -3.3e-07,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "256",
+        "ldd_design": "2780",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          339.99973,
+          -54.875074,
+          80.0
+        ],
+        "original_rotation": [
+          [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            -0.0
+          ]
+        ]
+      },
+      "step": 12
+    },
+    {
+      "id": 333,
+      "part": "3710",
+      "color": "dark-orange",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Front Dark Orange rail plate 81",
+      "instance_id": "abea0b31-19c4-5ba4-99b1-f36c13a8b9c3",
+      "transform": {
+        "origin": [
+          13.99998963,
+          6.50000021,
+          5.61875315
+        ],
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "step": 56
+    }
+  ],
+  "historical": {
+    "controls.json": {
+      "read_only_source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/refined-v10-2026-11-03/controls.json",
+      "sha256": "901703d4fb5ece32a37d57149239d4481715cc91050673ab05a93a9e08fc2c62",
+      "top_level_fields": [
+        "old_step_21_isolated_slope_detected",
+        "new_carriers_connected_at_installation",
+        "original_poses_and_inventory_preserved",
+        "temporal_graph_findings",
+        "nonempty_operations",
+        "broadphase_directions",
+        "repeat_shape_checks"
+      ],
+      "record": {
+        "old_step_21_isolated_slope_detected": true,
+        "new_carriers_connected_at_installation": true,
+        "original_poses_and_inventory_preserved": true,
+        "temporal_graph_findings": 0,
+        "nonempty_operations": 193,
+        "broadphase_directions": 6,
+        "repeat_shape_checks": 11
+      }
+    },
+    "sampled-carrier-approaches.json": {
+      "read_only_source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/refined-v10-2026-11-03/sampled-carrier-approaches.json",
+      "sha256": "c936941dae9d7ccdaa54a7506303a30142d76feb8fde86d506464b52892f0ec1",
+      "top_level_fields": [
+        "model_sha256",
+        "paths",
+        "limits",
+        "exact_geometry_and_operation_rebinding"
+      ],
+      "binding_fields": {
+        "model_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+        "limits": "Finite poses and strict surface crossings only; not continuous collision, containment, coplanar contact, snap flexure, hand access or grip/strength proof. A reported mating pair is not an exemption.",
+        "exact_geometry_and_operation_rebinding": {
+          "source_report_sha256": "c31e6c39e27199e1c3b56135084fd21851457e366bc641db9a65930209140d0d",
+          "source_model_sha256": "ccfa1cdb6e553183079dfa6a0c2559012d7d45696f0270322aab50b769f05880",
+          "target_model_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+          "all_piece_records_identical": true,
+          "all_raw_operations_identical": true,
+          "catalog_mesh_bytes_identical": true,
+          "fresh_broadphase_paths_identical": true,
+          "scope": "Only instruction cameras and display depth priority changed; no collision or contact geometry changed."
+        }
+      }
+    }
+  },
+  "observations": [
+    "Beam centres differ by approximately one stud in source y; inward faces and pin centres lie near y=4. Pin2780 uses two mirrored confric5 primitives, whose catalog title explicitly names a split base collar.",
+    "Front dish191 at x≈18,z≈2.01875 lies adjacent to plate190 at x≈18.5,z≈2.41875. Bracket bases are z≈2.81875 and upper cap182 z≈3.21875. These positions support a layered course hypothesis, not clearance certification.",
+    "Each upper rail connects to its own subset of brackets; no source contact joins the two rail units to each other before installation on the lower carrier.",
+    "Source labels for3666 are inconsistent (some say1x10 or1x6); canonical part identity3666 is retained. Do not alter geometry to match prose."
+  ],
+  "limits": [
+    "No continuous collision/sweep or hand-access test",
+    "Catalog definitions read as static evidence only; no new backend or mesh import",
+    "Old connected-prefix and finite above-path findings do not establish local frames5–7 accessibility",
+    "Original recipe build() defaults every direction to top; that field is not a certified insertion vector"
+  ]
+}

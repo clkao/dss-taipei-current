@@ -1,0 +1,3528 @@
+{
+  "schema": "dss-correction-crosswalk/1",
+  "adopted": false,
+  "source_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+  "operations": [
+    {
+      "old_operation": 1,
+      "old_main_step": 1,
+      "candidate_operations": [
+        {
+          "id": "legacy-001a",
+          "ordinal": 1,
+          "piece_ids": [
+            172
+          ],
+          "assembly": "chassis-core"
+        },
+        {
+          "id": "legacy-001b",
+          "ordinal": 3,
+          "piece_ids": [
+            178
+          ],
+          "assembly": "chassis-core"
+        }
+      ]
+    },
+    {
+      "old_operation": 2,
+      "old_main_step": 1,
+      "candidate_operations": [
+        {
+          "id": "legacy-002",
+          "ordinal": 4,
+          "piece_ids": [
+            150,
+            163
+          ],
+          "assembly": "chassis-core"
+        }
+      ]
+    },
+    {
+      "old_operation": 3,
+      "old_main_step": 1,
+      "candidate_operations": [
+        {
+          "id": "legacy-003",
+          "ordinal": 5,
+          "piece_ids": [
+            153,
+            168,
+            177
+          ],
+          "assembly": "chassis-core"
+        }
+      ]
+    },
+    {
+      "old_operation": 4,
+      "old_main_step": 1,
+      "candidate_operations": [
+        {
+          "id": "legacy-004",
+          "ordinal": 6,
+          "piece_ids": [
+            173,
+            179
+          ],
+          "assembly": "chassis-core"
+        }
+      ]
+    },
+    {
+      "old_operation": 5,
+      "old_main_step": 1,
+      "candidate_operations": [
+        {
+          "id": "legacy-005",
+          "ordinal": 7,
+          "piece_ids": [
+            134,
+            164
+          ],
+          "assembly": "chassis-core"
+        }
+      ]
+    },
+    {
+      "old_operation": 6,
+      "old_main_step": 1,
+      "candidate_operations": [
+        {
+          "id": "legacy-006",
+          "ordinal": 8,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 7,
+      "old_main_step": 2,
+      "candidate_operations": [
+        {
+          "id": "legacy-007",
+          "ordinal": 9,
+          "piece_ids": [
+            107,
+            128
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 8,
+      "old_main_step": 2,
+      "candidate_operations": [
+        {
+          "id": "legacy-008",
+          "ordinal": 10,
+          "piece_ids": [
+            152,
+            162
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 9,
+      "old_main_step": 2,
+      "candidate_operations": [
+        {
+          "id": "legacy-009",
+          "ordinal": 11,
+          "piece_ids": [
+            113
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 10,
+      "old_main_step": 3,
+      "candidate_operations": [
+        {
+          "id": "legacy-010",
+          "ordinal": 12,
+          "piece_ids": [
+            161
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 11,
+      "old_main_step": 4,
+      "candidate_operations": [
+        {
+          "id": "legacy-011",
+          "ordinal": 13,
+          "piece_ids": [
+            145,
+            165
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 12,
+      "old_main_step": 5,
+      "candidate_operations": [
+        {
+          "id": "legacy-012",
+          "ordinal": 2,
+          "piece_ids": [
+            216,
+            231
+          ],
+          "assembly": "chassis-core"
+        }
+      ]
+    },
+    {
+      "old_operation": 13,
+      "old_main_step": 6,
+      "candidate_operations": [
+        {
+          "id": "legacy-013",
+          "ordinal": 14,
+          "piece_ids": [
+            218,
+            217
+          ],
+          "assembly": "rear-left-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 14,
+      "old_main_step": 6,
+      "candidate_operations": [
+        {
+          "id": "legacy-014",
+          "ordinal": 15,
+          "piece_ids": [
+            219,
+            224
+          ],
+          "assembly": "rear-left-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 15,
+      "old_main_step": 6,
+      "candidate_operations": [
+        {
+          "id": "legacy-015",
+          "ordinal": 16,
+          "piece_ids": [
+            223,
+            227
+          ],
+          "assembly": "rear-left-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 16,
+      "old_main_step": 6,
+      "candidate_operations": [
+        {
+          "id": "legacy-016",
+          "ordinal": 17,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 17,
+      "old_main_step": 7,
+      "candidate_operations": [
+        {
+          "id": "legacy-017",
+          "ordinal": 18,
+          "piece_ids": [
+            230,
+            226
+          ],
+          "assembly": "rear-right-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 18,
+      "old_main_step": 7,
+      "candidate_operations": [
+        {
+          "id": "legacy-018",
+          "ordinal": 19,
+          "piece_ids": [
+            225,
+            241
+          ],
+          "assembly": "rear-right-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 19,
+      "old_main_step": 7,
+      "candidate_operations": [
+        {
+          "id": "legacy-019",
+          "ordinal": 20,
+          "piece_ids": [
+            240,
+            242
+          ],
+          "assembly": "rear-right-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 20,
+      "old_main_step": 7,
+      "candidate_operations": [
+        {
+          "id": "legacy-020",
+          "ordinal": 21,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 21,
+      "old_main_step": 8,
+      "candidate_operations": [
+        {
+          "id": "legacy-021",
+          "ordinal": 22,
+          "piece_ids": [
+            232,
+            220
+          ],
+          "assembly": "front-left-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 22,
+      "old_main_step": 8,
+      "candidate_operations": [
+        {
+          "id": "legacy-022",
+          "ordinal": 23,
+          "piece_ids": [
+            228,
+            238
+          ],
+          "assembly": "front-left-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 23,
+      "old_main_step": 8,
+      "candidate_operations": [
+        {
+          "id": "legacy-023",
+          "ordinal": 24,
+          "piece_ids": [
+            237,
+            239
+          ],
+          "assembly": "front-left-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 24,
+      "old_main_step": 8,
+      "candidate_operations": [
+        {
+          "id": "legacy-024",
+          "ordinal": 25,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 25,
+      "old_main_step": 9,
+      "candidate_operations": [
+        {
+          "id": "legacy-025",
+          "ordinal": 26,
+          "piece_ids": [
+            245,
+            234
+          ],
+          "assembly": "front-right-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 26,
+      "old_main_step": 9,
+      "candidate_operations": [
+        {
+          "id": "legacy-026",
+          "ordinal": 27,
+          "piece_ids": [
+            233,
+            246
+          ],
+          "assembly": "front-right-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 27,
+      "old_main_step": 9,
+      "candidate_operations": [
+        {
+          "id": "legacy-027",
+          "ordinal": 28,
+          "piece_ids": [
+            248,
+            247
+          ],
+          "assembly": "front-right-suspension"
+        }
+      ]
+    },
+    {
+      "old_operation": 28,
+      "old_main_step": 9,
+      "candidate_operations": [
+        {
+          "id": "legacy-028",
+          "ordinal": 29,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 29,
+      "old_main_step": 10,
+      "candidate_operations": [
+        {
+          "id": "legacy-029",
+          "ordinal": 30,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 30,
+      "old_main_step": 11,
+      "candidate_operations": [
+        {
+          "id": "legacy-030",
+          "ordinal": 31,
+          "piece_ids": [
+            171,
+            181
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 31,
+      "old_main_step": 11,
+      "candidate_operations": [
+        {
+          "id": "legacy-031a",
+          "ordinal": 32,
+          "piece_ids": [
+            204,
+            188
+          ],
+          "assembly": "truck"
+        },
+        {
+          "id": "legacy-031b",
+          "ordinal": 41,
+          "piece_ids": [
+            191
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 32,
+      "old_main_step": 12,
+      "candidate_operations": [
+        {
+          "id": "legacy-032a",
+          "ordinal": 33,
+          "piece_ids": [
+            169
+          ],
+          "assembly": "truck"
+        },
+        {
+          "id": "legacy-032b",
+          "ordinal": 34,
+          "piece_ids": [
+            190
+          ],
+          "assembly": "front-lower-bumper"
+        }
+      ]
+    },
+    {
+      "old_operation": 33,
+      "old_main_step": 13,
+      "candidate_operations": [
+        {
+          "id": "legacy-033a",
+          "ordinal": 35,
+          "piece_ids": [
+            183,
+            184
+          ],
+          "assembly": "front-lower-bumper"
+        },
+        {
+          "id": "legacy-033b",
+          "ordinal": 36,
+          "piece_ids": [
+            182
+          ],
+          "assembly": "front-lower-bumper"
+        }
+      ]
+    },
+    {
+      "old_operation": 34,
+      "old_main_step": 13,
+      "candidate_operations": [
+        {
+          "id": "legacy-034",
+          "ordinal": 37,
+          "piece_ids": [
+            187,
+            189
+          ],
+          "assembly": "front-lower-bumper"
+        }
+      ]
+    },
+    {
+      "old_operation": 35,
+      "old_main_step": 13,
+      "candidate_operations": [
+        {
+          "id": "legacy-035a",
+          "ordinal": 38,
+          "piece_ids": [
+            215,
+            229
+          ],
+          "assembly": "front-lower-bumper"
+        },
+        {
+          "id": "legacy-035b",
+          "ordinal": 39,
+          "piece_ids": [
+            170
+          ],
+          "assembly": "front-lower-bumper"
+        },
+        {
+          "id": "legacy-035j",
+          "ordinal": 40,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 36,
+      "old_main_step": 14,
+      "candidate_operations": [
+        {
+          "id": "legacy-036",
+          "ordinal": 42,
+          "piece_ids": [
+            99,
+            129
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 37,
+      "old_main_step": 15,
+      "candidate_operations": [
+        {
+          "id": "legacy-037",
+          "ordinal": 43,
+          "piece_ids": [
+            106,
+            110,
+            155,
+            159
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 38,
+      "old_main_step": 15,
+      "candidate_operations": [
+        {
+          "id": "legacy-038",
+          "ordinal": 44,
+          "piece_ids": [
+            103,
+            104,
+            139,
+            146
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 39,
+      "old_main_step": 16,
+      "candidate_operations": [
+        {
+          "id": "legacy-039",
+          "ordinal": 45,
+          "piece_ids": [
+            154,
+            160,
+            180,
+            186
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 40,
+      "old_main_step": 16,
+      "candidate_operations": [
+        {
+          "id": "legacy-040",
+          "ordinal": 46,
+          "piece_ids": [
+            135,
+            148,
+            174,
+            175
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 41,
+      "old_main_step": 17,
+      "candidate_operations": [
+        {
+          "id": "legacy-041",
+          "ordinal": 47,
+          "piece_ids": [
+            75,
+            90
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 42,
+      "old_main_step": 17,
+      "candidate_operations": [
+        {
+          "id": "legacy-042",
+          "ordinal": 48,
+          "piece_ids": [
+            63,
+            111,
+            91,
+            151
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 43,
+      "old_main_step": 18,
+      "candidate_operations": [
+        {
+          "id": "legacy-043",
+          "ordinal": 49,
+          "piece_ids": [
+            97
+          ],
+          "assembly": "left-side-carrier"
+        }
+      ]
+    },
+    {
+      "old_operation": 44,
+      "old_main_step": 18,
+      "candidate_operations": [
+        {
+          "id": "legacy-044",
+          "ordinal": 50,
+          "piece_ids": [
+            96,
+            115
+          ],
+          "assembly": "left-side-carrier"
+        }
+      ]
+    },
+    {
+      "old_operation": 45,
+      "old_main_step": 18,
+      "candidate_operations": [
+        {
+          "id": "legacy-045",
+          "ordinal": 51,
+          "piece_ids": [
+            117,
+            197,
+            140
+          ],
+          "assembly": "left-side-carrier"
+        }
+      ]
+    },
+    {
+      "old_operation": 46,
+      "old_main_step": 18,
+      "candidate_operations": [
+        {
+          "id": "legacy-046",
+          "ordinal": 52,
+          "piece_ids": [
+            98,
+            116
+          ],
+          "assembly": "left-side-carrier"
+        }
+      ]
+    },
+    {
+      "old_operation": 47,
+      "old_main_step": 18,
+      "candidate_operations": [
+        {
+          "id": "legacy-047a",
+          "ordinal": 54,
+          "piece_ids": [
+            39
+          ],
+          "assembly": "left-upper-rail-1"
+        },
+        {
+          "id": "legacy-047b",
+          "ordinal": 58,
+          "piece_ids": [
+            46
+          ],
+          "assembly": "left-upper-rail-2"
+        }
+      ]
+    },
+    {
+      "old_operation": 48,
+      "old_main_step": 18,
+      "candidate_operations": [
+        {
+          "id": "legacy-048a",
+          "ordinal": 53,
+          "piece_ids": [
+            38
+          ],
+          "assembly": "left-upper-rail-1"
+        },
+        {
+          "id": "legacy-048b",
+          "ordinal": 57,
+          "piece_ids": [
+            331
+          ],
+          "assembly": "left-upper-rail-2"
+        }
+      ]
+    },
+    {
+      "old_operation": 49,
+      "old_main_step": 18,
+      "candidate_operations": [
+        {
+          "id": "legacy-049a",
+          "ordinal": 55,
+          "piece_ids": [
+            42,
+            41
+          ],
+          "assembly": "left-upper-rail-1"
+        },
+        {
+          "id": "legacy-049j1",
+          "ordinal": 56,
+          "piece_ids": [],
+          "assembly": "left-side-carrier"
+        },
+        {
+          "id": "legacy-049b",
+          "ordinal": 59,
+          "piece_ids": [
+            48
+          ],
+          "assembly": "left-upper-rail-2"
+        },
+        {
+          "id": "legacy-049j2",
+          "ordinal": 60,
+          "piece_ids": [],
+          "assembly": "left-side-carrier"
+        }
+      ]
+    },
+    {
+      "old_operation": 50,
+      "old_main_step": 18,
+      "candidate_operations": [
+        {
+          "id": "legacy-050",
+          "ordinal": 61,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 51,
+      "old_main_step": 19,
+      "candidate_operations": [
+        {
+          "id": "legacy-051",
+          "ordinal": 62,
+          "piece_ids": [
+            158
+          ],
+          "assembly": "right-side-carrier"
+        }
+      ]
+    },
+    {
+      "old_operation": 52,
+      "old_main_step": 19,
+      "candidate_operations": [
+        {
+          "id": "legacy-052",
+          "ordinal": 63,
+          "piece_ids": [
+            166,
+            156
+          ],
+          "assembly": "right-side-carrier"
+        }
+      ]
+    },
+    {
+      "old_operation": 53,
+      "old_main_step": 19,
+      "candidate_operations": [
+        {
+          "id": "legacy-053",
+          "ordinal": 64,
+          "piece_ids": [
+            185,
+            205,
+            176
+          ],
+          "assembly": "right-side-carrier"
+        }
+      ]
+    },
+    {
+      "old_operation": 54,
+      "old_main_step": 19,
+      "candidate_operations": [
+        {
+          "id": "legacy-054",
+          "ordinal": 65,
+          "piece_ids": [
+            167,
+            157
+          ],
+          "assembly": "right-side-carrier"
+        }
+      ]
+    },
+    {
+      "old_operation": 55,
+      "old_main_step": 19,
+      "candidate_operations": [
+        {
+          "id": "legacy-055a",
+          "ordinal": 67,
+          "piece_ids": [
+            87
+          ],
+          "assembly": "right-upper-rail-1"
+        },
+        {
+          "id": "legacy-055b",
+          "ordinal": 71,
+          "piece_ids": [
+            82
+          ],
+          "assembly": "right-upper-rail-2"
+        }
+      ]
+    },
+    {
+      "old_operation": 56,
+      "old_main_step": 19,
+      "candidate_operations": [
+        {
+          "id": "legacy-056a",
+          "ordinal": 66,
+          "piece_ids": [
+            81
+          ],
+          "assembly": "right-upper-rail-1"
+        },
+        {
+          "id": "legacy-056b",
+          "ordinal": 70,
+          "piece_ids": [
+            333
+          ],
+          "assembly": "right-upper-rail-2"
+        }
+      ]
+    },
+    {
+      "old_operation": 57,
+      "old_main_step": 19,
+      "candidate_operations": [
+        {
+          "id": "legacy-057a",
+          "ordinal": 68,
+          "piece_ids": [
+            89,
+            83
+          ],
+          "assembly": "right-upper-rail-1"
+        },
+        {
+          "id": "legacy-057j1",
+          "ordinal": 69,
+          "piece_ids": [],
+          "assembly": "right-side-carrier"
+        },
+        {
+          "id": "legacy-057b",
+          "ordinal": 72,
+          "piece_ids": [
+            93
+          ],
+          "assembly": "right-upper-rail-2"
+        },
+        {
+          "id": "legacy-057j2",
+          "ordinal": 73,
+          "piece_ids": [],
+          "assembly": "right-side-carrier"
+        }
+      ]
+    },
+    {
+      "old_operation": 58,
+      "old_main_step": 19,
+      "candidate_operations": [
+        {
+          "id": "legacy-058",
+          "ordinal": 74,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 59,
+      "old_main_step": 20,
+      "candidate_operations": [
+        {
+          "id": "legacy-059",
+          "ordinal": 75,
+          "piece_ids": [
+            24,
+            77
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 60,
+      "old_main_step": 20,
+      "candidate_operations": [
+        {
+          "id": "legacy-060",
+          "ordinal": 76,
+          "piece_ids": [
+            69,
+            141
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 61,
+      "old_main_step": 21,
+      "candidate_operations": [
+        {
+          "id": "legacy-061",
+          "ordinal": 77,
+          "piece_ids": [
+            33
+          ],
+          "assembly": "rear-bed"
+        }
+      ]
+    },
+    {
+      "old_operation": 62,
+      "old_main_step": 21,
+      "candidate_operations": [
+        {
+          "id": "legacy-062",
+          "ordinal": 78,
+          "piece_ids": [
+            59
+          ],
+          "assembly": "rear-bed"
+        }
+      ]
+    },
+    {
+      "old_operation": 63,
+      "old_main_step": 21,
+      "candidate_operations": [
+        {
+          "id": "legacy-063",
+          "ordinal": 79,
+          "piece_ids": [
+            100,
+            109,
+            118
+          ],
+          "assembly": "rear-bed"
+        }
+      ]
+    },
+    {
+      "old_operation": 64,
+      "old_main_step": 21,
+      "candidate_operations": [
+        {
+          "id": "legacy-064",
+          "ordinal": 80,
+          "piece_ids": [
+            34,
+            54
+          ],
+          "assembly": "rear-bed"
+        }
+      ]
+    },
+    {
+      "old_operation": 65,
+      "old_main_step": 21,
+      "candidate_operations": [
+        {
+          "id": "legacy-065",
+          "ordinal": 81,
+          "piece_ids": [
+            14,
+            58
+          ],
+          "assembly": "rear-bed"
+        }
+      ]
+    },
+    {
+      "old_operation": 66,
+      "old_main_step": 21,
+      "candidate_operations": [
+        {
+          "id": "legacy-066",
+          "ordinal": 82,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 67,
+      "old_main_step": 22,
+      "candidate_operations": [
+        {
+          "id": "legacy-067",
+          "ordinal": 83,
+          "piece_ids": [
+            206,
+            214
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 68,
+      "old_main_step": 23,
+      "candidate_operations": [
+        {
+          "id": "legacy-068",
+          "ordinal": 84,
+          "piece_ids": [
+            119,
+            120
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 69,
+      "old_main_step": 23,
+      "candidate_operations": [
+        {
+          "id": "legacy-069",
+          "ordinal": 85,
+          "piece_ids": [
+            101,
+            102
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 70,
+      "old_main_step": 24,
+      "candidate_operations": [
+        {
+          "id": "legacy-070",
+          "ordinal": 86,
+          "piece_ids": [
+            192,
+            196,
+            195,
+            202
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 71,
+      "old_main_step": 24,
+      "candidate_operations": [
+        {
+          "id": "legacy-071",
+          "ordinal": 87,
+          "piece_ids": [
+            194,
+            203,
+            1,
+            2
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 72,
+      "old_main_step": 24,
+      "candidate_operations": [
+        {
+          "id": "legacy-072",
+          "ordinal": 88,
+          "piece_ids": [
+            198
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 73,
+      "old_main_step": 25,
+      "candidate_operations": [
+        {
+          "id": "legacy-073",
+          "ordinal": 89,
+          "piece_ids": [
+            36,
+            44,
+            51
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 74,
+      "old_main_step": 25,
+      "candidate_operations": [
+        {
+          "id": "legacy-074",
+          "ordinal": 90,
+          "piece_ids": [
+            35,
+            45,
+            49
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 75,
+      "old_main_step": 26,
+      "candidate_operations": [
+        {
+          "id": "legacy-075",
+          "ordinal": 91,
+          "piece_ids": [
+            37,
+            43,
+            50
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 76,
+      "old_main_step": 26,
+      "candidate_operations": [
+        {
+          "id": "legacy-076",
+          "ordinal": 92,
+          "piece_ids": [
+            40,
+            47
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 77,
+      "old_main_step": 27,
+      "candidate_operations": [
+        {
+          "id": "legacy-077",
+          "ordinal": 93,
+          "piece_ids": [
+            61,
+            84,
+            108
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 78,
+      "old_main_step": 27,
+      "candidate_operations": [
+        {
+          "id": "legacy-078",
+          "ordinal": 94,
+          "piece_ids": [
+            60,
+            86,
+            105
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 79,
+      "old_main_step": 28,
+      "candidate_operations": [
+        {
+          "id": "legacy-079",
+          "ordinal": 95,
+          "piece_ids": [
+            68,
+            85,
+            112
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 80,
+      "old_main_step": 28,
+      "candidate_operations": [
+        {
+          "id": "legacy-080",
+          "ordinal": 96,
+          "piece_ids": [
+            88,
+            92
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 81,
+      "old_main_step": 29,
+      "candidate_operations": [
+        {
+          "id": "legacy-081",
+          "ordinal": 97,
+          "piece_ids": [
+            27,
+            80,
+            26,
+            79
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 82,
+      "old_main_step": 29,
+      "candidate_operations": [
+        {
+          "id": "legacy-082",
+          "ordinal": 98,
+          "piece_ids": [
+            25,
+            335,
+            78,
+            337
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 83,
+      "old_main_step": 30,
+      "candidate_operations": [
+        {
+          "id": "legacy-083",
+          "ordinal": 99,
+          "piece_ids": [
+            72,
+            144,
+            71,
+            143
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 84,
+      "old_main_step": 30,
+      "candidate_operations": [
+        {
+          "id": "legacy-084",
+          "ordinal": 100,
+          "piece_ids": [
+            70,
+            336,
+            142,
+            338
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 85,
+      "old_main_step": 31,
+      "candidate_operations": [
+        {
+          "id": "legacy-085",
+          "ordinal": 101,
+          "piece_ids": [
+            15,
+            57
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 86,
+      "old_main_step": 32,
+      "candidate_operations": [
+        {
+          "id": "legacy-086",
+          "ordinal": 102,
+          "piece_ids": [
+            32,
+            76
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 87,
+      "old_main_step": 32,
+      "candidate_operations": [
+        {
+          "id": "legacy-087",
+          "ordinal": 103,
+          "piece_ids": [
+            10,
+            330,
+            64,
+            332
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 88,
+      "old_main_step": 33,
+      "candidate_operations": [
+        {
+          "id": "legacy-088",
+          "ordinal": 104,
+          "piece_ids": [
+            12,
+            67,
+            13,
+            66
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 89,
+      "old_main_step": 33,
+      "candidate_operations": [
+        {
+          "id": "legacy-089",
+          "ordinal": 105,
+          "piece_ids": [
+            9,
+            53
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 90,
+      "old_main_step": 34,
+      "candidate_operations": [
+        {
+          "id": "legacy-090",
+          "ordinal": 106,
+          "piece_ids": [
+            209,
+            208,
+            211
+          ],
+          "assembly": "tailgate"
+        }
+      ]
+    },
+    {
+      "old_operation": 91,
+      "old_main_step": 34,
+      "candidate_operations": [
+        {
+          "id": "legacy-091",
+          "ordinal": 107,
+          "piece_ids": [
+            210,
+            213
+          ],
+          "assembly": "tailgate"
+        }
+      ]
+    },
+    {
+      "old_operation": 92,
+      "old_main_step": 34,
+      "candidate_operations": [
+        {
+          "id": "legacy-092",
+          "ordinal": 108,
+          "piece_ids": [
+            207,
+            212
+          ],
+          "assembly": "tailgate"
+        }
+      ]
+    },
+    {
+      "old_operation": 93,
+      "old_main_step": 34,
+      "candidate_operations": [
+        {
+          "id": "legacy-093",
+          "ordinal": 109,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 94,
+      "old_main_step": 35,
+      "candidate_operations": [
+        {
+          "id": "legacy-094",
+          "ordinal": 110,
+          "piece_ids": [
+            114,
+            73
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 95,
+      "old_main_step": 35,
+      "candidate_operations": [
+        {
+          "id": "legacy-095",
+          "ordinal": 111,
+          "piece_ids": [
+            127,
+            149,
+            124,
+            137
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 96,
+      "old_main_step": 36,
+      "candidate_operations": [
+        {
+          "id": "legacy-096",
+          "ordinal": 112,
+          "piece_ids": [
+            95,
+            125,
+            138
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 97,
+      "old_main_step": 36,
+      "candidate_operations": [
+        {
+          "id": "legacy-097",
+          "ordinal": 113,
+          "piece_ids": [
+            121
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 98,
+      "old_main_step": 37,
+      "candidate_operations": [
+        {
+          "id": "legacy-098",
+          "ordinal": 114,
+          "piece_ids": [
+            123,
+            136
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 99,
+      "old_main_step": 37,
+      "candidate_operations": [
+        {
+          "id": "legacy-099",
+          "ordinal": 115,
+          "piece_ids": [
+            126,
+            147
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 100,
+      "old_main_step": 38,
+      "candidate_operations": [
+        {
+          "id": "legacy-100",
+          "ordinal": 116,
+          "piece_ids": [
+            122
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 101,
+      "old_main_step": 38,
+      "candidate_operations": [
+        {
+          "id": "legacy-101",
+          "ordinal": 117,
+          "piece_ids": [
+            309,
+            310,
+            311,
+            312
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 102,
+      "old_main_step": 39,
+      "candidate_operations": [
+        {
+          "id": "legacy-102",
+          "ordinal": 118,
+          "piece_ids": [
+            317,
+            318,
+            319,
+            314
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 103,
+      "old_main_step": 39,
+      "candidate_operations": [
+        {
+          "id": "legacy-103",
+          "ordinal": 119,
+          "piece_ids": [
+            320,
+            321,
+            322,
+            316
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 104,
+      "old_main_step": 40,
+      "candidate_operations": [
+        {
+          "id": "legacy-104",
+          "ordinal": 120,
+          "piece_ids": [
+            55,
+            30,
+            52
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 105,
+      "old_main_step": 40,
+      "candidate_operations": [
+        {
+          "id": "legacy-105",
+          "ordinal": 121,
+          "piece_ids": [
+            28,
+            31
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 106,
+      "old_main_step": 41,
+      "candidate_operations": [
+        {
+          "id": "legacy-106",
+          "ordinal": 122,
+          "piece_ids": [
+            56,
+            130,
+            132
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 107,
+      "old_main_step": 41,
+      "candidate_operations": [
+        {
+          "id": "legacy-107",
+          "ordinal": 123,
+          "piece_ids": [
+            16
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 108,
+      "old_main_step": 42,
+      "candidate_operations": [
+        {
+          "id": "legacy-108",
+          "ordinal": 124,
+          "piece_ids": [
+            74,
+            193,
+            201
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 109,
+      "old_main_step": 42,
+      "candidate_operations": [
+        {
+          "id": "legacy-109",
+          "ordinal": 125,
+          "piece_ids": [
+            199,
+            200
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 110,
+      "old_main_step": 42,
+      "candidate_operations": [
+        {
+          "id": "legacy-110",
+          "ordinal": 126,
+          "piece_ids": [
+            287
+          ],
+          "assembly": "interior"
+        }
+      ]
+    },
+    {
+      "old_operation": 111,
+      "old_main_step": 43,
+      "candidate_operations": [
+        {
+          "id": "legacy-111",
+          "ordinal": 127,
+          "piece_ids": [
+            11,
+            324,
+            65,
+            325
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 112,
+      "old_main_step": 43,
+      "candidate_operations": [
+        {
+          "id": "legacy-112",
+          "ordinal": 128,
+          "piece_ids": [
+            6,
+            8,
+            22,
+            23
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 113,
+      "old_main_step": 44,
+      "candidate_operations": [
+        {
+          "id": "legacy-113",
+          "ordinal": 129,
+          "piece_ids": [
+            19,
+            20,
+            21
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 114,
+      "old_main_step": 44,
+      "candidate_operations": [
+        {
+          "id": "legacy-114",
+          "ordinal": 130,
+          "piece_ids": [
+            18,
+            17
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 115,
+      "old_main_step": 45,
+      "candidate_operations": [
+        {
+          "id": "legacy-115",
+          "ordinal": 131,
+          "piece_ids": [
+            7
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 116,
+      "old_main_step": 45,
+      "candidate_operations": [
+        {
+          "id": "legacy-116",
+          "ordinal": 132,
+          "piece_ids": [
+            4,
+            3
+          ],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 117,
+      "old_main_step": 46,
+      "candidate_operations": [
+        {
+          "id": "legacy-117",
+          "ordinal": 133,
+          "piece_ids": [
+            29
+          ],
+          "assembly": "hood"
+        }
+      ]
+    },
+    {
+      "old_operation": 118,
+      "old_main_step": 46,
+      "candidate_operations": [
+        {
+          "id": "legacy-118",
+          "ordinal": 134,
+          "piece_ids": [
+            334,
+            339,
+            340
+          ],
+          "assembly": "hood"
+        }
+      ]
+    },
+    {
+      "old_operation": 119,
+      "old_main_step": 47,
+      "candidate_operations": [
+        {
+          "id": "legacy-119",
+          "ordinal": 135,
+          "piece_ids": [
+            5
+          ],
+          "assembly": "cab-roof"
+        }
+      ]
+    },
+    {
+      "old_operation": 120,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-120",
+          "ordinal": 136,
+          "piece_ids": [
+            221
+          ],
+          "assembly": "rear-left-wheel"
+        }
+      ]
+    },
+    {
+      "old_operation": 121,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-121",
+          "ordinal": 137,
+          "piece_ids": [
+            222
+          ],
+          "assembly": "rear-left-wheel"
+        }
+      ]
+    },
+    {
+      "old_operation": 122,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-122",
+          "ordinal": 138,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 123,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-123",
+          "ordinal": 139,
+          "piece_ids": [
+            243
+          ],
+          "assembly": "rear-right-wheel"
+        }
+      ]
+    },
+    {
+      "old_operation": 124,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-124",
+          "ordinal": 140,
+          "piece_ids": [
+            244
+          ],
+          "assembly": "rear-right-wheel"
+        }
+      ]
+    },
+    {
+      "old_operation": 125,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-125",
+          "ordinal": 141,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 126,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-126",
+          "ordinal": 142,
+          "piece_ids": [
+            235
+          ],
+          "assembly": "front-left-wheel"
+        }
+      ]
+    },
+    {
+      "old_operation": 127,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-127",
+          "ordinal": 143,
+          "piece_ids": [
+            236
+          ],
+          "assembly": "front-left-wheel"
+        }
+      ]
+    },
+    {
+      "old_operation": 128,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-128",
+          "ordinal": 144,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 129,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-129",
+          "ordinal": 145,
+          "piece_ids": [
+            249
+          ],
+          "assembly": "front-right-wheel"
+        }
+      ]
+    },
+    {
+      "old_operation": 130,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-130",
+          "ordinal": 146,
+          "piece_ids": [
+            250
+          ],
+          "assembly": "front-right-wheel"
+        }
+      ]
+    },
+    {
+      "old_operation": 131,
+      "old_main_step": 48,
+      "candidate_operations": [
+        {
+          "id": "legacy-131",
+          "ordinal": 147,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 132,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-132",
+          "ordinal": 148,
+          "piece_ids": [
+            280
+          ],
+          "assembly": "platform-riser-1"
+        }
+      ]
+    },
+    {
+      "old_operation": 133,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-133",
+          "ordinal": 149,
+          "piece_ids": [
+            326
+          ],
+          "assembly": "platform-riser-1"
+        }
+      ]
+    },
+    {
+      "old_operation": 134,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-134",
+          "ordinal": 150,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 135,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-135",
+          "ordinal": 151,
+          "piece_ids": [
+            281
+          ],
+          "assembly": "platform-riser-2"
+        }
+      ]
+    },
+    {
+      "old_operation": 136,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-136",
+          "ordinal": 152,
+          "piece_ids": [
+            327
+          ],
+          "assembly": "platform-riser-2"
+        }
+      ]
+    },
+    {
+      "old_operation": 137,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-137",
+          "ordinal": 153,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 138,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-138",
+          "ordinal": 154,
+          "piece_ids": [
+            282
+          ],
+          "assembly": "platform-riser-3"
+        }
+      ]
+    },
+    {
+      "old_operation": 139,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-139",
+          "ordinal": 155,
+          "piece_ids": [
+            328
+          ],
+          "assembly": "platform-riser-3"
+        }
+      ]
+    },
+    {
+      "old_operation": 140,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-140",
+          "ordinal": 156,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 141,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-141",
+          "ordinal": 157,
+          "piece_ids": [
+            283
+          ],
+          "assembly": "platform-riser-4"
+        }
+      ]
+    },
+    {
+      "old_operation": 142,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-142",
+          "ordinal": 158,
+          "piece_ids": [
+            329
+          ],
+          "assembly": "platform-riser-4"
+        }
+      ]
+    },
+    {
+      "old_operation": 143,
+      "old_main_step": 49,
+      "candidate_operations": [
+        {
+          "id": "legacy-143",
+          "ordinal": 159,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 144,
+      "old_main_step": 50,
+      "candidate_operations": [
+        {
+          "id": "legacy-144",
+          "ordinal": 160,
+          "piece_ids": [
+            284
+          ],
+          "assembly": "deck"
+        }
+      ]
+    },
+    {
+      "old_operation": 145,
+      "old_main_step": 51,
+      "candidate_operations": [
+        {
+          "id": "legacy-145",
+          "ordinal": 161,
+          "piece_ids": [
+            2001,
+            2002
+          ],
+          "assembly": "shield"
+        }
+      ]
+    },
+    {
+      "old_operation": 146,
+      "old_main_step": 52,
+      "candidate_operations": [
+        {
+          "id": "legacy-146",
+          "ordinal": 162,
+          "piece_ids": [
+            251
+          ],
+          "assembly": "helm-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 147,
+      "old_main_step": 52,
+      "candidate_operations": [
+        {
+          "id": "legacy-147",
+          "ordinal": 163,
+          "piece_ids": [
+            252
+          ],
+          "assembly": "helm-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 148,
+      "old_main_step": 52,
+      "candidate_operations": [
+        {
+          "id": "legacy-148",
+          "ordinal": 164,
+          "piece_ids": [
+            323
+          ],
+          "assembly": "helm-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 149,
+      "old_main_step": 52,
+      "candidate_operations": [
+        {
+          "id": "legacy-149",
+          "ordinal": 165,
+          "piece_ids": [
+            253
+          ],
+          "assembly": "helm-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 150,
+      "old_main_step": 52,
+      "candidate_operations": [
+        {
+          "id": "legacy-150",
+          "ordinal": 166,
+          "piece_ids": [
+            254
+          ],
+          "assembly": "helm-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 151,
+      "old_main_step": 52,
+      "candidate_operations": [
+        {
+          "id": "legacy-151",
+          "ordinal": 167,
+          "piece_ids": [],
+          "assembly": "helm"
+        }
+      ]
+    },
+    {
+      "old_operation": 152,
+      "old_main_step": 53,
+      "candidate_operations": [
+        {
+          "id": "legacy-152",
+          "ordinal": 168,
+          "piece_ids": [
+            2003
+          ],
+          "assembly": "shield-panel-1"
+        }
+      ]
+    },
+    {
+      "old_operation": 153,
+      "old_main_step": 53,
+      "candidate_operations": [
+        {
+          "id": "legacy-153",
+          "ordinal": 169,
+          "piece_ids": [
+            2006
+          ],
+          "assembly": "shield-panel-1"
+        }
+      ]
+    },
+    {
+      "old_operation": 154,
+      "old_main_step": 53,
+      "candidate_operations": [
+        {
+          "id": "legacy-154",
+          "ordinal": 170,
+          "piece_ids": [
+            2009
+          ],
+          "assembly": "shield-panel-1"
+        }
+      ]
+    },
+    {
+      "old_operation": 155,
+      "old_main_step": 53,
+      "candidate_operations": [
+        {
+          "id": "legacy-155",
+          "ordinal": 171,
+          "piece_ids": [],
+          "assembly": "shield"
+        }
+      ]
+    },
+    {
+      "old_operation": 156,
+      "old_main_step": 53,
+      "candidate_operations": [
+        {
+          "id": "legacy-156",
+          "ordinal": 172,
+          "piece_ids": [
+            2004
+          ],
+          "assembly": "shield-panel-2"
+        }
+      ]
+    },
+    {
+      "old_operation": 157,
+      "old_main_step": 53,
+      "candidate_operations": [
+        {
+          "id": "legacy-157",
+          "ordinal": 173,
+          "piece_ids": [
+            2007
+          ],
+          "assembly": "shield-panel-2"
+        }
+      ]
+    },
+    {
+      "old_operation": 158,
+      "old_main_step": 53,
+      "candidate_operations": [
+        {
+          "id": "legacy-158",
+          "ordinal": 174,
+          "piece_ids": [
+            2010
+          ],
+          "assembly": "shield-panel-2"
+        }
+      ]
+    },
+    {
+      "old_operation": 159,
+      "old_main_step": 53,
+      "candidate_operations": [
+        {
+          "id": "legacy-159",
+          "ordinal": 175,
+          "piece_ids": [],
+          "assembly": "shield"
+        }
+      ]
+    },
+    {
+      "old_operation": 160,
+      "old_main_step": 54,
+      "candidate_operations": [
+        {
+          "id": "legacy-160",
+          "ordinal": 176,
+          "piece_ids": [
+            2005
+          ],
+          "assembly": "shield-panel-3"
+        }
+      ]
+    },
+    {
+      "old_operation": 161,
+      "old_main_step": 54,
+      "candidate_operations": [
+        {
+          "id": "legacy-161",
+          "ordinal": 177,
+          "piece_ids": [
+            2008
+          ],
+          "assembly": "shield-panel-3"
+        }
+      ]
+    },
+    {
+      "old_operation": 162,
+      "old_main_step": 54,
+      "candidate_operations": [
+        {
+          "id": "legacy-162",
+          "ordinal": 178,
+          "piece_ids": [
+            2011
+          ],
+          "assembly": "shield-panel-3"
+        }
+      ]
+    },
+    {
+      "old_operation": 163,
+      "old_main_step": 54,
+      "candidate_operations": [
+        {
+          "id": "legacy-163",
+          "ordinal": 179,
+          "piece_ids": [],
+          "assembly": "shield"
+        }
+      ]
+    },
+    {
+      "old_operation": 164,
+      "old_main_step": 55,
+      "candidate_operations": [
+        {
+          "id": "legacy-164",
+          "ordinal": 180,
+          "piece_ids": [
+            285,
+            286
+          ],
+          "assembly": "deck"
+        }
+      ]
+    },
+    {
+      "old_operation": 165,
+      "old_main_step": 56,
+      "candidate_operations": [
+        {
+          "id": "legacy-165",
+          "ordinal": 181,
+          "piece_ids": [
+            288
+          ],
+          "assembly": "speaker-left-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 166,
+      "old_main_step": 56,
+      "candidate_operations": [
+        {
+          "id": "legacy-166",
+          "ordinal": 182,
+          "piece_ids": [
+            289,
+            290
+          ],
+          "assembly": "speaker-left-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 167,
+      "old_main_step": 56,
+      "candidate_operations": [
+        {
+          "id": "legacy-167",
+          "ordinal": 183,
+          "piece_ids": [
+            291,
+            292
+          ],
+          "assembly": "speaker-left-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 168,
+      "old_main_step": 56,
+      "candidate_operations": [
+        {
+          "id": "legacy-168",
+          "ordinal": 184,
+          "piece_ids": [
+            293
+          ],
+          "assembly": "speaker-left-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 169,
+      "old_main_step": 56,
+      "candidate_operations": [
+        {
+          "id": "legacy-169",
+          "ordinal": 185,
+          "piece_ids": [],
+          "assembly": "speaker-left"
+        }
+      ]
+    },
+    {
+      "old_operation": 170,
+      "old_main_step": 56,
+      "candidate_operations": [
+        {
+          "id": "legacy-170",
+          "ordinal": 186,
+          "piece_ids": [
+            294
+          ],
+          "assembly": "speaker-right-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 171,
+      "old_main_step": 56,
+      "candidate_operations": [
+        {
+          "id": "legacy-171",
+          "ordinal": 187,
+          "piece_ids": [
+            295,
+            296
+          ],
+          "assembly": "speaker-right-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 172,
+      "old_main_step": 56,
+      "candidate_operations": [
+        {
+          "id": "legacy-172",
+          "ordinal": 188,
+          "piece_ids": [
+            297,
+            298
+          ],
+          "assembly": "speaker-right-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 173,
+      "old_main_step": 56,
+      "candidate_operations": [
+        {
+          "id": "legacy-173",
+          "ordinal": 189,
+          "piece_ids": [
+            299
+          ],
+          "assembly": "speaker-right-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 174,
+      "old_main_step": 56,
+      "candidate_operations": [
+        {
+          "id": "legacy-174",
+          "ordinal": 190,
+          "piece_ids": [],
+          "assembly": "speaker-right"
+        }
+      ]
+    },
+    {
+      "old_operation": 175,
+      "old_main_step": 57,
+      "candidate_operations": [
+        {
+          "id": "legacy-175",
+          "ordinal": 191,
+          "piece_ids": [
+            300
+          ],
+          "assembly": "sail"
+        }
+      ]
+    },
+    {
+      "old_operation": 176,
+      "old_main_step": 57,
+      "candidate_operations": [
+        {
+          "id": "legacy-176",
+          "ordinal": 192,
+          "piece_ids": [
+            307,
+            308
+          ],
+          "assembly": "sail"
+        }
+      ]
+    },
+    {
+      "old_operation": 177,
+      "old_main_step": 57,
+      "candidate_operations": [
+        {
+          "id": "legacy-177",
+          "ordinal": 193,
+          "piece_ids": [
+            301
+          ],
+          "assembly": "sail"
+        }
+      ]
+    },
+    {
+      "old_operation": 178,
+      "old_main_step": 58,
+      "candidate_operations": [
+        {
+          "id": "legacy-178",
+          "ordinal": 194,
+          "piece_ids": [
+            302,
+            303
+          ],
+          "assembly": "sail-panel"
+        }
+      ]
+    },
+    {
+      "old_operation": 179,
+      "old_main_step": 58,
+      "candidate_operations": [
+        {
+          "id": "legacy-179",
+          "ordinal": 195,
+          "piece_ids": [
+            304
+          ],
+          "assembly": "sail-panel"
+        }
+      ]
+    },
+    {
+      "old_operation": 180,
+      "old_main_step": 58,
+      "candidate_operations": [
+        {
+          "id": "legacy-180",
+          "ordinal": 196,
+          "piece_ids": [
+            305,
+            306
+          ],
+          "assembly": "sail-panel"
+        }
+      ]
+    },
+    {
+      "old_operation": 181,
+      "old_main_step": 58,
+      "candidate_operations": [
+        {
+          "id": "legacy-181",
+          "ordinal": 197,
+          "piece_ids": [],
+          "assembly": "sail"
+        }
+      ]
+    },
+    {
+      "old_operation": 182,
+      "old_main_step": 59,
+      "candidate_operations": [
+        {
+          "id": "legacy-182",
+          "ordinal": 198,
+          "piece_ids": [
+            342,
+            343,
+            341
+          ],
+          "assembly": "banner"
+        }
+      ]
+    },
+    {
+      "old_operation": 183,
+      "old_main_step": 60,
+      "candidate_operations": [
+        {
+          "id": "legacy-183",
+          "ordinal": 199,
+          "piece_ids": [
+            265
+          ],
+          "assembly": "banner"
+        }
+      ]
+    },
+    {
+      "old_operation": 184,
+      "old_main_step": 60,
+      "candidate_operations": [
+        {
+          "id": "legacy-184",
+          "ordinal": 200,
+          "piece_ids": [
+            267,
+            266
+          ],
+          "assembly": "banner"
+        }
+      ]
+    },
+    {
+      "old_operation": 185,
+      "old_main_step": 61,
+      "candidate_operations": [
+        {
+          "id": "legacy-185",
+          "ordinal": 201,
+          "piece_ids": [
+            268
+          ],
+          "assembly": "ring-left-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 186,
+      "old_main_step": 61,
+      "candidate_operations": [
+        {
+          "id": "legacy-186",
+          "ordinal": 202,
+          "piece_ids": [
+            269
+          ],
+          "assembly": "ring-left-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 187,
+      "old_main_step": 61,
+      "candidate_operations": [
+        {
+          "id": "legacy-187",
+          "ordinal": 203,
+          "piece_ids": [],
+          "assembly": "ring-left"
+        }
+      ]
+    },
+    {
+      "old_operation": 188,
+      "old_main_step": 61,
+      "candidate_operations": [
+        {
+          "id": "legacy-188",
+          "ordinal": 204,
+          "piece_ids": [
+            270
+          ],
+          "assembly": "ring-right-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 189,
+      "old_main_step": 61,
+      "candidate_operations": [
+        {
+          "id": "legacy-189",
+          "ordinal": 205,
+          "piece_ids": [
+            271
+          ],
+          "assembly": "ring-right-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 190,
+      "old_main_step": 61,
+      "candidate_operations": [
+        {
+          "id": "legacy-190",
+          "ordinal": 206,
+          "piece_ids": [],
+          "assembly": "ring-right"
+        }
+      ]
+    },
+    {
+      "old_operation": 191,
+      "old_main_step": 62,
+      "candidate_operations": [
+        {
+          "id": "legacy-191",
+          "ordinal": 207,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 192,
+      "old_main_step": 63,
+      "candidate_operations": [
+        {
+          "id": "legacy-192",
+          "ordinal": 208,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 193,
+      "old_main_step": 64,
+      "candidate_operations": [
+        {
+          "id": "legacy-193",
+          "ordinal": 209,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 194,
+      "old_main_step": 65,
+      "candidate_operations": [
+        {
+          "id": "legacy-194",
+          "ordinal": 210,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    },
+    {
+      "old_operation": 195,
+      "old_main_step": 66,
+      "candidate_operations": [
+        {
+          "id": "legacy-195",
+          "ordinal": 211,
+          "piece_ids": [
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            262,
+            263
+          ],
+          "assembly": "candidate"
+        }
+      ]
+    },
+    {
+      "old_operation": 196,
+      "old_main_step": 67,
+      "candidate_operations": [
+        {
+          "id": "legacy-196",
+          "ordinal": 212,
+          "piece_ids": [
+            400,
+            401,
+            402,
+            403,
+            404,
+            405,
+            406,
+            407
+          ],
+          "assembly": "tsai-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 197,
+      "old_main_step": 67,
+      "candidate_operations": [
+        {
+          "id": "legacy-197",
+          "ordinal": 213,
+          "piece_ids": [
+            408,
+            409
+          ],
+          "assembly": "tsai-unit"
+        }
+      ]
+    },
+    {
+      "old_operation": 198,
+      "old_main_step": 67,
+      "candidate_operations": [
+        {
+          "id": "legacy-198",
+          "ordinal": 214,
+          "piece_ids": [],
+          "assembly": "tsai"
+        }
+      ]
+    },
+    {
+      "old_operation": 199,
+      "old_main_step": 68,
+      "candidate_operations": [
+        {
+          "id": "legacy-199",
+          "ordinal": 215,
+          "piece_ids": [],
+          "assembly": "truck"
+        }
+      ]
+    }
+  ],
+  "reader_steps": [
+    {
+      "old_main_step": 1,
+      "candidate_groups": [
+        1
+      ]
+    },
+    {
+      "old_main_step": 2,
+      "candidate_groups": [
+        2
+      ]
+    },
+    {
+      "old_main_step": 3,
+      "candidate_groups": [
+        3
+      ]
+    },
+    {
+      "old_main_step": 4,
+      "candidate_groups": [
+        4
+      ]
+    },
+    {
+      "old_main_step": 5,
+      "candidate_groups": [
+        1
+      ]
+    },
+    {
+      "old_main_step": 6,
+      "candidate_groups": [
+        5
+      ]
+    },
+    {
+      "old_main_step": 7,
+      "candidate_groups": [
+        6
+      ]
+    },
+    {
+      "old_main_step": 8,
+      "candidate_groups": [
+        7
+      ]
+    },
+    {
+      "old_main_step": 9,
+      "candidate_groups": [
+        8
+      ]
+    },
+    {
+      "old_main_step": 10,
+      "candidate_groups": [
+        9
+      ]
+    },
+    {
+      "old_main_step": 11,
+      "candidate_groups": [
+        10
+      ]
+    },
+    {
+      "old_main_step": 12,
+      "candidate_groups": [
+        11
+      ]
+    },
+    {
+      "old_main_step": 13,
+      "candidate_groups": [
+        12
+      ]
+    },
+    {
+      "old_main_step": 14,
+      "candidate_groups": [
+        13
+      ]
+    },
+    {
+      "old_main_step": 15,
+      "candidate_groups": [
+        14
+      ]
+    },
+    {
+      "old_main_step": 16,
+      "candidate_groups": [
+        15
+      ]
+    },
+    {
+      "old_main_step": 17,
+      "candidate_groups": [
+        16
+      ]
+    },
+    {
+      "old_main_step": 18,
+      "candidate_groups": [
+        17
+      ]
+    },
+    {
+      "old_main_step": 19,
+      "candidate_groups": [
+        18
+      ]
+    },
+    {
+      "old_main_step": 20,
+      "candidate_groups": [
+        19
+      ]
+    },
+    {
+      "old_main_step": 21,
+      "candidate_groups": [
+        20
+      ]
+    },
+    {
+      "old_main_step": 22,
+      "candidate_groups": [
+        21
+      ]
+    },
+    {
+      "old_main_step": 23,
+      "candidate_groups": [
+        22
+      ]
+    },
+    {
+      "old_main_step": 24,
+      "candidate_groups": [
+        23
+      ]
+    },
+    {
+      "old_main_step": 25,
+      "candidate_groups": [
+        24
+      ]
+    },
+    {
+      "old_main_step": 26,
+      "candidate_groups": [
+        25
+      ]
+    },
+    {
+      "old_main_step": 27,
+      "candidate_groups": [
+        26
+      ]
+    },
+    {
+      "old_main_step": 28,
+      "candidate_groups": [
+        27
+      ]
+    },
+    {
+      "old_main_step": 29,
+      "candidate_groups": [
+        28
+      ]
+    },
+    {
+      "old_main_step": 30,
+      "candidate_groups": [
+        29
+      ]
+    },
+    {
+      "old_main_step": 31,
+      "candidate_groups": [
+        30
+      ]
+    },
+    {
+      "old_main_step": 32,
+      "candidate_groups": [
+        31
+      ]
+    },
+    {
+      "old_main_step": 33,
+      "candidate_groups": [
+        32
+      ]
+    },
+    {
+      "old_main_step": 34,
+      "candidate_groups": [
+        33
+      ]
+    },
+    {
+      "old_main_step": 35,
+      "candidate_groups": [
+        34
+      ]
+    },
+    {
+      "old_main_step": 36,
+      "candidate_groups": [
+        35
+      ]
+    },
+    {
+      "old_main_step": 37,
+      "candidate_groups": [
+        36
+      ]
+    },
+    {
+      "old_main_step": 38,
+      "candidate_groups": [
+        37
+      ]
+    },
+    {
+      "old_main_step": 39,
+      "candidate_groups": [
+        38
+      ]
+    },
+    {
+      "old_main_step": 40,
+      "candidate_groups": [
+        39
+      ]
+    },
+    {
+      "old_main_step": 41,
+      "candidate_groups": [
+        40
+      ]
+    },
+    {
+      "old_main_step": 42,
+      "candidate_groups": [
+        41
+      ]
+    },
+    {
+      "old_main_step": 43,
+      "candidate_groups": [
+        42
+      ]
+    },
+    {
+      "old_main_step": 44,
+      "candidate_groups": [
+        43
+      ]
+    },
+    {
+      "old_main_step": 45,
+      "candidate_groups": [
+        44
+      ]
+    },
+    {
+      "old_main_step": 46,
+      "candidate_groups": [
+        45
+      ]
+    },
+    {
+      "old_main_step": 47,
+      "candidate_groups": [
+        46
+      ]
+    },
+    {
+      "old_main_step": 48,
+      "candidate_groups": [
+        47
+      ]
+    },
+    {
+      "old_main_step": 49,
+      "candidate_groups": [
+        48
+      ]
+    },
+    {
+      "old_main_step": 50,
+      "candidate_groups": [
+        49
+      ]
+    },
+    {
+      "old_main_step": 51,
+      "candidate_groups": [
+        50
+      ]
+    },
+    {
+      "old_main_step": 52,
+      "candidate_groups": [
+        51
+      ]
+    },
+    {
+      "old_main_step": 53,
+      "candidate_groups": [
+        52
+      ]
+    },
+    {
+      "old_main_step": 54,
+      "candidate_groups": [
+        53
+      ]
+    },
+    {
+      "old_main_step": 55,
+      "candidate_groups": [
+        54
+      ]
+    },
+    {
+      "old_main_step": 56,
+      "candidate_groups": [
+        55
+      ]
+    },
+    {
+      "old_main_step": 57,
+      "candidate_groups": [
+        56
+      ]
+    },
+    {
+      "old_main_step": 58,
+      "candidate_groups": [
+        57
+      ]
+    },
+    {
+      "old_main_step": 59,
+      "candidate_groups": [
+        58
+      ]
+    },
+    {
+      "old_main_step": 60,
+      "candidate_groups": [
+        59
+      ]
+    },
+    {
+      "old_main_step": 61,
+      "candidate_groups": [
+        60
+      ]
+    },
+    {
+      "old_main_step": 62,
+      "candidate_groups": [
+        61
+      ]
+    },
+    {
+      "old_main_step": 63,
+      "candidate_groups": [
+        62
+      ]
+    },
+    {
+      "old_main_step": 64,
+      "candidate_groups": [
+        63
+      ]
+    },
+    {
+      "old_main_step": 65,
+      "candidate_groups": [
+        64
+      ]
+    },
+    {
+      "old_main_step": 66,
+      "candidate_groups": [
+        65
+      ]
+    },
+    {
+      "old_main_step": 67,
+      "candidate_groups": [
+        66
+      ]
+    },
+    {
+      "old_main_step": 68,
+      "candidate_groups": [
+        67
+      ]
+    }
+  ],
+  "ownership_delta": {
+    "216": {
+      "from": "truck",
+      "to": "chassis-core"
+    },
+    "231": {
+      "from": "truck",
+      "to": "chassis-core"
+    },
+    "190": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "183": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "184": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "182": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "187": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "189": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "215": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "229": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "170": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "39": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-1"
+    },
+    "46": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-2"
+    },
+    "38": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-1"
+    },
+    "331": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-2"
+    },
+    "42": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-1"
+    },
+    "41": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-1"
+    },
+    "48": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-2"
+    },
+    "82": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-2"
+    },
+    "87": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-1"
+    },
+    "333": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-2"
+    },
+    "81": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-1"
+    },
+    "93": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-2"
+    },
+    "89": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-1"
+    },
+    "83": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-1"
+    }
+  }
+}

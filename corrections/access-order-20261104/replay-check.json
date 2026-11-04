@@ -1,0 +1,14 @@
+{
+  "schema": "dss-correction-replay/1",
+  "adopted": false,
+  "derived_files_sha256": {
+    "candidate-authoring.json": "8094a5b8dd58df0dd864982602e396e82a6d461e8c86e3e28232f268e5418878",
+    "checks.json": "2ac9c6cbe049cda2e385ebfef69a4ef5884d9c807df3837940e153e5b56d20d9",
+    "crosswalk.json": "87ada7c623522e6135da4ccd401bf3a22c5097a9fd9b969ab813b41dc35dfab6",
+    "grouping-audit.json": "c3386714c8791b7657ae6b2fdb27a88b7c3e2624c68a3bb74af66faea87fcf6e",
+    "full-sequence-audit.json": "1d7f9b6035bcd4fff064a10bfb2bb7f9839eaea4e82e4492c638aacb8bf61f54"
+  },
+  "byte_identical_replay": true,
+  "empty_inventory_guidance_operations_exact": true,
+  "render_compile_import_or_physical_run": false
+}

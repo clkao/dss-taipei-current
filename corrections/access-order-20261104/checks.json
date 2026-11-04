@@ -1,0 +1,732 @@
+{
+  "schema": "dss-correction-static-check/1",
+  "adopted": false,
+  "source_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+  "candidate_canonical_sha256": "3700f9f904854289085feac29bf57b3e1adcf9c92fb87d7ec903bac1cc002126",
+  "operations": 215,
+  "reader_groups": 67,
+  "unique_introductions": 348,
+  "geometry_colors_modules_exact_except_step": true,
+  "all_original_operation_piece_partitions_preserved": true,
+  "all_unchanged_operations_preserved": true,
+  "all_units_join_once_after_contents_complete": true,
+  "ownership_delta": {
+    "216": {
+      "from": "truck",
+      "to": "chassis-core"
+    },
+    "231": {
+      "from": "truck",
+      "to": "chassis-core"
+    },
+    "190": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "183": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "184": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "182": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "187": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "189": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "215": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "229": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "170": {
+      "from": "truck",
+      "to": "front-lower-bumper"
+    },
+    "39": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-1"
+    },
+    "46": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-2"
+    },
+    "38": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-1"
+    },
+    "331": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-2"
+    },
+    "42": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-1"
+    },
+    "41": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-1"
+    },
+    "48": {
+      "from": "left-side-carrier",
+      "to": "left-upper-rail-2"
+    },
+    "82": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-2"
+    },
+    "87": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-1"
+    },
+    "333": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-2"
+    },
+    "81": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-1"
+    },
+    "93": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-2"
+    },
+    "89": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-1"
+    },
+    "83": {
+      "from": "right-side-carrier",
+      "to": "right-upper-rail-1"
+    }
+  },
+  "join_membership_checks": [
+    {
+      "operation": "legacy-006",
+      "child": "chassis-core",
+      "parent": "truck",
+      "occurrences": [
+        134,
+        150,
+        153,
+        163,
+        164,
+        168,
+        172,
+        173,
+        177,
+        178,
+        179,
+        216,
+        231
+      ],
+      "membership_changed": true
+    },
+    {
+      "operation": "legacy-016",
+      "child": "rear-left-suspension",
+      "parent": "truck",
+      "occurrences": [
+        217,
+        218,
+        219,
+        223,
+        224,
+        227
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-020",
+      "child": "rear-right-suspension",
+      "parent": "truck",
+      "occurrences": [
+        225,
+        226,
+        230,
+        240,
+        241,
+        242
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-024",
+      "child": "front-left-suspension",
+      "parent": "truck",
+      "occurrences": [
+        220,
+        228,
+        232,
+        237,
+        238,
+        239
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-028",
+      "child": "front-right-suspension",
+      "parent": "truck",
+      "occurrences": [
+        233,
+        234,
+        245,
+        246,
+        247,
+        248
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-035j",
+      "child": "front-lower-bumper",
+      "parent": "truck",
+      "occurrences": [
+        170,
+        182,
+        183,
+        184,
+        187,
+        189,
+        190,
+        215,
+        229
+      ],
+      "membership_changed": true
+    },
+    {
+      "operation": "legacy-049j1",
+      "child": "left-upper-rail-1",
+      "parent": "left-side-carrier",
+      "occurrences": [
+        38,
+        39,
+        41,
+        42
+      ],
+      "membership_changed": true
+    },
+    {
+      "operation": "legacy-049j2",
+      "child": "left-upper-rail-2",
+      "parent": "left-side-carrier",
+      "occurrences": [
+        46,
+        48,
+        331
+      ],
+      "membership_changed": true
+    },
+    {
+      "operation": "legacy-050",
+      "child": "left-side-carrier",
+      "parent": "truck",
+      "occurrences": [
+        38,
+        39,
+        41,
+        42,
+        46,
+        48,
+        96,
+        97,
+        98,
+        115,
+        116,
+        117,
+        140,
+        197,
+        331
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-057j1",
+      "child": "right-upper-rail-1",
+      "parent": "right-side-carrier",
+      "occurrences": [
+        81,
+        83,
+        87,
+        89
+      ],
+      "membership_changed": true
+    },
+    {
+      "operation": "legacy-057j2",
+      "child": "right-upper-rail-2",
+      "parent": "right-side-carrier",
+      "occurrences": [
+        82,
+        93,
+        333
+      ],
+      "membership_changed": true
+    },
+    {
+      "operation": "legacy-058",
+      "child": "right-side-carrier",
+      "parent": "truck",
+      "occurrences": [
+        81,
+        82,
+        83,
+        87,
+        89,
+        93,
+        156,
+        157,
+        158,
+        166,
+        167,
+        176,
+        185,
+        205,
+        333
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-066",
+      "child": "rear-bed",
+      "parent": "truck",
+      "occurrences": [
+        14,
+        33,
+        34,
+        54,
+        58,
+        59,
+        100,
+        109,
+        118
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-093",
+      "child": "tailgate",
+      "parent": "truck",
+      "occurrences": [
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-122",
+      "child": "rear-left-wheel",
+      "parent": "truck",
+      "occurrences": [
+        221,
+        222
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-125",
+      "child": "rear-right-wheel",
+      "parent": "truck",
+      "occurrences": [
+        243,
+        244
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-128",
+      "child": "front-left-wheel",
+      "parent": "truck",
+      "occurrences": [
+        235,
+        236
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-131",
+      "child": "front-right-wheel",
+      "parent": "truck",
+      "occurrences": [
+        249,
+        250
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-134",
+      "child": "platform-riser-1",
+      "parent": "truck",
+      "occurrences": [
+        280,
+        326
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-137",
+      "child": "platform-riser-2",
+      "parent": "truck",
+      "occurrences": [
+        281,
+        327
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-140",
+      "child": "platform-riser-3",
+      "parent": "truck",
+      "occurrences": [
+        282,
+        328
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-143",
+      "child": "platform-riser-4",
+      "parent": "truck",
+      "occurrences": [
+        283,
+        329
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-151",
+      "child": "helm-unit",
+      "parent": "helm",
+      "occurrences": [
+        251,
+        252,
+        253,
+        254,
+        323
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-155",
+      "child": "shield-panel-1",
+      "parent": "shield",
+      "occurrences": [
+        2003,
+        2006,
+        2009
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-159",
+      "child": "shield-panel-2",
+      "parent": "shield",
+      "occurrences": [
+        2004,
+        2007,
+        2010
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-163",
+      "child": "shield-panel-3",
+      "parent": "shield",
+      "occurrences": [
+        2005,
+        2008,
+        2011
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-169",
+      "child": "speaker-left-unit",
+      "parent": "speaker-left",
+      "occurrences": [
+        288,
+        289,
+        290,
+        291,
+        292,
+        293
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-174",
+      "child": "speaker-right-unit",
+      "parent": "speaker-right",
+      "occurrences": [
+        294,
+        295,
+        296,
+        297,
+        298,
+        299
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-181",
+      "child": "sail-panel",
+      "parent": "sail",
+      "occurrences": [
+        302,
+        303,
+        304,
+        305,
+        306
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-187",
+      "child": "ring-left-unit",
+      "parent": "ring-left",
+      "occurrences": [
+        268,
+        269
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-190",
+      "child": "ring-right-unit",
+      "parent": "ring-right",
+      "occurrences": [
+        270,
+        271
+      ],
+      "membership_changed": false
+    },
+    {
+      "operation": "legacy-198",
+      "child": "tsai-unit",
+      "parent": "tsai",
+      "occurrences": [
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409
+      ],
+      "membership_changed": false
+    }
+  ],
+  "sequence_regressions": [
+    {
+      "rule": "first beam before pins",
+      "before_ids": [
+        172
+      ],
+      "after_ids": [
+        216,
+        231
+      ],
+      "baseline_pass": true,
+      "candidate_pass": true
+    },
+    {
+      "rule": "pins before second beam",
+      "before_ids": [
+        216,
+        231
+      ],
+      "after_ids": [
+        178
+      ],
+      "baseline_pass": false,
+      "candidate_pass": true
+    },
+    {
+      "rule": "second beam before ties",
+      "before_ids": [
+        178
+      ],
+      "after_ids": [
+        150,
+        163,
+        153,
+        168,
+        177
+      ],
+      "baseline_pass": true,
+      "candidate_pass": true
+    },
+    {
+      "rule": "lower tie before brackets",
+      "before_ids": [
+        190
+      ],
+      "after_ids": [
+        183,
+        184
+      ],
+      "baseline_pass": true,
+      "candidate_pass": true
+    },
+    {
+      "rule": "brackets before cap",
+      "before_ids": [
+        183,
+        184
+      ],
+      "after_ids": [
+        182
+      ],
+      "baseline_pass": false,
+      "candidate_pass": true
+    },
+    {
+      "rule": "cap before front slopes",
+      "before_ids": [
+        182
+      ],
+      "after_ids": [
+        187,
+        189
+      ],
+      "baseline_pass": true,
+      "candidate_pass": true
+    },
+    {
+      "rule": "front slopes before outer trim",
+      "before_ids": [
+        187,
+        189
+      ],
+      "after_ids": [
+        215,
+        229
+      ],
+      "baseline_pass": true,
+      "candidate_pass": true
+    },
+    {
+      "rule": "outer trim before centre tile",
+      "before_ids": [
+        215,
+        229
+      ],
+      "after_ids": [
+        170
+      ],
+      "baseline_pass": false,
+      "candidate_pass": true
+    },
+    {
+      "rule": "front dish after entire bumper",
+      "before_ids": [
+        170,
+        190,
+        183,
+        184,
+        182,
+        187,
+        189,
+        215,
+        229
+      ],
+      "after_ids": [
+        191
+      ],
+      "baseline_pass": false,
+      "candidate_pass": true
+    },
+    {
+      "rule": "preserve corrected bed install before trims206/214",
+      "baseline_pass": true,
+      "candidate_pass": true
+    },
+    {
+      "rule": "left-upper-rail-1 all brackets fitted before rail attaches to lower carrier",
+      "candidate_pass": true,
+      "baseline_pass": false,
+      "baseline_note": "Original rail attached to mounting brackets before remaining brackets; exact source order is retained in crosswalk."
+    },
+    {
+      "rule": "left-upper-rail-2 all brackets fitted before rail attaches to lower carrier",
+      "candidate_pass": true,
+      "baseline_pass": false,
+      "baseline_note": "Original rail attached to mounting brackets before remaining brackets; exact source order is retained in crosswalk."
+    },
+    {
+      "rule": "right-upper-rail-1 all brackets fitted before rail attaches to lower carrier",
+      "candidate_pass": true,
+      "baseline_pass": false,
+      "baseline_note": "Original rail attached to mounting brackets before remaining brackets; exact source order is retained in crosswalk."
+    },
+    {
+      "rule": "right-upper-rail-2 all brackets fitted before rail attaches to lower carrier",
+      "candidate_pass": true,
+      "baseline_pass": false,
+      "baseline_note": "Original rail attached to mounting brackets before remaining brackets; exact source order is retained in crosswalk."
+    }
+  ],
+  "existing_copy_metadata_unchanged": true,
+  "new_upper_rail_units": {
+    "left-upper-rail-1": [
+      38,
+      39,
+      41,
+      42
+    ],
+    "left-upper-rail-2": [
+      46,
+      48,
+      331
+    ],
+    "right-upper-rail-1": [
+      81,
+      83,
+      87,
+      89
+    ],
+    "right-upper-rail-2": [
+      82,
+      93,
+      333
+    ]
+  },
+  "side_carrier_completed_join_membership_exact": true,
+  "new_local_unit": {
+    "name": "front-lower-bumper",
+    "piece_ids": [
+      170,
+      182,
+      183,
+      184,
+      187,
+      189,
+      190,
+      215,
+      229
+    ],
+    "why": "Do not leave lower tie190 floating after deferring its dish; assemble on table and join via upper cap182."
+  },
+  "proof_limit": "Static identity, declared order and assembly lifecycle only. No physical insertion, collision, readability or full-edition acceptance."
+}

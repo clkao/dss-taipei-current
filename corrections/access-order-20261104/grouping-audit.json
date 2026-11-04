@@ -1,0 +1,807 @@
+{
+  "schema": "dss-grouping-audit/1",
+  "adopted": false,
+  "source_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+  "groups": [
+    {
+      "legacy_main_step": 2,
+      "operations": [
+        7,
+        8,
+        9
+      ],
+      "title": "Build the rear frame supports",
+      "cross_operation_contacts": [
+        {
+          "operation": 8,
+          "piece_ids": [
+            107,
+            152
+          ],
+          "confirmed": 0,
+          "potential": 2
+        },
+        {
+          "operation": 8,
+          "piece_ids": [
+            128,
+            162
+          ],
+          "confirmed": 0,
+          "potential": 2
+        },
+        {
+          "operation": 9,
+          "piece_ids": [
+            113,
+            152
+          ],
+          "confirmed": 2,
+          "potential": 0
+        },
+        {
+          "operation": 9,
+          "piece_ids": [
+            113,
+            162
+          ],
+          "confirmed": 2,
+          "potential": 0
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 11,
+      "operations": [
+        30,
+        31
+      ],
+      "title": "Fit the underside dishes",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": true
+    },
+    {
+      "legacy_main_step": 13,
+      "operations": [
+        33,
+        34,
+        35
+      ],
+      "title": "Finish the front lower bumper",
+      "cross_operation_contacts": [
+        {
+          "operation": 34,
+          "piece_ids": [
+            183,
+            187
+          ],
+          "confirmed": 2,
+          "potential": 0
+        },
+        {
+          "operation": 34,
+          "piece_ids": [
+            184,
+            189
+          ],
+          "confirmed": 2,
+          "potential": 0
+        },
+        {
+          "operation": 35,
+          "piece_ids": [
+            183,
+            215
+          ],
+          "confirmed": 0,
+          "potential": 1
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": true
+    },
+    {
+      "legacy_main_step": 15,
+      "operations": [
+        37,
+        38
+      ],
+      "title": "Build the rear floor spacers",
+      "cross_operation_contacts": [
+        {
+          "operation": 38,
+          "piece_ids": [
+            103,
+            106
+          ],
+          "confirmed": 1,
+          "potential": 0
+        },
+        {
+          "operation": 38,
+          "piece_ids": [
+            104,
+            110
+          ],
+          "confirmed": 1,
+          "potential": 0
+        },
+        {
+          "operation": 38,
+          "piece_ids": [
+            139,
+            155
+          ],
+          "confirmed": 1,
+          "potential": 0
+        },
+        {
+          "operation": 38,
+          "piece_ids": [
+            146,
+            159
+          ],
+          "confirmed": 1,
+          "potential": 0
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 16,
+      "operations": [
+        39,
+        40
+      ],
+      "title": "Build the front floor spacers",
+      "cross_operation_contacts": [
+        {
+          "operation": 40,
+          "piece_ids": [
+            135,
+            154
+          ],
+          "confirmed": 1,
+          "potential": 0
+        },
+        {
+          "operation": 40,
+          "piece_ids": [
+            148,
+            160
+          ],
+          "confirmed": 1,
+          "potential": 0
+        },
+        {
+          "operation": 40,
+          "piece_ids": [
+            174,
+            180
+          ],
+          "confirmed": 1,
+          "potential": 0
+        },
+        {
+          "operation": 40,
+          "piece_ids": [
+            175,
+            186
+          ],
+          "confirmed": 1,
+          "potential": 0
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 17,
+      "operations": [
+        41,
+        42
+      ],
+      "title": "Build the bed floor and supports",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 20,
+      "operations": [
+        59,
+        60
+      ],
+      "title": "Fit all four wheel arches",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 23,
+      "operations": [
+        68,
+        69
+      ],
+      "title": "Build the rear bumper strip layers",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 24,
+      "operations": [
+        70,
+        71,
+        72
+      ],
+      "title": "Finish the rear bumper",
+      "cross_operation_contacts": [
+        {
+          "operation": 71,
+          "piece_ids": [
+            194,
+            195
+          ],
+          "confirmed": 0,
+          "potential": 2
+        },
+        {
+          "operation": 71,
+          "piece_ids": [
+            202,
+            203
+          ],
+          "confirmed": 0,
+          "potential": 2
+        },
+        {
+          "operation": 72,
+          "piece_ids": [
+            192,
+            198
+          ],
+          "confirmed": 0,
+          "potential": 1
+        },
+        {
+          "operation": 72,
+          "piece_ids": [
+            196,
+            198
+          ],
+          "confirmed": 0,
+          "potential": 1
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 25,
+      "operations": [
+        73,
+        74
+      ],
+      "title": "Build the left side panels",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 26,
+      "operations": [
+        75,
+        76
+      ],
+      "title": "Finish the left side trim",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 27,
+      "operations": [
+        77,
+        78
+      ],
+      "title": "Build the right side panels",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 28,
+      "operations": [
+        79,
+        80
+      ],
+      "title": "Finish the right side trim",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 29,
+      "operations": [
+        81,
+        82
+      ],
+      "title": "Finish the rear wheel-arch caps",
+      "cross_operation_contacts": [
+        {
+          "operation": 82,
+          "piece_ids": [
+            26,
+            335
+          ],
+          "confirmed": 0,
+          "potential": 1
+        },
+        {
+          "operation": 82,
+          "piece_ids": [
+            79,
+            337
+          ],
+          "confirmed": 0,
+          "potential": 1
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 30,
+      "operations": [
+        83,
+        84
+      ],
+      "title": "Finish the front wheel-arch caps",
+      "cross_operation_contacts": [
+        {
+          "operation": 84,
+          "piece_ids": [
+            71,
+            336
+          ],
+          "confirmed": 0,
+          "potential": 1
+        },
+        {
+          "operation": 84,
+          "piece_ids": [
+            143,
+            338
+          ],
+          "confirmed": 0,
+          "potential": 1
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 32,
+      "operations": [
+        86,
+        87
+      ],
+      "title": "Tie the upper body sides",
+      "cross_operation_contacts": [
+        {
+          "operation": 87,
+          "piece_ids": [
+            10,
+            32
+          ],
+          "confirmed": 0,
+          "potential": 4
+        },
+        {
+          "operation": 87,
+          "piece_ids": [
+            32,
+            330
+          ],
+          "confirmed": 0,
+          "potential": 4
+        },
+        {
+          "operation": 87,
+          "piece_ids": [
+            64,
+            76
+          ],
+          "confirmed": 0,
+          "potential": 4
+        },
+        {
+          "operation": 87,
+          "piece_ids": [
+            76,
+            332
+          ],
+          "confirmed": 0,
+          "potential": 4
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 33,
+      "operations": [
+        88,
+        89
+      ],
+      "title": "Finish the upper body strips",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 35,
+      "operations": [
+        94,
+        95
+      ],
+      "title": "Build the front body core",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 36,
+      "operations": [
+        96,
+        97
+      ],
+      "title": "Build the front face supports",
+      "cross_operation_contacts": [
+        {
+          "operation": 97,
+          "piece_ids": [
+            95,
+            121
+          ],
+          "confirmed": 4,
+          "potential": 0
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 37,
+      "operations": [
+        98,
+        99
+      ],
+      "title": "Fit the lamp housings and lower slopes",
+      "cross_operation_contacts": [
+        {
+          "operation": 99,
+          "piece_ids": [
+            123,
+            126
+          ],
+          "confirmed": 2,
+          "potential": 0
+        },
+        {
+          "operation": 99,
+          "piece_ids": [
+            136,
+            147
+          ],
+          "confirmed": 2,
+          "potential": 0
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 38,
+      "operations": [
+        100,
+        101
+      ],
+      "title": "Build the front grille",
+      "cross_operation_contacts": [
+        {
+          "operation": 101,
+          "piece_ids": [
+            122,
+            309
+          ],
+          "confirmed": 0,
+          "potential": 2
+        },
+        {
+          "operation": 101,
+          "piece_ids": [
+            122,
+            310
+          ],
+          "confirmed": 0,
+          "potential": 2
+        },
+        {
+          "operation": 101,
+          "piece_ids": [
+            122,
+            311
+          ],
+          "confirmed": 0,
+          "potential": 2
+        },
+        {
+          "operation": 101,
+          "piece_ids": [
+            122,
+            312
+          ],
+          "confirmed": 0,
+          "potential": 2
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 39,
+      "operations": [
+        102,
+        103
+      ],
+      "title": "Fit both curved bumpers and headlights",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 40,
+      "operations": [
+        104,
+        105
+      ],
+      "title": "Build the hood supports",
+      "cross_operation_contacts": [
+        {
+          "operation": 105,
+          "piece_ids": [
+            28,
+            55
+          ],
+          "confirmed": 0,
+          "potential": 4
+        },
+        {
+          "operation": 105,
+          "piece_ids": [
+            30,
+            31
+          ],
+          "confirmed": 0,
+          "potential": 2
+        },
+        {
+          "operation": 105,
+          "piece_ids": [
+            31,
+            52
+          ],
+          "confirmed": 0,
+          "potential": 2
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 41,
+      "operations": [
+        106,
+        107
+      ],
+      "title": "Build the cabin floor",
+      "cross_operation_contacts": [
+        {
+          "operation": 107,
+          "piece_ids": [
+            16,
+            56
+          ],
+          "confirmed": 4,
+          "potential": 0
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 42,
+      "operations": [
+        108,
+        109,
+        110
+      ],
+      "title": "Fit the dashboard, steering and seat",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 43,
+      "operations": [
+        111,
+        112
+      ],
+      "title": "Build the rear cab pillars and glazing",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 44,
+      "operations": [
+        113,
+        114
+      ],
+      "title": "Tie and cap the rear cab frame",
+      "cross_operation_contacts": [
+        {
+          "operation": 114,
+          "piece_ids": [
+            18,
+            19
+          ],
+          "confirmed": 0,
+          "potential": 4
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 45,
+      "operations": [
+        115,
+        116
+      ],
+      "title": "Fit the windscreen and roof support",
+      "cross_operation_contacts": [],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 46,
+      "operations": [
+        117,
+        118
+      ],
+      "title": "Fit the hood and upper tiles",
+      "cross_operation_contacts": [
+        {
+          "operation": 118,
+          "piece_ids": [
+            29,
+            334
+          ],
+          "confirmed": 2,
+          "potential": 0
+        },
+        {
+          "operation": 118,
+          "piece_ids": [
+            29,
+            339
+          ],
+          "confirmed": 0,
+          "potential": 1
+        },
+        {
+          "operation": 118,
+          "piece_ids": [
+            29,
+            340
+          ],
+          "confirmed": 0,
+          "potential": 1
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 54,
+      "operations": [
+        160,
+        161,
+        162,
+        163
+      ],
+      "title": "Fit the remaining front shield panel",
+      "cross_operation_contacts": [
+        {
+          "operation": 161,
+          "piece_ids": [
+            2005,
+            2008
+          ],
+          "confirmed": 0,
+          "potential": 6
+        },
+        {
+          "operation": 162,
+          "piece_ids": [
+            2008,
+            2011
+          ],
+          "confirmed": 0,
+          "potential": 6
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 57,
+      "operations": [
+        175,
+        176,
+        177
+      ],
+      "title": "Fit the sail mast and supports",
+      "cross_operation_contacts": [
+        {
+          "operation": 176,
+          "piece_ids": [
+            300,
+            307
+          ],
+          "confirmed": 1,
+          "potential": 0
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    },
+    {
+      "legacy_main_step": 60,
+      "operations": [
+        183,
+        184
+      ],
+      "title": "Fit the rear mast and both flags",
+      "cross_operation_contacts": [
+        {
+          "operation": 184,
+          "piece_ids": [
+            265,
+            266
+          ],
+          "confirmed": 2,
+          "potential": 0
+        },
+        {
+          "operation": 184,
+          "piece_ids": [
+            265,
+            267
+          ],
+          "confirmed": 2,
+          "potential": 0
+        }
+      ],
+      "classification": "suspected presentation/access risk; not proof of removal",
+      "changed_here": false
+    }
+  ]
+}
