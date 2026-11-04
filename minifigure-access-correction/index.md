@@ -262,3 +262,44 @@ Post-publication captain correction — published snapshot d14e4df / PDF e3d00b2
 Next: same author prepares bounded source correction and exact test/render proposal; same independent reviewer rechecks changed scope. Published snapshot retained until corrected package review and authorized replacement. No physical certification, StudFleet adoption or shared-tool dependency is introduced.
 
 Related finding in this same round — Material presentation regression / FIX authorized by DSS FO. prepare.py selects the last local frame as every corrected main overview. Group11 finishes on separate bumper seed190, so main.ids=[190] hides the entire previously installed chassis on return. Restore the last actual root/truck state for that main overview, preserving seed190 as separate local construction. Source/stock/order unchanged; verify root/detail/return transitions and installed flexible visibility. No invented root state for genuinely local-only groups.
+
+## Stage Report: authoring (cycle 4 — post-publication R2 correction)
+
+Source commit `67d14d5`; current candidate `builds/access-corrected-r2` in the assigned author worktree. Published `d14e4df` and frozen `builds/access-corrected` remain unchanged. Captain authorized “proceed” on the two Material feedback findings; parent additionally authorized the related group11 overview fix before implementation.
+
+- DONE: Restore truthful installed suspension visibility across detailed/main views with separately bounded local units.
+  One asserted DSS-owned embedded-handler replacement honors source-derived eligibility: installed root/truck context plus visible anchor pair. The retained renderer gates each actual band's anchors. Separate bumper seed and local carrier/rail units do not acquire unrelated bands; no shared house-demo edits.
+  Main overview selection uses exact root-assembly identity. The related sweep found onlygroup11 wrong: last local seed190 replaced the entire overview. New overview includes installed169/chassis/anchors, while190 remains a separate local panel. Overview highlights are bounded to displayed root content.
+- DONE: Restore one source-bound2x common carrier base with correct copy ownership while preserving side-specific access order and joins.
+  Restored retained4-panel common-prefix metadata: group17 first4panels show2x with one-copy trays; group18 skips those duplicate4panels and explicitly uses the distinct second base. Both upper-rail recipes and whole-carrier receiving/joins remain side-specific.
+  Each base has8 distinct source pieces. Exact part/color lots and source operation bindings match. Raw matrices retained; rigid half-turn origin residual ≤0.0000416LDU under0.0001 tolerance, with3666 local half-turn symmetry. No literal pose equality, geometry normalization or physical proof claimed.
+- DONE: Retain rejected publication, exact source/artifact bindings, and concrete bounded verification evidence for same-reviewer correction review.
+  Published package is immutable in the old build; R2 uses read-only old image/catalog links. `manual/R2-REVIEW-HANDOFF.md` and `manual/evidence/r2/` bind static checks, actual scene/navigation/UI evidence, PDF/map,138rasters and exact28-file publication mapping. Same Epicurus review remains next; no publication or gate change by author.
+
+### Actual verification and package
+
+Static checks: all348 exact candidate piece records,215 source operations and unique introduction stock unchanged; all corrected overviews swept; only11 membership changes. Ten detailed root panels are band-eligible; copy identity/quantity and nonoverlap verified.
+Author headless run:58 recorded states,48 reachable corrected panels,10 eligible band panels with actual object+ancestor visibility. No failures. Setters choose initial/screenshot states; Next/Previous DOM clicks verify traversal,11local→main→local and17→18panel5. Eight actual UI PNGs inspected; flexible visibility and copy-return text/trays visible. This is author evidence, not independent live UI acceptance.
+Actual PDF138 landscapeA4pages,48 corrected printed panels. Left17 retains1–16; right18 uses5–16. Four2x notes and one remaining-base note verified. Old56–59 alone omitted; every remaining page source/image record matches except page number. Print sheets are actual130/131.
+Author inspected finalA4 pages40/41/42/43,56,67,130/131 and all8UI images. Complete138rasters retained for same-reviewer reuse, not a claim of independent allpage re-review by author.
+PDF SHA256 `b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a`; map `9c2d271fe423a4ad5331ff920ce121b7f05bea2182b59ce2e512049bd732626e`.
+Viewer `8c6b1608d9d959fbea6072a864766ffecc2087734a3e531b33977bcb2848d30d`; siteindex `f485d4dfe9f2e53e86db7acb115a8734b8777b2c45110ec5f29ee7ba0d3a4128`.
+Manifest `70ebd2415d5bc5a9a58238b1be7ec94aede7ca3e76f17670c76df5c64e223d65`; ZIP `76f2f8ae957ff632c8c820296dacf324d0787b0a40725ec996da35d5510e79d3`.
+All27 manifest/archive members verified; actualmap drives viewer/site/PRINTING/preflight130–131. Stale142/134–135/94–95 reader refs absent. Editable art, rights, 彭柏源 credit and Technic preserved.
+Green runtime viewer281f retained before packaging. Final handler script bytes outside payload identical; all decoded model/state/quantity values and geometry instances identical. Only placement source-hash metadata and allowlisted static text/print links change; exact diff retained. No redundant browser run solely for binding.
+
+### Failed attempt, closure resolution and resource accounting
+
+Initial Stage1 hit outer deadline and process-group SIGTERM EPERM before serialization; exact stoppedphase and per-PID history unknown. Emptylog/source/input hashes preserved; no assertions/PNG/PDF result inferred. Parent disposition: deferred evidence-helper failure, not demonstrated product defect.
+Separately granted telemetry attempt had Node explicitly reaped exit0 and Chrome exit0,58states/8PNGs pass. Supervisor exit1 is preserved: immediate portbind failed after exit; read-only attribution showed only TIME_WAIT and no listener/live attributed process. Parent authorized one fresh check; exact profile/PID census empty and bindfree, then only created profile removed. Separate closure record retained. Lease released without browser rerun.
+Telemetry run6.523s, peak14,609,709bytes/minfree9,948,786,688. PDF/static/raster exits0:4.218s/0.509s/15.382s, combined20.113s; peak34,120,444bytes/minfree5,328,678,912. PIDs18093/18163/18168 explicitly waited and gone; PDF lease released. No marker replay,3D rerender, imports/backend work or shared writes.
+
+### Limits and next action
+
+AC-1 identity/stock evidence preserved. AC-2 physical or supported continuous insertion remains UNPROVEN; this round fixes presentation and copy flow only. Whole-carrier witnesses156/99,166/129,96/99,115/129 and prior static sweep limits remain unchanged.
+AC-4 same-reviewer affected A4/actual-final-package review remains required; independent live UI availability is not inferred from author headless success. No all-AC pass, full physical certification, StudFleet gap closure or edition parity claim.
+Parent owns review disposition and any subsequent authorized replacement. Current published digital manual remainsd14e4df. No status, gate or adoption mutation by this worker.
+
+### Summary
+
+The complete R2 correction package is authored and evidence-bound for the same independent reviewer. Installed bands, shared two-copy bases and the related chassis overview now have actual author UI evidence; PDF138pages and references are consistent. Physical and independent-review limits remain explicit.
