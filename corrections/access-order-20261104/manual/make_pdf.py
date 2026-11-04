@@ -1,7 +1,7 @@
 """DSS-local layout overlay on the retained legacy PDF template."""
 from pathlib import Path
-import hashlib,sys
-ROOT=Path(__file__).resolve().parents[3];OUT=ROOT/'builds/access-corrected-r2'
+import hashlib,sys,os
+ROOT=Path(__file__).resolve().parents[3];OUT=ROOT/os.environ.get('DSS_PDF_BUILD','builds/access-corrected-r2')
 TEMPLATE=ROOT/'sources/legacy-recipes/make_full_instruction_pdf.py'
 code=TEMPLATE.read_text()
 # Reader-facing text only: retain the model and every image/quantity/page layout.
@@ -40,6 +40,14 @@ block='''    if a.get('corrected'):
         step_page[str(n)]=page+1
         display_frames=[f for f in a['frames'] if not (a.get('repeat_prefix_from') and f['number']<=a['repeat_prefix_frames'])]
         for f in display_frames:
+            if os.environ.get('DSS_ORDERED_PREFIX')=='1' and n==1 and f['number']<=3:
+                if f['number']!=1:continue
+                start(s['section'],'Fit both pins before the second beam',n)
+                part_box([172,216,231,178],x=36,y=HH-149,width=165)
+                picture(D/'ordered-prefix.png',206,135,W-240,HH-260)
+                para('3. Seat the second beam on BOTH exposed pins.',210,123,W-247,11)
+                finish('ordered-construction-diagram',step=n,panels=[1,2,3],source_operations=['legacy-001a','legacy-012','legacy-001b'],image='ordered-prefix.png')
+                continue
             start(s['section'],f['title'],n)
             label(f"Panel {f['number']} / {len(a['frames'])}",36,HH-117,11,CORAL,True)
             if f.get('copy_count')==2:label('2x / parts for one copy',210,HH-117,11,CORAL,True)
@@ -64,4 +72,4 @@ code=code.replace("shutil.copyfile(OUT,D/'instructions.pdf')","# Output already 
 # Exact original artwork paths resolve against the retained read-only library.
 code=code.replace("H=Path(__file__).resolve().parent;ROOT=H.parents[1]","H=Path('/Users/clkao/git/house-demo/projects/yangliu-vehicle');ROOT=H.parents[1]")
 sys.argv=[str(TEMPLATE),'--dir',str(OUT),'--pdf',str(OUT/'instructions.pdf')]
-exec(compile(code,str(TEMPLATE),'exec'),{'__name__':'__main__','__file__':str(TEMPLATE),'caption':caption})
+exec(compile(code,str(TEMPLATE),'exec'),{'__name__':'__main__','__file__':str(TEMPLATE),'caption':caption,'os':os})

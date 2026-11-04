@@ -103,7 +103,12 @@ Shared prefixes, shield paths, guides, print sheets, and purchasing exports need
 
 ## Complete edition and fallback
 
-Section adoption does not splice new pages into the published PDF.
+The captain permits section-by-section hybrid integration in the actual manual.
+A reviewed section may replace equivalent legacy presentation through the existing composer;
+it does not require a complete parallel edition or whole-manual cutover.
+Construction operations, stock and copy ownership remain authoritative.
+Experimental projections must name their producer and must not claim native StudFleet output.
+Keep adopted=false until the exact integrated section and package pass the applicable review.
 A complete candidate needs one coherent navigation system, inventory, page map, and package identity.
 That candidate needs full independent review before it can replace the legacy edition.
 Publication remains a separate action for the exact accepted package.

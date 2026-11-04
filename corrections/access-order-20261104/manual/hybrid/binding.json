@@ -1,0 +1,376 @@
+{
+  "status": "static preparation; NOT executed; adopted=false",
+  "producer": "StudFleet task66 experimental projection, reused bitmap; DSS legacy PDF composer and viewer presentation adapter; not native StudFleet package",
+  "candidate_model_sha256": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+  "source_operations": [
+    "legacy-001a",
+    "legacy-012",
+    "legacy-001b"
+  ],
+  "introductions": [
+    [
+      172
+    ],
+    [
+      216,
+      231
+    ],
+    [
+      178
+    ]
+  ],
+  "piece_records": [
+    {
+      "id": 172,
+      "part": "32018",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Technic Brick  1 x 14 with Holes",
+      "instance_id": "0582d195-9079-5cda-adba-06af4908bf8d",
+      "transform": {
+        "origin": [
+          10.99999005,
+          3.50000143,
+          3.21875203
+        ],
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "197",
+        "ldd_design": "32018",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          219.999801,
+          -64.375041,
+          70.000029
+        ],
+        "original_rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "step": 1
+    },
+    {
+      "id": 178,
+      "part": "32018",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Technic Brick  1 x 14 with Holes",
+      "instance_id": "206bd7fe-0248-56a3-bdc8-36cc58b3bcc3",
+      "transform": {
+        "origin": [
+          10.99999094,
+          4.5000004,
+          3.21875263
+        ],
+        "matrix": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            -0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "203",
+        "ldd_design": "32018",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          219.999819,
+          -64.375053,
+          90.000008
+        ],
+        "original_rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "step": 3
+    },
+    {
+      "id": 216,
+      "part": "2780",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Technic Pin with Friction and Slots",
+      "instance_id": "0bad7be1-14f1-580d-9b85-ede56e99ae0c",
+      "transform": {
+        "origin": [
+          5.00000033,
+          4.0,
+          2.71875372
+        ],
+        "matrix": [
+          [
+            -3.3e-07,
+            -1.0,
+            0.0
+          ],
+          [
+            1.0,
+            -3.3e-07,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "241",
+        "ldd_design": "2780",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          100.000007,
+          -54.875074,
+          80.0
+        ],
+        "original_rotation": [
+          [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            -0.0
+          ]
+        ]
+      },
+      "step": 2
+    },
+    {
+      "id": 231,
+      "part": "2780",
+      "color": "black",
+      "x": -0.5,
+      "y": -0.5,
+      "z": -1,
+      "w": 1,
+      "d": 1,
+      "h": 1,
+      "kind": "catalog-special",
+      "module": "truck",
+      "label": "Technic Pin with Friction and Slots",
+      "instance_id": "f17392aa-ada1-51f0-96b0-c6b9e95e943c",
+      "transform": {
+        "origin": [
+          16.9999865,
+          4.0,
+          2.71875372
+        ],
+        "matrix": [
+          [
+            -3.3e-07,
+            -1.0,
+            0.0
+          ],
+          [
+            1.0,
+            -3.3e-07,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ]
+      },
+      "base_source": {
+        "lxf_ref": "256",
+        "ldd_design": "2780",
+        "original_ldraw_color": 0,
+        "original_position_ldu": [
+          339.99973,
+          -54.875074,
+          80.0
+        ],
+        "original_rotation": [
+          [
+            -0.0,
+            0.0,
+            -1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            1.0,
+            0.0,
+            -0.0
+          ]
+        ]
+      },
+      "step": 2
+    }
+  ],
+  "frames": [
+    {
+      "number": 1,
+      "title": "Start with one long chassis beam",
+      "note": "Keep the second long beam separate until both pins are fitted.",
+      "view": "underside",
+      "ids": [
+        172
+      ],
+      "shown_ids": [
+        172
+      ],
+      "operations": [
+        1
+      ],
+      "source_operation": "legacy-001a",
+      "kind": "build",
+      "child": null,
+      "assembly": "chassis-core",
+      "preassembled": false,
+      "bands_installed": false,
+      "image": "images/corrected-001-01.png"
+    },
+    {
+      "number": 2,
+      "title": "Fit the two friction pins into the first beam",
+      "note": "Use the two holes shown by the unchanged final model, one near each end. Leave the other halves exposed toward the second beam.",
+      "view": "underside",
+      "ids": [
+        216,
+        231
+      ],
+      "shown_ids": [
+        172,
+        216,
+        231
+      ],
+      "operations": [
+        2
+      ],
+      "source_operation": "legacy-012",
+      "kind": "build",
+      "child": null,
+      "assembly": "chassis-core",
+      "preassembled": false,
+      "bands_installed": false,
+      "image": "images/corrected-001-02.png"
+    },
+    {
+      "number": 3,
+      "title": "Mate the second beam with the exposed pins",
+      "note": "Align both holes before pressing the beams together. Add no tie plates until both pins are seated.",
+      "view": "underside",
+      "ids": [
+        178
+      ],
+      "shown_ids": [
+        172,
+        178,
+        216,
+        231
+      ],
+      "operations": [
+        3
+      ],
+      "source_operation": "legacy-001b",
+      "kind": "build",
+      "child": null,
+      "assembly": "chassis-core",
+      "preassembled": false,
+      "bands_installed": false,
+      "image": "images/corrected-001-03.png"
+    }
+  ],
+  "diagram_sha256": "238d6970115092fbc2488759e15dc295795dcd29a047fc0a64843739bdf35e66",
+  "comparison_pdf_sha256": "eb13b1d44dcd06a1575f1c067eaa98c686cf9ebeabe45a6cb75fe226bc163ab1",
+  "presentation_only_caption": "3. Seat the second beam on BOTH exposed pins.",
+  "adopted": false,
+  "physical_insertion_verified": false,
+  "corrected_asset": null,
+  "corrected_asset_sha256": null,
+  "asset_status": "BLOCKED: task66 paired receiver marks for both216+231 pending; original prototype retained, not selected final",
+  "upstream_source_revision": "5ef0722",
+  "upstream_proof_revision": "26d477e2"
+}
