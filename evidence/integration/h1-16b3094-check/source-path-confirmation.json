@@ -1,0 +1,11 @@
+{
+  "authorization": "6aaa0346-4119-47f8-ae84-4c279e988c97",
+  "paths": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/dss-input/specimen.mpd",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/dss-input/intake/source.mpd"
+  ],
+  "sha256": "fda64f7241741e40f52ca65f6778bef4d7c10ca69c02829f1be7429cfb026a03",
+  "both_equal_binding_specimen_hash": true,
+  "both_byte_identical": true,
+  "prior_failure": "file-read exception, not CLI negative"
+}
