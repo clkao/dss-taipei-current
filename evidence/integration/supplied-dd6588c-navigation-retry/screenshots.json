@@ -1,0 +1,14 @@
+{
+  "builds/supplied-dd6588c-navigation-retry/collect-tsai.png": {
+    "sha256": "6f719a99408edd5385f587aa5551c4ce9a684be1d10376894d9e98e70dc5edd0",
+    "bytes": 105426
+  },
+  "builds/supplied-dd6588c-navigation-retry/attach-banner.png": {
+    "sha256": "d868a20ff8d3b51b755c55d79cd52a877edcfca818a68e3eb2628cdbca23f3cf",
+    "bytes": 127116
+  },
+  "builds/supplied-dd6588c-navigation-retry/collect-candidate.png": {
+    "sha256": "653d354f83c4f3ba085075c80247dd1f179bad4f0eb152c9d2f177f118d93e2f",
+    "bytes": 134092
+  }
+}

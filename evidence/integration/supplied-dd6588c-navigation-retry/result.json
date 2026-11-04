@@ -1,0 +1,17 @@
+{
+  "status": "PASS headless only",
+  "frozen_handoff_sha256": "2b516efe26a1465369c112142db9abb2ae184826da37af04309a157131bdb14b",
+  "script_sha256": "7645e96734ea88fb6627f63095e06eac0a909c0233ea2a1ae21e1b099952a252",
+  "source_evidence_commit": "543342b",
+  "goto_load_ms": 12120.437167,
+  "goto_readiness_ms": 12169.877499999999,
+  "all_adopted": false,
+  "warnings_disposition": "FO ade14824: Deferred risk / runtime timing evidence; DECLINE correction or retry without concrete supported behavior failure or missed promised bound.",
+  "screenshots_reviewed_in_this_run": false,
+  "gap_change": "90 independent headless navigation now passes. Existing compiler/stock, verify and A4 raster evidence retained without repeat.",
+  "remaining_priority": [
+    "Live/human review remains separate",
+    "Reconcile operation198 and decorations/artwork with330 vehicle entry context",
+    "Contextual speakers/rings and H1 acceptance before retiring equivalent custom generation"
+  ]
+}
