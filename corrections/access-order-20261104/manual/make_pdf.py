@@ -1,7 +1,7 @@
 """DSS-local layout overlay on the retained legacy PDF template."""
 from pathlib import Path
 import hashlib,sys
-ROOT=Path(__file__).resolve().parents[3];OUT=ROOT/'builds/access-corrected'
+ROOT=Path(__file__).resolve().parents[3];OUT=ROOT/'builds/access-corrected-r2'
 TEMPLATE=ROOT/'sources/legacy-recipes/make_full_instruction_pdf.py'
 code=TEMPLATE.read_text()
 # Reader-facing text only: retain the model and every image/quantity/page layout.
@@ -38,9 +38,12 @@ needle="    frames=a.get('frames',[])"
 assert code.count(needle)==1
 block='''    if a.get('corrected'):
         step_page[str(n)]=page+1
-        for f in a['frames']:
+        display_frames=[f for f in a['frames'] if not (a.get('repeat_prefix_from') and f['number']<=a['repeat_prefix_frames'])]
+        for f in display_frames:
             start(s['section'],f['title'],n)
             label(f"Panel {f['number']} / {len(a['frames'])}",36,HH-117,11,CORAL,True)
+            if f.get('copy_count')==2:label('2x / parts for one copy',210,HH-117,11,CORAL,True)
+            if a.get('repeat_prefix_from') and f==display_frames[0]:label('Use the second base from step '+str(a['repeat_prefix_from']),210,HH-117,11,CORAL,True)
             if f.get('child'):
                 para('1 x COMPLETED UNIT',36,HH-146,174,11,font='Bold')
                 para(f['child'].replace('-',' '),36,HH-170,174,13,font='Bold')

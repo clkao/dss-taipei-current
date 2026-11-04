@@ -1,7 +1,7 @@
 """Finalize the DSS corrected local package after rendering and PDF review."""
 import hashlib,json,zipfile,os,re,base64,gzip
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[3];D=ROOT/'builds/access-corrected';PUB=Path('/Users/clkao/git/dss-taipei-current')
+ROOT=Path(__file__).resolve().parents[3];D=ROOT/'builds/access-corrected-r2';PUB=Path('/Users/clkao/git/dss-taipei-current')
 def load(p):return json.loads(p.read_text())
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def write(p,data):
