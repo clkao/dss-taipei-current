@@ -198,3 +198,36 @@ AC-4 awaits the same reviewer's four-page/equivalence confirmation. AC-5 publica
 ### Summary
 
 The requested four-page text polish is authored, verified and packaged. Previous review evidence is preserved, with exact equivalence for unaffected pages. Ready for the same independent reviewer to confirm the correction; no physical certification or publication is claimed.
+
+## Stage Report: instruction-review (cycle 2)
+
+- DONE: Verify the actual corrected package preserves exact348piece geometry/inventory, all construction and guide coverage, consistent operation/page/recipe/copy references, and source/artifact identity.
+  Prior independent 348-piece identity/coverage review retained; glyph-only author equivalence records 138 unchanged decoded page streams and identical images/boxes across all 142 pages. Independently recomputed seven final artifact hashes below; any byte change would invalidate those bindings.
+- FAILED: Independently inspect actual finalPDF pages at A4 and viewer recipe/receiver/return paths, challenging pins/bumper/both carrier assembly order and receiving-context clarity; classify access limits without inferring physical proof.
+  Four affected A4 rasters inspected individually at readable size; retained prior inspection of all 138 unchanged pages. Independent live navigation remains unavailable: “Browsers: Error: The browser access host is unavailable”; no retry, runtime/network claim or physical exercise.
+- DONE: Produce an evidence-bound PASSED or REJECTED recommendation with concrete findings, originalfeedback closure and exactpackage hashes; no publication, package correction or gate mutation by reviewer.
+  PASSED for F1 correction and the corrected digital manual's publication under existing captain authority; this is expressly not full acceptance-criteria completion or physical certification. No remaining demonstrated product defect in reviewed scope.
+
+### Affected finding closure
+
+- F1 (Polish): CLOSED. Pages 36/37/39 now visibly read “Turn: Studs up,” “Turn: Underside,” and “Turn: Studs up”; page 127 uses visible slash separators. No missing-symbol boxes or new clipping observed on these four pages.
+- Correction is restricted to replacing U+21BB with “Turn:” and mixed-CJK middle-dot separators with slashes. Model, order, quantities, imagery, viewer and index remain unchanged; prior pin/bumper/rail receiver and stock/copy findings remain valid.
+- Author evidence reviewed: manual/evidence/glyph-equivalence.json and glyph-package-check.json. The former records only pages 36/37/39/127 changed, all page images unchanged, and page map unchanged except bound PDF hash; the latter reports 27 manifest members and archive members verified. These author checks were not rerun as independent suites.
+- AC1 supported as previously recorded. AC2 printed order/context supported, but scoped physical or supported insertion exercises remain unperformed. Whole-carrier witnesses 156/99, 166/129, 96/99 and 115/129 remain unresolved.
+- AC3 sweep holds and StudFleet31 ownership remain unchanged. AC4 all-page A4 evidence is retained through the 138-page equivalence plus four-page re-review; independent actual main/local/receiver/copy-return navigation remains blocked by host availability. Author 67/52 headless checks remain author evidence.
+- AC5 final pins and findings recorded; captain's preview and publication instruction are separate user evidence administered by FO. No full-edition parity or shared-gap closure is inferred. Reviewer did not publish, alter package bytes or mutate gates.
+
+### Final exact package
+
+- Source: c2ba183; package: builds/access-corrected. Newly inspected rasters: glyph-review/page-036.png, page-037.png, page-039.png, page-127.png. Prior a4-review rasters remain historical evidence for unchanged pages.
+- PDF SHA-256: e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da
+- Page-map SHA-256: 83832334205fcca3022e138c8d12b69811f789e756998dad51a7527d6c3881f0
+- Viewer SHA-256: 9cc62a26a080d240634d0d2d9d446a788c1ce9750b12033e4cfc10a09441ac90
+- Index SHA-256: 593cd6bf008e855abce295443d2a54350a50551c248aff524381f987319c88f8
+- Manifest SHA-256: 06b1fe09b521352e0a2b37ef7fd952208b7f0af22bd89b027173833627cae8ba
+- ZIP SHA-256: 3ed8b0f7d7dda3f8c08462187368bf3c325d7167c0eb2cb74d5b1c966ed283fa
+- Equivalence SHA-256: 5ff236c095aadcf2ac5f497f31ccb37b3486cd25a4b60df5917a52f4dca7fba3
+
+### Summary
+
+The same reviewer confirmed the narrow glyph correction on all four affected pages and independently bound the final package hashes. Recommend publication of this corrected digital manual under the captain's existing instruction, with the previously recorded physical/insertion and live-UI evidence limits preserved; no owned runtime resources remain.
