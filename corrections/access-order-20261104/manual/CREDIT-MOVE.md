@@ -7,3 +7,9 @@ Only index.html, credits.html and their dependent provenance, manifest and relea
 Static checks confirm exact feedback text, unchanged homepage scripts and embedded data, all other release files unchanged, equal unaffected ZIP member bytes, and matching manifest/member hashes. PDF remains b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a. Viewer, model, plan, stock, Technic, artwork and rights remain unchanged. No render, browser, PDF generation or publication push was performed.
 
 Exact five-file change pins and checks: evidence/r2/credit-move-check.json. Complete 28-file transport map against published 244eda13a5c64c46ad8a7081be7151e0b5e775be: evidence/r2/credit-move-publication-file-map.json. Parent owns the authorized publication transport. Prior physical and independent native-UI limits remain unchanged.
+
+## Name-only follow-up
+
+User clarified: “and no details about what was reported. just the name”. The authoritative instruction-feedback.html now retains the heading and only `<p>彭柏源</p>`. package.py consumes this exact source on future builds. The existing homepage link is unchanged. Historical one-time move evidence remains intact.
+
+Only credits.html, release-provenance.json, package-manifest.json and release.zip changed in this follow-up. Prior bytes remain in before-credit-name-only. Static checks confirm that all text outside the credit section, every other release file, and all unaffected archive members remain unchanged; manifest hashes pass. Exact transport mapping against 1ee039a is evidence/r2/credit-name-publication-file-map.json; checks and pins are in credit-name-check.json. No publication or rendering was performed.
