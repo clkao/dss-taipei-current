@@ -1,0 +1,68 @@
+{
+  "evidence_origin": "Parent-reported transport and live verification; no worker network rerun",
+  "source_merge": "8b517d8",
+  "candidate_source": "67d14d5",
+  "publication_commit": "244eda13a5c64c46ad8a7081be7151e0b5e775be",
+  "previous_publication": "d14e4df6047169030836ad33630fd023d09a16d5",
+  "pages_build": {
+    "status": "built",
+    "error": null,
+    "updated_at": "2026-11-04T21:06:12Z"
+  },
+  "pins": {
+    "model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+    "instruction-plan.json": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+    "viewer.html": "8c6b1608d9d959fbea6072a864766ffecc2087734a3e531b33977bcb2848d30d",
+    "index.html": "f485d4dfe9f2e53e86db7acb115a8734b8777b2c45110ec5f29ee7ba0d3a4128",
+    "instructions.pdf": "b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a",
+    "pdf-page-map.json": "9c2d271fe423a4ad5331ff920ce121b7f05bea2182b59ce2e512049bd732626e",
+    "package-manifest.json": "70ebd2415d5bc5a9a58238b1be7ec94aede7ca3e76f17670c76df5c64e223d65",
+    "release.zip": "76f2f8ae957ff632c8c820296dacf324d0787b0a40725ec996da35d5510e79d3"
+  },
+  "live_gets": [
+    {
+      "url": "https://clkao.github.io/dss-taipei-current/index.html?revision=244eda1",
+      "status": 200,
+      "bytes": 5240530,
+      "sha256": "f485d4dfe9f2e53e86db7acb115a8734b8777b2c45110ec5f29ee7ba0d3a4128"
+    },
+    {
+      "url": "https://clkao.github.io/dss-taipei-current/viewer.html?revision=244eda1",
+      "status": 200,
+      "bytes": 5240052,
+      "sha256": "8c6b1608d9d959fbea6072a864766ffecc2087734a3e531b33977bcb2848d30d"
+    },
+    {
+      "url": "https://clkao.github.io/dss-taipei-current/instructions.pdf?revision=244eda1",
+      "status": 200,
+      "bytes": 6446427,
+      "sha256": "b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a"
+    },
+    {
+      "url": "https://clkao.github.io/dss-taipei-current/package-manifest.json?revision=244eda1",
+      "status": 200,
+      "bytes": 2772,
+      "sha256": "70ebd2415d5bc5a9a58238b1be7ec94aede7ca3e76f17670c76df5c64e223d65"
+    },
+    {
+      "url": "https://clkao.github.io/dss-taipei-current/release.zip?revision=244eda1",
+      "status": 200,
+      "bytes": 14878889,
+      "sha256": "76f2f8ae957ff632c8c820296dacf324d0787b0a40725ec996da35d5510e79d3"
+    }
+  ],
+  "review": "canonical instruction-review cycle 3; PASSED digital scope; all 138 pages and 8 screenshots independently inspected",
+  "transport": {
+    "allowlist_files": 28,
+    "changed_files_copied": 13,
+    "technic_and_unrelated_unchanged": true
+  },
+  "formal_ac2_physical": "UNPROVEN",
+  "formal_ac4_independent_native_ui": "UNPROVEN",
+  "follow_up": {
+    "part": "3666",
+    "issue": "Inherited Plate 1 x 10 label beside six-stud geometry",
+    "owner": "DSS label metadata",
+    "scope": "Separate polish follow-up"
+  }
+}
