@@ -1,0 +1,32 @@
+{
+  "status": "STOP",
+  "stage": "navigation; exact stopped phase unknown (empty log, no telemetry)",
+  "budget_seconds": 90,
+  "deadline_trigger_seconds": 80,
+  "failure": "Outer deadline os.killpg(p.pid,SIGTERM) raised PermissionError EPERM",
+  "navigation_log_bytes": 0,
+  "assertions_completed": false,
+  "screenshots": 0,
+  "pdf_started": false,
+  "profile_exists_after_failure": true,
+  "post_failure_owned_command_matches": [],
+  "owned_pid_history": "Unavailable: runner failed before final serialization. Do not invent PIDs.",
+  "limits": "Post-failure process inventory shows no owned command, but per-PID exit proof was not retained. Lease release requires explicit disclosure.",
+  "created_profile_removed": true,
+  "port19690_free": true,
+  "profile_absent": true,
+  "exit_code": "unknown; not recorded",
+  "profile_size_bytes": "unknown; removed after no matching owned commands remained",
+  "input_hashes": {
+    "model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+    "viewer.html": "281f091079fd61c6820d28bff03e56208c074417ba5d25d899cd5151389ed3f5"
+  },
+  "script_sha256": "5b90524d5ba39ec193f58e5a2489de8dd479278ab029d59f43454dc3551751c3",
+  "capture_callback_static": {
+    "invocations": 1,
+    "preview_ready_set_immediately_before": true,
+    "actual_runtime_invocation": "unproven"
+  },
+  "release_basis": "Two fresh post-failure process inventories found no owned script/profile command; port19690 binds successfully; own freshly created profile removed. Per-PID history lost before failed final serialization, not claimed.",
+  "status_detail": "Outer80-second deadline hit; cannot infer whether CDP connection, reload, preview readiness or observer readiness was pending."
+}
