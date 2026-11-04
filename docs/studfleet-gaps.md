@@ -154,3 +154,11 @@ These are DSS adoption priorities, not upstream workflow status changes.
 ### Connector increment
 
 [Independent exact348 check](../evidence/integration/connector-50dfc27-check/README.md) on provisional 50dfc27 replaces backend failure with usable inspection evidence. Fresh import/inspect exit0; all348 source instances/origins unchanged. Metadata coverage:342 complete,6 partial;562 confirmed and447 potential contact observations;29 unmatched. The affected arm retains explicit zero-confidence diagnostics and no contact claim. Upstream release remains pending. This does not change k4 or establish construction validity. Instructions remain w4 visual validation, h1, then90.
+
+### TW local delivery update
+
+StudFleet FO delivery notice e6fd0463-1b21-4c90-827e-7f5fe53db0f1 reports `tw` locally merged at e6c8661b64e5f4f6b69fb680402c24dfff3df965 and archived done. Validated candidate a319c35 retains production95b67ce/source-tests a62d2f2. This is an upstream delivery report, not a new DSS test run.
+
+DSS status: upstream delivered locally; bounded source, PDF verification and headless navigation evidence already present for that production mechanism. Full-manual human parity remains open. No rebuild ran solely for the merge ID. Source inherited from 7d/cn does not clear their broader human holds.
+
+Remaining priorities: w4 actual PDF/viewer validation awaits a render lease; h1 production and then90 supplied-unit adoption. Connector50dfc27 has independent DSS evidence at cebb011, but upstream validation/merge remain pending. No shared source, workflow gate or publication changed.

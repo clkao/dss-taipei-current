@@ -24,5 +24,18 @@
     "route": "Shared StudFleet inspection/connector area. No linked task explicitly owns this exact failure; record for routing, distinct from k4 scale gap."
   },
   "impact_and_simplification_record": "docs/studfleet-gaps.md",
-  "task_identity_snapshot": "evidence/bootstrap/studfleet-gap-task-snapshot.json"
+  "task_identity_snapshot": "evidence/bootstrap/studfleet-gap-task-snapshot.json",
+  "delivery_updates": {
+    "tw": {
+      "upstream_status": "delivered locally, per StudFleet FO notice",
+      "merge": "e6c8661b64e5f4f6b69fb680402c24dfff3df965",
+      "validated_candidate": "a319c35",
+      "production_source": "95b67ce1177afbe4323ed7fcb9da772f71d759b5",
+      "notice_id": "e6fd0463-1b21-4c90-827e-7f5fe53db0f1",
+      "dss_evidence": "evidence/integration/tw-95b67ce-render/README.md",
+      "dss_scope": "Bounded artifact adoption evidence present; full-manual human parity remains open",
+      "new_test_run": false,
+      "broader_7d_cn_holds_cleared": false
+    }
+  }
 }
