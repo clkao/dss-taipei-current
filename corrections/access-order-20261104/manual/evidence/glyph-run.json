@@ -1,0 +1,127 @@
+{
+  "stages": [
+    {
+      "argv": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "corrections/access-order-20261104/manual/make_pdf.py"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 5.507617208175361,
+      "pids": [
+        30769
+      ],
+      "remaining_pids": [],
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/check-glyph-polish.py"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 3.519426084123552,
+      "pids": [
+        30859
+      ],
+      "remaining_pids": [],
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "36",
+        "-l",
+        "36",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/glyph-review/page"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 0.6145719168707728,
+      "pids": [
+        30915
+      ],
+      "remaining_pids": [],
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "37",
+        "-l",
+        "37",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/glyph-review/page"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 0.4120638743042946,
+      "pids": [
+        30924
+      ],
+      "remaining_pids": [],
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "39",
+        "-l",
+        "39",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/glyph-review/page"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 0.4089002087712288,
+      "pids": [
+        30928
+      ],
+      "remaining_pids": [],
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "127",
+        "-l",
+        "127",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/glyph-review/page"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 0.5864062504842877,
+      "pids": [
+        30935
+      ],
+      "remaining_pids": [],
+      "stop_reason": null
+    }
+  ],
+  "elapsed_seconds": 11.091062208637595,
+  "min_free_bytes": 12557975552,
+  "peak_increment_bytes": 872013,
+  "pdf_sha256": "e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da",
+  "map_sha256": "83832334205fcca3022e138c8d12b69811f789e756998dad51a7527d6c3881f0",
+  "rasters": {
+    "page-036.png": "58a8d9d8bc54e22c0f7126faa93a116324e23a2ae4e33d285699bfe00cd7bb54",
+    "page-037.png": "122950caf022675697d9a6b79ee2e61f92cf101e8a492ede844f95593463d06d",
+    "page-039.png": "2dd91baaa6d86be7c713b4a9f517e34d7a0d29c798193011f2d1ad89c2bab514",
+    "page-127.png": "6c6e2a2720ee790166cee10a76bf4386a05496c2771ecfa5650634c1adb0f606"
+  },
+  "pages": 142,
+  "marker_repeated": false
+}

@@ -43,3 +43,13 @@ Parent saw a possible clipped title onpage48 in a tool display. Author's full110
 Final real `index.html` is the tested viewer9cc62 plus only an Instruction feedback section thanking 彭柏源 for originalstep5 late2780pins and originalstep13 bumper/dish2654a obstruction. It separately describes the carrier review, without attributing that report to him or claiming endorsement. Technic link and rights remain. `viewer.html` is byte-identical to the green navigation run; index is a distinct file, not a symlink. Print sheet references134–135 and exact newPDF preflight hash are verified. All27 manifest hashes and ZIP members match.
 
 Final runtime: PDF creation4.443s exit0; corrected staticcheck0.597s exit0;142rasters14.866s exit0. Raster batch peak28,359,306bytes, minfree4,127,961,088; both owned PIDs exited. Navigation2.931s, noerrors,12ownedPIDs gone/profile removed. Leases explicitly released; userpreview server preserved. No publication or workflowgate/status changes.
+
+## Glyph polish revision after independent review
+
+This revision supersedes the PDF and manifest hashes above, while retaining the prior package under `before-glyph-polish/`. Current exact hashes are `evidence/glyph-package-check.json`; publication mappings are updated in `evidence/publication-file-map.json`.
+
+The independent reviewer found missing-glyph boxes on36/39/127. Source inspection included37 because the same turn prefix occurs there. Two exact DSS overlay substitutions replace U+21BB with `Turn: ` and U+00B7 separators in the banner caption with `/`. CJK, art, images, geometry, order and stock are unchanged; the retained template was not edited.
+
+PDF142pages regenerated once. The checker proves138 unaffected decoded page content streams equal, all142 page image bytes and media boxes equal, and the whole map equal except its independently bound PDFhash. All four intended texts pass. Author inspected new110dpi pages36/37/39/127 in `glyph-review/`; the reported glyph boxes are absent. The prior138 unaffected page rasters remain valid through this exact equivalence, not inference from filenames.
+
+PDF5.508s, checker3.519s, four raster commands all exit0; combined11.091s. All six owned processes exited. Peak net incremental files872,013bytes, minimum diskfree12,557,975,552bytes. Lease released; no browser/3D/nav/marker repeat. Viewer9cc62 and siteindex593 remain byte-identical to the prior reviewed package. All27 manifest and archive members verified after rebinding. Same independent reviewer must confirm these four pages and equivalence; no publication or physical acceptance is claimed.

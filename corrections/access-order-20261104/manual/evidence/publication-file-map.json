@@ -53,28 +53,28 @@
     {
       "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/instructions.pdf",
       "publication_path": "instructions.pdf",
-      "sha256": "fb4c395924c33c8aca8e9e946f0f879d44d6634ccd61962d46507a4a85360c60",
+      "sha256": "e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da",
       "previous_sha256": "f10e7b1cd91f48fe23cfe06a9c64f2c0fb323603c909322e7552a1c0f8008232",
       "action": "replace"
     },
     {
       "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/pdf-page-map.json",
       "publication_path": "pdf-page-map.json",
-      "sha256": "d6014e49fb67cd2e0f714c6d704cc83f736c80da325ddaec96df3c55608833b0",
+      "sha256": "83832334205fcca3022e138c8d12b69811f789e756998dad51a7527d6c3881f0",
       "previous_sha256": "38cda0279e0264e30c5eb5e59cb626b4d6b4468b377c301210827223b6f5d0af",
       "action": "replace"
     },
     {
       "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/full-instruction-check.json",
       "publication_path": "full-instruction-check.json",
-      "sha256": "39c4b967eb4844d9653eab92ce04502a213b3199e07a03ec320119451a6258ef",
+      "sha256": "f90fd8cefca5801599805097c0d74e5fc38cc2d8f9ce6e5517d9efe768be78e7",
       "previous_sha256": "b0919cbdd971ebc1d248f98430eaf503b3935a9a407584359857a6200df92027",
       "action": "replace"
     },
     {
       "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/print-preflight.json",
       "publication_path": "print-preflight.json",
-      "sha256": "d691d25d79a94b6e96e0535886d6979d6d39b28ec651257a400cb2d5cf37f230",
+      "sha256": "1be80e2fd7e99ff61e4c877e23fc3459831a4a2f8b64a5ce25585a9912bd4a62",
       "previous_sha256": "fe06610e2beabccab92a540f6d94edbab9c08189609d79cfa80c91f4f939aead",
       "action": "replace"
     },
@@ -179,21 +179,21 @@
     {
       "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/release-provenance.json",
       "publication_path": "release-provenance.json",
-      "sha256": "f714d5c652a5baf9901b29acdf5203fccfa46c967af155f7218164fb804a2b21",
+      "sha256": "520976a1770c9fb83c59b786e81cedff8f1c19dc875a5c88f236809a48bbf7b6",
       "previous_sha256": "fe1713078c61a2d3ebd6320cf6d06afaf0d7618695508185322c20bb82efbc11",
       "action": "replace"
     },
     {
       "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/release.zip",
       "publication_path": "release.zip",
-      "sha256": "2d6991ce9d6530469cc027134fdf9d581e1a61e85c87ea3d830dbd46c601f1ff",
+      "sha256": "3ed8b0f7d7dda3f8c08462187368bf3c325d7167c0eb2cb74d5b1c966ed283fa",
       "previous_sha256": "b459c99f46b003e49b27437a8dc0239adcac00db6ce5c2505a81fbbebd958d85",
       "action": "replace"
     },
     {
       "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected/package-manifest.json",
       "publication_path": "package-manifest.json",
-      "sha256": "a1d58993f143bf6938a0bb6b344d03f06b245d7c292ec6e7abb3bbee4056bab4",
+      "sha256": "06b1fe09b521352e0a2b37ef7fd952208b7f0af22bd89b027173833627cae8ba",
       "previous_sha256": "758acfe1195a6159ecd043ff0f59a06da1fee6e0c7ecb429080c4c4367ee4a35",
       "action": "replace"
     }

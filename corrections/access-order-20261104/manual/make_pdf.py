@@ -6,6 +6,13 @@ TEMPLATE=ROOT/'sources/legacy-recipes/make_full_instruction_pdf.py'
 code=TEMPLATE.read_text()
 # Reader-facing text only: retain the model and every image/quantity/page layout.
 code=code.replace("'DSS TAIPEI CURRENT  /  '+EDITION.upper()", "'DSS TAIPEI CURRENT'")
+# Two exact legacy PDF literals have unsupported glyphs in their selected fonts.
+old_turn="label('↻ '+a['turn_model'],W-160,HH-102,12,CORAL,True)"
+assert code.count(old_turn)==1
+code=code.replace(old_turn,"label('Turn: '+a['turn_model'],W-160,HH-102,12,CORAL,True)")
+old_banner="note='洋 above · 流 below · both faces.'"
+assert code.count(old_banner)==1
+code=code.replace(old_banner,"note='洋 above / 流 below / both faces.'")
 def caption(f):
     op=f['source_operation']
     if f['kind']=='receiver-context':

@@ -1,0 +1,19 @@
+{
+  "instructions.pdf": "e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da",
+  "pdf-page-map.json": "83832334205fcca3022e138c8d12b69811f789e756998dad51a7527d6c3881f0",
+  "viewer.html": "9cc62a26a080d240634d0d2d9d446a788c1ce9750b12033e4cfc10a09441ac90",
+  "index.html": "593cd6bf008e855abce295443d2a54350a50551c248aff524381f987319c88f8",
+  "package-manifest.json": "06b1fe09b521352e0a2b37ef7fd952208b7f0af22bd89b027173833627cae8ba",
+  "release.zip": "3ed8b0f7d7dda3f8c08462187368bf3c325d7167c0eb2cb74d5b1c966ed283fa",
+  "glyph-equivalence.json": "5ff236c095aadcf2ac5f497f31ccb37b3486cd25a4b60df5917a52f4dca7fba3",
+  "manifest_members_verified": 27,
+  "archive_members_verified": true,
+  "viewer_index_unchanged": true,
+  "pdf_pages": 142,
+  "review_pages": [
+    36,
+    37,
+    39,
+    127
+  ]
+}
