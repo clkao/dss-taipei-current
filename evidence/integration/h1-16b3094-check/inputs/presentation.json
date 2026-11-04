@@ -1,0 +1,139 @@
+{
+  "compositions": [
+    {
+      "caption": "Attach both brackets to the longitudinal plates before adding the centre cap.",
+      "id": "rear-frame-supports",
+      "scope": "main",
+      "sequence": [
+        {
+          "source_operations": [
+            "legacy-op-007"
+          ],
+          "views": [
+            "rear-frame-1"
+          ]
+        },
+        {
+          "source_operations": [
+            "legacy-op-008"
+          ],
+          "views": [
+            "rear-frame-2"
+          ]
+        },
+        {
+          "source_operations": [
+            "legacy-op-009"
+          ],
+          "views": [
+            "rear-frame-3"
+          ]
+        }
+      ],
+      "source_operations": [
+        "legacy-op-007",
+        "legacy-op-008",
+        "legacy-op-009"
+      ],
+      "title": "2  Build the rear frame supports",
+      "unit": ""
+    }
+  ],
+  "plan_sha256": "1408f3f664ee938a78de7da8315e112934c602fb372430529edb9badf82f2b34",
+  "required_capabilities": [
+    "authored-operation-details",
+    "local-recipe-compositions",
+    "builder-step-guidance",
+    "ordered-main-compositions",
+    "placement-hint-omission",
+    "reader-labels-and-concise-text"
+  ],
+  "schema": "studfleet/presentation-1",
+  "step_guidance": {
+    "rear-frame-supports": {
+      "camera": [
+        0,
+        -0.7,
+        -1
+      ],
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit",
+      "placement_hint": "omit"
+    },
+    "context-after-operation-6": {
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit",
+      "caption": "Start with the eleven-piece chassis after operation 6. This specimen covers only original operations 7\u20139."
+    }
+  },
+  "views": [
+    {
+      "after_operation": "legacy-op-007",
+      "camera": [
+        0,
+        -1,
+        -1
+      ],
+      "caption": "Place the two long plates on the chassis.",
+      "id": "rear-frame-1",
+      "mode": "installed",
+      "occurrences": [
+        "o/12",
+        "o/13",
+        "o/3",
+        "o/5"
+      ],
+      "title": "1. Add both long plates",
+      "placement_hint": "omit"
+    },
+    {
+      "after_operation": "legacy-op-008",
+      "camera": [
+        1,
+        0.8,
+        0
+      ],
+      "caption": "Fit one bracket on each long plate.",
+      "id": "rear-frame-2",
+      "mode": "installed",
+      "occurrences": [
+        "o/12",
+        "o/13",
+        "o/14",
+        "o/15"
+      ],
+      "title": "2. Fit both brackets",
+      "placement_hint": "omit"
+    },
+    {
+      "after_operation": "legacy-op-009",
+      "camera": [
+        0,
+        -1,
+        0.1
+      ],
+      "caption": "Add the cap after both brackets are in place.",
+      "id": "rear-frame-3",
+      "mode": "installed",
+      "occurrences": [
+        "o/12",
+        "o/13",
+        "o/14",
+        "o/15",
+        "o/16"
+      ],
+      "title": "3. Add the centre cap",
+      "placement_hint": "omit"
+    }
+  ],
+  "reader_labels": {
+    "title": "DSS chassis \u00b7 retained step 2",
+    "steps": {
+      "context-after-operation-6": "Starting chassis after operation 6"
+    }
+  }
+}

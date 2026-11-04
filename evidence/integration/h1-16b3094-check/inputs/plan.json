@@ -1,0 +1,57 @@
+{
+  "schema": "studfleet/plan-1",
+  "assembly_sha256": "d5323e2a21515c39590f4aacf038714ac682fb0325ecd6ddd5e0aa7eb55c2ff1",
+  "units": [],
+  "groups": [
+    {
+      "id": "retained-step-2",
+      "kind": "ordered",
+      "operations": [
+        {
+          "id": "context-after-operation-6",
+          "introduce": [
+            "o/1",
+            "o/2",
+            "o/3",
+            "o/4",
+            "o/5",
+            "o/6",
+            "o/7",
+            "o/8",
+            "o/9",
+            "o/10",
+            "o/11"
+          ],
+          "seed": true,
+          "caption": "Starting context after original operation 6. Earlier construction is outside this specimen."
+        },
+        {
+          "id": "legacy-op-007",
+          "introduce": [
+            "o/12",
+            "o/13"
+          ],
+          "movement": "unknown",
+          "caption": "Add the two rear longitudinal plates"
+        },
+        {
+          "id": "legacy-op-008",
+          "introduce": [
+            "o/14",
+            "o/15"
+          ],
+          "movement": "unknown",
+          "caption": "Fit the rear frame brackets"
+        },
+        {
+          "id": "legacy-op-009",
+          "introduce": [
+            "o/16"
+          ],
+          "movement": "unknown",
+          "caption": "Build the rear frame supports"
+        }
+      ]
+    }
+  ]
+}

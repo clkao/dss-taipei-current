@@ -1,0 +1,27 @@
+{
+  "candidate_source": "16b3094",
+  "binary_sha256": "a0c9cb64180ceeacf9f722510441cbaa2c5e4f2f5cbc7e7dd4d778353b962d23",
+  "source_bindings_match": true,
+  "all16_exact_part_color_matrices": true,
+  "step2_ops7_9_exact": true,
+  "context_after6_matches11pieces": true,
+  "new_ids": [
+    107,
+    128,
+    152,
+    162,
+    113
+  ],
+  "source_operations": [
+    7,
+    8,
+    9
+  ],
+  "input_hashes": {
+    "specimen.mpd": "fda64f7241741e40f52ca65f6778bef4d7c10ca69c02829f1be7429cfb026a03",
+    "intake/assembly.json": "d5323e2a21515c39590f4aacf038714ac682fb0325ecd6ddd5e0aa7eb55c2ff1",
+    "intake/import-report.json": "22fbe2f26388bfdb6b7b91b4681eca111c7d047f061a489df2ee34f55405ed1c",
+    "plan.json": "1408f3f664ee938a78de7da8315e112934c602fb372430529edb9badf82f2b34",
+    "presentation.json": "591c228c02b1009ece547c7e6f74f1ed7b0d11677497838f999d772051621b86"
+  }
+}

@@ -1,0 +1,1799 @@
+{
+  "compiled_plan": {
+    "schema": "studfleet/compiled-1",
+    "revision": "600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd",
+    "assembly_sha256": "d5323e2a21515c39590f4aacf038714ac682fb0325ecd6ddd5e0aa7eb55c2ff1",
+    "plan_sha256": "1408f3f664ee938a78de7da8315e112934c602fb372430529edb9badf82f2b34",
+    "steps": [
+      {
+        "inventory": [
+          {
+            "part": "3020",
+            "color": 484,
+            "quantity": 2
+          },
+          {
+            "part": "3021",
+            "color": 71,
+            "quantity": 2
+          },
+          {
+            "part": "3022",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3031",
+            "color": 71,
+            "quantity": 2
+          },
+          {
+            "part": "32018",
+            "color": 0,
+            "quantity": 2
+          },
+          {
+            "part": "6141",
+            "color": 25,
+            "quantity": 2
+          }
+        ],
+        "id": "context-after-operation-6",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "context-after-operation-6"
+        ],
+        "new": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/10",
+          "o/11"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/10",
+          "o/11"
+        ],
+        "operations": [
+          {
+            "id": "context-after-operation-6",
+            "introduce": [
+              "o/1",
+              "o/2",
+              "o/3",
+              "o/4",
+              "o/5",
+              "o/6",
+              "o/7",
+              "o/8",
+              "o/9",
+              "o/10",
+              "o/11"
+            ],
+            "join": "",
+            "depends": null,
+            "direction": [
+              0,
+              0,
+              0
+            ],
+            "distance": 0,
+            "seed": true,
+            "caption": "Starting context after original operation 6. Earlier construction is outside this specimen.",
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "3460",
+            "color": 0,
+            "quantity": 2
+          }
+        ],
+        "id": "legacy-op-007",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-007"
+        ],
+        "new": [
+          "o/12",
+          "o/13"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13"
+        ],
+        "operations": [
+          {
+            "caption": "Add the two rear longitudinal plates",
+            "depends": null,
+            "id": "legacy-op-007",
+            "introduce": [
+              "o/12",
+              "o/13"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "18671",
+            "color": 71,
+            "quantity": 2
+          }
+        ],
+        "id": "legacy-op-008",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-008"
+        ],
+        "new": [
+          "o/14",
+          "o/15"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15"
+        ],
+        "operations": [
+          {
+            "caption": "Fit the rear frame brackets",
+            "depends": null,
+            "id": "legacy-op-008",
+            "introduce": [
+              "o/14",
+              "o/15"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "3022",
+            "color": 0,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-009",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-009"
+        ],
+        "new": [
+          "o/16"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16"
+        ],
+        "operations": [
+          {
+            "caption": "Build the rear frame supports",
+            "depends": null,
+            "id": "legacy-op-009",
+            "introduce": [
+              "o/16"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      }
+    ],
+    "units": {},
+    "signatures": {},
+    "occurrence_operations": {
+      "o/1": "context-after-operation-6",
+      "o/10": "context-after-operation-6",
+      "o/11": "context-after-operation-6",
+      "o/12": "legacy-op-007",
+      "o/13": "legacy-op-007",
+      "o/14": "legacy-op-008",
+      "o/15": "legacy-op-008",
+      "o/16": "legacy-op-009",
+      "o/2": "context-after-operation-6",
+      "o/3": "context-after-operation-6",
+      "o/4": "context-after-operation-6",
+      "o/5": "context-after-operation-6",
+      "o/6": "context-after-operation-6",
+      "o/7": "context-after-operation-6",
+      "o/8": "context-after-operation-6",
+      "o/9": "context-after-operation-6"
+    }
+  },
+  "exports": {
+    "inventory": "complete exact LDraw part/color quantities",
+    "purchasing": "unavailable",
+    "reason": "unmapped BrickLink lot 32018/0"
+  },
+  "inspection": {
+    "work": {
+      "supported_pair_visits": 15,
+      "connector_candidate_pairs": 3,
+      "candidate_connector_comparisons": 1280,
+      "declared_sample_work": 0,
+      "total_units": 1295,
+      "limit_units": 10000000,
+      "result_limit": 50000
+    },
+    "connector_status": "upstream connector analysis not requested",
+    "schema": "studfleet/inspection-1",
+    "assembly_sha256": "d5323e2a21515c39590f4aacf038714ac682fb0325ecd6ddd5e0aa7eb55c2ff1",
+    "source_sha256": "fda64f7241741e40f52ca65f6778bef4d7c10ca69c02829f1be7429cfb026a03",
+    "provenance": "verified exact source and occurrence chain",
+    "capabilities": {
+      "schema": "studfleet/capabilities-1",
+      "tool": "studfleet/import-1;binary_sha256=a0c9cb64180ceeacf9f722510441cbaa2c5e4f2f5cbc7e7dd4d778353b962d23;vcs.revision=85e98c1b4165e177c7fb78880ef2e2884028c01a;vcs.modified=true",
+      "profile_sha256": "e69064b980b0630fe0dc1512994bf6f8b2e05be5590c018ae242b7d6a0b91829",
+      "expected_archive_sha256": "f3e496d0ede69ca7942fa4aa198e661ee2d22723906101e2e339d8917a4dd5f2",
+      "profiles": {
+        "3003": {
+          "width": 2,
+          "depth": 2,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            0,
+            322
+          ],
+          "part_sha256": "aed0ccd750126a58d38b012a4e8b16c172896339547c120ef67b69e1386f490d",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3003",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=24; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3004": {
+          "width": 2,
+          "depth": 1,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            47,
+            322
+          ],
+          "part_sha256": "e1caee3b32175393c9d6ea176a47f8869173a01d03a451e1cfe10d09167c0203",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3004",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=24; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3020": {
+          "width": 4,
+          "depth": 2,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70,
+            47
+          ],
+          "part_sha256": "551e433cc4bcfdeeb6e390e509d52ee2e62c90d3eae625ee36928ef32291bb79",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3020\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  2 x  4\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-16 {Roland Melkert} Initial info for 3020.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 4 C 2 20 20]\n"
+        },
+        "3022": {
+          "width": 2,
+          "depth": 2,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            47
+          ],
+          "part_sha256": "3cd09bfe626e751ad95eab0ea83e5f3adea81f05d34993a1c4bf432ee386fe25",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3022",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3023": {
+          "width": 2,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            47
+          ],
+          "part_sha256": "fa3eeab92b077488bae3dbc0fe974ef3327a77f130776d2965f13d3ebc22ab57",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3024": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "e053af4f232374b0c8da2dc0f9620bedf0576ca43d7c3ceebc6676050ae61da8",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3024\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  1 x  1\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-17 {Roland Melkert} Initial info for 3024.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0]\n"
+        },
+        "3031": {
+          "width": 4,
+          "depth": 4,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "e67436538e47cb38b8352e91c2b5b7c7c274e070912603e5e9fc0b4513962338",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3031\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  4 x  4\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-19 {Roland Melkert} Initial info for 3031.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 4 C 4 20 20]\n"
+        },
+        "3070b": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": false,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "c7608c7e9f40c61747fb46c7107ef141b0a441e381768d2cdac0129f8ad03752",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3070\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Tile  1 x  1 with Groove\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2014-02-08 {Roland Melkert} Initial info for 3070b.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0]\n"
+        },
+        "3710": {
+          "width": 4,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            47
+          ],
+          "part_sha256": "1a2d17e3e35750ccf02a54c7aee0cf7485c1c8596492746fc798d341399a3a6e",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3710",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "87087": {
+          "width": 1,
+          "depth": 1,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "0d170f4222bc555c4c0f85de872f3481715d4e2557a0359448d95352df1b2ac9",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=87087\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Brick  1 x  1 with Stud on 1 Side\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-15 {Roland Melkert} Initial info for 87087.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=0 24 0]\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 20] [pos=0 10 -14] [ori=1 0 0 0 0 1 0 -1 0]\n"
+        },
+        "98138": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": false,
+          "colors": [
+            322
+          ],
+          "part_sha256": "1d506f39ea2bf69757206009498025381bbf28d9fa0b79385a30f4c5fa37f111",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=98138",
+          "shadow": "Finite underside-only socket Y=8; no top studs; conservative 20 x 8 x 20 LDU square body."
+        }
+      },
+      "static_pose": "Exact proper orthogonal poses; conservative body and stud/socket profiles",
+      "render_support": "unverified: no archive resolved",
+      "default_import_limits": {
+        "bytes": 131072,
+        "definitions": 64,
+        "depth": 16,
+        "occurrences": 500,
+        "coordinate": 100000,
+        "deadline_ms": 2000
+      }
+    },
+    "total": 16,
+    "geometry_supported": 6,
+    "manufactured_color_witnessed": 2,
+    "findings": [
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/1"
+        ],
+        "message": "No reviewed conservative body profile for 32018",
+        "sources": [
+          {
+            "id": "o/1",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 3,
+                "reference": "32018.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/1"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/1",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 3,
+                "reference": "32018.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/2"
+        ],
+        "message": "No reviewed conservative body profile for 32018",
+        "sources": [
+          {
+            "id": "o/2",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 4,
+                "reference": "32018.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/2"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/2",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 4,
+                "reference": "32018.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/3"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/3",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 5,
+                "reference": "3031.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/4"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/4",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 6,
+                "reference": "3031.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/5"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/5",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 7,
+                "reference": "3020.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/6"
+        ],
+        "message": "No reviewed conservative body profile for 3021",
+        "sources": [
+          {
+            "id": "o/6",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 8,
+                "reference": "3021.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/6"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/6",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 8,
+                "reference": "3021.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/7"
+        ],
+        "message": "No reviewed conservative body profile for 3021",
+        "sources": [
+          {
+            "id": "o/7",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 9,
+                "reference": "3021.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/7"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/7",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 9,
+                "reference": "3021.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/8"
+        ],
+        "message": "No reviewed conservative body profile for 6141",
+        "sources": [
+          {
+            "id": "o/8",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 10,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/8"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/8",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 10,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/9"
+        ],
+        "message": "No reviewed conservative body profile for 6141",
+        "sources": [
+          {
+            "id": "o/9",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 11,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/9"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/9",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 11,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/10"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/10",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 12,
+                "reference": "3020.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/12"
+        ],
+        "message": "No reviewed conservative body profile for 3460",
+        "sources": [
+          {
+            "id": "o/12",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 14,
+                "reference": "3460.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/12"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/12",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 14,
+                "reference": "3460.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/13"
+        ],
+        "message": "No reviewed conservative body profile for 3460",
+        "sources": [
+          {
+            "id": "o/13",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 15,
+                "reference": "3460.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/13"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/13",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 15,
+                "reference": "3460.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/14"
+        ],
+        "message": "No reviewed conservative body profile for 18671",
+        "sources": [
+          {
+            "id": "o/14",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 16,
+                "reference": "18671.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/14"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/14",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 16,
+                "reference": "18671.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/14"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/14",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 16,
+                "reference": "18671.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/15"
+        ],
+        "message": "No reviewed conservative body profile for 18671",
+        "sources": [
+          {
+            "id": "o/15",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 17,
+                "reference": "18671.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/15"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/15",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 17,
+                "reference": "18671.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/15"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/15",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 17,
+                "reference": "18671.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/admission",
+        "status": "pass",
+        "severity": "info",
+        "scope": "input",
+        "occurrences": null,
+        "message": "Finite proper rigid assembly; admission is not construction approval",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/pairs",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative body pairs",
+        "occurrences": [
+          "o/1",
+          "o/2",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15"
+        ],
+        "message": "Body-pair checks not evaluated for pairs involving these occurrences",
+        "sources": [
+          {
+            "id": "o/1",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 3,
+                "reference": "32018.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 4,
+                "reference": "32018.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/6",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 8,
+                "reference": "3021.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/7",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 9,
+                "reference": "3021.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/8",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 10,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/9",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 11,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/12",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 14,
+                "reference": "3460.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/13",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 15,
+                "reference": "3460.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/14",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 16,
+                "reference": "18671.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/15",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 17,
+                "reference": "18671.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/connections",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "local-profile connector graph",
+        "occurrences": [
+          "o/1",
+          "o/2",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15"
+        ],
+        "message": "Local-profile graph covers reviewed-profile occurrences only; shared-catalog graphs are reported separately when requested",
+        "sources": [
+          {
+            "id": "o/1",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 3,
+                "reference": "32018.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 4,
+                "reference": "32018.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/6",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 8,
+                "reference": "3021.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/7",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 9,
+                "reference": "3021.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/8",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 10,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/9",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 11,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/12",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 14,
+                "reference": "3460.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/13",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 15,
+                "reference": "3460.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/14",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 16,
+                "reference": "18671.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/15",
+            "path": [
+              {
+                "definition": "dss-step-2-specimen.ldr",
+                "line": 17,
+                "reference": "18671.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/constraints",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "declared constraints",
+        "occurrences": null,
+        "message": "None supplied; no grounding claim",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/render",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "render geometry/material",
+        "occurrences": null,
+        "message": "Unverified until selected archive geometry and colors are resolved",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/insertion",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "ordering",
+        "occurrences": null,
+        "message": "Plan required; no insertion or ordering evidence",
+        "sources": []
+      }
+    ],
+    "connections": [
+      [
+        "o/10",
+        "o/3"
+      ],
+      [
+        "o/10",
+        "o/4"
+      ],
+      [
+        "o/10",
+        "o/5"
+      ]
+    ],
+    "observed_components": [
+      [
+        "o/3",
+        "o/10",
+        "o/4",
+        "o/5"
+      ],
+      [
+        "o/11"
+      ],
+      [
+        "o/16"
+      ]
+    ],
+    "unresolved": [
+      "o/1",
+      "o/2",
+      "o/6",
+      "o/7",
+      "o/8",
+      "o/9",
+      "o/12",
+      "o/13",
+      "o/14",
+      "o/15"
+    ],
+    "supported_body_bounds": {
+      "Min": [
+        59.99979619999999,
+        -80.37503400000001,
+        39.999988
+      ],
+      "Max": [
+        379.9998808,
+        -64.37502960000002,
+        120.0000076
+      ]
+    },
+    "required_failure": false,
+    "limits": [
+      "Conservative rectangular bodies exclude stud/socket engagement; 0.001 LDU contact tolerance.",
+      "Fine mesh interference, grip, stiffness, tipping and physical strength untested.",
+      "Supported body bounds are not complete render bounds."
+    ]
+  },
+  "instruction_frames": {
+    "reader_labels": {
+      "title": "DSS chassis · retained step 2",
+      "steps": {
+        "context-after-operation-6": "Starting chassis after operation 6"
+      }
+    },
+    "concise_text": true,
+    "step_guidance": {
+      "context-after-operation-6": {
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit",
+        "caption": "Start with the eleven-piece chassis after operation 6. This specimen covers only original operations 7–9."
+      },
+      "rear-frame-supports": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit",
+        "camera": [
+          0,
+          -0.7,
+          -1
+        ]
+      }
+    },
+    "schema": "studfleet/instruction-frames-1",
+    "revision": "600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd",
+    "steps": [
+      {
+        "inventory": [
+          {
+            "part": "3020",
+            "color": 484,
+            "quantity": 2
+          },
+          {
+            "part": "3021",
+            "color": 71,
+            "quantity": 2
+          },
+          {
+            "part": "3022",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3031",
+            "color": 71,
+            "quantity": 2
+          },
+          {
+            "part": "32018",
+            "color": 0,
+            "quantity": 2
+          },
+          {
+            "part": "6141",
+            "color": 25,
+            "quantity": 2
+          }
+        ],
+        "id": "context-after-operation-6",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "context-after-operation-6"
+        ],
+        "new": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/10",
+          "o/11"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/10",
+          "o/11"
+        ],
+        "operations": [
+          {
+            "id": "context-after-operation-6",
+            "introduce": [
+              "o/1",
+              "o/2",
+              "o/3",
+              "o/4",
+              "o/5",
+              "o/6",
+              "o/7",
+              "o/8",
+              "o/9",
+              "o/10",
+              "o/11"
+            ],
+            "join": "",
+            "depends": null,
+            "direction": [
+              0,
+              0,
+              0
+            ],
+            "distance": 0,
+            "seed": true,
+            "caption": "Starting context after original operation 6. Earlier construction is outside this specimen.",
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "18671",
+            "color": 71,
+            "quantity": 2
+          },
+          {
+            "part": "3022",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3460",
+            "color": 0,
+            "quantity": 2
+          }
+        ],
+        "id": "rear-frame-supports",
+        "unit": "",
+        "kind": "sequence",
+        "source_operations": [
+          "legacy-op-007",
+          "legacy-op-008",
+          "legacy-op-009"
+        ],
+        "new": [
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16"
+        ],
+        "operations": [
+          {
+            "caption": "Add the two rear longitudinal plates",
+            "depends": null,
+            "id": "legacy-op-007",
+            "introduce": [
+              "o/12",
+              "o/13"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "caption": "Fit the rear frame brackets",
+            "depends": null,
+            "id": "legacy-op-008",
+            "introduce": [
+              "o/14",
+              "o/15"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          },
+          {
+            "caption": "Build the rear frame supports",
+            "depends": null,
+            "id": "legacy-op-009",
+            "introduce": [
+              "o/16"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      }
+    ],
+    "sources": {
+      "context-after-operation-6": [
+        {
+          "id": "context-after-operation-6",
+          "sha256": "628c10ba4e9a953a2299ff8a7d174443faf7fb06feb88a322c63872d4d05f2d5"
+        }
+      ],
+      "rear-frame-supports": [
+        {
+          "id": "legacy-op-007",
+          "sha256": "6ac51654debcc674367c1b89f12f4364e60d8363d0579f05a694aeb184bce0a5"
+        },
+        {
+          "id": "legacy-op-008",
+          "sha256": "8b7326a4806fef8e34e362b84681144baa443280601eb0575ce8a2871ee16ff3"
+        },
+        {
+          "id": "legacy-op-009",
+          "sha256": "5a97cab41366023641bf2e9d5532a2166ab2a53c6ca587ba611793e76c6ef47e"
+        }
+      ]
+    },
+    "compositions": {
+      "rear-frame-supports": {
+        "scope": "main",
+        "id": "rear-frame-supports",
+        "unit": "",
+        "title": "2  Build the rear frame supports",
+        "caption": "Attach both brackets to the longitudinal plates before adding the centre cap.",
+        "source_operations": [
+          "legacy-op-007",
+          "legacy-op-008",
+          "legacy-op-009"
+        ],
+        "sequence": [
+          {
+            "source_operations": [
+              "legacy-op-007"
+            ],
+            "views": [
+              "rear-frame-1"
+            ]
+          },
+          {
+            "source_operations": [
+              "legacy-op-008"
+            ],
+            "views": [
+              "rear-frame-2"
+            ]
+          },
+          {
+            "source_operations": [
+              "legacy-op-009"
+            ],
+            "views": [
+              "rear-frame-3"
+            ]
+          }
+        ]
+      }
+    },
+    "views": {
+      "rear-frame-1": {
+        "placement_hint": "omit",
+        "id": "rear-frame-1",
+        "after_operation": "legacy-op-007",
+        "mode": "installed",
+        "occurrences": [
+          "o/12",
+          "o/13",
+          "o/3",
+          "o/5"
+        ],
+        "camera": [
+          0,
+          -1,
+          -1
+        ],
+        "title": "1. Add both long plates",
+        "caption": "Place the two long plates on the chassis.",
+        "source_frame": {
+          "id": "legacy-op-007",
+          "sha256": "6ac51654debcc674367c1b89f12f4364e60d8363d0579f05a694aeb184bce0a5"
+        }
+      },
+      "rear-frame-2": {
+        "placement_hint": "omit",
+        "id": "rear-frame-2",
+        "after_operation": "legacy-op-008",
+        "mode": "installed",
+        "occurrences": [
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15"
+        ],
+        "camera": [
+          1,
+          0.8,
+          0
+        ],
+        "title": "2. Fit both brackets",
+        "caption": "Fit one bracket on each long plate.",
+        "source_frame": {
+          "id": "legacy-op-008",
+          "sha256": "8b7326a4806fef8e34e362b84681144baa443280601eb0575ce8a2871ee16ff3"
+        }
+      },
+      "rear-frame-3": {
+        "placement_hint": "omit",
+        "id": "rear-frame-3",
+        "after_operation": "legacy-op-009",
+        "mode": "installed",
+        "occurrences": [
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16"
+        ],
+        "camera": [
+          0,
+          -1,
+          0.1
+        ],
+        "title": "3. Add the centre cap",
+        "caption": "Add the cap after both brackets are in place.",
+        "source_frame": {
+          "id": "legacy-op-009",
+          "sha256": "5a97cab41366023641bf2e9d5532a2166ab2a53c6ca587ba611793e76c6ef47e"
+        }
+      }
+    }
+  },
+  "inventory_csv": "revision,part,ldraw_color,quantity\n600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd,18671,71,2\n600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd,3020,484,2\n600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd,3021,71,2\n600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd,3022,0,2\n600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd,3031,71,2\n600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd,32018,0,2\n600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd,3460,0,2\n600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd,6141,25,2\n",
+  "status": {
+    "schema": "studfleet/draft-status-1",
+    "classification": "draft",
+    "label": "Draft — construction unverified",
+    "revision": "600d31ca75da55b2b9beabeb532bce04e3b8ea432b854594a641a7bfd867c0fd",
+    "structural_validity": true,
+    "construction": "unverified",
+    "rendering": "not requested: check-only",
+    "total_occurrences": 16,
+    "inspection_sha256": "a330cc4b693cdb74ded9392229fc1a7bad011ed9783eb1f3f71f33cb9ed918da",
+    "limits": [
+      "Body profiles cover 6/16 occurrences; required static findings present: false. upstream connector analysis not requested.",
+      "Insertion not checked; arrows are authored placement suggestions.",
+      "Physical strength and stability untested.",
+      "Static body/profile gaps and known findings are recorded in inspection.json; metadata contacts do not certify construction."
+    ]
+  }
+}

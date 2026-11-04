@@ -1,0 +1,1 @@
+FileNotFoundError before draft invocation: dss-input/source.mpd absent. Actual files: dss-input/specimen.mpd and dss-input/intake/source.mpd. Reported to FO before correction. No source bytes changed.

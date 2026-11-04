@@ -36,6 +36,15 @@
       "dss_scope": "Bounded artifact adoption evidence present; full-manual human parity remains open",
       "new_test_run": false,
       "broader_7d_cn_holds_cleared": false
+    },
+    "connector_348": {
+      "upstream_status": "delivered locally, per StudFleet FO notice",
+      "merge": "a7558f660a26dcc5054dc1c6e61b090458d6eaf2",
+      "production_source": "50dfc277779413949e4ae882ecafff3d616a93aa",
+      "notice_id": "a6d2af2a-2e51-418a-a8cb-5986f4bafa41",
+      "dss_evidence": "evidence/integration/connector-50dfc27-check/README.md",
+      "new_test_run": false,
+      "physical_acceptance": false
     }
   }
 }

@@ -166,3 +166,9 @@ Remaining priorities: w4 actual PDF/viewer validation awaits a render lease; h1 
 ### Reader-label artifact increment
 
 [W4 bounded artifacts](../evidence/integration/labels-3a6833b-render/README.md) now pass both exports/verification and corrected headless copy-return navigation. All10 actual PDF pages inspected: useful labels/captions, stock quantities and retained-copy references preserved; default internal IDs/hashes removed. Original title-only harness refusal is retained; required draft warning was correct and remains independently asserted. No product repair occurred. `w4` advances to bounded artifact evidence, not human/full-manual acceptance. Remaining priorities: h1, then90; broader7d/cn holds remain.
+
+### H1 input and connector delivery update
+
+[H1 candidate16b3094](../evidence/integration/h1-16b3094-check/README.md) passes independent source audit and same-binary check-only. All16 occurrences match; step2 operations7-9 compose into one5-part reader step retaining13/15/16 intermediate states. Starting context after6 is explicitly out of scope. `h1` advances to DSS compiler compatibility; next are actual PDF/viewer checks, then90. A source filename handoff mismatch was reported and resolved in the DSS audit only.
+
+FO notice a6d2af2a-2e51-418a-a8cb-5986f4bafa41 reports the connector repair locally merged at a7558f660a26dcc5054dc1c6e61b090458d6eaf2 and archived done. Existing independent DSS evidence cebb011 applies to the same production mechanism. No merge-ID-only retest ran. Coverage/zero-confidence/physical limits remain unchanged.

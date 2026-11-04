@@ -1,0 +1,882 @@
+{
+  "schema": "studfleet/main-composition-public-proof-1",
+  "source_sha256": {
+    "sources/minifigure/legacy-v10/model.json": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+    "sources/minifigure/legacy-v10/instruction-plan.json": "9d05fe11832876ad3ee4fb52412c7f9ebd1f41d5f1dfcc1a0c7cb34932fa8402",
+    "migration/minifigure-v10/assembly.json": "792ee898ed3238cd7c26ea8a7466c1e68fc259f394a8af41a015152d92ab3642",
+    "migration/minifigure-v10/occurrence-crosswalk.json": "337633ad4d462fafb66f639ef94cf1b999eb30629440b2675bc9c9848bf685e5",
+    "migration/minifigure-v10/operation-crosswalk.json": "1a34691139a28db658f5808ab0e91112b0969f3990d3b00343b2da02f6f83115",
+    "migration/minifigure-v10/specimen-corrections.json": "67e8b79b1b89191905ea2aef1ac44e491fbd15e9e282d054ffcc38316dcda3f6"
+  },
+  "source_operations_exact": [
+    {
+      "kind": "build",
+      "module": "truck",
+      "assembly": "truck",
+      "ids": [
+        107,
+        128
+      ],
+      "direction": "top",
+      "section_name": "01 / Chassis frame",
+      "placements": [
+        {
+          "ids": [
+            107,
+            128
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [
+        {
+          "piece_ids": [
+            107,
+            150
+          ],
+          "confirmed": 0,
+          "potential": 4
+        },
+        {
+          "piece_ids": [
+            107,
+            153
+          ],
+          "confirmed": 0,
+          "potential": 1
+        },
+        {
+          "piece_ids": [
+            128,
+            150
+          ],
+          "confirmed": 0,
+          "potential": 4
+        },
+        {
+          "piece_ids": [
+            128,
+            153
+          ],
+          "confirmed": 0,
+          "potential": 1
+        }
+      ],
+      "manual": {
+        "title": "Add the two rear longitudinal plates",
+        "note": "",
+        "view": "front",
+        "context": null,
+        "hold": null
+      },
+      "instruction_batch": "authored-region-22",
+      "step": 7
+    },
+    {
+      "kind": "build",
+      "module": "truck",
+      "assembly": "truck",
+      "ids": [
+        152,
+        162
+      ],
+      "direction": "top",
+      "section_name": "01 / Chassis frame",
+      "placements": [
+        {
+          "ids": [
+            152,
+            162
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [
+        {
+          "piece_ids": [
+            107,
+            152
+          ],
+          "confirmed": 0,
+          "potential": 2
+        },
+        {
+          "piece_ids": [
+            128,
+            162
+          ],
+          "confirmed": 0,
+          "potential": 2
+        }
+      ],
+      "manual": {
+        "title": "Fit the rear frame brackets",
+        "note": "Attach both brackets to the longitudinal plates before adding the centre cap.",
+        "view": "underside",
+        "context": null,
+        "hold": null
+      },
+      "instruction_batch": "authored-region-22",
+      "step": 8
+    },
+    {
+      "kind": "build",
+      "module": "truck",
+      "assembly": "truck",
+      "ids": [
+        113
+      ],
+      "direction": "top",
+      "section_name": "01 / Chassis frame",
+      "placements": [
+        {
+          "ids": [
+            113
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "catalog_pairs": [
+        {
+          "piece_ids": [
+            113,
+            152
+          ],
+          "confirmed": 2,
+          "potential": 0
+        },
+        {
+          "piece_ids": [
+            113,
+            162
+          ],
+          "confirmed": 2,
+          "potential": 0
+        }
+      ],
+      "manual": {
+        "title": "Build the rear frame supports",
+        "note": "Attach both brackets to the longitudinal plates before adding the centre cap.",
+        "view": "top",
+        "context": null,
+        "hold": null
+      },
+      "instruction_batch": "authored-region-22",
+      "step": 9
+    }
+  ],
+  "context_after_operation": 6,
+  "context_piece_ids": [
+    172,
+    178,
+    150,
+    163,
+    153,
+    168,
+    177,
+    173,
+    179,
+    134,
+    164
+  ],
+  "selected_piece_ids": [
+    107,
+    128,
+    152,
+    162,
+    113
+  ],
+  "source_step_exact": {
+    "number": 2,
+    "end_operation": 9,
+    "operations": [
+      7,
+      8,
+      9
+    ],
+    "module": "truck",
+    "assembly": "truck",
+    "section": "01 / Chassis frame",
+    "new_ids": [
+      107,
+      128,
+      152,
+      162,
+      113
+    ],
+    "placements": [
+      {
+        "ids": [
+          107,
+          128
+        ],
+        "direction": "top",
+        "contacts": []
+      },
+      {
+        "ids": [
+          152,
+          162
+        ],
+        "direction": "top",
+        "contacts": []
+      },
+      {
+        "ids": [
+          113
+        ],
+        "direction": "top",
+        "contacts": []
+      }
+    ],
+    "recipe_operations": [],
+    "recipe_step": null,
+    "copies": 3,
+    "repeat_count": 1,
+    "label": "component",
+    "manual": {
+      "title": "Build the rear frame supports",
+      "note": "Attach both brackets to the longitudinal plates before adding the centre cap.",
+      "view": "rear",
+      "context": null,
+      "hold": null,
+      "bands_installed": false,
+      "ids": [
+        107,
+        113,
+        128,
+        134,
+        150,
+        152,
+        153,
+        162,
+        163,
+        164,
+        168,
+        172,
+        173,
+        177,
+        178,
+        179
+      ],
+      "image": "images/step-002.png",
+      "instance_frames": [],
+      "frames": [],
+      "approach_frames": []
+    }
+  },
+  "occurrences": [
+    {
+      "piece_id": 172,
+      "retained_occurrence": "o/14/1/1",
+      "specimen_occurrence": "o/1",
+      "exact_pose": {
+        "id": "o/14/1/1",
+        "part": "32018",
+        "color": 0,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            219.999801
+          ],
+          [
+            0,
+            1,
+            0,
+            -64.37504060000002
+          ],
+          [
+            0,
+            0,
+            1,
+            70.00002860000001
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 178,
+      "retained_occurrence": "o/14/1/2",
+      "specimen_occurrence": "o/2",
+      "exact_pose": {
+        "id": "o/14/1/2",
+        "part": "32018",
+        "color": 0,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            219.9998188
+          ],
+          [
+            0,
+            1,
+            0,
+            -64.37505260000002
+          ],
+          [
+            0,
+            0,
+            1,
+            90.00000800000001
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 150,
+      "retained_occurrence": "o/14/1/3",
+      "specimen_occurrence": "o/3",
+      "exact_pose": {
+        "id": "o/14/1/3",
+        "part": "3031",
+        "color": 71,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            159.9998164
+          ],
+          [
+            0,
+            1,
+            0,
+            -72.37502960000002
+          ],
+          [
+            0,
+            0,
+            1,
+            80.00000299999999
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 163,
+      "retained_occurrence": "o/14/1/4",
+      "specimen_occurrence": "o/4",
+      "exact_pose": {
+        "id": "o/14/1/4",
+        "part": "3031",
+        "color": 71,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            279.9997854
+          ],
+          [
+            0,
+            1,
+            0,
+            -72.37502960000002
+          ],
+          [
+            0,
+            0,
+            1,
+            79.999988
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 153,
+      "retained_occurrence": "o/14/1/5",
+      "specimen_occurrence": "o/5",
+      "exact_pose": {
+        "id": "o/14/1/5",
+        "part": "3020",
+        "color": 484,
+        "module": "",
+        "matrix": [
+          [
+            0,
+            0,
+            1,
+            219.9998116
+          ],
+          [
+            0,
+            1,
+            0,
+            -72.37504160000002
+          ],
+          [
+            -1,
+            0,
+            0,
+            80.0000076
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 168,
+      "retained_occurrence": "o/14/1/6",
+      "specimen_occurrence": "o/6",
+      "exact_pose": {
+        "id": "o/14/1/6",
+        "part": "3021",
+        "color": 71,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            349.9999714
+          ],
+          [
+            0,
+            1,
+            0,
+            -72.3750176
+          ],
+          [
+            0,
+            0,
+            1,
+            59.9999642
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 177,
+      "retained_occurrence": "o/14/1/7",
+      "specimen_occurrence": "o/7",
+      "exact_pose": {
+        "id": "o/14/1/7",
+        "part": "3021",
+        "color": 71,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            349.9999476
+          ],
+          [
+            0,
+            1,
+            0,
+            -72.37505340000001
+          ],
+          [
+            0,
+            0,
+            1,
+            99.99997379999999
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 173,
+      "retained_occurrence": "o/14/1/8",
+      "specimen_occurrence": "o/8",
+      "exact_pose": {
+        "id": "o/14/1/8",
+        "part": "6141",
+        "color": 25,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            109.9998116
+          ],
+          [
+            0,
+            1,
+            0,
+            -72.37502960000002
+          ],
+          [
+            0,
+            0,
+            1,
+            70.0000048
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 179,
+      "retained_occurrence": "o/14/1/9",
+      "specimen_occurrence": "o/9",
+      "exact_pose": {
+        "id": "o/14/1/9",
+        "part": "6141",
+        "color": 25,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            109.9998116
+          ],
+          [
+            0,
+            1,
+            0,
+            -72.37505340000001
+          ],
+          [
+            0,
+            0,
+            1,
+            89.9999828
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 134,
+      "retained_occurrence": "o/14/1/10",
+      "specimen_occurrence": "o/10",
+      "exact_pose": {
+        "id": "o/14/1/10",
+        "part": "3020",
+        "color": 484,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            219.9998188
+          ],
+          [
+            0,
+            1,
+            0,
+            -80.37503400000001
+          ],
+          [
+            0,
+            0,
+            1,
+            79.9999988
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 164,
+      "retained_occurrence": "o/14/1/11",
+      "specimen_occurrence": "o/11",
+      "exact_pose": {
+        "id": "o/14/1/11",
+        "part": "3022",
+        "color": 0,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            359.9998808
+          ],
+          [
+            0,
+            1,
+            0,
+            -80.37503400000001
+          ],
+          [
+            0,
+            0,
+            1,
+            79.999969
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 107,
+      "retained_occurrence": "o/14/2",
+      "specimen_occurrence": "o/12",
+      "exact_pose": {
+        "id": "o/14/2",
+        "part": "3460",
+        "color": 0,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            139.999808
+          ],
+          [
+            0,
+            1,
+            0,
+            -80.375022
+          ],
+          [
+            0,
+            0,
+            1,
+            49.999988
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 128,
+      "retained_occurrence": "o/14/3",
+      "specimen_occurrence": "o/13",
+      "exact_pose": {
+        "id": "o/14/3",
+        "part": "3460",
+        "color": 0,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            139.99982
+          ],
+          [
+            0,
+            1,
+            0,
+            -80.37505780000001
+          ],
+          [
+            0,
+            0,
+            1,
+            110.00000240000001
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 152,
+      "retained_occurrence": "o/14/4",
+      "specimen_occurrence": "o/14",
+      "exact_pose": {
+        "id": "o/14/4",
+        "part": "18671",
+        "color": 71,
+        "module": "",
+        "matrix": [
+          [
+            3.3e-07,
+            0,
+            1,
+            69.9998
+          ],
+          [
+            0,
+            1,
+            0,
+            -72.3750168
+          ],
+          [
+            -1,
+            0,
+            3.3e-07,
+            60.0000334
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 162,
+      "retained_occurrence": "o/14/5",
+      "specimen_occurrence": "o/15",
+      "exact_pose": {
+        "id": "o/14/5",
+        "part": "18671",
+        "color": 71,
+        "module": "",
+        "matrix": [
+          [
+            3.3e-07,
+            0,
+            1,
+            69.9998238
+          ],
+          [
+            0,
+            1,
+            0,
+            -72.3750526
+          ],
+          [
+            -1,
+            0,
+            3.3e-07,
+            100.000016
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    },
+    {
+      "piece_id": 113,
+      "retained_occurrence": "o/14/6",
+      "specimen_occurrence": "o/16",
+      "exact_pose": {
+        "id": "o/14/6",
+        "part": "3022",
+        "color": 0,
+        "module": "",
+        "matrix": [
+          [
+            1,
+            0,
+            0,
+            79.99979619999999
+          ],
+          [
+            0,
+            1,
+            0,
+            -80.37503400000001
+          ],
+          [
+            0,
+            0,
+            1,
+            80.00000480000001
+          ],
+          [
+            0,
+            0,
+            0,
+            1
+          ]
+        ]
+      }
+    }
+  ],
+  "specimen_source_sha256": "fda64f7241741e40f52ca65f6778bef4d7c10ca69c02829f1be7429cfb026a03",
+  "imported_assembly_sha256": "d5323e2a21515c39590f4aacf038714ac682fb0325ecd6ddd5e0aa7eb55c2ff1",
+  "import_report_sha256": "22fbe2f26388bfdb6b7b91b4681eca111c7d047f061a489df2ee34f55405ed1c",
+  "plan_sha256": "1408f3f664ee938a78de7da8315e112934c602fb372430529edb9badf82f2b34",
+  "presentation_sha256": "591c228c02b1009ece547c7e6f74f1ed7b0d11677497838f999d772051621b86",
+  "expected_cumulative": [
+    13,
+    15,
+    16
+  ],
+  "expected_new_count": 5,
+  "limits": [
+    "Reimported 16-occurrence specimen with fresh matching provenance.",
+    "Eleven context pieces after original operation 6 are an explicit starting state, not a replacement construction recipe.",
+    "Only retained operations 7\u20139 are composed. No whole 199-operation/68-step manual claim.",
+    "Legacy top labels do not establish signed physical motion. Movement remains unknown with explicit installed omission."
+  ]
+}

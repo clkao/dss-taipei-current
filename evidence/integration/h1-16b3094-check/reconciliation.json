@@ -1,0 +1,38 @@
+{
+  "ordered_intermediate_ids": [
+    "legacy-op-007",
+    "legacy-op-008",
+    "legacy-op-009"
+  ],
+  "cumulative_counts": [
+    13,
+    15,
+    16
+  ],
+  "new_counts": [
+    2,
+    2,
+    1
+  ],
+  "composed_main_steps": 1,
+  "starting_context_count": 11,
+  "composed_tray": [
+    {
+      "part": "18671",
+      "color": 71,
+      "quantity": 2
+    },
+    {
+      "part": "3022",
+      "color": 0,
+      "quantity": 1
+    },
+    {
+      "part": "3460",
+      "color": 0,
+      "quantity": 2
+    }
+  ],
+  "rendering": "not requested: check-only",
+  "all_detail_hints_omitted": true
+}

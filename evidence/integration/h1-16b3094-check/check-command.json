@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/studfleet",
+    "draft",
+    "--assembly",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/dss-input/intake/assembly.json",
+    "--provenance",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/dss-input/intake/import-report.json",
+    "--plan",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/dss-input/plan.json",
+    "--presentation",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/dss-input/presentation.json",
+    "--check-only"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps",
+  "exit_code": 0,
+  "halt": "",
+  "peak_owned_bytes": 8815,
+  "minimum_free_bytes": 3766226944,
+  "elapsed_seconds": 0.11341791599988937
+}
