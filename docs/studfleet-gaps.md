@@ -188,3 +188,9 @@ FO notice22890108-29ff-4dbe-838d-5b24eda303d5 reports90 design approved and impl
 The authorized H1 helper retry passed on the unchanged package:13/15/16 states, five-part tray, Ordered details action and exact Finished step returns. No HTTP requests or page errors occurred. H1 now has bounded PDF/headless evidence. No section acceptance or full-manual parity is claimed. Next priority is90.
 
 FO notice742924a2-ba37-4434-a93c-7b8b8f6801c6 reports W4 locally merged at34064f05e60b973df6184098acea2aea8a4d0695 and archived done. Existing DSS evidence7c29bb4 applies to the same ea886884 binary. No merge-ID-only retest ran. TW, connector and W4 keep separate exact binary pins until a combined build arrives. Broader7d/cn holds remain.
+
+### Supplied-unit early handoff and H1 verification hold
+
+[90 preparation](../evidence/integration/supplied-dd6588c-preparation/README.md) is read-only. The early package manifest differs from its advertised hash while producer artifact work remains active. A frozen handoff is required before package identity claims. No DSS CLI probe ran. Membership intent is8+8 supplied with2 later accessories; original198 sequence/context still needs explicit reconciliation for full section adoption.
+
+FO notice29bf6d4e-4bd7-43cf-8bbf-14ef7f2ac901 reports H1 verification accepted false overview-Approach metadata in an independent negative control. Upstream AC3 repair is pending. Positive DSS PDF/navigation evidence remains provisional and does not cover that refusal. Next: frozen90 probe, then exact H1 fix feedback when supplied.

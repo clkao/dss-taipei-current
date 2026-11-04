@@ -1,0 +1,10 @@
+{
+  "trigger": "Read-only early-handoff file hash audit",
+  "expected_manifest_sha256": "0c440c4a8a71ba38cd153b1740b9df489d30a2495f76e37f6596e4d8de91625d",
+  "observed_manifest_sha256": "1280c3e5d5c270d99bf33498c4ac740639785555376d371adee21a0f153611c3",
+  "materiality": "Cannot bind current package to advertised early snapshot; no product defect established",
+  "owner": "StudFleet supplied-unit handoff producer",
+  "proposed_disposition": "Provide frozen or refreshed handoff and distinguish changing artifact-only files from authoring/source changes",
+  "cli_executed": false,
+  "correction_made": false
+}
