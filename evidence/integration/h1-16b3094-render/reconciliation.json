@@ -1,0 +1,26 @@
+{
+  "input_bytes_unchanged": true,
+  "cumulative": [
+    11,
+    13,
+    15,
+    16
+  ],
+  "new_tray_quantity": 5,
+  "total_stock": 16,
+  "hashes": {
+    "instructions.pdf": "8f637e9bc9fe649c80e8852bd6aab91158dbd1dfc26c03df9ffdb3cfce02946e",
+    "viewer.html": "d3a447687a2b49c0f5f4ffc4fb03e03f1dfb4d366b72e4e4202ef3aea9a089af",
+    "manifest.json": "7209e42a73028d0628e2691dc28254e36d012c72c7381fb5729474ade83900a9",
+    "runtime.json": "3aef3826b5d1e1b8a974070303a23c4c076c81e5555fa9f457455770f3e99838",
+    "assembly.json": "d5323e2a21515c39590f4aacf038714ac682fb0325ecd6ddd5e0aa7eb55c2ff1",
+    "plan.json": "1408f3f664ee938a78de7da8315e112934c602fb372430529edb9badf82f2b34",
+    "presentation.json": "591c228c02b1009ece547c7e6f74f1ed7b0d11677497838f999d772051621b86",
+    "import-report.json": "22fbe2f26388bfdb6b7b91b4681eca111c7d047f061a489df2ee34f55405ed1c"
+  },
+  "runtime": {
+    "node": "v24.22.1",
+    "browser": "156.0.8078.80",
+    "playwright": "1.58.2"
+  }
+}

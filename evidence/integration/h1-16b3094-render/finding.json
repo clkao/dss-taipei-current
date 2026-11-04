@@ -1,0 +1,10 @@
+{
+  "trigger": "first composed installed detail, #approach disabled assertion",
+  "observed": "isDisabled false; actual label not captured in failed browser run",
+  "source_review": "Composed #approach label Ordered details; handler scrolls details; ordinary unknown omitted steps retain disabled approach",
+  "materiality": "obsolete DOM-ID assumption in DSS harness, no demonstrated product defect",
+  "owner": "DSS evidence helper",
+  "authorization": "1b55312a-326f-4603-b473-2ec604456c34",
+  "correction_status": "prepared only; navigation retry awaits explicit browser lease",
+  "package_changes": false
+}

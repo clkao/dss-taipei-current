@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "pdftoppm",
+    "-scale-to",
+    "1123",
+    "-png",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/h1-16b3094-render/package/instructions.pdf",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/h1-16b3094-render/pdf"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps",
+  "environment_overrides": {
+    "TMPDIR": "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/h1-16b3094-render/tmp",
+    "XDG_CACHE_HOME": "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/h1-16b3094-render/cache",
+    "PATH": "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin:/opt/homebrew/Caskroom/codex/0.166.0/codex-path:/Users/clkao/.local/state/fnm_multishells/42577_1793766571505/bin:/Users/clkao/.bun/bin:/Users/clkao/go/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Library/Apple/usr/bin:/Library/TeX/texbin:/Applications/quarto/bin:/Users/clkao/.codex/tmp/arg0-macos/codex-arg0UblqWU:/opt/homebrew/Caskroom/codex/0.166.0/codex-path:/Users/clkao/.local/state/fnm_multishells/35690_1793766501990/bin:/Users/clkao/.bun/bin:/Users/clkao/go/bin:/Users/clkao/.local/bin:/opt/homebrew/bin:/opt/homebrew/sbin"
+  },
+  "exit_code": 0,
+  "halt": "",
+  "peak_owned_bytes": 10147678,
+  "minimum_free_bytes": 2703548416,
+  "elapsed_seconds": 1.0218663336709142
+}
