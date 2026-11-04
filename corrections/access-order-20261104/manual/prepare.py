@@ -63,7 +63,10 @@ for g in c['reader_groups']:
    if o['id'] in ['legacy-035j','legacy-049j1','legacy-049j2','legacy-057j1','legacy-057j2','legacy-050','legacy-058']:
     receiver=sorted(set(shown)-set(new));before=copy.deepcopy(frame)
     before.update(number=len(frames)+1,title='Locate the receiving structure',note='Keep the completed '+o['child'].replace('-',' ')+' separate. Locate the mating surfaces shown here; the next panel shows the installed result. No insertion path is certified.',ids=[],shown_ids=receiver,kind='receiver-context',child=None,awaiting_child=o['child'])
-    before['image']=render(f'images/receiver-{o["id"]}',receiver,[],view,a.get('bands_installed',False));frames.append(before)
+    if o['id']=='legacy-035j':before['view']='underside'
+    if o['id'] in ['legacy-049j1','legacy-049j2']:before['view']='front'
+    if o['id'] in ['legacy-057j1','legacy-057j2']:before['view']='front-other'
+    before['image']=render(f'images/receiver-{o["id"]}',receiver,[],before['view'],a.get('bands_installed',False));frames.append(before)
    frame['number']=len(frames)+1
    frame['image']=render(f'images/corrected-{s["number"]:03}-{index:02}',shown,new,view,a.get('bands_installed',False));frames.append(frame)
    bindings.append(dict(step=s['number'],frame=frame['number'],operation=o['id'],receiver_before=sorted(set(shown)-set(new)),new=new,after=shown,kind=o['kind'],child=o.get('child'),image=frame['image']))
