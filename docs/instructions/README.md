@@ -100,6 +100,21 @@ Retain the accepted local edition, or the explicitly historical legacy delivery.
 - **Checks.** On each material LEGO candidate and independently at review, use shared catalog import/inspect/preview. Request `--connectivity pyldraw3` with pinned archive, Shadow and Python. Diagnose unmatched/potential contacts and use local pair controls. Connectivity, collision, insertion, manufacturing and physical strength are distinct. A reference-only revision needs no LEGO checks.
 - **Tool boundaries.** Shared fixes stay in StudFleet docs/dev. The old modified binary only proves the commands actually exercised. Eleven construction profiles covering seven of 87 part types do not imply the other 80 lack catalog render or connector metadata. Technic exceeds the connector backend's 500-occurrence cap.
 
+## Assembly access and reader sequence
+
+Community feedback from 彭柏源 identified late pin installation at legacy step 5 and blocked bumper access at step 13. Treat these as instruction defects until the corrected sequence is demonstrated. Retain the original feedback and exact affected package.
+
+- Check each installation against the parts already installed, not only the final model. Contact, inventory and final-pose checks do not prove insertion access.
+- Install captive pins before closing the surrounding frame. Defer dishes, covers and trim that block later mating surfaces or the necessary insertion path.
+- Distinguish an impossible installation without removal from an installation that is merely difficult to handle. Record the obstruction, affected parts, prior state and proposed order. Do not claim physical clearance from a plausible picture.
+- Preserve dependencies when grouping operations. A shared region or short part list does not make operations simultaneous. Show ordered intermediate panels when installation order matters; otherwise split the reader step.
+- Show the receiving structure and attachment points in every required panel. Review actual rendered images, not just cumulative counts or authored selections. New-part emphasis must not hide the previously built structure.
+- Prefer a sequence that avoids removal. If removal is necessary, show removal and reinstallation explicitly, with correct inventory ownership; never leave that work implicit.
+- After an access failure, inspect analogous closures and repeated copies. Record confirmed defects separately from suspected access or handling problems. Unknown motion stays unknown.
+- Review the corrected transition with exact entry/new/exit parts and original operation mappings. Check unchanged final geometry and unique part introductions, then inspect the actual panels and perform a physical or supported insertion exercise for any claimed clearance. Reader acceptance remains open until the exact correction is reviewed.
+
+These rules govern both original authoring and migrated editions. Fewer pages, preserved source operations and successful export do not establish a usable construction sequence.
+
 ## Workflow State
 
 State uses the orphan branch `spacedock-state/instructions` in this repository, mounted at `docs/instructions/.spacedock-state`.
