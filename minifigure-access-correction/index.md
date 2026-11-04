@@ -343,3 +343,13 @@ Candidate: builds/access-corrected-r2, source67d14d5; retained published d14e4df
 ### Summary
 
 PASSED for the three authorized digital corrections, supported by independent inspection of all 138 pages/eight screenshots and bounded source/hash review. The inherited label discrepancy is a recorded polish follow-up; physical exercises, independent native UI acceptance and full-edition parity remain unfulfilled. Publication disposition belongs to the first officer under the captain's existing authority.
+
+## R2 actual publication record
+
+Parent completed the authorized R2 transport after Epicurus instruction-review cycle 3 PASSED the digital scope. Source merge `8b517d8`; gh-pages `244eda13a5c64c46ad8a7081be7151e0b5e775be`, with prior `d14e4df` retained in history. The exact 28-file map was checked against candidate and prior target hashes; only 13 changed files were copied. Technic and unrelated assets remain unchanged.
+
+Parent verified Pages status `built`, error null, updated `2026-11-04T21:06:12Z`, for this exact commit. Live GETs with `?revision=244eda1` for index, viewer, PDF, manifest and ZIP all returned HTTP200 and matched the eight-pin reviewed package above: index f485d4df (5,240,530 bytes), viewer8c6b1608 (5,240,052), PDFb69ae67b (6,446,427), manifest70ebd241 (2,772), ZIP76f2f8ae (14,878,889). Full SHA256s and response URLs are in source commit `b8ad744`, `corrections/access-order-20261104/manual/evidence/r2/r2-release-record.json`; readable record `manual/R2-RELEASE.md`. Original RELEASE.md is preserved.
+
+Authority is the captain's R2 “proceed” and earlier “looks good. fix the text issue you mentioned. and publish. credit the bug report in instruction feedback on the website”. Installed-band visibility, common two-copy lower bases, and group11 root/local overview regressions are closed digitally under the independent review. The inherited part3666 verbal size mismatch remains a separate DSS label-metadata FOLLOW-UP. Credit, rights and Technic acknowledgement are preserved.
+
+Live byte verification does not establish independent native interaction. Formal AC2 physical/supported continuous insertion and AC4 independent native main/local/copy-return exercises remain UNPROVEN. Sweep/witness limits, shared-gap and full-edition parity limits remain. No all-AC pass or physical certification is recorded. This worker made only durable source/report records; no package generation, tests, publication push, status or gate mutation.
