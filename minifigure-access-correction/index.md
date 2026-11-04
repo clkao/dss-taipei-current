@@ -231,3 +231,23 @@ The requested four-page text polish is authored, verified and packaged. Previous
 ### Summary
 
 The same reviewer confirmed the narrow glyph correction on all four affected pages and independently bound the final package hashes. Recommend publication of this corrected digital manual under the captain's existing instruction, with the previously recorded physical/insertion and live-UI evidence limits preserved; no owned runtime resources remain.
+
+## Actual publication record — corrected digital manual
+
+The parent published the exact reviewed corrected digital package under the captain's instruction: “looks good. fix the text issue you mentioned. and publish. credit the bug report in instruction feedback on the website”. Epicurus's instruction-review cycle2 recommended this scoped digital publication after closing F1. This is an actual transport record, not retrospective completion of every acceptance criterion.
+
+Source merged/pushed on main `342cfd4`; publication commit `d14e4df6047169030836ad33630fd023d09a16d5` pushed to gh-pages. Prior `80942bbb` remains in history. Parent reports exact28-file hash-checked copy allowlist; Technic and unrelated publication content unchanged. Durable release record source commit `fa87e5f`, `corrections/access-order-20261104/manual/RELEASE.md` and `manual/evidence/release-record.json`.
+
+Parent verified Pages build `built` for exact publication commit, error null, updated `2026-11-04T19:48:26Z`. Live GETs at `https://clkao.github.io/dss-taipei-current/` with `?revision=d14e4df` returned HTTP200 and matched reviewed bytes:
+
+- index.html: 4,937,313 bytes; SHA256 `593cd6bf008e855abce295443d2a54350a50551c248aff524381f987319c88f8`.
+- viewer.html: 4,936,835 bytes; SHA256 `9cc62a26a080d240634d0d2d9d446a788c1ce9750b12033e4cfc10a09441ac90`.
+- instructions.pdf: 6,564,491 bytes; SHA256 `e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da`.
+- package-manifest.json: 2,772 bytes; SHA256 `06b1fe09b521352e0a2b37ef7fd952208b7f0af22bd89b027173833627cae8ba`.
+- release.zip: 14,508,187 bytes; SHA256 `3ed8b0f7d7dda3f8c08462187368bf3c325d7167c0eb2cb74d5b1c966ed283fa`.
+
+Reviewed page map SHA256 `83832334205fcca3022e138c8d12b69811f789e756998dad51a7527d6c3881f0` and equivalence SHA256 `5ff236c095aadcf2ac5f497f31ccb37b3486cd25a4b60df5917a52f4dca7fba3` remain bound in the source/file map; no separate liveGET for them is claimed. Website Instruction feedback credits 彭柏源 without invented endorsement; original rights and Technic links remain.
+
+Formal AC2 physical or supported insertion exercises remain **UNPROVEN**. Formal AC4 independent live main/local/receiver/copy-return UI navigation remains **UNPROVEN** because the reviewer browser host was unavailable. Live byte hashes do not supply that missing UI evidence. Independent all142-page review, author67/52 headless checks and captain preview are separate evidence. Whole-carrier witness and sweep limits remain recorded; no all-AC pass, full physical certification, shared StudFleet gap closure or full-edition parity follows from publication.
+
+This worker only recorded the parent's transport/live verification. No regeneration, package change, publication push, repeated network test or status/gate/adoption mutation was performed for this release record.
