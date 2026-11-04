@@ -1,0 +1,2958 @@
+{
+  "compiled_plan": {
+    "supplied_copies": {
+      "candidate-copy": {
+        "unit": "candidate",
+        "copy": {
+          "id": "candidate-copy",
+          "transform": [
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "occurrences": {
+            "member-1": "o/1",
+            "member-2": "o/2",
+            "member-3": "o/3",
+            "member-4": "o/4",
+            "member-5": "o/5",
+            "member-6": "o/6",
+            "member-7": "o/7",
+            "member-8": "o/8"
+          }
+        },
+        "supply": {
+          "kind": "assembled",
+          "available_before": "collect-candidate"
+        }
+      },
+      "tsai-copy": {
+        "unit": "tsai",
+        "copy": {
+          "id": "tsai-copy",
+          "transform": [
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "occurrences": {
+            "member-1": "o/9",
+            "member-2": "o/10",
+            "member-3": "o/11",
+            "member-4": "o/12",
+            "member-5": "o/13",
+            "member-6": "o/14",
+            "member-7": "o/15",
+            "member-8": "o/16"
+          }
+        },
+        "supply": {
+          "kind": "assembled",
+          "available_before": "collect-tsai"
+        }
+      }
+    },
+    "occurrence_supplies": {
+      "o/1": "candidate-copy",
+      "o/10": "tsai-copy",
+      "o/11": "tsai-copy",
+      "o/12": "tsai-copy",
+      "o/13": "tsai-copy",
+      "o/14": "tsai-copy",
+      "o/15": "tsai-copy",
+      "o/16": "tsai-copy",
+      "o/2": "candidate-copy",
+      "o/3": "candidate-copy",
+      "o/4": "candidate-copy",
+      "o/5": "candidate-copy",
+      "o/6": "candidate-copy",
+      "o/7": "candidate-copy",
+      "o/8": "candidate-copy",
+      "o/9": "tsai-copy"
+    },
+    "supply_stock": {
+      "attach-banner": {
+        "released": [
+          "candidate-copy",
+          "tsai-copy"
+        ],
+        "used": [
+          "candidate-copy",
+          "tsai-copy"
+        ],
+        "remaining": []
+      },
+      "collect-candidate": {
+        "released": [
+          "candidate-copy"
+        ],
+        "used": [
+          "candidate-copy"
+        ],
+        "remaining": []
+      },
+      "collect-tsai": {
+        "released": [
+          "candidate-copy",
+          "tsai-copy"
+        ],
+        "used": [
+          "candidate-copy",
+          "tsai-copy"
+        ],
+        "remaining": []
+      }
+    },
+    "schema": "studfleet/compiled-1",
+    "revision": "0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21",
+    "assembly_sha256": "19bdb995044399694332a79353cec0f82d66074bfd04f2df26604d1d45b9e608",
+    "plan_sha256": "8aca21e68d422c291e6868f58ac6cc2237d20b2feff4114a23156c80a96c886e",
+    "steps": [
+      {
+        "inventory": [
+          {
+            "part": "3626cp87",
+            "color": 14,
+            "quantity": 1
+          },
+          {
+            "part": "3815c01",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3818",
+            "color": 272,
+            "quantity": 1
+          },
+          {
+            "part": "3819",
+            "color": 272,
+            "quantity": 1
+          },
+          {
+            "part": "3820",
+            "color": 14,
+            "quantity": 2
+          },
+          {
+            "part": "973p5i",
+            "color": 15,
+            "quantity": 1
+          },
+          {
+            "part": "98385",
+            "color": 0,
+            "quantity": 1
+          }
+        ],
+        "id": "collect-candidate",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "collect-candidate"
+        ],
+        "new": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8"
+        ],
+        "operations": [
+          {
+            "caption": "Use the supplied assembled candidate minifigure. Keep it beside the vehicle until the final scene.",
+            "depends": null,
+            "id": "collect-candidate",
+            "introduce": null,
+            "join": "candidate-copy",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "3626cp87",
+            "color": 14,
+            "quantity": 1
+          },
+          {
+            "part": "3815c01",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3818",
+            "color": 71,
+            "quantity": 1
+          },
+          {
+            "part": "3819",
+            "color": 71,
+            "quantity": 1
+          },
+          {
+            "part": "3820",
+            "color": 14,
+            "quantity": 2
+          },
+          {
+            "part": "62711",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "973",
+            "color": 71,
+            "quantity": 1
+          }
+        ],
+        "id": "collect-tsai",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "collect-tsai"
+        ],
+        "new": [
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16",
+          "o/9"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16",
+          "o/9"
+        ],
+        "operations": [
+          {
+            "caption": "Use the supplied assembled 小英 figure. Keep it beside the vehicle.",
+            "depends": null,
+            "id": "collect-tsai",
+            "introduce": null,
+            "join": "tsai-copy",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "2335",
+            "color": 15,
+            "quantity": 1
+          },
+          {
+            "part": "30374",
+            "color": 15,
+            "quantity": 1
+          }
+        ],
+        "id": "attach-banner",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "attach-banner"
+        ],
+        "new": [
+          "o/17",
+          "o/18"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16",
+          "o/9",
+          "o/17",
+          "o/18"
+        ],
+        "operations": [
+          {
+            "caption": "Attach one bar and one two-sided speech-bubble banner. Apply the jacket decal and both banner decals: 叫你休息 / 講不聽. Final scene: Place the candidate at the helm. 小英 stands beside the vehicle. The optional cloth scarf adds no rigid part.",
+            "depends": [
+              "collect-tsai"
+            ],
+            "id": "attach-banner",
+            "introduce": [
+              "o/17",
+              "o/18"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      }
+    ],
+    "units": {
+      "candidate": [
+        {
+          "id": "member-1",
+          "part": "3815c01",
+          "color": 0,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              49
+            ],
+            [
+              0,
+              1,
+              0,
+              -184.3750672
+            ],
+            [
+              1,
+              0,
+              0,
+              80
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-2",
+          "part": "973p5i",
+          "color": 15,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              49
+            ],
+            [
+              0,
+              1,
+              0,
+              -216.3750672
+            ],
+            [
+              1,
+              0,
+              0,
+              80
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-3",
+          "part": "3818",
+          "color": 272,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              49
+            ],
+            [
+              0.17,
+              0.985,
+              0,
+              -207.3750672
+            ],
+            [
+              0.985,
+              -0.17,
+              0,
+              64.44800000000001
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-4",
+          "part": "3819",
+          "color": 272,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              49
+            ],
+            [
+              -0.17,
+              0.985,
+              0,
+              -207.3750672
+            ],
+            [
+              0.985,
+              0.17,
+              0,
+              95.55199999999999
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-5",
+          "part": "3820",
+          "color": 14,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              -0.707,
+              -0.707,
+              58.897999999999996
+            ],
+            [
+              0.17,
+              0.696,
+              -0.696,
+              -189.6010672
+            ],
+            [
+              0.985,
+              -0.12,
+              0.12,
+              56.31
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-6",
+          "part": "3820",
+          "color": 14,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              -0.707,
+              -0.707,
+              58.897999999999996
+            ],
+            [
+              -0.17,
+              0.696,
+              -0.696,
+              -189.6010672
+            ],
+            [
+              0.985,
+              0.12,
+              -0.12,
+              103.69
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-7",
+          "part": "3626cp87",
+          "color": 14,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              49
+            ],
+            [
+              0,
+              1,
+              0,
+              -240.3750672
+            ],
+            [
+              1,
+              0,
+              0,
+              80
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-8",
+          "part": "98385",
+          "color": 0,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              49
+            ],
+            [
+              0,
+              1,
+              0,
+              -240.3750672
+            ],
+            [
+              1,
+              0,
+              0,
+              80
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        }
+      ],
+      "tsai": [
+        {
+          "id": "member-1",
+          "part": "3815c01",
+          "color": 0,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              50
+            ],
+            [
+              0,
+              1,
+              0,
+              -40
+            ],
+            [
+              1,
+              0,
+              0,
+              -100
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-2",
+          "part": "973",
+          "color": 71,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              50
+            ],
+            [
+              0,
+              1,
+              0,
+              -72
+            ],
+            [
+              1,
+              0,
+              0,
+              -100
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-3",
+          "part": "3818",
+          "color": 71,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              50
+            ],
+            [
+              0.1700744238,
+              0.9854312205,
+              0,
+              -63
+            ],
+            [
+              0.9854312205,
+              -0.1700744238,
+              0,
+              -115.55199999999999
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-4",
+          "part": "3819",
+          "color": 71,
+          "module": "",
+          "matrix": [
+            [
+              -0.1460719895,
+              0.8463582923,
+              -0.5121919708,
+              50
+            ],
+            [
+              -0.0871107543,
+              0.504729959,
+              0.8588709944,
+              -63
+            ],
+            [
+              0.9854312205,
+              0.1700744238,
+              0,
+              -84.44800000000001
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-5",
+          "part": "3820",
+          "color": 14,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              -0.7071067812,
+              -0.7071067812,
+              59.897999999999996
+            ],
+            [
+              0.1699907021,
+              0.6968153131,
+              -0.6968153131,
+              -45.226
+            ],
+            [
+              0.9854456663,
+              -0.1202015782,
+              0.1202015782,
+              -123.69
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-6",
+          "part": "3820",
+          "color": 14,
+          "module": "",
+          "matrix": [
+            [
+              -0.1241572523,
+              0.2484727597,
+              -0.9606488767,
+              70.335249182
+            ],
+            [
+              0,
+              0.9681398059,
+              0.2504102958,
+              -62.397405012
+            ],
+            [
+              0.9922625543,
+              0.0310902542,
+              -0.1202015782,
+              -76.31
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-7",
+          "part": "3626cp87",
+          "color": 14,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              50
+            ],
+            [
+              0,
+              1,
+              0,
+              -96
+            ],
+            [
+              1,
+              0,
+              0,
+              -100
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "member-8",
+          "part": "62711",
+          "color": 0,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              50
+            ],
+            [
+              0,
+              1,
+              0,
+              -96
+            ],
+            [
+              1,
+              0,
+              0,
+              -100
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    "signatures": {
+      "candidate": "0b24b2e67eb860a29371d03bd2ece7fbcfc47f64d58d831183fe4c55dd8562e1",
+      "tsai": "e80b9b4a65ecf65f8d54a542f19941faa6e04eb72c98423de4428e4cf128ecc5"
+    },
+    "occurrence_operations": {
+      "o/17": "attach-banner",
+      "o/18": "attach-banner"
+    }
+  },
+  "exports": {
+    "inventory": "complete exact LDraw part/color quantities",
+    "purchasing": "unavailable",
+    "reason": "unmapped BrickLink lot 3815c01/0"
+  },
+  "inspection": {
+    "work": {
+      "supported_pair_visits": 0,
+      "connector_candidate_pairs": 0,
+      "candidate_connector_comparisons": 0,
+      "declared_sample_work": 0,
+      "total_units": 0,
+      "limit_units": 10000000,
+      "result_limit": 50000
+    },
+    "connector_status": "upstream connector analysis not requested",
+    "schema": "studfleet/inspection-1",
+    "assembly_sha256": "19bdb995044399694332a79353cec0f82d66074bfd04f2df26604d1d45b9e608",
+    "source_sha256": "8ebcc9326398b2e670186fc6f374743163887c3afc0d1b808081f56a2f429b69",
+    "provenance": "verified exact source and occurrence chain",
+    "capabilities": {
+      "schema": "studfleet/capabilities-1",
+      "tool": "studfleet/import-1;binary_sha256=e4fa38243ebbc1ec3d7e9c06801d2581491110a2b3232d7af1e9d421e1352a6d;vcs.revision=69a73d11c9781ae70badaf40388e0b871d13288f;vcs.modified=true",
+      "profile_sha256": "e69064b980b0630fe0dc1512994bf6f8b2e05be5590c018ae242b7d6a0b91829",
+      "expected_archive_sha256": "f3e496d0ede69ca7942fa4aa198e661ee2d22723906101e2e339d8917a4dd5f2",
+      "profiles": {
+        "3003": {
+          "width": 2,
+          "depth": 2,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            0,
+            322
+          ],
+          "part_sha256": "aed0ccd750126a58d38b012a4e8b16c172896339547c120ef67b69e1386f490d",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3003",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=24; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3004": {
+          "width": 2,
+          "depth": 1,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            47,
+            322
+          ],
+          "part_sha256": "e1caee3b32175393c9d6ea176a47f8869173a01d03a451e1cfe10d09167c0203",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3004",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=24; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3020": {
+          "width": 4,
+          "depth": 2,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70,
+            47
+          ],
+          "part_sha256": "551e433cc4bcfdeeb6e390e509d52ee2e62c90d3eae625ee36928ef32291bb79",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3020\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  2 x  4\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-16 {Roland Melkert} Initial info for 3020.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 4 C 2 20 20]\n"
+        },
+        "3022": {
+          "width": 2,
+          "depth": 2,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            47
+          ],
+          "part_sha256": "3cd09bfe626e751ad95eab0ea83e5f3adea81f05d34993a1c4bf432ee386fe25",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3022",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3023": {
+          "width": 2,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            47
+          ],
+          "part_sha256": "fa3eeab92b077488bae3dbc0fe974ef3327a77f130776d2965f13d3ebc22ab57",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3024": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "e053af4f232374b0c8da2dc0f9620bedf0576ca43d7c3ceebc6676050ae61da8",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3024\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  1 x  1\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-17 {Roland Melkert} Initial info for 3024.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0]\n"
+        },
+        "3031": {
+          "width": 4,
+          "depth": 4,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "e67436538e47cb38b8352e91c2b5b7c7c274e070912603e5e9fc0b4513962338",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3031\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  4 x  4\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-19 {Roland Melkert} Initial info for 3031.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 4 C 4 20 20]\n"
+        },
+        "3070b": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": false,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "c7608c7e9f40c61747fb46c7107ef141b0a441e381768d2cdac0129f8ad03752",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3070\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Tile  1 x  1 with Groove\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2014-02-08 {Roland Melkert} Initial info for 3070b.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0]\n"
+        },
+        "3710": {
+          "width": 4,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            47
+          ],
+          "part_sha256": "1a2d17e3e35750ccf02a54c7aee0cf7485c1c8596492746fc798d341399a3a6e",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3710",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "87087": {
+          "width": 1,
+          "depth": 1,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "0d170f4222bc555c4c0f85de872f3481715d4e2557a0359448d95352df1b2ac9",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=87087\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Brick  1 x  1 with Stud on 1 Side\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-15 {Roland Melkert} Initial info for 87087.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=0 24 0]\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 20] [pos=0 10 -14] [ori=1 0 0 0 0 1 0 -1 0]\n"
+        },
+        "98138": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": false,
+          "colors": [
+            322
+          ],
+          "part_sha256": "1d506f39ea2bf69757206009498025381bbf28d9fa0b79385a30f4c5fa37f111",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=98138",
+          "shadow": "Finite underside-only socket Y=8; no top studs; conservative 20 x 8 x 20 LDU square body."
+        }
+      },
+      "static_pose": "Exact proper orthogonal poses; conservative body and stud/socket profiles",
+      "render_support": "unverified: no archive resolved",
+      "default_import_limits": {
+        "bytes": 131072,
+        "definitions": 64,
+        "depth": 16,
+        "occurrences": 500,
+        "coordinate": 100000,
+        "deadline_ms": 2000
+      }
+    },
+    "total": 18,
+    "geometry_supported": 0,
+    "manufactured_color_witnessed": 0,
+    "findings": [
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/1"
+        ],
+        "message": "No reviewed conservative body profile for 3815c01",
+        "sources": [
+          {
+            "id": "o/1",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 3,
+                "reference": "3815c01.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/1"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/1",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 3,
+                "reference": "3815c01.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/2"
+        ],
+        "message": "No reviewed conservative body profile for 973p5i",
+        "sources": [
+          {
+            "id": "o/2",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 4,
+                "reference": "973p5i.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/2"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/2",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 4,
+                "reference": "973p5i.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/3"
+        ],
+        "message": "No reviewed conservative body profile for 3818",
+        "sources": [
+          {
+            "id": "o/3",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 5,
+                "reference": "3818.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/3"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/3",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 5,
+                "reference": "3818.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/3"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/3",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 5,
+                "reference": "3818.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/4"
+        ],
+        "message": "No reviewed conservative body profile for 3819",
+        "sources": [
+          {
+            "id": "o/4",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 6,
+                "reference": "3819.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/4"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/4",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 6,
+                "reference": "3819.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/4"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/4",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 6,
+                "reference": "3819.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/5"
+        ],
+        "message": "No reviewed conservative body profile for 3820",
+        "sources": [
+          {
+            "id": "o/5",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 7,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/5"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/5",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 7,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/5"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/5",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 7,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/6"
+        ],
+        "message": "No reviewed conservative body profile for 3820",
+        "sources": [
+          {
+            "id": "o/6",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 8,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/6"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/6",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 8,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/6"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/6",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 8,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/7"
+        ],
+        "message": "No reviewed conservative body profile for 3626cp87",
+        "sources": [
+          {
+            "id": "o/7",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 9,
+                "reference": "3626cp87.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/7"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/7",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 9,
+                "reference": "3626cp87.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/8"
+        ],
+        "message": "No reviewed conservative body profile for 98385",
+        "sources": [
+          {
+            "id": "o/8",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 10,
+                "reference": "98385.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/8"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/8",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 10,
+                "reference": "98385.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/9"
+        ],
+        "message": "No reviewed conservative body profile for 3815c01",
+        "sources": [
+          {
+            "id": "o/9",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 11,
+                "reference": "3815c01.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/9"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/9",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 11,
+                "reference": "3815c01.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/10"
+        ],
+        "message": "No reviewed conservative body profile for 973",
+        "sources": [
+          {
+            "id": "o/10",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 12,
+                "reference": "973.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/10"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/10",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 12,
+                "reference": "973.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/11"
+        ],
+        "message": "No reviewed conservative body profile for 3818",
+        "sources": [
+          {
+            "id": "o/11",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 13,
+                "reference": "3818.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/11"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/11",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 13,
+                "reference": "3818.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/11"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/11",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 13,
+                "reference": "3818.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/12"
+        ],
+        "message": "No reviewed conservative body profile for 3819",
+        "sources": [
+          {
+            "id": "o/12",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 14,
+                "reference": "3819.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/12"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/12",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 14,
+                "reference": "3819.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/12"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/12",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 14,
+                "reference": "3819.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/13"
+        ],
+        "message": "No reviewed conservative body profile for 3820",
+        "sources": [
+          {
+            "id": "o/13",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 15,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/13"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/13",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 15,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/13"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/13",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 15,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/14"
+        ],
+        "message": "No reviewed conservative body profile for 3820",
+        "sources": [
+          {
+            "id": "o/14",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 16,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/14"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/14",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 16,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/14"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/14",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 16,
+                "reference": "3820.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/15"
+        ],
+        "message": "No reviewed conservative body profile for 3626cp87",
+        "sources": [
+          {
+            "id": "o/15",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 17,
+                "reference": "3626cp87.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/15"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/15",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 17,
+                "reference": "3626cp87.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/16"
+        ],
+        "message": "No reviewed conservative body profile for 62711",
+        "sources": [
+          {
+            "id": "o/16",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 18,
+                "reference": "62711.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/16"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/16",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 18,
+                "reference": "62711.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/17"
+        ],
+        "message": "No reviewed conservative body profile for 30374",
+        "sources": [
+          {
+            "id": "o/17",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 19,
+                "reference": "30374.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/17"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/17",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 19,
+                "reference": "30374.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/17"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/17",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 19,
+                "reference": "30374.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/18"
+        ],
+        "message": "No reviewed conservative body profile for 2335",
+        "sources": [
+          {
+            "id": "o/18",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 20,
+                "reference": "2335.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/18"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/18",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 20,
+                "reference": "2335.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/pose",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "static geometry",
+        "occurrences": [
+          "o/18"
+        ],
+        "message": "Rigid pose preserved; static checks require exact orthogonal pose",
+        "sources": [
+          {
+            "id": "o/18",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 20,
+                "reference": "2335.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/admission",
+        "status": "pass",
+        "severity": "info",
+        "scope": "input",
+        "occurrences": null,
+        "message": "Finite proper rigid assembly; admission is not construction approval",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/pairs",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative body pairs",
+        "occurrences": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16",
+          "o/17",
+          "o/18"
+        ],
+        "message": "Body-pair checks not evaluated for pairs involving these occurrences",
+        "sources": [
+          {
+            "id": "o/1",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 3,
+                "reference": "3815c01.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 4,
+                "reference": "973p5i.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/3",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 5,
+                "reference": "3818.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/4",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 6,
+                "reference": "3819.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/5",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 7,
+                "reference": "3820.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/6",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 8,
+                "reference": "3820.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/7",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 9,
+                "reference": "3626cp87.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/8",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 10,
+                "reference": "98385.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/9",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 11,
+                "reference": "3815c01.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/10",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 12,
+                "reference": "973.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/11",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 13,
+                "reference": "3818.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/12",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 14,
+                "reference": "3819.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/13",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 15,
+                "reference": "3820.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/14",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 16,
+                "reference": "3820.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/15",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 17,
+                "reference": "3626cp87.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/16",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 18,
+                "reference": "62711.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/17",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 19,
+                "reference": "30374.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/18",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 20,
+                "reference": "2335.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/connections",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "local-profile connector graph",
+        "occurrences": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/9",
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16",
+          "o/17",
+          "o/18"
+        ],
+        "message": "Local-profile graph covers reviewed-profile occurrences only; shared-catalog graphs are reported separately when requested",
+        "sources": [
+          {
+            "id": "o/1",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 3,
+                "reference": "3815c01.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 4,
+                "reference": "973p5i.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/3",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 5,
+                "reference": "3818.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/4",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 6,
+                "reference": "3819.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/5",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 7,
+                "reference": "3820.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/6",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 8,
+                "reference": "3820.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/7",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 9,
+                "reference": "3626cp87.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/8",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 10,
+                "reference": "98385.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/9",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 11,
+                "reference": "3815c01.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/10",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 12,
+                "reference": "973.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/11",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 13,
+                "reference": "3818.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/12",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 14,
+                "reference": "3819.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/13",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 15,
+                "reference": "3820.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/14",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 16,
+                "reference": "3820.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/15",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 17,
+                "reference": "3626cp87.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/16",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 18,
+                "reference": "62711.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/17",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 19,
+                "reference": "30374.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/18",
+            "path": [
+              {
+                "definition": "supplied-figures.ldr",
+                "line": 20,
+                "reference": "2335.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/constraints",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "declared constraints",
+        "occurrences": null,
+        "message": "None supplied; no grounding claim",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/render",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "render geometry/material",
+        "occurrences": null,
+        "message": "Unverified until selected archive geometry and colors are resolved",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/insertion",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "ordering",
+        "occurrences": null,
+        "message": "Plan required; no insertion or ordering evidence",
+        "sources": []
+      }
+    ],
+    "connections": [],
+    "observed_components": [],
+    "unresolved": [
+      "o/1",
+      "o/2",
+      "o/3",
+      "o/4",
+      "o/5",
+      "o/6",
+      "o/7",
+      "o/8",
+      "o/9",
+      "o/10",
+      "o/11",
+      "o/12",
+      "o/13",
+      "o/14",
+      "o/15",
+      "o/16",
+      "o/17",
+      "o/18"
+    ],
+    "supported_body_bounds": null,
+    "required_failure": false,
+    "limits": [
+      "Conservative rectangular bodies exclude stud/socket engagement; 0.001 LDU contact tolerance.",
+      "Fine mesh interference, grip, stiffness, tipping and physical strength untested.",
+      "Supported body bounds are not complete render bounds."
+    ]
+  },
+  "instruction_frames": {
+    "reader_labels": {
+      "title": "DSS figures and banner",
+      "steps": {
+        "attach-banner": "Add the two-sided banner",
+        "collect-candidate": "Collect the candidate",
+        "collect-tsai": "Collect 小英"
+      },
+      "units": {
+        "candidate": "Candidate minifigure",
+        "tsai": "小英 figure"
+      },
+      "copies": {
+        "candidate-copy": "Candidate",
+        "tsai-copy": "小英"
+      }
+    },
+    "concise_text": true,
+    "step_guidance": {
+      "attach-banner": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit",
+        "camera": [
+          1,
+          -0.5,
+          -1
+        ]
+      },
+      "collect-candidate": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit",
+        "camera": [
+          1,
+          -0.5,
+          -1
+        ]
+      },
+      "collect-tsai": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit",
+        "camera": [
+          1,
+          -0.5,
+          -1
+        ]
+      }
+    },
+    "schema": "studfleet/instruction-frames-1",
+    "revision": "0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21",
+    "steps": [
+      {
+        "inventory": [
+          {
+            "part": "3626cp87",
+            "color": 14,
+            "quantity": 1
+          },
+          {
+            "part": "3815c01",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3818",
+            "color": 272,
+            "quantity": 1
+          },
+          {
+            "part": "3819",
+            "color": 272,
+            "quantity": 1
+          },
+          {
+            "part": "3820",
+            "color": 14,
+            "quantity": 2
+          },
+          {
+            "part": "973p5i",
+            "color": 15,
+            "quantity": 1
+          },
+          {
+            "part": "98385",
+            "color": 0,
+            "quantity": 1
+          }
+        ],
+        "id": "collect-candidate",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "collect-candidate"
+        ],
+        "new": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8"
+        ],
+        "operations": [
+          {
+            "caption": "Use the supplied assembled candidate minifigure. Keep it beside the vehicle until the final scene.",
+            "depends": null,
+            "id": "collect-candidate",
+            "introduce": null,
+            "join": "candidate-copy",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "3626cp87",
+            "color": 14,
+            "quantity": 1
+          },
+          {
+            "part": "3815c01",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3818",
+            "color": 71,
+            "quantity": 1
+          },
+          {
+            "part": "3819",
+            "color": 71,
+            "quantity": 1
+          },
+          {
+            "part": "3820",
+            "color": 14,
+            "quantity": 2
+          },
+          {
+            "part": "62711",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "973",
+            "color": 71,
+            "quantity": 1
+          }
+        ],
+        "id": "collect-tsai",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "collect-tsai"
+        ],
+        "new": [
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16",
+          "o/9"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16",
+          "o/9"
+        ],
+        "operations": [
+          {
+            "caption": "Use the supplied assembled 小英 figure. Keep it beside the vehicle.",
+            "depends": null,
+            "id": "collect-tsai",
+            "introduce": null,
+            "join": "tsai-copy",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "2335",
+            "color": 15,
+            "quantity": 1
+          },
+          {
+            "part": "30374",
+            "color": 15,
+            "quantity": 1
+          }
+        ],
+        "id": "attach-banner",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "attach-banner"
+        ],
+        "new": [
+          "o/17",
+          "o/18"
+        ],
+        "cumulative": [
+          "o/1",
+          "o/2",
+          "o/3",
+          "o/4",
+          "o/5",
+          "o/6",
+          "o/7",
+          "o/8",
+          "o/10",
+          "o/11",
+          "o/12",
+          "o/13",
+          "o/14",
+          "o/15",
+          "o/16",
+          "o/9",
+          "o/17",
+          "o/18"
+        ],
+        "operations": [
+          {
+            "caption": "Attach one bar and one two-sided speech-bubble banner. Apply the jacket decal and both banner decals: 叫你休息 / 講不聽. Final scene: Place the candidate at the helm. 小英 stands beside the vehicle. The optional cloth scarf adds no rigid part.",
+            "depends": [
+              "collect-tsai"
+            ],
+            "id": "attach-banner",
+            "introduce": [
+              "o/17",
+              "o/18"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      }
+    ],
+    "sources": {
+      "attach-banner": [
+        {
+          "id": "attach-banner",
+          "sha256": "83810bd36685eb8d71ab59f398839b3963435d25ebaa8b1afef0f4df8150f54b"
+        }
+      ],
+      "collect-candidate": [
+        {
+          "id": "collect-candidate",
+          "sha256": "52ddb8ef6dd3db64702b6485216db1666a8f848fa3ff112711521644d0e6464e"
+        }
+      ],
+      "collect-tsai": [
+        {
+          "id": "collect-tsai",
+          "sha256": "7afd85ca0fc937e9fdc91e64a156ebee08e074160a54f7606ff965ff8c990410"
+        }
+      ]
+    },
+    "compositions": {},
+    "views": {}
+  },
+  "inventory_csv": "revision,part,ldraw_color,quantity\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,2335,15,1\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,30374,15,1\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,3626cp87,14,2\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,3815c01,0,2\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,3818,272,1\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,3818,71,1\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,3819,272,1\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,3819,71,1\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,3820,14,4\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,62711,0,1\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,973,71,1\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,973p5i,15,1\n0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21,98385,0,1\n",
+  "status": {
+    "schema": "studfleet/draft-status-1",
+    "classification": "draft",
+    "label": "Draft — construction unverified",
+    "revision": "0a6cd338ffe496c3ded62845e6628e0aa577533b70c7ee90e1fe895af3802f21",
+    "structural_validity": true,
+    "construction": "unverified",
+    "rendering": "not requested: check-only",
+    "total_occurrences": 18,
+    "inspection_sha256": "88d81bcd7d1853205a1a2c3214ab7d755f5b8fa51c3c0ca0e7ca2f162be0e035",
+    "limits": [
+      "Body profiles cover 0/18 occurrences; required static findings present: false. upstream connector analysis not requested.",
+      "Insertion not checked; arrows are authored placement suggestions.",
+      "Physical strength and stability untested.",
+      "Static body/profile gaps and known findings are recorded in inspection.json; metadata contacts do not certify construction."
+    ]
+  }
+}

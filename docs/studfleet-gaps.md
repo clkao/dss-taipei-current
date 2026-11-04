@@ -198,3 +198,9 @@ FO notice29bf6d4e-4bd7-43cf-8bbf-14ef7f2ac901 reports H1 verification accepted f
 ### Frozen90 identity preparation
 
 The new frozen90 handoff passes read-only hashes, all18 exact source occurrences and8+8 supplied/2 accessory membership checks. Producer diagnosis links the old hash to an intentional negative-control window. Old failure evidence remains intact. Fresh same-binary import/check-only commands are prepared but unexecuted pending lease. This resolves the preparation identity hold, not compiler or section acceptance. H1 verification repair remains pending.
+
+### Frozen90 compiler increment
+
+[Independent fresh import/check-only](../evidence/integration/supplied-dd6588c-check/README.md) passes with exact frozen assembly/source and a new same-binary sidecar. Supplied ownership is8+8; only the2 later accessories have construction provenance. No fake local recipes exist. All18 inventory quantities and release/use stock boundaries reconcile. `90` now has independent compiler/stock evidence. No DSS artifact/browser check ran for this increment. Next: leased90 artifact feedback;198/decorations/330context and all section acceptance remain open.
+
+FO notice1b09f595-8dd2-4c79-aeab-08f36188454d reports H1 guard fix b0748c9/binaryb410 clears the metadata counterexample upstream. This is not a DSS retest or release claim. Current upstream live/human review remains held. W4 remains delivered locally.

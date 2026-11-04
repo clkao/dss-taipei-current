@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/studfleet",
+    "draft",
+    "--assembly",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-check/intake/assembly.json",
+    "--provenance",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/supplied-dd6588c-check/intake/import-report.json",
+    "--plan",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/plan.json",
+    "--presentation",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes/builds/supplied-unit-implementation/presentation.json",
+    "--check-only"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-collect-preassembled-units-without-building-recipes",
+  "exit_code": 0,
+  "halt": "",
+  "elapsed_total_seconds": 0.2429924588650465,
+  "peak_owned_bytes": 22370,
+  "minimum_free_bytes": 1514242048,
+  "owned_process_closed": true
+}

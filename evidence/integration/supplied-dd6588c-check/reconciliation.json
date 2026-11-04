@@ -1,0 +1,57 @@
+{
+  "supplied_member_counts": [
+    8,
+    8
+  ],
+  "only_constructed_accessories": [
+    "o/17",
+    "o/18"
+  ],
+  "no_local_recipe_frames": true,
+  "cumulative": [
+    8,
+    16,
+    18
+  ],
+  "all18_inventory_lots_exact": true,
+  "supply_stock": {
+    "attach-banner": {
+      "released": [
+        "candidate-copy",
+        "tsai-copy"
+      ],
+      "used": [
+        "candidate-copy",
+        "tsai-copy"
+      ],
+      "remaining": []
+    },
+    "collect-candidate": {
+      "released": [
+        "candidate-copy"
+      ],
+      "used": [
+        "candidate-copy"
+      ],
+      "remaining": []
+    },
+    "collect-tsai": {
+      "released": [
+        "candidate-copy",
+        "tsai-copy"
+      ],
+      "used": [
+        "candidate-copy",
+        "tsai-copy"
+      ],
+      "remaining": []
+    }
+  },
+  "rendering": "not requested: check-only",
+  "limits": [
+    "Body profiles cover 0/18 occurrences; required static findings present: false. upstream connector analysis not requested.",
+    "Insertion not checked; arrows are authored placement suggestions.",
+    "Physical strength and stability untested.",
+    "Static body/profile gaps and known findings are recorded in inspection.json; metadata contacts do not certify construction."
+  ]
+}

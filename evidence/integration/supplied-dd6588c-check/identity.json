@@ -1,0 +1,11 @@
+{
+  "binary_sha256": "e4fa38243ebbc1ec3d7e9c06801d2581491110a2b3232d7af1e9d421e1352a6d",
+  "frozen_handoff_sha256": "2b516efe26a1465369c112142db9abb2ae184826da37af04309a157131bdb14b",
+  "assembly_bytes_equal": true,
+  "source_bytes_equal": true,
+  "fresh_file_hashes": {
+    "source.mpd": "8ebcc9326398b2e670186fc6f374743163887c3afc0d1b808081f56a2f429b69",
+    "assembly.json": "19bdb995044399694332a79353cec0f82d66074bfd04f2df26604d1d45b9e608",
+    "import-report.json": "b04497edfcbc4027ee8feeb0721231c8d068c8b45f8a69b3dcf7611220345625"
+  }
+}
