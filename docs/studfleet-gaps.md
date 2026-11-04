@@ -172,3 +172,9 @@ Remaining priorities: w4 actual PDF/viewer validation awaits a render lease; h1 
 [H1 candidate16b3094](../evidence/integration/h1-16b3094-check/README.md) passes independent source audit and same-binary check-only. All16 occurrences match; step2 operations7-9 compose into one5-part reader step retaining13/15/16 intermediate states. Starting context after6 is explicitly out of scope. `h1` advances to DSS compiler compatibility; next are actual PDF/viewer checks, then90. A source filename handoff mismatch was reported and resolved in the DSS audit only.
 
 FO notice a6d2af2a-2e51-418a-a8cb-5986f4bafa41 reports the connector repair locally merged at a7558f660a26dcc5054dc1c6e61b090458d6eaf2 and archived done. Existing independent DSS evidence cebb011 applies to the same production mechanism. No merge-ID-only retest ran. Coverage/zero-confidence/physical limits remain unchanged.
+
+### Coordination update: artifact queue
+
+FO notice22890108-29ff-4dbe-838d-5b24eda303d5 reports90 design approved and implementation dispatched for18 exact supplied members. DSS has not tested that implementation. W4 independent validation is held on an unexplained headless-navigation timeout; this does not negate DSS bounded evidence or establish a product defect. H1 producer artifacts exist, but live-review AC4/5 holds remain.
+
+[H1 artifact invocation](../evidence/integration/h1-16b3094-check/artifact-invocation-prepared.json) is prepared, not executed. Read-only producer file hashes match its manifest; this is not CLI verification or visual acceptance. Await an explicit artifact lease, then complete H1 PDF/viewer checks;90 remains next. TW and connector remain delivered locally. No green source/compiler suite was repeated.

@@ -1,0 +1,44 @@
+{
+  "execution_status": "PREPARED ONLY; no artifact lease granted",
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps",
+  "binary_sha256": "a0c9cb64180ceeacf9f722510441cbaa2c5e4f2f5cbc7e7dd4d778353b962d23",
+  "producer_manifest_files_hash_match": true,
+  "producer_runtime": {
+    "node": "v24.22.1",
+    "browser": "156.0.8078.80",
+    "playwright": "1.58.2"
+  },
+  "producer_pdf_sha256": "729ba395b677eb1846cc6b3f4be652adbe1309be03f6244c5e1658e40c905173",
+  "producer_viewer_sha256": "d3a447687a2b49c0f5f4ffc4fb03e03f1dfb4d366b72e4e4202ef3aea9a089af",
+  "export_argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/studfleet",
+    "draft",
+    "--assembly",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/dss-input/intake/assembly.json",
+    "--provenance",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/dss-input/intake/import-report.json",
+    "--plan",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/dss-input/plan.json",
+    "--presentation",
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/dss-input/presentation.json",
+    "--ldraw",
+    "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/ldraw-complete.zip",
+    "--browser",
+    "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    "--out",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/h1-16b3094-render/package"
+  ],
+  "verify_argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-compose-main-model-operations-into-reader-steps/builds/main-composition-implementation/studfleet",
+    "verify",
+    "--out",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/h1-16b3094-render/package"
+  ],
+  "pending_checks": [
+    "Preflight exact binary/input/resource identities and fresh output under granted bounds",
+    "Export and independently verify without rerunning source/compiler suite",
+    "Inspect actual A4 PDF overview and all3 details with5-part tray",
+    "Exercise numbered intermediate states and Finished step return; neutral hints, captions, stock and draft limits",
+    "Keep headless, resident live, human and full-parity evidence distinct"
+  ]
+}
