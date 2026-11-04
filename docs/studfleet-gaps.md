@@ -146,3 +146,7 @@ These are DSS adoption priorities, not upstream workflow status changes.
 | Both | Before portable adoption | nk: reproducible tool/workflow package. |
 
 [Bounded TW render evidence](../evidence/integration/tw-95b67ce-render/README.md) advances tw from input checks to PDF/headless evidence, and strengthens 7d copy/tray/navigation evidence. Both packages verify; speaker exporter exit remains unknown after a DSS monitor failure. Neither task is declared closed. Main-anchor relocation, prefixes, full edition parity and human acceptance remain outstanding.
+
+### Reader-label increment
+
+[Candidate 3a6833b input checks](../evidence/integration/labels-3a6833b-check/README.md) pass on freshly imported speakers and rings. `w4` advances to DSS parser/compiler compatibility: authored labels survive and frame/copy/source semantics remain unchanged. Visual clutter removal and saved-package verification remain pending; no render lease was used. Next: bounded label rendering when authorized, then h1 and 90. Modeling priorities are unchanged.

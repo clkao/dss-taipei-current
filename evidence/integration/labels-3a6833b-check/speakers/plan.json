@@ -1,0 +1,170 @@
+{
+  "schema": "studfleet/plan-1",
+  "assembly_sha256": "b0f10112d9d023a456659c7deede00d2dbc2e50ef57c00475229273efcf5dccb",
+  "units": [
+    {
+      "id": "speakers",
+      "copies": [
+        {
+          "id": "speakers-1",
+          "transform": [
+            [
+              1,
+              0,
+              0,
+              200
+            ],
+            [
+              0,
+              1,
+              0,
+              -208.4
+            ],
+            [
+              0,
+              0,
+              1,
+              40
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "occurrences": {
+            "p1": "o/1/1/1",
+            "p2": "o/1/1/2",
+            "p3": "o/1/1/3",
+            "p4": "o/1/1/4",
+            "p5": "o/1/1/5",
+            "p6": "o/1/1/6"
+          }
+        },
+        {
+          "id": "speakers-2",
+          "transform": [
+            [
+              1,
+              0,
+              0,
+              200
+            ],
+            [
+              0,
+              1,
+              0,
+              -208.4
+            ],
+            [
+              0,
+              0,
+              1,
+              120
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "occurrences": {
+            "p1": "o/2/1/1",
+            "p2": "o/2/1/2",
+            "p3": "o/2/1/3",
+            "p4": "o/2/1/4",
+            "p5": "o/2/1/5",
+            "p6": "o/2/1/6"
+          }
+        }
+      ],
+      "groups": [
+        {
+          "id": "speakers-recipe",
+          "kind": "ordered",
+          "operations": [
+            {
+              "id": "legacy-op-165",
+              "introduce": [
+                "p1"
+              ],
+              "depends": [],
+              "seed": true,
+              "caption": "Speaker base plate",
+              "direction": [
+                0,
+                0,
+                0
+              ],
+              "distance": 0
+            },
+            {
+              "id": "legacy-op-166",
+              "introduce": [
+                "p2",
+                "p3"
+              ],
+              "depends": [
+                "legacy-op-165"
+              ],
+              "seed": false,
+              "caption": "Fit both side-stud bricks",
+              "movement": "unknown"
+            },
+            {
+              "id": "legacy-op-167",
+              "introduce": [
+                "p4",
+                "p5"
+              ],
+              "depends": [
+                "legacy-op-166"
+              ],
+              "seed": false,
+              "caption": "Fit both speaker cones",
+              "movement": "unknown"
+            },
+            {
+              "id": "legacy-op-168",
+              "introduce": [
+                "p6"
+              ],
+              "depends": [
+                "legacy-op-167"
+              ],
+              "seed": false,
+              "caption": "Fit the smooth top tile",
+              "movement": "unknown"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "speakers-placements",
+      "kind": "ordered",
+      "operations": [
+        {
+          "id": "legacy-op-169",
+          "join": "speakers-1",
+          "depends": [],
+          "movement": "unknown",
+          "caption": "Place completed speaker 1 of 2. Isolated specimen; vehicle support omitted."
+        },
+        {
+          "id": "legacy-op-174",
+          "join": "speakers-2",
+          "depends": [
+            "legacy-op-169"
+          ],
+          "movement": "unknown",
+          "caption": "Place completed speaker 2 of 2. Isolated specimen; vehicle support omitted."
+        }
+      ]
+    }
+  ]
+}

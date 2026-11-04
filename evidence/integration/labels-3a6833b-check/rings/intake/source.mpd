@@ -1,0 +1,44 @@
+0 FILE clkao-house.ldr
+0 DSS isolated rings scheduling compatibility specimen
+0 !LDRAW_ORG Model
+0 // MODULE ring-left
+1 16 80 -196.3750672 -4 1 0 0 0 1 0 0 0 1 assembly-ring-left.ldr
+0 STEP
+0 // MODULE ring-right
+1 16 80 -196.3750672 156 1 0 0 0 1 0 0 0 1 assembly-ring-right.ldr
+0 STEP
+0 NOFILE
+0 FILE assembly-ring-left.ldr
+0 House assembly ring-left
+0 !LDRAW_ORG Model
+0 // HOUSE_STEP 187 join
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 assembly-ring-left-unit.ldr
+0 NOFILE
+0 FILE assembly-ring-left-unit.ldr
+0 House assembly ring-left-unit
+0 !LDRAW_ORG Model
+0 // HOUSE_STEP 185 build
+0 // INSTANCE 15b14c71-f623-5b64-a425-08a63ef5ddad
+1 15 0 0 8 0 0 -1 1 0 0 0 -1 0 15712.dat
+0 STEP
+0 // HOUSE_STEP 186 build
+0 // INSTANCE ea0d63d1-5dda-5b5e-9270-268763358576
+1 4 0 0 0 0 0 -1 1 0 0 0 -1 0 30340.dat
+0 NOFILE
+0 FILE assembly-ring-right.ldr
+0 House assembly ring-right
+0 !LDRAW_ORG Model
+0 // HOUSE_STEP 190 join
+1 16 0 0 0 1 0 0 0 1 0 0 0 1 assembly-ring-right-unit.ldr
+0 NOFILE
+0 FILE assembly-ring-right-unit.ldr
+0 House assembly ring-right-unit
+0 !LDRAW_ORG Model
+0 // HOUSE_STEP 188 build
+0 // INSTANCE 234788fc-5452-572c-8595-82d92902a15c
+1 15 0 0 0 0 0 -1 -1 0 0 0 1 0 15712.dat
+0 STEP
+0 // HOUSE_STEP 189 build
+0 // INSTANCE e38ed6d8-cc57-51f9-ac67-c40f0b334427
+1 4 0 0 8 0 0 -1 -1 0 0 0 1 0 30340.dat
+0 NOFILE

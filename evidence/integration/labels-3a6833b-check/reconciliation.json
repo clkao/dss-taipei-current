@@ -1,0 +1,28 @@
+{
+  "speakers": {
+    "labels_retained": true,
+    "concise_text": true,
+    "unchanged_frame_fields": [
+      "copy_state",
+      "display_order",
+      "steps",
+      "sources",
+      "step_guidance"
+    ],
+    "occurrences": 12,
+    "rendering": "not requested: check-only"
+  },
+  "rings": {
+    "labels_retained": true,
+    "concise_text": true,
+    "unchanged_frame_fields": [
+      "copy_state",
+      "display_order",
+      "steps",
+      "sources",
+      "step_guidance"
+    ],
+    "occurrences": 4,
+    "rendering": "not requested: check-only"
+  }
+}

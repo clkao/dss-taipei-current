@@ -1,0 +1,3025 @@
+{
+  "compiled_plan": {
+    "schema": "studfleet/compiled-1",
+    "revision": "93cdb55e4c8b31f68caa68dc836a9377d9714a06537d299e2cb5ed2c8edc94b3",
+    "assembly_sha256": "b0f10112d9d023a456659c7deede00d2dbc2e50ef57c00475229273efcf5dccb",
+    "plan_sha256": "288136ebd456bd913fb346df6847e11bb1abe0391fa73e2e57fdaa73a0de76c1",
+    "steps": [
+      {
+        "inventory": [
+          {
+            "part": "3022",
+            "color": 0,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-165",
+        "unit": "speakers",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-165"
+        ],
+        "new": [
+          "p1"
+        ],
+        "cumulative": [
+          "p1"
+        ],
+        "operations": [
+          {
+            "id": "legacy-op-165",
+            "introduce": [
+              "p1"
+            ],
+            "join": "",
+            "depends": [],
+            "direction": [
+              0,
+              0,
+              0
+            ],
+            "distance": 0,
+            "seed": true,
+            "caption": "Speaker base plate",
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "speakers-1",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                40
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2",
+              "p3": "o/1/1/3",
+              "p4": "o/1/1/4",
+              "p5": "o/1/1/5",
+              "p6": "o/1/1/6"
+            }
+          },
+          {
+            "id": "speakers-2",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                120
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2",
+              "p3": "o/2/1/3",
+              "p4": "o/2/1/4",
+              "p5": "o/2/1/5",
+              "p6": "o/2/1/6"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "4070",
+            "color": 0,
+            "quantity": 2
+          }
+        ],
+        "id": "legacy-op-166",
+        "unit": "speakers",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-166"
+        ],
+        "new": [
+          "p2",
+          "p3"
+        ],
+        "cumulative": [
+          "p1",
+          "p2",
+          "p3"
+        ],
+        "operations": [
+          {
+            "caption": "Fit both side-stud bricks",
+            "depends": [
+              "legacy-op-165"
+            ],
+            "id": "legacy-op-166",
+            "introduce": [
+              "p2",
+              "p3"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "speakers-1",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                40
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2",
+              "p3": "o/1/1/3",
+              "p4": "o/1/1/4",
+              "p5": "o/1/1/5",
+              "p6": "o/1/1/6"
+            }
+          },
+          {
+            "id": "speakers-2",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                120
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2",
+              "p3": "o/2/1/3",
+              "p4": "o/2/1/4",
+              "p5": "o/2/1/5",
+              "p6": "o/2/1/6"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "6141",
+            "color": 72,
+            "quantity": 2
+          }
+        ],
+        "id": "legacy-op-167",
+        "unit": "speakers",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-167"
+        ],
+        "new": [
+          "p4",
+          "p5"
+        ],
+        "cumulative": [
+          "p1",
+          "p2",
+          "p3",
+          "p4",
+          "p5"
+        ],
+        "operations": [
+          {
+            "caption": "Fit both speaker cones",
+            "depends": [
+              "legacy-op-166"
+            ],
+            "id": "legacy-op-167",
+            "introduce": [
+              "p4",
+              "p5"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "speakers-1",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                40
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2",
+              "p3": "o/1/1/3",
+              "p4": "o/1/1/4",
+              "p5": "o/1/1/5",
+              "p6": "o/1/1/6"
+            }
+          },
+          {
+            "id": "speakers-2",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                120
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2",
+              "p3": "o/2/1/3",
+              "p4": "o/2/1/4",
+              "p5": "o/2/1/5",
+              "p6": "o/2/1/6"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "3068b",
+            "color": 0,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-168",
+        "unit": "speakers",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-168"
+        ],
+        "new": [
+          "p6"
+        ],
+        "cumulative": [
+          "p1",
+          "p2",
+          "p3",
+          "p4",
+          "p5",
+          "p6"
+        ],
+        "operations": [
+          {
+            "caption": "Fit the smooth top tile",
+            "depends": [
+              "legacy-op-167"
+            ],
+            "id": "legacy-op-168",
+            "introduce": [
+              "p6"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "speakers-1",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                40
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2",
+              "p3": "o/1/1/3",
+              "p4": "o/1/1/4",
+              "p5": "o/1/1/5",
+              "p6": "o/1/1/6"
+            }
+          },
+          {
+            "id": "speakers-2",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                120
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2",
+              "p3": "o/2/1/3",
+              "p4": "o/2/1/4",
+              "p5": "o/2/1/5",
+              "p6": "o/2/1/6"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "3022",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3068b",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "4070",
+            "color": 0,
+            "quantity": 2
+          },
+          {
+            "part": "6141",
+            "color": 72,
+            "quantity": 2
+          }
+        ],
+        "id": "legacy-op-169",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-169"
+        ],
+        "new": [
+          "o/1/1/1",
+          "o/1/1/2",
+          "o/1/1/3",
+          "o/1/1/4",
+          "o/1/1/5",
+          "o/1/1/6"
+        ],
+        "cumulative": [
+          "o/1/1/1",
+          "o/1/1/2",
+          "o/1/1/3",
+          "o/1/1/4",
+          "o/1/1/5",
+          "o/1/1/6"
+        ],
+        "operations": [
+          {
+            "caption": "Place completed speaker 1 of 2. Isolated specimen; vehicle support omitted.",
+            "depends": [],
+            "id": "legacy-op-169",
+            "introduce": null,
+            "join": "speakers-1",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "3022",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3068b",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "4070",
+            "color": 0,
+            "quantity": 2
+          },
+          {
+            "part": "6141",
+            "color": 72,
+            "quantity": 2
+          }
+        ],
+        "id": "legacy-op-174",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-174"
+        ],
+        "new": [
+          "o/2/1/1",
+          "o/2/1/2",
+          "o/2/1/3",
+          "o/2/1/4",
+          "o/2/1/5",
+          "o/2/1/6"
+        ],
+        "cumulative": [
+          "o/1/1/1",
+          "o/1/1/2",
+          "o/1/1/3",
+          "o/1/1/4",
+          "o/1/1/5",
+          "o/1/1/6",
+          "o/2/1/1",
+          "o/2/1/2",
+          "o/2/1/3",
+          "o/2/1/4",
+          "o/2/1/5",
+          "o/2/1/6"
+        ],
+        "operations": [
+          {
+            "caption": "Place completed speaker 2 of 2. Isolated specimen; vehicle support omitted.",
+            "depends": [
+              "legacy-op-169"
+            ],
+            "id": "legacy-op-174",
+            "introduce": null,
+            "join": "speakers-2",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      }
+    ],
+    "units": {
+      "speakers": [
+        {
+          "id": "p1",
+          "part": "3022",
+          "color": 0,
+          "module": "",
+          "matrix": [
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "p2",
+          "part": "4070",
+          "color": 0,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              -10
+            ],
+            [
+              0,
+              1,
+              0,
+              -24
+            ],
+            [
+              1,
+              0,
+              0,
+              -10
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "p3",
+          "part": "4070",
+          "color": 0,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              0,
+              -1,
+              -10
+            ],
+            [
+              0,
+              1,
+              0,
+              -24
+            ],
+            [
+              1,
+              0,
+              0,
+              10
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "p4",
+          "part": "6141",
+          "color": 72,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              -1,
+              0,
+              4
+            ],
+            [
+              0,
+              0,
+              -1,
+              -14
+            ],
+            [
+              1,
+              0,
+              0,
+              -10
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "p5",
+          "part": "6141",
+          "color": 72,
+          "module": "",
+          "matrix": [
+            [
+              0,
+              -1,
+              0,
+              4
+            ],
+            [
+              0,
+              0,
+              -1,
+              -14
+            ],
+            [
+              1,
+              0,
+              0,
+              10
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "p6",
+          "part": "3068b",
+          "color": 0,
+          "module": "",
+          "matrix": [
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              -32
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    "signatures": {
+      "speakers": "33b5e430f0b0033e0ef373560acb348cf146c9f860703ced429a13d1bf73dbd1"
+    },
+    "occurrence_operations": {
+      "o/1/1/1": "legacy-op-165",
+      "o/1/1/2": "legacy-op-166",
+      "o/1/1/3": "legacy-op-166",
+      "o/1/1/4": "legacy-op-167",
+      "o/1/1/5": "legacy-op-167",
+      "o/1/1/6": "legacy-op-168",
+      "o/2/1/1": "legacy-op-165",
+      "o/2/1/2": "legacy-op-166",
+      "o/2/1/3": "legacy-op-166",
+      "o/2/1/4": "legacy-op-167",
+      "o/2/1/5": "legacy-op-167",
+      "o/2/1/6": "legacy-op-168"
+    }
+  },
+  "exports": {
+    "inventory": "complete exact LDraw part/color quantities",
+    "purchasing": "unavailable",
+    "reason": "unmapped BrickLink lot 4070/0"
+  },
+  "inspection": {
+    "work": {
+      "supported_pair_visits": 1,
+      "connector_candidate_pairs": 0,
+      "candidate_connector_comparisons": 0,
+      "declared_sample_work": 0,
+      "total_units": 1,
+      "limit_units": 10000000,
+      "result_limit": 50000
+    },
+    "connector_status": "upstream connector analysis not requested",
+    "schema": "studfleet/inspection-1",
+    "assembly_sha256": "b0f10112d9d023a456659c7deede00d2dbc2e50ef57c00475229273efcf5dccb",
+    "source_sha256": "938027ec9ed24310e1431005fdf402387fdfe226b6739a75784cbd5a532de353",
+    "provenance": "verified exact source and occurrence chain",
+    "capabilities": {
+      "schema": "studfleet/capabilities-1",
+      "tool": "studfleet/import-1;binary_sha256=ea886884d0aa35eba57f85dc193090813c1d7a8a1599c58c0d00ec2312ba00a7",
+      "profile_sha256": "e69064b980b0630fe0dc1512994bf6f8b2e05be5590c018ae242b7d6a0b91829",
+      "expected_archive_sha256": "f3e496d0ede69ca7942fa4aa198e661ee2d22723906101e2e339d8917a4dd5f2",
+      "profiles": {
+        "3003": {
+          "width": 2,
+          "depth": 2,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            0,
+            322
+          ],
+          "part_sha256": "aed0ccd750126a58d38b012a4e8b16c172896339547c120ef67b69e1386f490d",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3003",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=24; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3004": {
+          "width": 2,
+          "depth": 1,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            47,
+            322
+          ],
+          "part_sha256": "e1caee3b32175393c9d6ea176a47f8869173a01d03a451e1cfe10d09167c0203",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3004",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=24; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3020": {
+          "width": 4,
+          "depth": 2,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70,
+            47
+          ],
+          "part_sha256": "551e433cc4bcfdeeb6e390e509d52ee2e62c90d3eae625ee36928ef32291bb79",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3020\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  2 x  4\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-16 {Roland Melkert} Initial info for 3020.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 4 C 2 20 20]\n"
+        },
+        "3022": {
+          "width": 2,
+          "depth": 2,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            47
+          ],
+          "part_sha256": "3cd09bfe626e751ad95eab0ea83e5f3adea81f05d34993a1c4bf432ee386fe25",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3022",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3023": {
+          "width": 2,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            47
+          ],
+          "part_sha256": "fa3eeab92b077488bae3dbc0fe974ef3327a77f130776d2965f13d3ebc22ab57",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3024": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "e053af4f232374b0c8da2dc0f9620bedf0576ca43d7c3ceebc6676050ae61da8",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3024\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  1 x  1\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-17 {Roland Melkert} Initial info for 3024.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0]\n"
+        },
+        "3031": {
+          "width": 4,
+          "depth": 4,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "e67436538e47cb38b8352e91c2b5b7c7c274e070912603e5e9fc0b4513962338",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3031\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  4 x  4\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-19 {Roland Melkert} Initial info for 3031.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 4 C 4 20 20]\n"
+        },
+        "3070b": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": false,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "c7608c7e9f40c61747fb46c7107ef141b0a441e381768d2cdac0129f8ad03752",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3070\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Tile  1 x  1 with Groove\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2014-02-08 {Roland Melkert} Initial info for 3070b.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0]\n"
+        },
+        "3710": {
+          "width": 4,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            47
+          ],
+          "part_sha256": "1a2d17e3e35750ccf02a54c7aee0cf7485c1c8596492746fc798d341399a3a6e",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3710",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "87087": {
+          "width": 1,
+          "depth": 1,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "0d170f4222bc555c4c0f85de872f3481715d4e2557a0359448d95352df1b2ac9",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=87087\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Brick  1 x  1 with Stud on 1 Side\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-15 {Roland Melkert} Initial info for 87087.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=0 24 0]\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 20] [pos=0 10 -14] [ori=1 0 0 0 0 1 0 -1 0]\n"
+        },
+        "98138": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": false,
+          "colors": [
+            322
+          ],
+          "part_sha256": "1d506f39ea2bf69757206009498025381bbf28d9fa0b79385a30f4c5fa37f111",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=98138",
+          "shadow": "Finite underside-only socket Y=8; no top studs; conservative 20 x 8 x 20 LDU square body."
+        }
+      },
+      "static_pose": "Exact proper orthogonal poses; conservative body and stud/socket profiles",
+      "render_support": "unverified: no archive resolved",
+      "default_import_limits": {
+        "bytes": 131072,
+        "definitions": 64,
+        "depth": 16,
+        "occurrences": 500,
+        "coordinate": 100000,
+        "deadline_ms": 2000
+      }
+    },
+    "total": 12,
+    "geometry_supported": 2,
+    "manufactured_color_witnessed": 2,
+    "findings": [
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/1/1/2"
+        ],
+        "message": "No reviewed conservative body profile for 4070",
+        "sources": [
+          {
+            "id": "o/1/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 26,
+                "reference": "4070.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/1/1/2"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/1/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 26,
+                "reference": "4070.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/1/1/3"
+        ],
+        "message": "No reviewed conservative body profile for 4070",
+        "sources": [
+          {
+            "id": "o/1/1/3",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 28,
+                "reference": "4070.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/1/1/3"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/1/1/3",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 28,
+                "reference": "4070.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/1/1/4"
+        ],
+        "message": "No reviewed conservative body profile for 6141",
+        "sources": [
+          {
+            "id": "o/1/1/4",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 32,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/1/1/4"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/1/1/4",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 32,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/1/1/5"
+        ],
+        "message": "No reviewed conservative body profile for 6141",
+        "sources": [
+          {
+            "id": "o/1/1/5",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 34,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/1/1/5"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/1/1/5",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 34,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/1/1/6"
+        ],
+        "message": "No reviewed conservative body profile for 3068b",
+        "sources": [
+          {
+            "id": "o/1/1/6",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 38,
+                "reference": "3068b.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/1/1/6"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/1/1/6",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 38,
+                "reference": "3068b.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/2/1/2"
+        ],
+        "message": "No reviewed conservative body profile for 4070",
+        "sources": [
+          {
+            "id": "o/2/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 55,
+                "reference": "4070.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/2/1/2"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/2/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 55,
+                "reference": "4070.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/2/1/3"
+        ],
+        "message": "No reviewed conservative body profile for 4070",
+        "sources": [
+          {
+            "id": "o/2/1/3",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 57,
+                "reference": "4070.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/2/1/3"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/2/1/3",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 57,
+                "reference": "4070.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/2/1/4"
+        ],
+        "message": "No reviewed conservative body profile for 6141",
+        "sources": [
+          {
+            "id": "o/2/1/4",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 61,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/2/1/4"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/2/1/4",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 61,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/2/1/5"
+        ],
+        "message": "No reviewed conservative body profile for 6141",
+        "sources": [
+          {
+            "id": "o/2/1/5",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 63,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/2/1/5"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/2/1/5",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 63,
+                "reference": "6141.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/2/1/6"
+        ],
+        "message": "No reviewed conservative body profile for 3068b",
+        "sources": [
+          {
+            "id": "o/2/1/6",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 67,
+                "reference": "3068b.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/2/1/6"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/2/1/6",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 67,
+                "reference": "3068b.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/admission",
+        "status": "pass",
+        "severity": "info",
+        "scope": "input",
+        "occurrences": null,
+        "message": "Finite proper rigid assembly; admission is not construction approval",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/pairs",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative body pairs",
+        "occurrences": [
+          "o/1/1/2",
+          "o/1/1/3",
+          "o/1/1/4",
+          "o/1/1/5",
+          "o/1/1/6",
+          "o/2/1/2",
+          "o/2/1/3",
+          "o/2/1/4",
+          "o/2/1/5",
+          "o/2/1/6"
+        ],
+        "message": "Body-pair checks not evaluated for pairs involving these occurrences",
+        "sources": [
+          {
+            "id": "o/1/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 26,
+                "reference": "4070.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/1/1/3",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 28,
+                "reference": "4070.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/1/1/4",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 32,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/1/1/5",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 34,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/1/1/6",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 38,
+                "reference": "3068b.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 55,
+                "reference": "4070.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/3",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 57,
+                "reference": "4070.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/4",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 61,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/5",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 63,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/6",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 67,
+                "reference": "3068b.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/connections",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "local-profile connector graph",
+        "occurrences": [
+          "o/1/1/2",
+          "o/1/1/3",
+          "o/1/1/4",
+          "o/1/1/5",
+          "o/1/1/6",
+          "o/2/1/2",
+          "o/2/1/3",
+          "o/2/1/4",
+          "o/2/1/5",
+          "o/2/1/6"
+        ],
+        "message": "Local-profile graph covers reviewed-profile occurrences only; shared-catalog graphs are reported separately when requested",
+        "sources": [
+          {
+            "id": "o/1/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 26,
+                "reference": "4070.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/1/1/3",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 28,
+                "reference": "4070.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/1/1/4",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 32,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/1/1/5",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 34,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/1/1/6",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-speaker-left.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left.ldr",
+                "line": 15,
+                "reference": "assembly-speaker-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-left-unit.ldr",
+                "line": 38,
+                "reference": "3068b.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 55,
+                "reference": "4070.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/3",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 57,
+                "reference": "4070.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/4",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 61,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/5",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 63,
+                "reference": "6141.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/6",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-speaker-right.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right.ldr",
+                "line": 44,
+                "reference": "assembly-speaker-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-speaker-right-unit.ldr",
+                "line": 67,
+                "reference": "3068b.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/constraints",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "declared constraints",
+        "occurrences": null,
+        "message": "None supplied; no grounding claim",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/render",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "render geometry/material",
+        "occurrences": null,
+        "message": "Unverified until selected archive geometry and colors are resolved",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/insertion",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "ordering",
+        "occurrences": null,
+        "message": "Plan required; no insertion or ordering evidence",
+        "sources": []
+      }
+    ],
+    "connections": [],
+    "observed_components": [
+      [
+        "o/1/1/1"
+      ],
+      [
+        "o/2/1/1"
+      ]
+    ],
+    "unresolved": [
+      "o/1/1/2",
+      "o/1/1/3",
+      "o/1/1/4",
+      "o/1/1/5",
+      "o/1/1/6",
+      "o/2/1/2",
+      "o/2/1/3",
+      "o/2/1/4",
+      "o/2/1/5",
+      "o/2/1/6"
+    ],
+    "supported_body_bounds": {
+      "Min": [
+        180,
+        -208.4,
+        20
+      ],
+      "Max": [
+        220,
+        -200.4,
+        140
+      ]
+    },
+    "required_failure": false,
+    "limits": [
+      "Conservative rectangular bodies exclude stud/socket engagement; 0.001 LDU contact tolerance.",
+      "Fine mesh interference, grip, stiffness, tipping and physical strength untested.",
+      "Supported body bounds are not complete render bounds."
+    ]
+  },
+  "instruction_frames": {
+    "reader_labels": {
+      "title": "DSS speakers",
+      "steps": {
+        "legacy-op-169": "Place speaker 1",
+        "legacy-op-174": "Place speaker 2"
+      },
+      "units": {
+        "speakers": "Speaker"
+      },
+      "copies": {
+        "speakers-1": "First speaker",
+        "speakers-2": "Second speaker"
+      }
+    },
+    "concise_text": true,
+    "copy_state": {
+      "legacy-op-165": {
+        "completed": [],
+        "consumed": [],
+        "retained": []
+      },
+      "legacy-op-166": {
+        "completed": [],
+        "consumed": [],
+        "retained": []
+      },
+      "legacy-op-167": {
+        "completed": [],
+        "consumed": [],
+        "retained": []
+      },
+      "legacy-op-168": {
+        "completed": [
+          "speakers-1",
+          "speakers-2"
+        ],
+        "consumed": [],
+        "retained": [
+          "speakers-1",
+          "speakers-2"
+        ]
+      },
+      "legacy-op-169": {
+        "completed": [
+          "speakers-1",
+          "speakers-2"
+        ],
+        "consumed": [
+          "speakers-1"
+        ],
+        "retained": [
+          "speakers-2"
+        ]
+      },
+      "legacy-op-174": {
+        "completed": [
+          "speakers-1",
+          "speakers-2"
+        ],
+        "consumed": [
+          "speakers-1",
+          "speakers-2"
+        ],
+        "retained": []
+      }
+    },
+    "display_order": [
+      {
+        "kind": "assembly",
+        "id": "legacy-op-165"
+      },
+      {
+        "kind": "assembly",
+        "id": "legacy-op-166"
+      },
+      {
+        "kind": "assembly",
+        "id": "legacy-op-167"
+      },
+      {
+        "kind": "assembly",
+        "id": "legacy-op-168"
+      },
+      {
+        "kind": "assembly",
+        "id": "legacy-op-169"
+      },
+      {
+        "kind": "assembly",
+        "id": "legacy-op-174"
+      }
+    ],
+    "step_guidance": {
+      "legacy-op-165": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit"
+      },
+      "legacy-op-166": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit"
+      },
+      "legacy-op-167": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit"
+      },
+      "legacy-op-168": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit"
+      },
+      "legacy-op-169": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit"
+      },
+      "legacy-op-174": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit"
+      }
+    },
+    "schema": "studfleet/instruction-frames-1",
+    "revision": "93cdb55e4c8b31f68caa68dc836a9377d9714a06537d299e2cb5ed2c8edc94b3",
+    "steps": [
+      {
+        "inventory": [
+          {
+            "part": "3022",
+            "color": 0,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-165",
+        "unit": "speakers",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-165"
+        ],
+        "new": [
+          "p1"
+        ],
+        "cumulative": [
+          "p1"
+        ],
+        "operations": [
+          {
+            "id": "legacy-op-165",
+            "introduce": [
+              "p1"
+            ],
+            "join": "",
+            "depends": [],
+            "direction": [
+              0,
+              0,
+              0
+            ],
+            "distance": 0,
+            "seed": true,
+            "caption": "Speaker base plate",
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "speakers-1",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                40
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2",
+              "p3": "o/1/1/3",
+              "p4": "o/1/1/4",
+              "p5": "o/1/1/5",
+              "p6": "o/1/1/6"
+            }
+          },
+          {
+            "id": "speakers-2",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                120
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2",
+              "p3": "o/2/1/3",
+              "p4": "o/2/1/4",
+              "p5": "o/2/1/5",
+              "p6": "o/2/1/6"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "4070",
+            "color": 0,
+            "quantity": 2
+          }
+        ],
+        "id": "legacy-op-166",
+        "unit": "speakers",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-166"
+        ],
+        "new": [
+          "p2",
+          "p3"
+        ],
+        "cumulative": [
+          "p1",
+          "p2",
+          "p3"
+        ],
+        "operations": [
+          {
+            "caption": "Fit both side-stud bricks",
+            "depends": [
+              "legacy-op-165"
+            ],
+            "id": "legacy-op-166",
+            "introduce": [
+              "p2",
+              "p3"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "speakers-1",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                40
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2",
+              "p3": "o/1/1/3",
+              "p4": "o/1/1/4",
+              "p5": "o/1/1/5",
+              "p6": "o/1/1/6"
+            }
+          },
+          {
+            "id": "speakers-2",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                120
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2",
+              "p3": "o/2/1/3",
+              "p4": "o/2/1/4",
+              "p5": "o/2/1/5",
+              "p6": "o/2/1/6"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "6141",
+            "color": 72,
+            "quantity": 2
+          }
+        ],
+        "id": "legacy-op-167",
+        "unit": "speakers",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-167"
+        ],
+        "new": [
+          "p4",
+          "p5"
+        ],
+        "cumulative": [
+          "p1",
+          "p2",
+          "p3",
+          "p4",
+          "p5"
+        ],
+        "operations": [
+          {
+            "caption": "Fit both speaker cones",
+            "depends": [
+              "legacy-op-166"
+            ],
+            "id": "legacy-op-167",
+            "introduce": [
+              "p4",
+              "p5"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "speakers-1",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                40
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2",
+              "p3": "o/1/1/3",
+              "p4": "o/1/1/4",
+              "p5": "o/1/1/5",
+              "p6": "o/1/1/6"
+            }
+          },
+          {
+            "id": "speakers-2",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                120
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2",
+              "p3": "o/2/1/3",
+              "p4": "o/2/1/4",
+              "p5": "o/2/1/5",
+              "p6": "o/2/1/6"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "3068b",
+            "color": 0,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-168",
+        "unit": "speakers",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-168"
+        ],
+        "new": [
+          "p6"
+        ],
+        "cumulative": [
+          "p1",
+          "p2",
+          "p3",
+          "p4",
+          "p5",
+          "p6"
+        ],
+        "operations": [
+          {
+            "caption": "Fit the smooth top tile",
+            "depends": [
+              "legacy-op-167"
+            ],
+            "id": "legacy-op-168",
+            "introduce": [
+              "p6"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "speakers-1",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                40
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2",
+              "p3": "o/1/1/3",
+              "p4": "o/1/1/4",
+              "p5": "o/1/1/5",
+              "p6": "o/1/1/6"
+            }
+          },
+          {
+            "id": "speakers-2",
+            "transform": [
+              [
+                1,
+                0,
+                0,
+                200
+              ],
+              [
+                0,
+                1,
+                0,
+                -208.4
+              ],
+              [
+                0,
+                0,
+                1,
+                120
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2",
+              "p3": "o/2/1/3",
+              "p4": "o/2/1/4",
+              "p5": "o/2/1/5",
+              "p6": "o/2/1/6"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "3022",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3068b",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "4070",
+            "color": 0,
+            "quantity": 2
+          },
+          {
+            "part": "6141",
+            "color": 72,
+            "quantity": 2
+          }
+        ],
+        "id": "legacy-op-169",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-169"
+        ],
+        "new": [
+          "o/1/1/1",
+          "o/1/1/2",
+          "o/1/1/3",
+          "o/1/1/4",
+          "o/1/1/5",
+          "o/1/1/6"
+        ],
+        "cumulative": [
+          "o/1/1/1",
+          "o/1/1/2",
+          "o/1/1/3",
+          "o/1/1/4",
+          "o/1/1/5",
+          "o/1/1/6"
+        ],
+        "operations": [
+          {
+            "caption": "Place completed speaker 1 of 2. Isolated specimen; vehicle support omitted.",
+            "depends": [],
+            "id": "legacy-op-169",
+            "introduce": null,
+            "join": "speakers-1",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "3022",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "3068b",
+            "color": 0,
+            "quantity": 1
+          },
+          {
+            "part": "4070",
+            "color": 0,
+            "quantity": 2
+          },
+          {
+            "part": "6141",
+            "color": 72,
+            "quantity": 2
+          }
+        ],
+        "id": "legacy-op-174",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-174"
+        ],
+        "new": [
+          "o/2/1/1",
+          "o/2/1/2",
+          "o/2/1/3",
+          "o/2/1/4",
+          "o/2/1/5",
+          "o/2/1/6"
+        ],
+        "cumulative": [
+          "o/1/1/1",
+          "o/1/1/2",
+          "o/1/1/3",
+          "o/1/1/4",
+          "o/1/1/5",
+          "o/1/1/6",
+          "o/2/1/1",
+          "o/2/1/2",
+          "o/2/1/3",
+          "o/2/1/4",
+          "o/2/1/5",
+          "o/2/1/6"
+        ],
+        "operations": [
+          {
+            "caption": "Place completed speaker 2 of 2. Isolated specimen; vehicle support omitted.",
+            "depends": [
+              "legacy-op-169"
+            ],
+            "id": "legacy-op-174",
+            "introduce": null,
+            "join": "speakers-2",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      }
+    ],
+    "sources": {
+      "legacy-op-165": [
+        {
+          "id": "legacy-op-165",
+          "sha256": "298f5b9e5acacd41d097ef4678142accb473c3e44c69c8b2e91037f2059c1972"
+        }
+      ],
+      "legacy-op-166": [
+        {
+          "id": "legacy-op-166",
+          "sha256": "e2f2ba28a997c074a9df7770fa0800869df167dfa47ef7ebdca57792c8b0876e"
+        }
+      ],
+      "legacy-op-167": [
+        {
+          "id": "legacy-op-167",
+          "sha256": "51a6b90374108d5071601f4971c6e43cbcf6ebd746afabd2e66a088e831d73c8"
+        }
+      ],
+      "legacy-op-168": [
+        {
+          "id": "legacy-op-168",
+          "sha256": "f69fd0e2f68d2d7a4aa4fa708cfc143f5ee77505200077a5c699db193a6f9bc2"
+        }
+      ],
+      "legacy-op-169": [
+        {
+          "id": "legacy-op-169",
+          "sha256": "0b7979a6df89ea5d5192ddd7f63b18852f975a0c1a1bee69e063c84c8fc8fd20"
+        }
+      ],
+      "legacy-op-174": [
+        {
+          "id": "legacy-op-174",
+          "sha256": "b16cad3bae5c0a55c17953d73c9a343d5013afa50cf3588e7d6fe1b21c69f0ef"
+        }
+      ]
+    },
+    "compositions": {},
+    "views": {}
+  },
+  "inventory_csv": "revision,part,ldraw_color,quantity\n93cdb55e4c8b31f68caa68dc836a9377d9714a06537d299e2cb5ed2c8edc94b3,3022,0,2\n93cdb55e4c8b31f68caa68dc836a9377d9714a06537d299e2cb5ed2c8edc94b3,3068b,0,2\n93cdb55e4c8b31f68caa68dc836a9377d9714a06537d299e2cb5ed2c8edc94b3,4070,0,4\n93cdb55e4c8b31f68caa68dc836a9377d9714a06537d299e2cb5ed2c8edc94b3,6141,72,4\n",
+  "status": {
+    "schema": "studfleet/draft-status-1",
+    "classification": "draft",
+    "label": "Draft — construction unverified",
+    "revision": "93cdb55e4c8b31f68caa68dc836a9377d9714a06537d299e2cb5ed2c8edc94b3",
+    "structural_validity": true,
+    "construction": "unverified",
+    "rendering": "not requested: check-only",
+    "total_occurrences": 12,
+    "inspection_sha256": "730cb5a3d214ae2cc61d915a303d84155fa204a993f25ba574dec55e047df853",
+    "limits": [
+      "Body profiles cover 2/12 occurrences; required static findings present: false. upstream connector analysis not requested.",
+      "Insertion not checked; arrows are authored placement suggestions.",
+      "Physical strength and stability untested.",
+      "Static body/profile gaps and known findings are recorded in inspection.json; metadata contacts do not certify construction."
+    ]
+  }
+}

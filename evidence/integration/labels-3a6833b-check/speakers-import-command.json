@@ -1,0 +1,14 @@
+{
+  "argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-reader-labels-without-internal-clutter/builds/reader-label-implementation/studfleet",
+    "import-mpd",
+    "--input",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/evidence/integration/scheduler-410a7a2/speakers.mpd",
+    "--out",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/labels-3a6833b-check/speakers/intake"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-reader-labels-without-internal-clutter",
+  "exit_code": 0,
+  "peak_owned_bytes": 3581,
+  "minimum_free_bytes": 4544679936
+}
