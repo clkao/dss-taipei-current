@@ -1,14 +1,14 @@
 {
   "pdf": "instructions.pdf",
-  "pdf_sha256": "e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da",
-  "pages": 142,
+  "pdf_sha256": "b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a",
+  "pages": 138,
   "print_sheets": [
     {
-      "page": 134,
+      "page": 130,
       "contents": "Vehicle stickers"
     },
     {
-      "page": 135,
+      "page": 131,
       "contents": "Two speech-bubble faces and jacket"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "pages": 142,
+  "pages": 138,
   "steps": {
     "1": 4,
     "2": 12,
@@ -19,55 +19,55 @@
     "16": 39,
     "17": 40,
     "18": 56,
-    "19": 72,
-    "20": 75,
-    "21": 76,
-    "22": 77,
-    "23": 78,
-    "24": 79,
-    "25": 80,
-    "26": 81,
-    "27": 82,
-    "28": 83,
-    "29": 84,
-    "30": 85,
-    "31": 86,
-    "32": 87,
-    "33": 89,
-    "34": 90,
-    "35": 91,
-    "36": 92,
-    "37": 93,
-    "38": 94,
-    "39": 95,
-    "40": 96,
-    "41": 97,
-    "42": 98,
-    "43": 99,
-    "44": 100,
-    "45": 101,
-    "46": 102,
-    "47": 104,
-    "48": 106,
-    "49": 107,
-    "50": 108,
-    "51": 111,
-    "52": 114,
-    "53": 115,
-    "54": 116,
-    "55": 118,
-    "56": 119,
-    "57": 121,
-    "58": 122,
-    "59": 123,
-    "60": 125,
-    "61": 126,
-    "62": 127,
-    "63": 128,
-    "64": 129,
-    "65": 130,
-    "66": 132,
-    "67": 133
+    "19": 68,
+    "20": 71,
+    "21": 72,
+    "22": 73,
+    "23": 74,
+    "24": 75,
+    "25": 76,
+    "26": 77,
+    "27": 78,
+    "28": 79,
+    "29": 80,
+    "30": 81,
+    "31": 82,
+    "32": 83,
+    "33": 85,
+    "34": 86,
+    "35": 87,
+    "36": 88,
+    "37": 89,
+    "38": 90,
+    "39": 91,
+    "40": 92,
+    "41": 93,
+    "42": 94,
+    "43": 95,
+    "44": 96,
+    "45": 97,
+    "46": 98,
+    "47": 100,
+    "48": 102,
+    "49": 103,
+    "50": 104,
+    "51": 107,
+    "52": 110,
+    "53": 111,
+    "54": 112,
+    "55": 114,
+    "56": 115,
+    "57": 117,
+    "58": 118,
+    "59": 119,
+    "60": 121,
+    "61": 122,
+    "62": 123,
+    "63": 124,
+    "64": 125,
+    "65": 126,
+    "66": 128,
+    "67": 129
   },
   "page_records": [
     {
@@ -454,44 +454,12 @@
       "page": 56,
       "kind": "corrected-ordered-panel",
       "step": 18,
-      "panel": 1,
-      "source_operation": "legacy-051",
-      "image": "images/corrected-018-01.png"
-    },
-    {
-      "page": 57,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 2,
-      "source_operation": "legacy-052",
-      "image": "images/corrected-018-02.png"
-    },
-    {
-      "page": 58,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 3,
-      "source_operation": "legacy-053",
-      "image": "images/corrected-018-03.png"
-    },
-    {
-      "page": 59,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 4,
-      "source_operation": "legacy-054",
-      "image": "images/corrected-018-04.png"
-    },
-    {
-      "page": 60,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
       "panel": 5,
       "source_operation": "legacy-056a",
       "image": "images/corrected-018-05.png"
     },
     {
-      "page": 61,
+      "page": 57,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 6,
@@ -499,7 +467,7 @@
       "image": "images/corrected-018-06.png"
     },
     {
-      "page": 62,
+      "page": 58,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 7,
@@ -507,7 +475,7 @@
       "image": "images/corrected-018-07.png"
     },
     {
-      "page": 63,
+      "page": 59,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 8,
@@ -515,7 +483,7 @@
       "image": "images/receiver-legacy-057j1.png"
     },
     {
-      "page": 64,
+      "page": 60,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 9,
@@ -523,7 +491,7 @@
       "image": "images/corrected-018-08.png"
     },
     {
-      "page": 65,
+      "page": 61,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 10,
@@ -531,7 +499,7 @@
       "image": "images/corrected-018-09.png"
     },
     {
-      "page": 66,
+      "page": 62,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 11,
@@ -539,7 +507,7 @@
       "image": "images/corrected-018-10.png"
     },
     {
-      "page": 67,
+      "page": 63,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 12,
@@ -547,7 +515,7 @@
       "image": "images/corrected-018-11.png"
     },
     {
-      "page": 68,
+      "page": 64,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 13,
@@ -555,7 +523,7 @@
       "image": "images/receiver-legacy-057j2.png"
     },
     {
-      "page": 69,
+      "page": 65,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 14,
@@ -563,7 +531,7 @@
       "image": "images/corrected-018-12.png"
     },
     {
-      "page": 70,
+      "page": 66,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 15,
@@ -571,7 +539,7 @@
       "image": "images/receiver-legacy-058.png"
     },
     {
-      "page": 71,
+      "page": 67,
       "kind": "corrected-ordered-panel",
       "step": 18,
       "panel": 16,
@@ -579,322 +547,338 @@
       "image": "images/corrected-018-13.png"
     },
     {
-      "page": 72,
+      "page": 68,
       "kind": "build-step",
       "step": 19
     },
     {
-      "page": 73,
+      "page": 69,
       "kind": "local-recipe",
       "step": 20
     },
     {
-      "page": 74,
+      "page": 70,
       "kind": "local-recipe",
       "step": 20
     },
     {
-      "page": 75,
+      "page": 71,
       "kind": "build-step",
       "step": 20
     },
     {
-      "page": 76,
+      "page": 72,
       "kind": "build-step",
       "step": 21
     },
     {
-      "page": 77,
+      "page": 73,
       "kind": "build-step",
       "step": 22
     },
     {
-      "page": 78,
+      "page": 74,
       "kind": "build-step",
       "step": 23
     },
     {
-      "page": 79,
+      "page": 75,
       "kind": "build-step",
       "step": 24
     },
     {
-      "page": 80,
+      "page": 76,
       "kind": "build-step",
       "step": 25
     },
     {
-      "page": 81,
+      "page": 77,
       "kind": "build-step",
       "step": 26
     },
     {
-      "page": 82,
+      "page": 78,
       "kind": "build-step",
       "step": 27
     },
     {
-      "page": 83,
+      "page": 79,
       "kind": "build-step",
       "step": 28
     },
     {
-      "page": 84,
+      "page": 80,
       "kind": "build-step",
       "step": 29
     },
     {
-      "page": 85,
+      "page": 81,
       "kind": "build-step",
       "step": 30
     },
     {
-      "page": 86,
+      "page": 82,
       "kind": "build-step",
       "step": 31
     },
     {
-      "page": 87,
+      "page": 83,
       "kind": "build-step",
       "step": 32
     },
     {
-      "page": 88,
+      "page": 84,
       "kind": "local-recipe",
       "step": 33
     },
     {
-      "page": 89,
+      "page": 85,
       "kind": "build-step",
       "step": 33
     },
     {
-      "page": 90,
+      "page": 86,
       "kind": "build-step",
       "step": 34
     },
     {
-      "page": 91,
+      "page": 87,
       "kind": "build-step",
       "step": 35
     },
     {
-      "page": 92,
+      "page": 88,
       "kind": "build-step",
       "step": 36
     },
     {
-      "page": 93,
+      "page": 89,
       "kind": "build-step",
       "step": 37
     },
     {
-      "page": 94,
+      "page": 90,
       "kind": "build-step",
       "step": 38
     },
     {
-      "page": 95,
+      "page": 91,
       "kind": "build-step",
       "step": 39
     },
     {
-      "page": 96,
+      "page": 92,
       "kind": "build-step",
       "step": 40
     },
     {
-      "page": 97,
+      "page": 93,
       "kind": "build-step",
       "step": 41
     },
     {
-      "page": 98,
+      "page": 94,
       "kind": "build-step",
       "step": 42
     },
     {
-      "page": 99,
+      "page": 95,
       "kind": "build-step",
       "step": 43
     },
     {
-      "page": 100,
+      "page": 96,
       "kind": "build-step",
       "step": 44
     },
     {
-      "page": 101,
+      "page": 97,
       "kind": "build-step",
       "step": 45
     },
     {
-      "page": 102,
+      "page": 98,
       "kind": "build-step",
       "step": 46
     },
     {
+      "page": 99,
+      "kind": "local-recipe",
+      "step": 47
+    },
+    {
+      "page": 100,
+      "kind": "build-step",
+      "step": 47
+    },
+    {
+      "page": 101,
+      "kind": "local-recipe",
+      "step": 48
+    },
+    {
+      "page": 102,
+      "kind": "build-step",
+      "step": 48
+    },
+    {
       "page": 103,
-      "kind": "local-recipe",
-      "step": 47
-    },
-    {
-      "page": 104,
-      "kind": "build-step",
-      "step": 47
-    },
-    {
-      "page": 105,
-      "kind": "local-recipe",
-      "step": 48
-    },
-    {
-      "page": 106,
-      "kind": "build-step",
-      "step": 48
-    },
-    {
-      "page": 107,
       "kind": "build-step",
       "step": 49
     },
     {
-      "page": 108,
+      "page": 104,
       "kind": "build-step",
       "step": 50
     },
     {
-      "page": 109,
+      "page": 105,
       "kind": "local-recipe",
       "step": 51
     },
     {
-      "page": 110,
+      "page": 106,
       "kind": "local-recipe",
       "step": 51
     },
     {
-      "page": 111,
+      "page": 107,
       "kind": "build-step",
       "step": 51
     },
     {
-      "page": 112,
+      "page": 108,
       "kind": "local-recipe",
       "step": 52
     },
     {
-      "page": 113,
+      "page": 109,
       "kind": "installation-approach",
       "step": 52
     },
     {
-      "page": 114,
+      "page": 110,
       "kind": "build-step",
       "step": 52
     },
     {
-      "page": 115,
+      "page": 111,
       "kind": "build-step",
       "step": 53
     },
     {
-      "page": 116,
+      "page": 112,
       "kind": "build-step",
       "step": 54
     },
     {
-      "page": 117,
+      "page": 113,
       "kind": "local-recipe",
       "step": 55
     },
     {
-      "page": 118,
+      "page": 114,
       "kind": "build-step",
       "step": 55
     },
     {
-      "page": 119,
+      "page": 115,
       "kind": "build-step",
       "step": 56
     },
     {
-      "page": 120,
+      "page": 116,
       "kind": "local-recipe",
       "step": 57
     },
     {
-      "page": 121,
+      "page": 117,
       "kind": "build-step",
       "step": 57
     },
     {
-      "page": 122,
+      "page": 118,
       "kind": "build-step",
       "step": 58
     },
     {
-      "page": 123,
+      "page": 119,
       "kind": "build-step",
       "step": 59
     },
     {
-      "page": 124,
+      "page": 120,
       "kind": "local-recipe",
       "step": 60
     },
     {
-      "page": 125,
+      "page": 121,
       "kind": "build-step",
       "step": 60
     },
     {
-      "page": 126,
+      "page": 122,
       "kind": "build-step",
       "step": 61
     },
     {
-      "page": 127,
+      "page": 123,
       "kind": "build-step",
       "step": 62
     },
     {
-      "page": 128,
+      "page": 124,
       "kind": "build-step",
       "step": 63
     },
     {
-      "page": 129,
+      "page": 125,
       "kind": "build-step",
       "step": 64
     },
     {
-      "page": 130,
+      "page": 126,
       "kind": "build-step",
       "step": 65
     },
     {
-      "page": 131,
+      "page": 127,
       "kind": "local-recipe",
       "step": 66
     },
     {
-      "page": 132,
+      "page": 128,
       "kind": "build-step",
       "step": 66
     },
     {
-      "page": 133,
+      "page": 129,
       "kind": "build-step",
       "step": 67
     },
     {
-      "page": 134,
+      "page": 130,
       "kind": "sticker-sheet"
     },
     {
-      "page": 135,
+      "page": 131,
       "kind": "speech-bubble-print-sheet"
+    },
+    {
+      "page": 132,
+      "kind": "inventory"
+    },
+    {
+      "page": 133,
+      "kind": "inventory"
+    },
+    {
+      "page": 134,
+      "kind": "inventory"
+    },
+    {
+      "page": 135,
+      "kind": "inventory"
     },
     {
       "page": 136,
@@ -906,24 +890,8 @@
     },
     {
       "page": 138,
-      "kind": "inventory"
-    },
-    {
-      "page": 139,
-      "kind": "inventory"
-    },
-    {
-      "page": 140,
-      "kind": "inventory"
-    },
-    {
-      "page": 141,
-      "kind": "inventory"
-    },
-    {
-      "page": 142,
       "kind": "validation"
     }
   ],
-  "pdf_sha256": "e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da"
+  "pdf_sha256": "b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a"
 }

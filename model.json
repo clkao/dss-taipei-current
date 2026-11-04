@@ -67032,6 +67032,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-01.png"
             },
             {
@@ -67056,6 +67057,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-02.png"
             },
             {
@@ -67080,6 +67082,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-03.png"
             },
             {
@@ -67107,6 +67110,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-04.png"
             },
             {
@@ -67138,6 +67142,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-05.png"
             },
             {
@@ -67170,6 +67175,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-06.png"
             },
             {
@@ -67204,6 +67210,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-07.png"
             },
             {
@@ -67249,6 +67256,7 @@
               "child": "chassis-core",
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-08.png"
             }
           ],
@@ -67272,6 +67280,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-01.png"
             },
             {
@@ -67296,6 +67305,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-02.png"
             },
             {
@@ -67320,6 +67330,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-03.png"
             },
             {
@@ -67347,6 +67358,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-04.png"
             },
             {
@@ -67378,6 +67390,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-05.png"
             },
             {
@@ -67410,6 +67423,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-06.png"
             },
             {
@@ -67444,6 +67458,7 @@
               "child": null,
               "assembly": "chassis-core",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-07.png"
             },
             {
@@ -67489,12 +67504,30 @@
               "child": "chassis-core",
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-001-08.png"
             }
           ],
           "unit_name": "chassis core",
           "approach_frames": [],
-          "corrected": true
+          "corrected": true,
+          "overview_source_operation": "legacy-006",
+          "overview_assembly": "truck",
+          "overview_new_ids": [
+            134,
+            150,
+            153,
+            163,
+            164,
+            168,
+            172,
+            173,
+            177,
+            178,
+            179,
+            216,
+            231
+          ]
         },
         "legacy_step": 1
       },
@@ -68999,6 +69032,7 @@
               "child": null,
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-010-01.png"
             },
             {
@@ -69069,6 +69103,7 @@
               "child": null,
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-010-02.png"
             }
           ],
@@ -69139,6 +69174,7 @@
               "child": null,
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-010-01.png"
             },
             {
@@ -69209,11 +69245,18 @@
               "child": null,
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-010-02.png"
             }
           ],
           "approach_frames": [],
-          "corrected": true
+          "corrected": true,
+          "overview_source_operation": "legacy-031a",
+          "overview_assembly": "truck",
+          "overview_new_ids": [
+            188,
+            204
+          ]
         },
         "legacy_step": 11
       },
@@ -69254,9 +69297,58 @@
           "hold": null,
           "bands_installed": true,
           "ids": [
-            190
+            107,
+            113,
+            128,
+            134,
+            145,
+            150,
+            152,
+            153,
+            161,
+            162,
+            163,
+            164,
+            165,
+            168,
+            169,
+            171,
+            172,
+            173,
+            177,
+            178,
+            179,
+            181,
+            188,
+            204,
+            216,
+            217,
+            218,
+            219,
+            220,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            230,
+            231,
+            232,
+            233,
+            234,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            245,
+            246,
+            247,
+            248
           ],
-          "image": "images/corrected-011-02.png",
+          "image": "images/corrected-011-01.png",
           "instance_frames": [
             {
               "number": 1,
@@ -69326,6 +69418,7 @@
               "child": null,
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-011-01.png"
             },
             {
@@ -69347,6 +69440,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-011-02.png"
             }
           ],
@@ -69419,6 +69513,7 @@
               "child": null,
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-011-01.png"
             },
             {
@@ -69440,11 +69535,17 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-011-02.png"
             }
           ],
           "approach_frames": [],
-          "corrected": true
+          "corrected": true,
+          "overview_source_operation": "legacy-032a",
+          "overview_assembly": "truck",
+          "overview_new_ids": [
+            169
+          ]
         },
         "legacy_step": 12
       },
@@ -69600,6 +69701,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-012-01.png"
             },
             {
@@ -69624,6 +69726,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-012-02.png"
             },
             {
@@ -69651,6 +69754,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-012-03.png"
             },
             {
@@ -69680,6 +69784,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-012-04.png"
             },
             {
@@ -69709,6 +69814,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-012-05.png"
             },
             {
@@ -69778,6 +69884,7 @@
               "assembly": "truck",
               "preassembled": false,
               "awaiting_child": "front-lower-bumper",
+              "bands_installed": true,
               "image": "images/receiver-legacy-035j.png"
             },
             {
@@ -69865,6 +69972,7 @@
               "child": "front-lower-bumper",
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-012-06.png"
             },
             {
@@ -69945,6 +70053,7 @@
               "child": null,
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-012-07.png"
             }
           ],
@@ -69971,6 +70080,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-012-01.png"
             },
             {
@@ -69995,6 +70105,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-012-02.png"
             },
             {
@@ -70022,6 +70133,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-012-03.png"
             },
             {
@@ -70051,6 +70163,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-012-04.png"
             },
             {
@@ -70080,6 +70193,7 @@
               "child": null,
               "assembly": "front-lower-bumper",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-012-05.png"
             },
             {
@@ -70149,6 +70263,7 @@
               "assembly": "truck",
               "preassembled": false,
               "awaiting_child": "front-lower-bumper",
+              "bands_installed": true,
               "image": "images/receiver-legacy-035j.png"
             },
             {
@@ -70236,6 +70351,7 @@
               "child": "front-lower-bumper",
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-012-06.png"
             },
             {
@@ -70316,11 +70432,17 @@
               "child": null,
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-012-07.png"
             }
           ],
           "approach_frames": [],
-          "corrected": true
+          "corrected": true,
+          "overview_source_operation": "legacy-031b",
+          "overview_assembly": "truck",
+          "overview_new_ids": [
+            191
+          ]
         },
         "legacy_step": 13
       },
@@ -71138,7 +71260,21 @@
               "child": null,
               "assembly": "left-side-carrier",
               "preassembled": false,
-              "image": "images/corrected-017-01.png"
+              "bands_installed": false,
+              "image": "images/corrected-017-01.png",
+              "copy_count": 2,
+              "copy_source_operations": [
+                "legacy-043",
+                "legacy-051"
+              ],
+              "copy_new_ids": [
+                [
+                  97
+                ],
+                [
+                  158
+                ]
+              ]
             },
             {
               "number": 2,
@@ -71162,7 +71298,23 @@
               "child": null,
               "assembly": "left-side-carrier",
               "preassembled": false,
-              "image": "images/corrected-017-02.png"
+              "bands_installed": false,
+              "image": "images/corrected-017-02.png",
+              "copy_count": 2,
+              "copy_source_operations": [
+                "legacy-044",
+                "legacy-052"
+              ],
+              "copy_new_ids": [
+                [
+                  96,
+                  115
+                ],
+                [
+                  156,
+                  166
+                ]
+              ]
             },
             {
               "number": 3,
@@ -71190,7 +71342,25 @@
               "child": null,
               "assembly": "left-side-carrier",
               "preassembled": false,
-              "image": "images/corrected-017-03.png"
+              "bands_installed": false,
+              "image": "images/corrected-017-03.png",
+              "copy_count": 2,
+              "copy_source_operations": [
+                "legacy-045",
+                "legacy-053"
+              ],
+              "copy_new_ids": [
+                [
+                  117,
+                  140,
+                  197
+                ],
+                [
+                  176,
+                  185,
+                  205
+                ]
+              ]
             },
             {
               "number": 4,
@@ -71219,7 +71389,23 @@
               "child": null,
               "assembly": "left-side-carrier",
               "preassembled": false,
-              "image": "images/corrected-017-04.png"
+              "bands_installed": false,
+              "image": "images/corrected-017-04.png",
+              "copy_count": 2,
+              "copy_source_operations": [
+                "legacy-046",
+                "legacy-054"
+              ],
+              "copy_new_ids": [
+                [
+                  98,
+                  116
+                ],
+                [
+                  157,
+                  167
+                ]
+              ]
             },
             {
               "number": 5,
@@ -71240,6 +71426,7 @@
               "child": null,
               "assembly": "left-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-05.png"
             },
             {
@@ -71262,6 +71449,7 @@
               "child": null,
               "assembly": "left-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-06.png"
             },
             {
@@ -71287,6 +71475,7 @@
               "child": null,
               "assembly": "left-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-07.png"
             },
             {
@@ -71314,6 +71503,7 @@
               "assembly": "left-side-carrier",
               "preassembled": false,
               "awaiting_child": "left-upper-rail-1",
+              "bands_installed": false,
               "image": "images/receiver-legacy-049j1.png"
             },
             {
@@ -71349,6 +71539,7 @@
               "child": "left-upper-rail-1",
               "assembly": "left-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-08.png"
             },
             {
@@ -71370,6 +71561,7 @@
               "child": null,
               "assembly": "left-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-09.png"
             },
             {
@@ -71392,6 +71584,7 @@
               "child": null,
               "assembly": "left-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-10.png"
             },
             {
@@ -71415,6 +71608,7 @@
               "child": null,
               "assembly": "left-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-11.png"
             },
             {
@@ -71446,6 +71640,7 @@
               "assembly": "left-side-carrier",
               "preassembled": false,
               "awaiting_child": "left-upper-rail-2",
+              "bands_installed": false,
               "image": "images/receiver-legacy-049j2.png"
             },
             {
@@ -71483,6 +71678,7 @@
               "child": "left-upper-rail-2",
               "assembly": "left-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-12.png"
             },
             {
@@ -71586,6 +71782,7 @@
               "assembly": "truck",
               "preassembled": false,
               "awaiting_child": "left-side-carrier",
+              "bands_installed": true,
               "image": "images/receiver-legacy-050.png"
             },
             {
@@ -71719,6 +71916,7 @@
               "child": "left-side-carrier",
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-017-13.png"
             }
           ],
@@ -71742,7 +71940,21 @@
               "child": null,
               "assembly": "left-side-carrier",
               "preassembled": false,
-              "image": "images/corrected-017-01.png"
+              "bands_installed": false,
+              "image": "images/corrected-017-01.png",
+              "copy_count": 2,
+              "copy_source_operations": [
+                "legacy-043",
+                "legacy-051"
+              ],
+              "copy_new_ids": [
+                [
+                  97
+                ],
+                [
+                  158
+                ]
+              ]
             },
             {
               "number": 2,
@@ -71766,7 +71978,23 @@
               "child": null,
               "assembly": "left-side-carrier",
               "preassembled": false,
-              "image": "images/corrected-017-02.png"
+              "bands_installed": false,
+              "image": "images/corrected-017-02.png",
+              "copy_count": 2,
+              "copy_source_operations": [
+                "legacy-044",
+                "legacy-052"
+              ],
+              "copy_new_ids": [
+                [
+                  96,
+                  115
+                ],
+                [
+                  156,
+                  166
+                ]
+              ]
             },
             {
               "number": 3,
@@ -71794,7 +72022,25 @@
               "child": null,
               "assembly": "left-side-carrier",
               "preassembled": false,
-              "image": "images/corrected-017-03.png"
+              "bands_installed": false,
+              "image": "images/corrected-017-03.png",
+              "copy_count": 2,
+              "copy_source_operations": [
+                "legacy-045",
+                "legacy-053"
+              ],
+              "copy_new_ids": [
+                [
+                  117,
+                  140,
+                  197
+                ],
+                [
+                  176,
+                  185,
+                  205
+                ]
+              ]
             },
             {
               "number": 4,
@@ -71823,7 +72069,23 @@
               "child": null,
               "assembly": "left-side-carrier",
               "preassembled": false,
-              "image": "images/corrected-017-04.png"
+              "bands_installed": false,
+              "image": "images/corrected-017-04.png",
+              "copy_count": 2,
+              "copy_source_operations": [
+                "legacy-046",
+                "legacy-054"
+              ],
+              "copy_new_ids": [
+                [
+                  98,
+                  116
+                ],
+                [
+                  157,
+                  167
+                ]
+              ]
             },
             {
               "number": 5,
@@ -71844,6 +72106,7 @@
               "child": null,
               "assembly": "left-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-05.png"
             },
             {
@@ -71866,6 +72129,7 @@
               "child": null,
               "assembly": "left-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-06.png"
             },
             {
@@ -71891,6 +72155,7 @@
               "child": null,
               "assembly": "left-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-07.png"
             },
             {
@@ -71918,6 +72183,7 @@
               "assembly": "left-side-carrier",
               "preassembled": false,
               "awaiting_child": "left-upper-rail-1",
+              "bands_installed": false,
               "image": "images/receiver-legacy-049j1.png"
             },
             {
@@ -71953,6 +72219,7 @@
               "child": "left-upper-rail-1",
               "assembly": "left-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-08.png"
             },
             {
@@ -71974,6 +72241,7 @@
               "child": null,
               "assembly": "left-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-09.png"
             },
             {
@@ -71996,6 +72264,7 @@
               "child": null,
               "assembly": "left-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-10.png"
             },
             {
@@ -72019,6 +72288,7 @@
               "child": null,
               "assembly": "left-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-11.png"
             },
             {
@@ -72050,6 +72320,7 @@
               "assembly": "left-side-carrier",
               "preassembled": false,
               "awaiting_child": "left-upper-rail-2",
+              "bands_installed": false,
               "image": "images/receiver-legacy-049j2.png"
             },
             {
@@ -72087,6 +72358,7 @@
               "child": "left-upper-rail-2",
               "assembly": "left-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-017-12.png"
             },
             {
@@ -72190,6 +72462,7 @@
               "assembly": "truck",
               "preassembled": false,
               "awaiting_child": "left-side-carrier",
+              "bands_installed": true,
               "image": "images/receiver-legacy-050.png"
             },
             {
@@ -72323,12 +72596,56 @@
               "child": "left-side-carrier",
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-017-13.png"
             }
           ],
           "unit_name": "left side carrier",
+          "repeat_prefix_frames": 4,
+          "repeat_prefix_count": 2,
           "approach_frames": [],
-          "corrected": true
+          "corrected": true,
+          "overview_source_operation": "legacy-050",
+          "overview_assembly": "truck",
+          "overview_new_ids": [
+            38,
+            39,
+            41,
+            42,
+            46,
+            48,
+            96,
+            97,
+            98,
+            115,
+            116,
+            117,
+            140,
+            197,
+            331
+          ],
+          "common_prefix_copies": [
+            [
+              96,
+              97,
+              98,
+              115,
+              116,
+              117,
+              140,
+              197
+            ],
+            [
+              156,
+              157,
+              158,
+              166,
+              167,
+              176,
+              185,
+              205
+            ]
+          ]
         },
         "legacy_step": 18
       },
@@ -72635,6 +72952,7 @@
               "child": null,
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-01.png"
             },
             {
@@ -72659,6 +72977,7 @@
               "child": null,
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-02.png"
             },
             {
@@ -72687,6 +73006,7 @@
               "child": null,
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-03.png"
             },
             {
@@ -72716,6 +73036,7 @@
               "child": null,
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-04.png"
             },
             {
@@ -72737,6 +73058,7 @@
               "child": null,
               "assembly": "right-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-05.png"
             },
             {
@@ -72759,6 +73081,7 @@
               "child": null,
               "assembly": "right-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-06.png"
             },
             {
@@ -72784,6 +73107,7 @@
               "child": null,
               "assembly": "right-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-07.png"
             },
             {
@@ -72811,6 +73135,7 @@
               "assembly": "right-side-carrier",
               "preassembled": false,
               "awaiting_child": "right-upper-rail-1",
+              "bands_installed": false,
               "image": "images/receiver-legacy-057j1.png"
             },
             {
@@ -72846,6 +73171,7 @@
               "child": "right-upper-rail-1",
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-08.png"
             },
             {
@@ -72867,6 +73193,7 @@
               "child": null,
               "assembly": "right-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-09.png"
             },
             {
@@ -72889,6 +73216,7 @@
               "child": null,
               "assembly": "right-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-10.png"
             },
             {
@@ -72912,6 +73240,7 @@
               "child": null,
               "assembly": "right-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-11.png"
             },
             {
@@ -72943,6 +73272,7 @@
               "assembly": "right-side-carrier",
               "preassembled": false,
               "awaiting_child": "right-upper-rail-2",
+              "bands_installed": false,
               "image": "images/receiver-legacy-057j2.png"
             },
             {
@@ -72980,6 +73310,7 @@
               "child": "right-upper-rail-2",
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-12.png"
             },
             {
@@ -73098,6 +73429,7 @@
               "assembly": "truck",
               "preassembled": false,
               "awaiting_child": "right-side-carrier",
+              "bands_installed": true,
               "image": "images/receiver-legacy-058.png"
             },
             {
@@ -73246,6 +73578,7 @@
               "child": "right-side-carrier",
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-018-13.png"
             }
           ],
@@ -73269,6 +73602,7 @@
               "child": null,
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-01.png"
             },
             {
@@ -73293,6 +73627,7 @@
               "child": null,
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-02.png"
             },
             {
@@ -73321,6 +73656,7 @@
               "child": null,
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-03.png"
             },
             {
@@ -73350,6 +73686,7 @@
               "child": null,
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-04.png"
             },
             {
@@ -73371,6 +73708,7 @@
               "child": null,
               "assembly": "right-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-05.png"
             },
             {
@@ -73393,6 +73731,7 @@
               "child": null,
               "assembly": "right-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-06.png"
             },
             {
@@ -73418,6 +73757,7 @@
               "child": null,
               "assembly": "right-upper-rail-1",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-07.png"
             },
             {
@@ -73445,6 +73785,7 @@
               "assembly": "right-side-carrier",
               "preassembled": false,
               "awaiting_child": "right-upper-rail-1",
+              "bands_installed": false,
               "image": "images/receiver-legacy-057j1.png"
             },
             {
@@ -73480,6 +73821,7 @@
               "child": "right-upper-rail-1",
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-08.png"
             },
             {
@@ -73501,6 +73843,7 @@
               "child": null,
               "assembly": "right-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-09.png"
             },
             {
@@ -73523,6 +73866,7 @@
               "child": null,
               "assembly": "right-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-10.png"
             },
             {
@@ -73546,6 +73890,7 @@
               "child": null,
               "assembly": "right-upper-rail-2",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-11.png"
             },
             {
@@ -73577,6 +73922,7 @@
               "assembly": "right-side-carrier",
               "preassembled": false,
               "awaiting_child": "right-upper-rail-2",
+              "bands_installed": false,
               "image": "images/receiver-legacy-057j2.png"
             },
             {
@@ -73614,6 +73960,7 @@
               "child": "right-upper-rail-2",
               "assembly": "right-side-carrier",
               "preassembled": false,
+              "bands_installed": false,
               "image": "images/corrected-018-12.png"
             },
             {
@@ -73732,6 +74079,7 @@
               "assembly": "truck",
               "preassembled": false,
               "awaiting_child": "right-side-carrier",
+              "bands_installed": true,
               "image": "images/receiver-legacy-058.png"
             },
             {
@@ -73880,12 +74228,57 @@
               "child": "right-side-carrier",
               "assembly": "truck",
               "preassembled": false,
+              "bands_installed": true,
               "image": "images/corrected-018-13.png"
             }
           ],
           "unit_name": "right side carrier",
+          "repeat_prefix_frames": 4,
+          "repeat_prefix_count": 2,
+          "repeat_prefix_from": 17,
           "approach_frames": [],
-          "corrected": true
+          "corrected": true,
+          "overview_source_operation": "legacy-058",
+          "overview_assembly": "truck",
+          "overview_new_ids": [
+            81,
+            82,
+            83,
+            87,
+            89,
+            93,
+            156,
+            157,
+            158,
+            166,
+            167,
+            176,
+            185,
+            205,
+            333
+          ],
+          "common_prefix_copies": [
+            [
+              96,
+              97,
+              98,
+              115,
+              116,
+              117,
+              140,
+              197
+            ],
+            [
+              156,
+              157,
+              158,
+              166,
+              167,
+              176,
+              185,
+              205
+            ]
+          ]
         },
         "legacy_step": 19
       },

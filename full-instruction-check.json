@@ -1,12 +1,12 @@
 {
   "source_model_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
-  "candidate_model_sha256": "436ec8b84a337926f953ed0e5412f5e6fcbca78489c71d11a8cedac4dd5f085f",
+  "candidate_model_sha256": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
   "same_piece_records_except_introduction_step": true,
   "unique_introductions": 348,
   "operations": 215,
   "main_steps": 67,
-  "pdf_pages": 142,
+  "pdf_pages": 138,
   "model_mpd_unchanged": true,
-  "pdf_sha256": "e3d00b243b6786345d6ab9b5a05d7d5916fc0769cfe915535e0a34ee610545da",
+  "pdf_sha256": "b69ae67b7c7894a862bd6b7e71d17a694956231bc459424e1e30fc6f4462718a",
   "limits": "Identity and declared order only. Readability review is recorded separately. No physical or continuous insertion certification; no acceptance implied."
 }
