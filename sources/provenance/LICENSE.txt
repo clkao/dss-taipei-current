@@ -1,0 +1,47 @@
+DSS Taipei Current / 洋流號 — original contributions and adaptations
+Copyright (c) 2026 CL Kao
+
+The original copyrightable contributions made by CL Kao for this project are
+licensed under Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/
+
+This grant covers only rights CL Kao holds in the project's original work and
+adaptations, including the new design contributions, instruction plan and
+diagrams, project text, and custom graphic layouts. When sharing or adapting
+these contributions, credit CL Kao, link the license, indicate changes, and
+share adaptations under the same or a compatible license as its terms require.
+
+Suggested attribution: "DSS Taipei Current / 洋流號 — original contributions
+and adaptations by CL Kao, CC BY-SA 4.0. Sources: https://clkao.github.io/dss-taipei-current/credits.html"
+
+THIRD-PARTY MATERIAL
+
+This grant does not relicense underlying third-party creations. Preserve their
+original notices and attribution; comply with their separate terms.
+
+- Pickup construction derives from KamalMYafi's LEGO 75875 reconstruction.
+- LDD-to-LDraw conversion references Sylvain Sauvage's ldraw.xml conventions.
+- LDraw part geometry retains its per-file CC BY 4.0 or dual-license notices.
+  Named authors, source files and original notices accompany the package.
+- LDCad Shadow material retains its CC BY-SA 4.0 terms and attribution to
+  Roland Melkert and contributors.
+- Campaign lettering and print assets are attributed to their official sources.
+- The real-world 洋流號 is credited collectively to the Shen Po-yang campaign
+  team and contributors as reported at its launch. Its ship-themed vehicle and later transparent
+  enclosure informed this LEGO adaptation. Individual physical-vehicle design
+  and fabrication credits remain unverified; see physical-vehicle-attribution.json.
+  Our license does not relicense that original physical design.
+- The 小英拍背 / 叫你休息 meme is attributed to AYA / AYA全糖腐女中心.
+  The two-sided speech-bubble layout is a project adaptation. The original
+  character illustration is not reproduced.
+- Third-party software retains its existing notices, including Three.js (MIT).
+
+The original upstream-assembly license and permissions for some campaign/meme
+material have not been established. This license does not supply those missing
+permissions or grant trademark, personality, or endorsement rights.
+
+Full references, modification descriptions, per-file authors and rights status:
+https://clkao.github.io/dss-taipei-current/credits.html
+
+The full CC BY-SA 4.0 legal text is supplied in licenses/CC-BY-SA-4.0.txt.
+No physical fit, grip, suspension response or strength warranty is given.

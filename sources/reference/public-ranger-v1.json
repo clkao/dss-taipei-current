@@ -1,0 +1,171 @@
+{
+  "id": "public-ranger-v1",
+  "units": "metres",
+  "orientation": "X forward, Y left, Z up",
+  "base_blend": "sources/donor-public/inspection/ranger-original.blend",
+  "base_sha256": "181dfc92bad5b1f017d8aa2b2f57ea55af9d0fccb5f7542aafd3bcf25fb3eb12",
+  "donor_mesh_sha256": "972c05e37f0795bec154c047ac6dd8b3c482a4635ea59005322c65091643f92f",
+  "source": "https://github.com/stephengold/jme-vehicles/tree/master/MavCommon/src/main/resources/Models/ford_ranger",
+  "credit": "mauro.zampaoli, Ford Ranger, CC BY 4.0; jMonkeyEngine conversion from stephengold/jme-vehicles",
+  "approved_use": "User accepted pictured donor for first version; 2026-10-21",
+  "known_difference": "Older Ranger body; retained intentionally for V1. Later donor can replace this profile.",
+  "wheelbase_m": 3.18,
+  "frames": {
+    "bed": {
+      "source_origin": [
+        -0.94,
+        0,
+        0.99
+      ],
+      "target_origin": [
+        -0.7,
+        0,
+        1.03
+      ],
+      "scale": [
+        1.12,
+        0.94,
+        1
+      ]
+    },
+    "cab": {
+      "source_origin": [
+        0,
+        0,
+        1.855
+      ],
+      "target_origin": [
+        -0.05,
+        0,
+        1.72
+      ],
+      "scale": [
+        0.6,
+        0.75,
+        1
+      ]
+    },
+    "cabin": {
+      "source_origin": [
+        -0.94,
+        0,
+        0.91
+      ],
+      "target_origin": [
+        -0.62,
+        0,
+        0.88
+      ],
+      "scale": [
+        0.81,
+        -0.91,
+        0.86
+      ]
+    },
+    "hood": {
+      "source_origin": [
+        1.27,
+        0,
+        1.3
+      ],
+      "target_origin": [
+        1.29,
+        0,
+        1.15
+      ],
+      "scale": [
+        0.94,
+        0.82,
+        0.88
+      ]
+    },
+    "vehicle": {
+      "source_origin": [
+        0,
+        0,
+        1.3
+      ],
+      "target_origin": [
+        0.08,
+        0,
+        1.17
+      ],
+      "scale": [
+        0.96,
+        0.94,
+        1
+      ]
+    },
+    "front-axle": {
+      "source_origin": [
+        1.5,
+        0,
+        0.405
+      ],
+      "target_origin": [
+        1.76,
+        0,
+        0.45
+      ],
+      "scale": [
+        0.87,
+        0.94,
+        0.87
+      ]
+    },
+    "rear-axle": {
+      "source_origin": [
+        -1.72,
+        0,
+        0.405
+      ],
+      "target_origin": [
+        -1.42,
+        0,
+        0.45
+      ],
+      "scale": [
+        0.87,
+        0.94,
+        0.87
+      ]
+    }
+  },
+  "selectors": {
+    "paint": [
+      "FianchiPosteriori",
+      "SottoportaSinistro4",
+      "CofanoAnteriore6",
+      "Cassino",
+      "ParamotaPosterioreSx",
+      "paramotaPosterioreDx",
+      "polySurface6_",
+      "polySurface26_",
+      "Tetto2_"
+    ],
+    "hood": "CofanoAnteriore6",
+    "roof": "Tetto2_",
+    "glazing": "blinn2",
+    "front_bumper": "ParaurtoAnteriore4",
+    "hood_cowl": [
+      "Specchiera"
+    ]
+  },
+  "fit_revision": 4,
+  "fit_note": "Roof framework resized to donor roof outline after user identified overhang; front/rear and side extents checked from mesh bounds.",
+  "front_fascia": {
+    "nose_x_m": 2.56,
+    "corner_sweep_m": 0.08,
+    "hood_raise_front_m": 0,
+    "hood_ramp_start_x_m": 1.35,
+    "hood_ramp_end_x_m": 2.56,
+    "replacement_selectors": [
+      "ParaurtoAnteriore4",
+      "FaroAnterioreDX",
+      "FaroAnterioreSX"
+    ],
+    "enabled": true,
+    "note": "Approximate T6-style front fitted to older retained donor; omit correction if later donor already matches.",
+    "fitted_top_z_m": 0.94
+  }
+}

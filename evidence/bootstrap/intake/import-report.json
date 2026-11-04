@@ -1,0 +1,6126 @@
+{
+  "schema": "studfleet/import-report-1",
+  "source_sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
+  "assembly_sha256": "792ee898ed3238cd7c26ea8a7466c1e68fc259f394a8af41a015152d92ab3642",
+  "capabilities": {
+    "schema": "studfleet/capabilities-1",
+    "tool": "studfleet/import-1;binary_sha256=bcbaf07e0b068297cd95f0487dc62e844f67f3318f5bf11146e30a005ae20490;vcs.revision=9dc7c81ffefd3afaae9b6a877365e260910533a1;vcs.modified=true",
+    "profile_sha256": "e69064b980b0630fe0dc1512994bf6f8b2e05be5590c018ae242b7d6a0b91829",
+    "expected_archive_sha256": "f3e496d0ede69ca7942fa4aa198e661ee2d22723906101e2e339d8917a4dd5f2",
+    "profiles": {
+      "3003": {
+        "width": 2,
+        "depth": 2,
+        "height": 24,
+        "studs": true,
+        "colors": [
+          0,
+          322
+        ],
+        "part_sha256": "aed0ccd750126a58d38b012a4e8b16c172896339547c120ef67b69e1386f490d",
+        "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3003",
+        "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=24; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+      },
+      "3004": {
+        "width": 2,
+        "depth": 1,
+        "height": 24,
+        "studs": true,
+        "colors": [
+          47,
+          322
+        ],
+        "part_sha256": "e1caee3b32175393c9d6ea176a47f8869173a01d03a451e1cfe10d09167c0203",
+        "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3004",
+        "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=24; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+      },
+      "3020": {
+        "width": 4,
+        "depth": 2,
+        "height": 8,
+        "studs": true,
+        "colors": [
+          0,
+          4,
+          14,
+          15,
+          19,
+          70,
+          47
+        ],
+        "part_sha256": "551e433cc4bcfdeeb6e390e509d52ee2e62c90d3eae625ee36928ef32291bb79",
+        "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3020\u0026itemType=P",
+        "shadow": "0 LDCad shadow info for \"Plate  2 x  4\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-16 {Roland Melkert} Initial info for 3020.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 4 C 2 20 20]\n"
+      },
+      "3022": {
+        "width": 2,
+        "depth": 2,
+        "height": 8,
+        "studs": true,
+        "colors": [
+          0,
+          47
+        ],
+        "part_sha256": "3cd09bfe626e751ad95eab0ea83e5f3adea81f05d34993a1c4bf432ee386fe25",
+        "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3022",
+        "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+      },
+      "3023": {
+        "width": 2,
+        "depth": 1,
+        "height": 8,
+        "studs": true,
+        "colors": [
+          47
+        ],
+        "part_sha256": "fa3eeab92b077488bae3dbc0fe974ef3327a77f130776d2965f13d3ebc22ab57",
+        "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023",
+        "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+      },
+      "3024": {
+        "width": 1,
+        "depth": 1,
+        "height": 8,
+        "studs": true,
+        "colors": [
+          0,
+          4,
+          14,
+          15,
+          19,
+          70
+        ],
+        "part_sha256": "e053af4f232374b0c8da2dc0f9620bedf0576ca43d7c3ceebc6676050ae61da8",
+        "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3024\u0026itemType=P",
+        "shadow": "0 LDCad shadow info for \"Plate  1 x  1\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-17 {Roland Melkert} Initial info for 3024.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0]\n"
+      },
+      "3031": {
+        "width": 4,
+        "depth": 4,
+        "height": 8,
+        "studs": true,
+        "colors": [
+          0,
+          4,
+          14,
+          15,
+          19,
+          70
+        ],
+        "part_sha256": "e67436538e47cb38b8352e91c2b5b7c7c274e070912603e5e9fc0b4513962338",
+        "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3031\u0026itemType=P",
+        "shadow": "0 LDCad shadow info for \"Plate  4 x  4\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-19 {Roland Melkert} Initial info for 3031.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 4 C 4 20 20]\n"
+      },
+      "3070b": {
+        "width": 1,
+        "depth": 1,
+        "height": 8,
+        "studs": false,
+        "colors": [
+          0,
+          4,
+          14,
+          15,
+          19,
+          70
+        ],
+        "part_sha256": "c7608c7e9f40c61747fb46c7107ef141b0a441e381768d2cdac0129f8ad03752",
+        "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3070\u0026itemType=P",
+        "shadow": "0 LDCad shadow info for \"Tile  1 x  1 with Groove\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2014-02-08 {Roland Melkert} Initial info for 3070b.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0]\n"
+      },
+      "3710": {
+        "width": 4,
+        "depth": 1,
+        "height": 8,
+        "studs": true,
+        "colors": [
+          47
+        ],
+        "part_sha256": "1a2d17e3e35750ccf02a54c7aee0cf7485c1c8596492746fc798d341399a3a6e",
+        "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3710",
+        "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+      },
+      "87087": {
+        "width": 1,
+        "depth": 1,
+        "height": 24,
+        "studs": true,
+        "colors": [
+          0,
+          4,
+          14,
+          15,
+          19,
+          70
+        ],
+        "part_sha256": "0d170f4222bc555c4c0f85de872f3481715d4e2557a0359448d95352df1b2ac9",
+        "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=87087\u0026itemType=P",
+        "shadow": "0 LDCad shadow info for \"Brick  1 x  1 with Stud on 1 Side\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-15 {Roland Melkert} Initial info for 87087.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=0 24 0]\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 20] [pos=0 10 -14] [ori=1 0 0 0 0 1 0 -1 0]\n"
+      },
+      "98138": {
+        "width": 1,
+        "depth": 1,
+        "height": 8,
+        "studs": false,
+        "colors": [
+          322
+        ],
+        "part_sha256": "1d506f39ea2bf69757206009498025381bbf28d9fa0b79385a30f4c5fa37f111",
+        "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=98138",
+        "shadow": "Finite underside-only socket Y=8; no top studs; conservative 20 x 8 x 20 LDU square body."
+      }
+    },
+    "static_pose": "Exact proper orthogonal poses; conservative body and stud/socket profiles",
+    "render_support": "unverified: no archive resolved",
+    "default_import_limits": {
+      "bytes": 131072,
+      "definitions": 64,
+      "depth": 16,
+      "occurrences": 500,
+      "coordinate": 100000,
+      "deadline_ms": 2000
+    }
+  },
+  "limits": {
+    "bytes": 131072,
+    "definitions": 64,
+    "depth": 16,
+    "occurrences": 500,
+    "coordinate": 100000,
+    "deadline_ms": 2000
+  },
+  "root_color": 7,
+  "origins": [
+    {
+      "id": "o/1/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 5,
+          "reference": "assembly-banner.ldr"
+        },
+        {
+          "definition": "assembly-banner.ldr",
+          "line": 54,
+          "reference": "3062b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/1/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 5,
+          "reference": "assembly-banner.ldr"
+        },
+        {
+          "definition": "assembly-banner.ldr",
+          "line": 56,
+          "reference": "3794b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/1/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 5,
+          "reference": "assembly-banner.ldr"
+        },
+        {
+          "definition": "assembly-banner.ldr",
+          "line": 58,
+          "reference": "85861.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/1/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 5,
+          "reference": "assembly-banner.ldr"
+        },
+        {
+          "definition": "assembly-banner.ldr",
+          "line": 62,
+          "reference": "76348.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/1/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 5,
+          "reference": "assembly-banner.ldr"
+        },
+        {
+          "definition": "assembly-banner.ldr",
+          "line": 66,
+          "reference": "2335.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/1/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 5,
+          "reference": "assembly-banner.ldr"
+        },
+        {
+          "definition": "assembly-banner.ldr",
+          "line": 68,
+          "reference": "2335.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/2/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 8,
+          "reference": "assembly-cab-roof.ldr"
+        },
+        {
+          "definition": "assembly-cab-roof.ldr",
+          "line": 75,
+          "reference": "52031.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/3/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 11,
+          "reference": "assembly-candidate.ldr"
+        },
+        {
+          "definition": "assembly-candidate.ldr",
+          "line": 82,
+          "reference": "3815c01.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/3/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 11,
+          "reference": "assembly-candidate.ldr"
+        },
+        {
+          "definition": "assembly-candidate.ldr",
+          "line": 84,
+          "reference": "973p5i.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/3/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 11,
+          "reference": "assembly-candidate.ldr"
+        },
+        {
+          "definition": "assembly-candidate.ldr",
+          "line": 86,
+          "reference": "3818.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/3/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 11,
+          "reference": "assembly-candidate.ldr"
+        },
+        {
+          "definition": "assembly-candidate.ldr",
+          "line": 88,
+          "reference": "3819.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/3/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 11,
+          "reference": "assembly-candidate.ldr"
+        },
+        {
+          "definition": "assembly-candidate.ldr",
+          "line": 90,
+          "reference": "3820.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/3/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 11,
+          "reference": "assembly-candidate.ldr"
+        },
+        {
+          "definition": "assembly-candidate.ldr",
+          "line": 92,
+          "reference": "3820.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/3/7",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 11,
+          "reference": "assembly-candidate.ldr"
+        },
+        {
+          "definition": "assembly-candidate.ldr",
+          "line": 94,
+          "reference": "3626cp87.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/3/8",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 11,
+          "reference": "assembly-candidate.ldr"
+        },
+        {
+          "definition": "assembly-candidate.ldr",
+          "line": 96,
+          "reference": "98385.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/4/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 14,
+          "reference": "assembly-deck.ldr"
+        },
+        {
+          "definition": "assembly-deck.ldr",
+          "line": 103,
+          "reference": "3958.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/4/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 14,
+          "reference": "assembly-deck.ldr"
+        },
+        {
+          "definition": "assembly-deck.ldr",
+          "line": 107,
+          "reference": "4083.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/4/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 14,
+          "reference": "assembly-deck.ldr"
+        },
+        {
+          "definition": "assembly-deck.ldr",
+          "line": 109,
+          "reference": "4083.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/5/1/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 17,
+          "reference": "assembly-helm.ldr"
+        },
+        {
+          "definition": "assembly-helm.ldr",
+          "line": 115,
+          "reference": "assembly-helm-unit.ldr"
+        },
+        {
+          "definition": "assembly-helm-unit.ldr",
+          "line": 122,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/5/1/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 17,
+          "reference": "assembly-helm.ldr"
+        },
+        {
+          "definition": "assembly-helm.ldr",
+          "line": 115,
+          "reference": "assembly-helm-unit.ldr"
+        },
+        {
+          "definition": "assembly-helm-unit.ldr",
+          "line": 126,
+          "reference": "3003.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/5/1/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 17,
+          "reference": "assembly-helm.ldr"
+        },
+        {
+          "definition": "assembly-helm.ldr",
+          "line": 115,
+          "reference": "assembly-helm-unit.ldr"
+        },
+        {
+          "definition": "assembly-helm-unit.ldr",
+          "line": 130,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/5/1/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 17,
+          "reference": "assembly-helm.ldr"
+        },
+        {
+          "definition": "assembly-helm.ldr",
+          "line": 115,
+          "reference": "assembly-helm-unit.ldr"
+        },
+        {
+          "definition": "assembly-helm-unit.ldr",
+          "line": 134,
+          "reference": "3700.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/5/1/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 17,
+          "reference": "assembly-helm.ldr"
+        },
+        {
+          "definition": "assembly-helm.ldr",
+          "line": 115,
+          "reference": "assembly-helm-unit.ldr"
+        },
+        {
+          "definition": "assembly-helm-unit.ldr",
+          "line": 138,
+          "reference": "4790.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/6/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 20,
+          "reference": "assembly-hood.ldr"
+        },
+        {
+          "definition": "assembly-hood.ldr",
+          "line": 145,
+          "reference": "52031.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/6/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 20,
+          "reference": "assembly-hood.ldr"
+        },
+        {
+          "definition": "assembly-hood.ldr",
+          "line": 149,
+          "reference": "3068b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/6/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 20,
+          "reference": "assembly-hood.ldr"
+        },
+        {
+          "definition": "assembly-hood.ldr",
+          "line": 151,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/6/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 20,
+          "reference": "assembly-hood.ldr"
+        },
+        {
+          "definition": "assembly-hood.ldr",
+          "line": 153,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/7/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 23,
+          "reference": "assembly-interior.ldr"
+        },
+        {
+          "definition": "assembly-interior.ldr",
+          "line": 160,
+          "reference": "4079.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/8/1/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 26,
+          "reference": "assembly-ring-left.ldr"
+        },
+        {
+          "definition": "assembly-ring-left.ldr",
+          "line": 166,
+          "reference": "assembly-ring-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-left-unit.ldr",
+          "line": 173,
+          "reference": "15712.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/8/1/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 26,
+          "reference": "assembly-ring-left.ldr"
+        },
+        {
+          "definition": "assembly-ring-left.ldr",
+          "line": 166,
+          "reference": "assembly-ring-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-left-unit.ldr",
+          "line": 177,
+          "reference": "30340.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/9/1/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 29,
+          "reference": "assembly-ring-right.ldr"
+        },
+        {
+          "definition": "assembly-ring-right.ldr",
+          "line": 183,
+          "reference": "assembly-ring-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-right-unit.ldr",
+          "line": 190,
+          "reference": "15712.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/9/1/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 29,
+          "reference": "assembly-ring-right.ldr"
+        },
+        {
+          "definition": "assembly-ring-right.ldr",
+          "line": 183,
+          "reference": "assembly-ring-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-right-unit.ldr",
+          "line": 194,
+          "reference": "30340.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/10/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 32,
+          "reference": "assembly-sail.ldr"
+        },
+        {
+          "definition": "assembly-sail.ldr",
+          "line": 201,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/10/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 32,
+          "reference": "assembly-sail.ldr"
+        },
+        {
+          "definition": "assembly-sail.ldr",
+          "line": 205,
+          "reference": "3062b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/10/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 32,
+          "reference": "assembly-sail.ldr"
+        },
+        {
+          "definition": "assembly-sail.ldr",
+          "line": 207,
+          "reference": "3062b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/10/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 32,
+          "reference": "assembly-sail.ldr"
+        },
+        {
+          "definition": "assembly-sail.ldr",
+          "line": 211,
+          "reference": "4095.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/10/5/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 32,
+          "reference": "assembly-sail.ldr"
+        },
+        {
+          "definition": "assembly-sail.ldr",
+          "line": 214,
+          "reference": "assembly-sail-panel.ldr"
+        },
+        {
+          "definition": "assembly-sail-panel.ldr",
+          "line": 221,
+          "reference": "65426.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/10/5/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 32,
+          "reference": "assembly-sail.ldr"
+        },
+        {
+          "definition": "assembly-sail.ldr",
+          "line": 214,
+          "reference": "assembly-sail-panel.ldr"
+        },
+        {
+          "definition": "assembly-sail-panel.ldr",
+          "line": 223,
+          "reference": "65429.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/10/5/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 32,
+          "reference": "assembly-sail.ldr"
+        },
+        {
+          "definition": "assembly-sail.ldr",
+          "line": 214,
+          "reference": "assembly-sail-panel.ldr"
+        },
+        {
+          "definition": "assembly-sail-panel.ldr",
+          "line": 227,
+          "reference": "3068b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/10/5/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 32,
+          "reference": "assembly-sail.ldr"
+        },
+        {
+          "definition": "assembly-sail.ldr",
+          "line": 214,
+          "reference": "assembly-sail-panel.ldr"
+        },
+        {
+          "definition": "assembly-sail-panel.ldr",
+          "line": 231,
+          "reference": "61252.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/10/5/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 32,
+          "reference": "assembly-sail.ldr"
+        },
+        {
+          "definition": "assembly-sail.ldr",
+          "line": 214,
+          "reference": "assembly-sail-panel.ldr"
+        },
+        {
+          "definition": "assembly-sail-panel.ldr",
+          "line": 233,
+          "reference": "61252.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 240,
+          "reference": "3034.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 242,
+          "reference": "3034.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/3/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 245,
+          "reference": "assembly-shield-panel-1.ldr"
+        },
+        {
+          "definition": "assembly-shield-panel-1.ldr",
+          "line": 258,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/3/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 245,
+          "reference": "assembly-shield-panel-1.ldr"
+        },
+        {
+          "definition": "assembly-shield-panel-1.ldr",
+          "line": 262,
+          "reference": "59349.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/3/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 245,
+          "reference": "assembly-shield-panel-1.ldr"
+        },
+        {
+          "definition": "assembly-shield-panel-1.ldr",
+          "line": 266,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/4/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 248,
+          "reference": "assembly-shield-panel-2.ldr"
+        },
+        {
+          "definition": "assembly-shield-panel-2.ldr",
+          "line": 273,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/4/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 248,
+          "reference": "assembly-shield-panel-2.ldr"
+        },
+        {
+          "definition": "assembly-shield-panel-2.ldr",
+          "line": 277,
+          "reference": "59349.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/4/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 248,
+          "reference": "assembly-shield-panel-2.ldr"
+        },
+        {
+          "definition": "assembly-shield-panel-2.ldr",
+          "line": 281,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/5/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 251,
+          "reference": "assembly-shield-panel-3.ldr"
+        },
+        {
+          "definition": "assembly-shield-panel-3.ldr",
+          "line": 288,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/5/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 251,
+          "reference": "assembly-shield-panel-3.ldr"
+        },
+        {
+          "definition": "assembly-shield-panel-3.ldr",
+          "line": 292,
+          "reference": "59349.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/11/5/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 35,
+          "reference": "assembly-shield.ldr"
+        },
+        {
+          "definition": "assembly-shield.ldr",
+          "line": 251,
+          "reference": "assembly-shield-panel-3.ldr"
+        },
+        {
+          "definition": "assembly-shield-panel-3.ldr",
+          "line": 296,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/12/1/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 309,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/12/1/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 313,
+          "reference": "4070.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/12/1/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 315,
+          "reference": "4070.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/12/1/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 319,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/12/1/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 321,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/12/1/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 38,
+          "reference": "assembly-speaker-left.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left.ldr",
+          "line": 302,
+          "reference": "assembly-speaker-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-left-unit.ldr",
+          "line": 325,
+          "reference": "3068b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/13/1/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 338,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/13/1/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 342,
+          "reference": "4070.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/13/1/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 344,
+          "reference": "4070.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/13/1/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 348,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/13/1/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 350,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/13/1/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 41,
+          "reference": "assembly-speaker-right.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right.ldr",
+          "line": 331,
+          "reference": "assembly-speaker-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-speaker-right-unit.ldr",
+          "line": 354,
+          "reference": "3068b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 913,
+          "reference": "32018.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 915,
+          "reference": "32018.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 919,
+          "reference": "3031.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 921,
+          "reference": "3031.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 925,
+          "reference": "3020.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 927,
+          "reference": "3021.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/7",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 929,
+          "reference": "3021.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/8",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 933,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/9",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 935,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/10",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 939,
+          "reference": "3020.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/1/11",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 360,
+          "reference": "assembly-chassis-core.ldr"
+        },
+        {
+          "definition": "assembly-chassis-core.ldr",
+          "line": 941,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 364,
+          "reference": "3460.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 366,
+          "reference": "3460.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 370,
+          "reference": "18671.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 372,
+          "reference": "18671.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 376,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/7",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 380,
+          "reference": "87079.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/8",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 384,
+          "reference": "3460.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/9",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 386,
+          "reference": "3460.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/10",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 390,
+          "reference": "2780.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/11",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 392,
+          "reference": "2780.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/12/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 395,
+          "reference": "assembly-rear-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-left-suspension.ldr",
+          "line": 948,
+          "reference": "32140.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/12/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 395,
+          "reference": "assembly-rear-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-left-suspension.ldr",
+          "line": 950,
+          "reference": "32556b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/12/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 395,
+          "reference": "assembly-rear-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-left-suspension.ldr",
+          "line": 954,
+          "reference": "2780.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/12/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 395,
+          "reference": "assembly-rear-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-left-suspension.ldr",
+          "line": 956,
+          "reference": "32140.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/12/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 395,
+          "reference": "assembly-rear-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-left-suspension.ldr",
+          "line": 960,
+          "reference": "32556b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/12/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 395,
+          "reference": "assembly-rear-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-left-suspension.ldr",
+          "line": 962,
+          "reference": "6628.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/13/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 398,
+          "reference": "assembly-rear-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-right-suspension.ldr",
+          "line": 969,
+          "reference": "32140.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/13/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 398,
+          "reference": "assembly-rear-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-right-suspension.ldr",
+          "line": 971,
+          "reference": "32556b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/13/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 398,
+          "reference": "assembly-rear-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-right-suspension.ldr",
+          "line": 975,
+          "reference": "2780.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/13/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 398,
+          "reference": "assembly-rear-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-right-suspension.ldr",
+          "line": 977,
+          "reference": "32140.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/13/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 398,
+          "reference": "assembly-rear-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-right-suspension.ldr",
+          "line": 981,
+          "reference": "32556b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/13/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 398,
+          "reference": "assembly-rear-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-rear-right-suspension.ldr",
+          "line": 983,
+          "reference": "6628.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/14/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 401,
+          "reference": "assembly-front-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-left-suspension.ldr",
+          "line": 990,
+          "reference": "32140.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/14/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 401,
+          "reference": "assembly-front-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-left-suspension.ldr",
+          "line": 992,
+          "reference": "32556b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/14/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 401,
+          "reference": "assembly-front-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-left-suspension.ldr",
+          "line": 996,
+          "reference": "2780.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/14/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 401,
+          "reference": "assembly-front-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-left-suspension.ldr",
+          "line": 998,
+          "reference": "32140.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/14/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 401,
+          "reference": "assembly-front-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-left-suspension.ldr",
+          "line": 1002,
+          "reference": "32556b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/14/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 401,
+          "reference": "assembly-front-left-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-left-suspension.ldr",
+          "line": 1004,
+          "reference": "6628.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/15/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 404,
+          "reference": "assembly-front-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-right-suspension.ldr",
+          "line": 1011,
+          "reference": "32140.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/15/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 404,
+          "reference": "assembly-front-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-right-suspension.ldr",
+          "line": 1013,
+          "reference": "32556b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/15/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 404,
+          "reference": "assembly-front-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-right-suspension.ldr",
+          "line": 1017,
+          "reference": "2780.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/15/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 404,
+          "reference": "assembly-front-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-right-suspension.ldr",
+          "line": 1019,
+          "reference": "32140.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/15/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 404,
+          "reference": "assembly-front-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-right-suspension.ldr",
+          "line": 1023,
+          "reference": "32556b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/15/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 404,
+          "reference": "assembly-front-right-suspension.ldr"
+        },
+        {
+          "definition": "assembly-front-right-suspension.ldr",
+          "line": 1025,
+          "reference": "6628.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/16",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 410,
+          "reference": "2654a.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/17",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 412,
+          "reference": "2654a.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/18",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 416,
+          "reference": "2654a.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/19",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 418,
+          "reference": "2654a.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/20",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 420,
+          "reference": "2654a.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/21",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 424,
+          "reference": "98263.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/22",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 426,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/23",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 430,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/24",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 432,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/25",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 434,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/26",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 438,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/27",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 440,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/28",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 444,
+          "reference": "4286.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/29",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 446,
+          "reference": "4286.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/30",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 448,
+          "reference": "2431.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/31",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 452,
+          "reference": "3036.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/32",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 454,
+          "reference": "3036.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/33",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 458,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/34",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 460,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/35",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 462,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/36",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 464,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/37",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 468,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/38",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 470,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/39",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 472,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/40",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 474,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/41",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 478,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/42",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 480,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/43",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 482,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/44",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 484,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/45",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 488,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/46",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 490,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/47",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 492,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/48",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 494,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/49",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 498,
+          "reference": "6179.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/50",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 500,
+          "reference": "3020.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/51",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 504,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/52",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 506,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/53",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 508,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/54",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 510,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1032,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1036,
+          "reference": "93274.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1038,
+          "reference": "93274.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1042,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1044,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1046,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/7",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1050,
+          "reference": "54200.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/8",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1052,
+          "reference": "54200.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/9",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1056,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/10",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1058,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/11",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1062,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/12",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1064,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/13",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1068,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/14",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1070,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/55/15",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 513,
+          "reference": "assembly-left-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-left-side-carrier.ldr",
+          "line": 1072,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1079,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1083,
+          "reference": "93274.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1085,
+          "reference": "93274.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1089,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1091,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1093,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/7",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1097,
+          "reference": "54200.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/8",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1099,
+          "reference": "54200.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/9",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1103,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/10",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1105,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/11",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1109,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/12",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1111,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/13",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1115,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/14",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1117,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/56/15",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 516,
+          "reference": "assembly-right-side-carrier.ldr"
+        },
+        {
+          "definition": "assembly-right-side-carrier.ldr",
+          "line": 1119,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/57",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 520,
+          "reference": "98282.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/58",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 522,
+          "reference": "98282.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/59",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 526,
+          "reference": "98282.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/60",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 528,
+          "reference": "98282.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/61/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 531,
+          "reference": "assembly-rear-bed.ldr"
+        },
+        {
+          "definition": "assembly-rear-bed.ldr",
+          "line": 1126,
+          "reference": "3795.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/61/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 531,
+          "reference": "assembly-rear-bed.ldr"
+        },
+        {
+          "definition": "assembly-rear-bed.ldr",
+          "line": 1130,
+          "reference": "3020.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/61/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 531,
+          "reference": "assembly-rear-bed.ldr"
+        },
+        {
+          "definition": "assembly-rear-bed.ldr",
+          "line": 1134,
+          "reference": "44728.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/61/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 531,
+          "reference": "assembly-rear-bed.ldr"
+        },
+        {
+          "definition": "assembly-rear-bed.ldr",
+          "line": 1136,
+          "reference": "44728.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/61/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 531,
+          "reference": "assembly-rear-bed.ldr"
+        },
+        {
+          "definition": "assembly-rear-bed.ldr",
+          "line": 1138,
+          "reference": "44728.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/61/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 531,
+          "reference": "assembly-rear-bed.ldr"
+        },
+        {
+          "definition": "assembly-rear-bed.ldr",
+          "line": 1142,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/61/7",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 531,
+          "reference": "assembly-rear-bed.ldr"
+        },
+        {
+          "definition": "assembly-rear-bed.ldr",
+          "line": 1144,
+          "reference": "99207.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/61/8",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 531,
+          "reference": "assembly-rear-bed.ldr"
+        },
+        {
+          "definition": "assembly-rear-bed.ldr",
+          "line": 1148,
+          "reference": "3460.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/61/9",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 531,
+          "reference": "assembly-rear-bed.ldr"
+        },
+        {
+          "definition": "assembly-rear-bed.ldr",
+          "line": 1150,
+          "reference": "3460.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/62",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 535,
+          "reference": "18654.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/63",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 537,
+          "reference": "18654.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/64",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 541,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/65",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 543,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/66",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 547,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/67",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 549,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/68",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 553,
+          "reference": "92280.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/69",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 555,
+          "reference": "92280.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/70",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 557,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/71",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 559,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/72",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 563,
+          "reference": "14719.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/73",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 565,
+          "reference": "14719.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/74",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 567,
+          "reference": "6091.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/75",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 569,
+          "reference": "6091.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/76",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 573,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/77",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 577,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/78",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 579,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/79",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 581,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/80",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 585,
+          "reference": "15068.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/81",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 587,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/82",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 589,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/83",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 593,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/84",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 595,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/85",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 597,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/86",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 601,
+          "reference": "87079.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/87",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 603,
+          "reference": "3068b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/88",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 607,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/89",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 609,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/90",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 611,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/91",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 615,
+          "reference": "15068.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/92",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 617,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/93",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 619,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/94",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 623,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/95",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 625,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/96",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 627,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/97",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 631,
+          "reference": "87079.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/98",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 633,
+          "reference": "3068b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/99",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 637,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/100",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 639,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/101",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 641,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/102",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 643,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/103",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 647,
+          "reference": "4081b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/104",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 649,
+          "reference": "3070b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/105",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 651,
+          "reference": "4081b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/106",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 653,
+          "reference": "3070b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/107",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 657,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/108",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 659,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/109",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 661,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/110",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 663,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/111",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 667,
+          "reference": "4081b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/112",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 669,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/113",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 671,
+          "reference": "4081b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/114",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 673,
+          "reference": "3069b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/115",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 677,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/116",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 679,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/117",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 683,
+          "reference": "3460.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/118",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 685,
+          "reference": "3460.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/119",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 689,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/120",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 691,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/121",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 693,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/122",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 695,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/123",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 699,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/124",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 701,
+          "reference": "85984.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/125",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 703,
+          "reference": "54200.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/126",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 705,
+          "reference": "54200.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/127",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 709,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/128",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 711,
+          "reference": "3023b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/129/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 714,
+          "reference": "assembly-tailgate.ldr"
+        },
+        {
+          "definition": "assembly-tailgate.ldr",
+          "line": 1157,
+          "reference": "3795.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/129/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 714,
+          "reference": "assembly-tailgate.ldr"
+        },
+        {
+          "definition": "assembly-tailgate.ldr",
+          "line": 1159,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/129/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 714,
+          "reference": "assembly-tailgate.ldr"
+        },
+        {
+          "definition": "assembly-tailgate.ldr",
+          "line": 1161,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/129/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 714,
+          "reference": "assembly-tailgate.ldr"
+        },
+        {
+          "definition": "assembly-tailgate.ldr",
+          "line": 1165,
+          "reference": "60478.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/129/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 714,
+          "reference": "assembly-tailgate.ldr"
+        },
+        {
+          "definition": "assembly-tailgate.ldr",
+          "line": 1167,
+          "reference": "60478.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/129/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 714,
+          "reference": "assembly-tailgate.ldr"
+        },
+        {
+          "definition": "assembly-tailgate.ldr",
+          "line": 1171,
+          "reference": "6636.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/129/7",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 714,
+          "reference": "assembly-tailgate.ldr"
+        },
+        {
+          "definition": "assembly-tailgate.ldr",
+          "line": 1173,
+          "reference": "6636.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/130",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 718,
+          "reference": "3001.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/131",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 720,
+          "reference": "3020.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/132",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 724,
+          "reference": "3005.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/133",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 726,
+          "reference": "3005.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/134",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 728,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/135",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 730,
+          "reference": "6141.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/136",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 734,
+          "reference": "44728.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/137",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 736,
+          "reference": "44728.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/138",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 738,
+          "reference": "44728.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/139",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 742,
+          "reference": "3002.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/140",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 746,
+          "reference": "3002.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/141",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 748,
+          "reference": "3002.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/142",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 752,
+          "reference": "3665b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/143",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 754,
+          "reference": "3665b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/144",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 758,
+          "reference": "3020.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/145",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 762,
+          "reference": "2412b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/146",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 764,
+          "reference": "2412b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/147",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 766,
+          "reference": "2412b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/148",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 768,
+          "reference": "2412b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/149",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 772,
+          "reference": "49307.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/150",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 774,
+          "reference": "49307.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/151",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 776,
+          "reference": "3070b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/152",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 778,
+          "reference": "3070b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/153",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 782,
+          "reference": "49307.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/154",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 784,
+          "reference": "49307.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/155",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 786,
+          "reference": "3070b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/156",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 788,
+          "reference": "3070b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/157",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 792,
+          "reference": "3031.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/158",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 794,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/159",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 796,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/160",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 800,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/161",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 802,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/162",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 806,
+          "reference": "3037.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/163",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 808,
+          "reference": "3040b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/164",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 810,
+          "reference": "3040b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/165",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 814,
+          "reference": "3020.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/166",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 818,
+          "reference": "30136.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/167",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 820,
+          "reference": "2412b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/168",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 822,
+          "reference": "2412b.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/169",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 826,
+          "reference": "3829a.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/170",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 828,
+          "reference": "3828.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/171",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 832,
+          "reference": "3004.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/172",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 834,
+          "reference": "3004.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/173",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 836,
+          "reference": "3004.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/174",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 838,
+          "reference": "3004.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/175",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 842,
+          "reference": "87552.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/176",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 844,
+          "reference": "87552.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/177",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 846,
+          "reference": "87552.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/178",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 848,
+          "reference": "87552.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/179",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 852,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/180",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 854,
+          "reference": "54200.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/181",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 856,
+          "reference": "54200.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/182",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 860,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/183",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 862,
+          "reference": "3710.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/184",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 866,
+          "reference": "92583.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/185",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 870,
+          "reference": "3666.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/186",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 872,
+          "reference": "2431.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/187/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 875,
+          "reference": "assembly-rear-left-wheel.ldr"
+        },
+        {
+          "definition": "assembly-rear-left-wheel.ldr",
+          "line": 1180,
+          "reference": "55981.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/187/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 875,
+          "reference": "assembly-rear-left-wheel.ldr"
+        },
+        {
+          "definition": "assembly-rear-left-wheel.ldr",
+          "line": 1184,
+          "reference": "92402.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/188/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 878,
+          "reference": "assembly-rear-right-wheel.ldr"
+        },
+        {
+          "definition": "assembly-rear-right-wheel.ldr",
+          "line": 1191,
+          "reference": "55981.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/188/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 878,
+          "reference": "assembly-rear-right-wheel.ldr"
+        },
+        {
+          "definition": "assembly-rear-right-wheel.ldr",
+          "line": 1195,
+          "reference": "92402.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/189/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 881,
+          "reference": "assembly-front-left-wheel.ldr"
+        },
+        {
+          "definition": "assembly-front-left-wheel.ldr",
+          "line": 1202,
+          "reference": "55981.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/189/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 881,
+          "reference": "assembly-front-left-wheel.ldr"
+        },
+        {
+          "definition": "assembly-front-left-wheel.ldr",
+          "line": 1206,
+          "reference": "92402.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/190/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 884,
+          "reference": "assembly-front-right-wheel.ldr"
+        },
+        {
+          "definition": "assembly-front-right-wheel.ldr",
+          "line": 1213,
+          "reference": "55981.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/190/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 884,
+          "reference": "assembly-front-right-wheel.ldr"
+        },
+        {
+          "definition": "assembly-front-right-wheel.ldr",
+          "line": 1217,
+          "reference": "92402.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/191/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 887,
+          "reference": "assembly-platform-riser-1.ldr"
+        },
+        {
+          "definition": "assembly-platform-riser-1.ldr",
+          "line": 1224,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/191/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 887,
+          "reference": "assembly-platform-riser-1.ldr"
+        },
+        {
+          "definition": "assembly-platform-riser-1.ldr",
+          "line": 1228,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/192/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 890,
+          "reference": "assembly-platform-riser-2.ldr"
+        },
+        {
+          "definition": "assembly-platform-riser-2.ldr",
+          "line": 1235,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/192/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 890,
+          "reference": "assembly-platform-riser-2.ldr"
+        },
+        {
+          "definition": "assembly-platform-riser-2.ldr",
+          "line": 1239,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/193/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 893,
+          "reference": "assembly-platform-riser-3.ldr"
+        },
+        {
+          "definition": "assembly-platform-riser-3.ldr",
+          "line": 1246,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/193/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 893,
+          "reference": "assembly-platform-riser-3.ldr"
+        },
+        {
+          "definition": "assembly-platform-riser-3.ldr",
+          "line": 1250,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/194/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 896,
+          "reference": "assembly-platform-riser-4.ldr"
+        },
+        {
+          "definition": "assembly-platform-riser-4.ldr",
+          "line": 1257,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/14/194/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 44,
+          "reference": "assembly-truck.ldr"
+        },
+        {
+          "definition": "assembly-truck.ldr",
+          "line": 896,
+          "reference": "assembly-platform-riser-4.ldr"
+        },
+        {
+          "definition": "assembly-platform-riser-4.ldr",
+          "line": 1261,
+          "reference": "3022.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/15/1/1",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 47,
+          "reference": "assembly-tsai.ldr"
+        },
+        {
+          "definition": "assembly-tsai.ldr",
+          "line": 1267,
+          "reference": "assembly-tsai-unit.ldr"
+        },
+        {
+          "definition": "assembly-tsai-unit.ldr",
+          "line": 1274,
+          "reference": "3815c01.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/15/1/2",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 47,
+          "reference": "assembly-tsai.ldr"
+        },
+        {
+          "definition": "assembly-tsai.ldr",
+          "line": 1267,
+          "reference": "assembly-tsai-unit.ldr"
+        },
+        {
+          "definition": "assembly-tsai-unit.ldr",
+          "line": 1276,
+          "reference": "973.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/15/1/3",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 47,
+          "reference": "assembly-tsai.ldr"
+        },
+        {
+          "definition": "assembly-tsai.ldr",
+          "line": 1267,
+          "reference": "assembly-tsai-unit.ldr"
+        },
+        {
+          "definition": "assembly-tsai-unit.ldr",
+          "line": 1278,
+          "reference": "3818.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/15/1/4",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 47,
+          "reference": "assembly-tsai.ldr"
+        },
+        {
+          "definition": "assembly-tsai.ldr",
+          "line": 1267,
+          "reference": "assembly-tsai-unit.ldr"
+        },
+        {
+          "definition": "assembly-tsai-unit.ldr",
+          "line": 1280,
+          "reference": "3819.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/15/1/5",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 47,
+          "reference": "assembly-tsai.ldr"
+        },
+        {
+          "definition": "assembly-tsai.ldr",
+          "line": 1267,
+          "reference": "assembly-tsai-unit.ldr"
+        },
+        {
+          "definition": "assembly-tsai-unit.ldr",
+          "line": 1282,
+          "reference": "3820.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/15/1/6",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 47,
+          "reference": "assembly-tsai.ldr"
+        },
+        {
+          "definition": "assembly-tsai.ldr",
+          "line": 1267,
+          "reference": "assembly-tsai-unit.ldr"
+        },
+        {
+          "definition": "assembly-tsai-unit.ldr",
+          "line": 1284,
+          "reference": "3820.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/15/1/7",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 47,
+          "reference": "assembly-tsai.ldr"
+        },
+        {
+          "definition": "assembly-tsai.ldr",
+          "line": 1267,
+          "reference": "assembly-tsai-unit.ldr"
+        },
+        {
+          "definition": "assembly-tsai-unit.ldr",
+          "line": 1286,
+          "reference": "3626cp87.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/15/1/8",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 47,
+          "reference": "assembly-tsai.ldr"
+        },
+        {
+          "definition": "assembly-tsai.ldr",
+          "line": 1267,
+          "reference": "assembly-tsai-unit.ldr"
+        },
+        {
+          "definition": "assembly-tsai-unit.ldr",
+          "line": 1288,
+          "reference": "62711.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/15/1/9",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 47,
+          "reference": "assembly-tsai.ldr"
+        },
+        {
+          "definition": "assembly-tsai.ldr",
+          "line": 1267,
+          "reference": "assembly-tsai-unit.ldr"
+        },
+        {
+          "definition": "assembly-tsai-unit.ldr",
+          "line": 1292,
+          "reference": "30374.dat"
+        }
+      ]
+    },
+    {
+      "id": "o/15/1/10",
+      "path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 47,
+          "reference": "assembly-tsai.ldr"
+        },
+        {
+          "definition": "assembly-tsai.ldr",
+          "line": 1267,
+          "reference": "assembly-tsai-unit.ldr"
+        },
+        {
+          "definition": "assembly-tsai-unit.ldr",
+          "line": 1294,
+          "reference": "2335.dat"
+        }
+      ]
+    }
+  ],
+  "diagnostics": []
+}

@@ -1,0 +1,1718 @@
+{
+  "schema": "dss-operation-crosswalk/1",
+  "generated_by": "scripts/adapt_legacy.py",
+  "hand_edit": false,
+  "source_model_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+  "source_plan_sha256": "9d05fe11832876ad3ee4fb52412c7f9ebd1f41d5f1dfcc1a0c7cb34932fa8402",
+  "assembly_sha256": "792ee898ed3238cd7c26ea8a7466c1e68fc259f394a8af41a015152d92ab3642",
+  "operations": [
+    {
+      "id": "legacy-op-001",
+      "legacy_operation": 1,
+      "legacy_main_step": 1,
+      "occurrences": [
+        "o/14/1/1",
+        "o/14/1/2"
+      ]
+    },
+    {
+      "id": "legacy-op-002",
+      "legacy_operation": 2,
+      "legacy_main_step": 1,
+      "occurrences": [
+        "o/14/1/3",
+        "o/14/1/4"
+      ]
+    },
+    {
+      "id": "legacy-op-003",
+      "legacy_operation": 3,
+      "legacy_main_step": 1,
+      "occurrences": [
+        "o/14/1/5",
+        "o/14/1/6",
+        "o/14/1/7"
+      ]
+    },
+    {
+      "id": "legacy-op-004",
+      "legacy_operation": 4,
+      "legacy_main_step": 1,
+      "occurrences": [
+        "o/14/1/8",
+        "o/14/1/9"
+      ]
+    },
+    {
+      "id": "legacy-op-005",
+      "legacy_operation": 5,
+      "legacy_main_step": 1,
+      "occurrences": [
+        "o/14/1/10",
+        "o/14/1/11"
+      ]
+    },
+    {
+      "id": "legacy-op-006",
+      "legacy_operation": 6,
+      "legacy_main_step": 1,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-007",
+      "legacy_operation": 7,
+      "legacy_main_step": 2,
+      "occurrences": [
+        "o/14/2",
+        "o/14/3"
+      ]
+    },
+    {
+      "id": "legacy-op-008",
+      "legacy_operation": 8,
+      "legacy_main_step": 2,
+      "occurrences": [
+        "o/14/4",
+        "o/14/5"
+      ]
+    },
+    {
+      "id": "legacy-op-009",
+      "legacy_operation": 9,
+      "legacy_main_step": 2,
+      "occurrences": [
+        "o/14/6"
+      ]
+    },
+    {
+      "id": "legacy-op-010",
+      "legacy_operation": 10,
+      "legacy_main_step": 3,
+      "occurrences": [
+        "o/14/7"
+      ]
+    },
+    {
+      "id": "legacy-op-011",
+      "legacy_operation": 11,
+      "legacy_main_step": 4,
+      "occurrences": [
+        "o/14/8",
+        "o/14/9"
+      ]
+    },
+    {
+      "id": "legacy-op-012",
+      "legacy_operation": 12,
+      "legacy_main_step": 5,
+      "occurrences": [
+        "o/14/10",
+        "o/14/11"
+      ]
+    },
+    {
+      "id": "legacy-op-013",
+      "legacy_operation": 13,
+      "legacy_main_step": 6,
+      "occurrences": [
+        "o/14/12/1",
+        "o/14/12/2"
+      ]
+    },
+    {
+      "id": "legacy-op-014",
+      "legacy_operation": 14,
+      "legacy_main_step": 6,
+      "occurrences": [
+        "o/14/12/3",
+        "o/14/12/4"
+      ]
+    },
+    {
+      "id": "legacy-op-015",
+      "legacy_operation": 15,
+      "legacy_main_step": 6,
+      "occurrences": [
+        "o/14/12/5",
+        "o/14/12/6"
+      ]
+    },
+    {
+      "id": "legacy-op-016",
+      "legacy_operation": 16,
+      "legacy_main_step": 6,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-017",
+      "legacy_operation": 17,
+      "legacy_main_step": 7,
+      "occurrences": [
+        "o/14/13/1",
+        "o/14/13/2"
+      ]
+    },
+    {
+      "id": "legacy-op-018",
+      "legacy_operation": 18,
+      "legacy_main_step": 7,
+      "occurrences": [
+        "o/14/13/3",
+        "o/14/13/4"
+      ]
+    },
+    {
+      "id": "legacy-op-019",
+      "legacy_operation": 19,
+      "legacy_main_step": 7,
+      "occurrences": [
+        "o/14/13/5",
+        "o/14/13/6"
+      ]
+    },
+    {
+      "id": "legacy-op-020",
+      "legacy_operation": 20,
+      "legacy_main_step": 7,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-021",
+      "legacy_operation": 21,
+      "legacy_main_step": 8,
+      "occurrences": [
+        "o/14/14/1",
+        "o/14/14/2"
+      ]
+    },
+    {
+      "id": "legacy-op-022",
+      "legacy_operation": 22,
+      "legacy_main_step": 8,
+      "occurrences": [
+        "o/14/14/3",
+        "o/14/14/4"
+      ]
+    },
+    {
+      "id": "legacy-op-023",
+      "legacy_operation": 23,
+      "legacy_main_step": 8,
+      "occurrences": [
+        "o/14/14/5",
+        "o/14/14/6"
+      ]
+    },
+    {
+      "id": "legacy-op-024",
+      "legacy_operation": 24,
+      "legacy_main_step": 8,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-025",
+      "legacy_operation": 25,
+      "legacy_main_step": 9,
+      "occurrences": [
+        "o/14/15/1",
+        "o/14/15/2"
+      ]
+    },
+    {
+      "id": "legacy-op-026",
+      "legacy_operation": 26,
+      "legacy_main_step": 9,
+      "occurrences": [
+        "o/14/15/3",
+        "o/14/15/4"
+      ]
+    },
+    {
+      "id": "legacy-op-027",
+      "legacy_operation": 27,
+      "legacy_main_step": 9,
+      "occurrences": [
+        "o/14/15/5",
+        "o/14/15/6"
+      ]
+    },
+    {
+      "id": "legacy-op-028",
+      "legacy_operation": 28,
+      "legacy_main_step": 9,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-029",
+      "legacy_operation": 29,
+      "legacy_main_step": 10,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-030",
+      "legacy_operation": 30,
+      "legacy_main_step": 11,
+      "occurrences": [
+        "o/14/16",
+        "o/14/17"
+      ]
+    },
+    {
+      "id": "legacy-op-031",
+      "legacy_operation": 31,
+      "legacy_main_step": 11,
+      "occurrences": [
+        "o/14/18",
+        "o/14/19",
+        "o/14/20"
+      ]
+    },
+    {
+      "id": "legacy-op-032",
+      "legacy_operation": 32,
+      "legacy_main_step": 12,
+      "occurrences": [
+        "o/14/21",
+        "o/14/22"
+      ]
+    },
+    {
+      "id": "legacy-op-033",
+      "legacy_operation": 33,
+      "legacy_main_step": 13,
+      "occurrences": [
+        "o/14/23",
+        "o/14/24",
+        "o/14/25"
+      ]
+    },
+    {
+      "id": "legacy-op-034",
+      "legacy_operation": 34,
+      "legacy_main_step": 13,
+      "occurrences": [
+        "o/14/26",
+        "o/14/27"
+      ]
+    },
+    {
+      "id": "legacy-op-035",
+      "legacy_operation": 35,
+      "legacy_main_step": 13,
+      "occurrences": [
+        "o/14/28",
+        "o/14/29",
+        "o/14/30"
+      ]
+    },
+    {
+      "id": "legacy-op-036",
+      "legacy_operation": 36,
+      "legacy_main_step": 14,
+      "occurrences": [
+        "o/14/31",
+        "o/14/32"
+      ]
+    },
+    {
+      "id": "legacy-op-037",
+      "legacy_operation": 37,
+      "legacy_main_step": 15,
+      "occurrences": [
+        "o/14/33",
+        "o/14/34",
+        "o/14/35",
+        "o/14/36"
+      ]
+    },
+    {
+      "id": "legacy-op-038",
+      "legacy_operation": 38,
+      "legacy_main_step": 15,
+      "occurrences": [
+        "o/14/37",
+        "o/14/38",
+        "o/14/39",
+        "o/14/40"
+      ]
+    },
+    {
+      "id": "legacy-op-039",
+      "legacy_operation": 39,
+      "legacy_main_step": 16,
+      "occurrences": [
+        "o/14/41",
+        "o/14/42",
+        "o/14/43",
+        "o/14/44"
+      ]
+    },
+    {
+      "id": "legacy-op-040",
+      "legacy_operation": 40,
+      "legacy_main_step": 16,
+      "occurrences": [
+        "o/14/45",
+        "o/14/46",
+        "o/14/47",
+        "o/14/48"
+      ]
+    },
+    {
+      "id": "legacy-op-041",
+      "legacy_operation": 41,
+      "legacy_main_step": 17,
+      "occurrences": [
+        "o/14/49",
+        "o/14/50"
+      ]
+    },
+    {
+      "id": "legacy-op-042",
+      "legacy_operation": 42,
+      "legacy_main_step": 17,
+      "occurrences": [
+        "o/14/51",
+        "o/14/52",
+        "o/14/53",
+        "o/14/54"
+      ]
+    },
+    {
+      "id": "legacy-op-043",
+      "legacy_operation": 43,
+      "legacy_main_step": 18,
+      "occurrences": [
+        "o/14/55/1"
+      ]
+    },
+    {
+      "id": "legacy-op-044",
+      "legacy_operation": 44,
+      "legacy_main_step": 18,
+      "occurrences": [
+        "o/14/55/2",
+        "o/14/55/3"
+      ]
+    },
+    {
+      "id": "legacy-op-045",
+      "legacy_operation": 45,
+      "legacy_main_step": 18,
+      "occurrences": [
+        "o/14/55/4",
+        "o/14/55/5",
+        "o/14/55/6"
+      ]
+    },
+    {
+      "id": "legacy-op-046",
+      "legacy_operation": 46,
+      "legacy_main_step": 18,
+      "occurrences": [
+        "o/14/55/7",
+        "o/14/55/8"
+      ]
+    },
+    {
+      "id": "legacy-op-047",
+      "legacy_operation": 47,
+      "legacy_main_step": 18,
+      "occurrences": [
+        "o/14/55/9",
+        "o/14/55/10"
+      ]
+    },
+    {
+      "id": "legacy-op-048",
+      "legacy_operation": 48,
+      "legacy_main_step": 18,
+      "occurrences": [
+        "o/14/55/11",
+        "o/14/55/12"
+      ]
+    },
+    {
+      "id": "legacy-op-049",
+      "legacy_operation": 49,
+      "legacy_main_step": 18,
+      "occurrences": [
+        "o/14/55/13",
+        "o/14/55/14",
+        "o/14/55/15"
+      ]
+    },
+    {
+      "id": "legacy-op-050",
+      "legacy_operation": 50,
+      "legacy_main_step": 18,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-051",
+      "legacy_operation": 51,
+      "legacy_main_step": 19,
+      "occurrences": [
+        "o/14/56/1"
+      ]
+    },
+    {
+      "id": "legacy-op-052",
+      "legacy_operation": 52,
+      "legacy_main_step": 19,
+      "occurrences": [
+        "o/14/56/2",
+        "o/14/56/3"
+      ]
+    },
+    {
+      "id": "legacy-op-053",
+      "legacy_operation": 53,
+      "legacy_main_step": 19,
+      "occurrences": [
+        "o/14/56/4",
+        "o/14/56/5",
+        "o/14/56/6"
+      ]
+    },
+    {
+      "id": "legacy-op-054",
+      "legacy_operation": 54,
+      "legacy_main_step": 19,
+      "occurrences": [
+        "o/14/56/7",
+        "o/14/56/8"
+      ]
+    },
+    {
+      "id": "legacy-op-055",
+      "legacy_operation": 55,
+      "legacy_main_step": 19,
+      "occurrences": [
+        "o/14/56/9",
+        "o/14/56/10"
+      ]
+    },
+    {
+      "id": "legacy-op-056",
+      "legacy_operation": 56,
+      "legacy_main_step": 19,
+      "occurrences": [
+        "o/14/56/11",
+        "o/14/56/12"
+      ]
+    },
+    {
+      "id": "legacy-op-057",
+      "legacy_operation": 57,
+      "legacy_main_step": 19,
+      "occurrences": [
+        "o/14/56/13",
+        "o/14/56/14",
+        "o/14/56/15"
+      ]
+    },
+    {
+      "id": "legacy-op-058",
+      "legacy_operation": 58,
+      "legacy_main_step": 19,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-059",
+      "legacy_operation": 59,
+      "legacy_main_step": 20,
+      "occurrences": [
+        "o/14/57",
+        "o/14/58"
+      ]
+    },
+    {
+      "id": "legacy-op-060",
+      "legacy_operation": 60,
+      "legacy_main_step": 20,
+      "occurrences": [
+        "o/14/59",
+        "o/14/60"
+      ]
+    },
+    {
+      "id": "legacy-op-061",
+      "legacy_operation": 61,
+      "legacy_main_step": 21,
+      "occurrences": [
+        "o/14/61/1"
+      ]
+    },
+    {
+      "id": "legacy-op-062",
+      "legacy_operation": 62,
+      "legacy_main_step": 21,
+      "occurrences": [
+        "o/14/61/2"
+      ]
+    },
+    {
+      "id": "legacy-op-063",
+      "legacy_operation": 63,
+      "legacy_main_step": 21,
+      "occurrences": [
+        "o/14/61/3",
+        "o/14/61/4",
+        "o/14/61/5"
+      ]
+    },
+    {
+      "id": "legacy-op-064",
+      "legacy_operation": 64,
+      "legacy_main_step": 21,
+      "occurrences": [
+        "o/14/61/6",
+        "o/14/61/7"
+      ]
+    },
+    {
+      "id": "legacy-op-065",
+      "legacy_operation": 65,
+      "legacy_main_step": 21,
+      "occurrences": [
+        "o/14/61/8",
+        "o/14/61/9"
+      ]
+    },
+    {
+      "id": "legacy-op-066",
+      "legacy_operation": 66,
+      "legacy_main_step": 21,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-067",
+      "legacy_operation": 67,
+      "legacy_main_step": 22,
+      "occurrences": [
+        "o/14/62",
+        "o/14/63"
+      ]
+    },
+    {
+      "id": "legacy-op-068",
+      "legacy_operation": 68,
+      "legacy_main_step": 23,
+      "occurrences": [
+        "o/14/64",
+        "o/14/65"
+      ]
+    },
+    {
+      "id": "legacy-op-069",
+      "legacy_operation": 69,
+      "legacy_main_step": 23,
+      "occurrences": [
+        "o/14/66",
+        "o/14/67"
+      ]
+    },
+    {
+      "id": "legacy-op-070",
+      "legacy_operation": 70,
+      "legacy_main_step": 24,
+      "occurrences": [
+        "o/14/68",
+        "o/14/69",
+        "o/14/70",
+        "o/14/71"
+      ]
+    },
+    {
+      "id": "legacy-op-071",
+      "legacy_operation": 71,
+      "legacy_main_step": 24,
+      "occurrences": [
+        "o/14/72",
+        "o/14/73",
+        "o/14/74",
+        "o/14/75"
+      ]
+    },
+    {
+      "id": "legacy-op-072",
+      "legacy_operation": 72,
+      "legacy_main_step": 24,
+      "occurrences": [
+        "o/14/76"
+      ]
+    },
+    {
+      "id": "legacy-op-073",
+      "legacy_operation": 73,
+      "legacy_main_step": 25,
+      "occurrences": [
+        "o/14/77",
+        "o/14/78",
+        "o/14/79"
+      ]
+    },
+    {
+      "id": "legacy-op-074",
+      "legacy_operation": 74,
+      "legacy_main_step": 25,
+      "occurrences": [
+        "o/14/80",
+        "o/14/81",
+        "o/14/82"
+      ]
+    },
+    {
+      "id": "legacy-op-075",
+      "legacy_operation": 75,
+      "legacy_main_step": 26,
+      "occurrences": [
+        "o/14/83",
+        "o/14/84",
+        "o/14/85"
+      ]
+    },
+    {
+      "id": "legacy-op-076",
+      "legacy_operation": 76,
+      "legacy_main_step": 26,
+      "occurrences": [
+        "o/14/86",
+        "o/14/87"
+      ]
+    },
+    {
+      "id": "legacy-op-077",
+      "legacy_operation": 77,
+      "legacy_main_step": 27,
+      "occurrences": [
+        "o/14/88",
+        "o/14/89",
+        "o/14/90"
+      ]
+    },
+    {
+      "id": "legacy-op-078",
+      "legacy_operation": 78,
+      "legacy_main_step": 27,
+      "occurrences": [
+        "o/14/91",
+        "o/14/92",
+        "o/14/93"
+      ]
+    },
+    {
+      "id": "legacy-op-079",
+      "legacy_operation": 79,
+      "legacy_main_step": 28,
+      "occurrences": [
+        "o/14/94",
+        "o/14/95",
+        "o/14/96"
+      ]
+    },
+    {
+      "id": "legacy-op-080",
+      "legacy_operation": 80,
+      "legacy_main_step": 28,
+      "occurrences": [
+        "o/14/97",
+        "o/14/98"
+      ]
+    },
+    {
+      "id": "legacy-op-081",
+      "legacy_operation": 81,
+      "legacy_main_step": 29,
+      "occurrences": [
+        "o/14/99",
+        "o/14/100",
+        "o/14/101",
+        "o/14/102"
+      ]
+    },
+    {
+      "id": "legacy-op-082",
+      "legacy_operation": 82,
+      "legacy_main_step": 29,
+      "occurrences": [
+        "o/14/103",
+        "o/14/104",
+        "o/14/105",
+        "o/14/106"
+      ]
+    },
+    {
+      "id": "legacy-op-083",
+      "legacy_operation": 83,
+      "legacy_main_step": 30,
+      "occurrences": [
+        "o/14/107",
+        "o/14/108",
+        "o/14/109",
+        "o/14/110"
+      ]
+    },
+    {
+      "id": "legacy-op-084",
+      "legacy_operation": 84,
+      "legacy_main_step": 30,
+      "occurrences": [
+        "o/14/111",
+        "o/14/112",
+        "o/14/113",
+        "o/14/114"
+      ]
+    },
+    {
+      "id": "legacy-op-085",
+      "legacy_operation": 85,
+      "legacy_main_step": 31,
+      "occurrences": [
+        "o/14/115",
+        "o/14/116"
+      ]
+    },
+    {
+      "id": "legacy-op-086",
+      "legacy_operation": 86,
+      "legacy_main_step": 32,
+      "occurrences": [
+        "o/14/117",
+        "o/14/118"
+      ]
+    },
+    {
+      "id": "legacy-op-087",
+      "legacy_operation": 87,
+      "legacy_main_step": 32,
+      "occurrences": [
+        "o/14/119",
+        "o/14/120",
+        "o/14/121",
+        "o/14/122"
+      ]
+    },
+    {
+      "id": "legacy-op-088",
+      "legacy_operation": 88,
+      "legacy_main_step": 33,
+      "occurrences": [
+        "o/14/123",
+        "o/14/124",
+        "o/14/125",
+        "o/14/126"
+      ]
+    },
+    {
+      "id": "legacy-op-089",
+      "legacy_operation": 89,
+      "legacy_main_step": 33,
+      "occurrences": [
+        "o/14/127",
+        "o/14/128"
+      ]
+    },
+    {
+      "id": "legacy-op-090",
+      "legacy_operation": 90,
+      "legacy_main_step": 34,
+      "occurrences": [
+        "o/14/129/1",
+        "o/14/129/2",
+        "o/14/129/3"
+      ]
+    },
+    {
+      "id": "legacy-op-091",
+      "legacy_operation": 91,
+      "legacy_main_step": 34,
+      "occurrences": [
+        "o/14/129/4",
+        "o/14/129/5"
+      ]
+    },
+    {
+      "id": "legacy-op-092",
+      "legacy_operation": 92,
+      "legacy_main_step": 34,
+      "occurrences": [
+        "o/14/129/6",
+        "o/14/129/7"
+      ]
+    },
+    {
+      "id": "legacy-op-093",
+      "legacy_operation": 93,
+      "legacy_main_step": 34,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-094",
+      "legacy_operation": 94,
+      "legacy_main_step": 35,
+      "occurrences": [
+        "o/14/130",
+        "o/14/131"
+      ]
+    },
+    {
+      "id": "legacy-op-095",
+      "legacy_operation": 95,
+      "legacy_main_step": 35,
+      "occurrences": [
+        "o/14/132",
+        "o/14/133",
+        "o/14/134",
+        "o/14/135"
+      ]
+    },
+    {
+      "id": "legacy-op-096",
+      "legacy_operation": 96,
+      "legacy_main_step": 36,
+      "occurrences": [
+        "o/14/136",
+        "o/14/137",
+        "o/14/138"
+      ]
+    },
+    {
+      "id": "legacy-op-097",
+      "legacy_operation": 97,
+      "legacy_main_step": 36,
+      "occurrences": [
+        "o/14/139"
+      ]
+    },
+    {
+      "id": "legacy-op-098",
+      "legacy_operation": 98,
+      "legacy_main_step": 37,
+      "occurrences": [
+        "o/14/140",
+        "o/14/141"
+      ]
+    },
+    {
+      "id": "legacy-op-099",
+      "legacy_operation": 99,
+      "legacy_main_step": 37,
+      "occurrences": [
+        "o/14/142",
+        "o/14/143"
+      ]
+    },
+    {
+      "id": "legacy-op-100",
+      "legacy_operation": 100,
+      "legacy_main_step": 38,
+      "occurrences": [
+        "o/14/144"
+      ]
+    },
+    {
+      "id": "legacy-op-101",
+      "legacy_operation": 101,
+      "legacy_main_step": 38,
+      "occurrences": [
+        "o/14/145",
+        "o/14/146",
+        "o/14/147",
+        "o/14/148"
+      ]
+    },
+    {
+      "id": "legacy-op-102",
+      "legacy_operation": 102,
+      "legacy_main_step": 39,
+      "occurrences": [
+        "o/14/149",
+        "o/14/150",
+        "o/14/151",
+        "o/14/152"
+      ]
+    },
+    {
+      "id": "legacy-op-103",
+      "legacy_operation": 103,
+      "legacy_main_step": 39,
+      "occurrences": [
+        "o/14/153",
+        "o/14/154",
+        "o/14/155",
+        "o/14/156"
+      ]
+    },
+    {
+      "id": "legacy-op-104",
+      "legacy_operation": 104,
+      "legacy_main_step": 40,
+      "occurrences": [
+        "o/14/157",
+        "o/14/158",
+        "o/14/159"
+      ]
+    },
+    {
+      "id": "legacy-op-105",
+      "legacy_operation": 105,
+      "legacy_main_step": 40,
+      "occurrences": [
+        "o/14/160",
+        "o/14/161"
+      ]
+    },
+    {
+      "id": "legacy-op-106",
+      "legacy_operation": 106,
+      "legacy_main_step": 41,
+      "occurrences": [
+        "o/14/162",
+        "o/14/163",
+        "o/14/164"
+      ]
+    },
+    {
+      "id": "legacy-op-107",
+      "legacy_operation": 107,
+      "legacy_main_step": 41,
+      "occurrences": [
+        "o/14/165"
+      ]
+    },
+    {
+      "id": "legacy-op-108",
+      "legacy_operation": 108,
+      "legacy_main_step": 42,
+      "occurrences": [
+        "o/14/166",
+        "o/14/167",
+        "o/14/168"
+      ]
+    },
+    {
+      "id": "legacy-op-109",
+      "legacy_operation": 109,
+      "legacy_main_step": 42,
+      "occurrences": [
+        "o/14/169",
+        "o/14/170"
+      ]
+    },
+    {
+      "id": "legacy-op-110",
+      "legacy_operation": 110,
+      "legacy_main_step": 42,
+      "occurrences": [
+        "o/7/1"
+      ]
+    },
+    {
+      "id": "legacy-op-111",
+      "legacy_operation": 111,
+      "legacy_main_step": 43,
+      "occurrences": [
+        "o/14/171",
+        "o/14/172",
+        "o/14/173",
+        "o/14/174"
+      ]
+    },
+    {
+      "id": "legacy-op-112",
+      "legacy_operation": 112,
+      "legacy_main_step": 43,
+      "occurrences": [
+        "o/14/175",
+        "o/14/176",
+        "o/14/177",
+        "o/14/178"
+      ]
+    },
+    {
+      "id": "legacy-op-113",
+      "legacy_operation": 113,
+      "legacy_main_step": 44,
+      "occurrences": [
+        "o/14/179",
+        "o/14/180",
+        "o/14/181"
+      ]
+    },
+    {
+      "id": "legacy-op-114",
+      "legacy_operation": 114,
+      "legacy_main_step": 44,
+      "occurrences": [
+        "o/14/182",
+        "o/14/183"
+      ]
+    },
+    {
+      "id": "legacy-op-115",
+      "legacy_operation": 115,
+      "legacy_main_step": 45,
+      "occurrences": [
+        "o/14/184"
+      ]
+    },
+    {
+      "id": "legacy-op-116",
+      "legacy_operation": 116,
+      "legacy_main_step": 45,
+      "occurrences": [
+        "o/14/185",
+        "o/14/186"
+      ]
+    },
+    {
+      "id": "legacy-op-117",
+      "legacy_operation": 117,
+      "legacy_main_step": 46,
+      "occurrences": [
+        "o/6/1"
+      ]
+    },
+    {
+      "id": "legacy-op-118",
+      "legacy_operation": 118,
+      "legacy_main_step": 46,
+      "occurrences": [
+        "o/6/2",
+        "o/6/3",
+        "o/6/4"
+      ]
+    },
+    {
+      "id": "legacy-op-119",
+      "legacy_operation": 119,
+      "legacy_main_step": 47,
+      "occurrences": [
+        "o/2/1"
+      ]
+    },
+    {
+      "id": "legacy-op-120",
+      "legacy_operation": 120,
+      "legacy_main_step": 48,
+      "occurrences": [
+        "o/14/187/1"
+      ]
+    },
+    {
+      "id": "legacy-op-121",
+      "legacy_operation": 121,
+      "legacy_main_step": 48,
+      "occurrences": [
+        "o/14/187/2"
+      ]
+    },
+    {
+      "id": "legacy-op-122",
+      "legacy_operation": 122,
+      "legacy_main_step": 48,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-123",
+      "legacy_operation": 123,
+      "legacy_main_step": 48,
+      "occurrences": [
+        "o/14/188/1"
+      ]
+    },
+    {
+      "id": "legacy-op-124",
+      "legacy_operation": 124,
+      "legacy_main_step": 48,
+      "occurrences": [
+        "o/14/188/2"
+      ]
+    },
+    {
+      "id": "legacy-op-125",
+      "legacy_operation": 125,
+      "legacy_main_step": 48,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-126",
+      "legacy_operation": 126,
+      "legacy_main_step": 48,
+      "occurrences": [
+        "o/14/189/1"
+      ]
+    },
+    {
+      "id": "legacy-op-127",
+      "legacy_operation": 127,
+      "legacy_main_step": 48,
+      "occurrences": [
+        "o/14/189/2"
+      ]
+    },
+    {
+      "id": "legacy-op-128",
+      "legacy_operation": 128,
+      "legacy_main_step": 48,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-129",
+      "legacy_operation": 129,
+      "legacy_main_step": 48,
+      "occurrences": [
+        "o/14/190/1"
+      ]
+    },
+    {
+      "id": "legacy-op-130",
+      "legacy_operation": 130,
+      "legacy_main_step": 48,
+      "occurrences": [
+        "o/14/190/2"
+      ]
+    },
+    {
+      "id": "legacy-op-131",
+      "legacy_operation": 131,
+      "legacy_main_step": 48,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-132",
+      "legacy_operation": 132,
+      "legacy_main_step": 49,
+      "occurrences": [
+        "o/14/191/1"
+      ]
+    },
+    {
+      "id": "legacy-op-133",
+      "legacy_operation": 133,
+      "legacy_main_step": 49,
+      "occurrences": [
+        "o/14/191/2"
+      ]
+    },
+    {
+      "id": "legacy-op-134",
+      "legacy_operation": 134,
+      "legacy_main_step": 49,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-135",
+      "legacy_operation": 135,
+      "legacy_main_step": 49,
+      "occurrences": [
+        "o/14/192/1"
+      ]
+    },
+    {
+      "id": "legacy-op-136",
+      "legacy_operation": 136,
+      "legacy_main_step": 49,
+      "occurrences": [
+        "o/14/192/2"
+      ]
+    },
+    {
+      "id": "legacy-op-137",
+      "legacy_operation": 137,
+      "legacy_main_step": 49,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-138",
+      "legacy_operation": 138,
+      "legacy_main_step": 49,
+      "occurrences": [
+        "o/14/193/1"
+      ]
+    },
+    {
+      "id": "legacy-op-139",
+      "legacy_operation": 139,
+      "legacy_main_step": 49,
+      "occurrences": [
+        "o/14/193/2"
+      ]
+    },
+    {
+      "id": "legacy-op-140",
+      "legacy_operation": 140,
+      "legacy_main_step": 49,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-141",
+      "legacy_operation": 141,
+      "legacy_main_step": 49,
+      "occurrences": [
+        "o/14/194/1"
+      ]
+    },
+    {
+      "id": "legacy-op-142",
+      "legacy_operation": 142,
+      "legacy_main_step": 49,
+      "occurrences": [
+        "o/14/194/2"
+      ]
+    },
+    {
+      "id": "legacy-op-143",
+      "legacy_operation": 143,
+      "legacy_main_step": 49,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-144",
+      "legacy_operation": 144,
+      "legacy_main_step": 50,
+      "occurrences": [
+        "o/4/1"
+      ]
+    },
+    {
+      "id": "legacy-op-145",
+      "legacy_operation": 145,
+      "legacy_main_step": 51,
+      "occurrences": [
+        "o/11/1",
+        "o/11/2"
+      ]
+    },
+    {
+      "id": "legacy-op-146",
+      "legacy_operation": 146,
+      "legacy_main_step": 52,
+      "occurrences": [
+        "o/5/1/1"
+      ]
+    },
+    {
+      "id": "legacy-op-147",
+      "legacy_operation": 147,
+      "legacy_main_step": 52,
+      "occurrences": [
+        "o/5/1/2"
+      ]
+    },
+    {
+      "id": "legacy-op-148",
+      "legacy_operation": 148,
+      "legacy_main_step": 52,
+      "occurrences": [
+        "o/5/1/3"
+      ]
+    },
+    {
+      "id": "legacy-op-149",
+      "legacy_operation": 149,
+      "legacy_main_step": 52,
+      "occurrences": [
+        "o/5/1/4"
+      ]
+    },
+    {
+      "id": "legacy-op-150",
+      "legacy_operation": 150,
+      "legacy_main_step": 52,
+      "occurrences": [
+        "o/5/1/5"
+      ]
+    },
+    {
+      "id": "legacy-op-151",
+      "legacy_operation": 151,
+      "legacy_main_step": 52,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-152",
+      "legacy_operation": 152,
+      "legacy_main_step": 53,
+      "occurrences": [
+        "o/11/3/1"
+      ]
+    },
+    {
+      "id": "legacy-op-153",
+      "legacy_operation": 153,
+      "legacy_main_step": 53,
+      "occurrences": [
+        "o/11/3/2"
+      ]
+    },
+    {
+      "id": "legacy-op-154",
+      "legacy_operation": 154,
+      "legacy_main_step": 53,
+      "occurrences": [
+        "o/11/3/3"
+      ]
+    },
+    {
+      "id": "legacy-op-155",
+      "legacy_operation": 155,
+      "legacy_main_step": 53,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-156",
+      "legacy_operation": 156,
+      "legacy_main_step": 53,
+      "occurrences": [
+        "o/11/4/1"
+      ]
+    },
+    {
+      "id": "legacy-op-157",
+      "legacy_operation": 157,
+      "legacy_main_step": 53,
+      "occurrences": [
+        "o/11/4/2"
+      ]
+    },
+    {
+      "id": "legacy-op-158",
+      "legacy_operation": 158,
+      "legacy_main_step": 53,
+      "occurrences": [
+        "o/11/4/3"
+      ]
+    },
+    {
+      "id": "legacy-op-159",
+      "legacy_operation": 159,
+      "legacy_main_step": 53,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-160",
+      "legacy_operation": 160,
+      "legacy_main_step": 54,
+      "occurrences": [
+        "o/11/5/1"
+      ]
+    },
+    {
+      "id": "legacy-op-161",
+      "legacy_operation": 161,
+      "legacy_main_step": 54,
+      "occurrences": [
+        "o/11/5/2"
+      ]
+    },
+    {
+      "id": "legacy-op-162",
+      "legacy_operation": 162,
+      "legacy_main_step": 54,
+      "occurrences": [
+        "o/11/5/3"
+      ]
+    },
+    {
+      "id": "legacy-op-163",
+      "legacy_operation": 163,
+      "legacy_main_step": 54,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-164",
+      "legacy_operation": 164,
+      "legacy_main_step": 55,
+      "occurrences": [
+        "o/4/2",
+        "o/4/3"
+      ]
+    },
+    {
+      "id": "legacy-op-165",
+      "legacy_operation": 165,
+      "legacy_main_step": 56,
+      "occurrences": [
+        "o/12/1/1"
+      ]
+    },
+    {
+      "id": "legacy-op-166",
+      "legacy_operation": 166,
+      "legacy_main_step": 56,
+      "occurrences": [
+        "o/12/1/2",
+        "o/12/1/3"
+      ]
+    },
+    {
+      "id": "legacy-op-167",
+      "legacy_operation": 167,
+      "legacy_main_step": 56,
+      "occurrences": [
+        "o/12/1/4",
+        "o/12/1/5"
+      ]
+    },
+    {
+      "id": "legacy-op-168",
+      "legacy_operation": 168,
+      "legacy_main_step": 56,
+      "occurrences": [
+        "o/12/1/6"
+      ]
+    },
+    {
+      "id": "legacy-op-169",
+      "legacy_operation": 169,
+      "legacy_main_step": 56,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-170",
+      "legacy_operation": 170,
+      "legacy_main_step": 56,
+      "occurrences": [
+        "o/13/1/1"
+      ]
+    },
+    {
+      "id": "legacy-op-171",
+      "legacy_operation": 171,
+      "legacy_main_step": 56,
+      "occurrences": [
+        "o/13/1/2",
+        "o/13/1/3"
+      ]
+    },
+    {
+      "id": "legacy-op-172",
+      "legacy_operation": 172,
+      "legacy_main_step": 56,
+      "occurrences": [
+        "o/13/1/4",
+        "o/13/1/5"
+      ]
+    },
+    {
+      "id": "legacy-op-173",
+      "legacy_operation": 173,
+      "legacy_main_step": 56,
+      "occurrences": [
+        "o/13/1/6"
+      ]
+    },
+    {
+      "id": "legacy-op-174",
+      "legacy_operation": 174,
+      "legacy_main_step": 56,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-175",
+      "legacy_operation": 175,
+      "legacy_main_step": 57,
+      "occurrences": [
+        "o/10/1"
+      ]
+    },
+    {
+      "id": "legacy-op-176",
+      "legacy_operation": 176,
+      "legacy_main_step": 57,
+      "occurrences": [
+        "o/10/2",
+        "o/10/3"
+      ]
+    },
+    {
+      "id": "legacy-op-177",
+      "legacy_operation": 177,
+      "legacy_main_step": 57,
+      "occurrences": [
+        "o/10/4"
+      ]
+    },
+    {
+      "id": "legacy-op-178",
+      "legacy_operation": 178,
+      "legacy_main_step": 58,
+      "occurrences": [
+        "o/10/5/1",
+        "o/10/5/2"
+      ]
+    },
+    {
+      "id": "legacy-op-179",
+      "legacy_operation": 179,
+      "legacy_main_step": 58,
+      "occurrences": [
+        "o/10/5/3"
+      ]
+    },
+    {
+      "id": "legacy-op-180",
+      "legacy_operation": 180,
+      "legacy_main_step": 58,
+      "occurrences": [
+        "o/10/5/4",
+        "o/10/5/5"
+      ]
+    },
+    {
+      "id": "legacy-op-181",
+      "legacy_operation": 181,
+      "legacy_main_step": 58,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-182",
+      "legacy_operation": 182,
+      "legacy_main_step": 59,
+      "occurrences": [
+        "o/1/1",
+        "o/1/2",
+        "o/1/3"
+      ]
+    },
+    {
+      "id": "legacy-op-183",
+      "legacy_operation": 183,
+      "legacy_main_step": 60,
+      "occurrences": [
+        "o/1/4"
+      ]
+    },
+    {
+      "id": "legacy-op-184",
+      "legacy_operation": 184,
+      "legacy_main_step": 60,
+      "occurrences": [
+        "o/1/5",
+        "o/1/6"
+      ]
+    },
+    {
+      "id": "legacy-op-185",
+      "legacy_operation": 185,
+      "legacy_main_step": 61,
+      "occurrences": [
+        "o/8/1/1"
+      ]
+    },
+    {
+      "id": "legacy-op-186",
+      "legacy_operation": 186,
+      "legacy_main_step": 61,
+      "occurrences": [
+        "o/8/1/2"
+      ]
+    },
+    {
+      "id": "legacy-op-187",
+      "legacy_operation": 187,
+      "legacy_main_step": 61,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-188",
+      "legacy_operation": 188,
+      "legacy_main_step": 61,
+      "occurrences": [
+        "o/9/1/1"
+      ]
+    },
+    {
+      "id": "legacy-op-189",
+      "legacy_operation": 189,
+      "legacy_main_step": 61,
+      "occurrences": [
+        "o/9/1/2"
+      ]
+    },
+    {
+      "id": "legacy-op-190",
+      "legacy_operation": 190,
+      "legacy_main_step": 61,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-191",
+      "legacy_operation": 191,
+      "legacy_main_step": 62,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-192",
+      "legacy_operation": 192,
+      "legacy_main_step": 63,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-193",
+      "legacy_operation": 193,
+      "legacy_main_step": 64,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-194",
+      "legacy_operation": 194,
+      "legacy_main_step": 65,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-195",
+      "legacy_operation": 195,
+      "legacy_main_step": 66,
+      "occurrences": [
+        "o/3/1",
+        "o/3/2",
+        "o/3/3",
+        "o/3/4",
+        "o/3/5",
+        "o/3/6",
+        "o/3/7",
+        "o/3/8"
+      ]
+    },
+    {
+      "id": "legacy-op-196",
+      "legacy_operation": 196,
+      "legacy_main_step": 67,
+      "occurrences": [
+        "o/15/1/1",
+        "o/15/1/2",
+        "o/15/1/3",
+        "o/15/1/4",
+        "o/15/1/5",
+        "o/15/1/6",
+        "o/15/1/7",
+        "o/15/1/8"
+      ]
+    },
+    {
+      "id": "legacy-op-197",
+      "legacy_operation": 197,
+      "legacy_main_step": 67,
+      "occurrences": [
+        "o/15/1/9",
+        "o/15/1/10"
+      ]
+    },
+    {
+      "id": "legacy-op-198",
+      "legacy_operation": 198,
+      "legacy_main_step": 67,
+      "occurrences": []
+    },
+    {
+      "id": "legacy-op-199",
+      "legacy_operation": 199,
+      "legacy_main_step": 68,
+      "occurrences": []
+    }
+  ]
+}

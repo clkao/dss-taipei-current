@@ -1,0 +1,26 @@
+{
+  "schema": "dss-dependencies/1",
+  "owner": "/Users/clkao/git/spacedock-research/studfleet/docs/dev",
+  "snapshot": "evidence/bootstrap/studfleet-dev-status.json",
+  "dependencies": {
+    "nk": "bootstrap-portable-set-workflow-from-skill",
+    "k4": "inspect-large-model-connections-with-bounded-work",
+    "31": "review-compound-installation-paths-with-catalog-meshes",
+    "h1": "compose-main-model-operations-into-reader-steps",
+    "90": "collect-preassembled-units-without-building-recipes",
+    "rx": "export-imported-wanted-lists-with-reviewed-mappings",
+    "mc": "review-model-revision-diffs",
+    "n0": "join-components-inside-local-assemblies",
+    "7d": "schedule-local-recipes-at-use",
+    "cn": "include-guidance-without-inventory-additions",
+    "w4": "show-reader-labels-without-internal-clutter",
+    "tw": "show-installed-drafts-without-unverified-placement-hints"
+  },
+  "policy": "Snapshot is not availability. Resolve current state and require exact usable revision/invocation before clearing holds. No tasks created or advanced by this bootstrap.",
+  "new_observation": {
+    "connector_failure": "failed: connector malformed position: o/3/3/snap_cyl@L11:I0",
+    "occurrence": "o/3/3",
+    "part": "3818",
+    "route": "Existing shared inspection owner; no local implementation or new duplicate task."
+  }
+}

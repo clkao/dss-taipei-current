@@ -1,0 +1,16 @@
+{
+  "pdf_sha256": "f10e7b1cd91f48fe23cfe06a9c64f2c0fb323603c909322e7552a1c0f8008232",
+  "pages": 102,
+  "all_pages_rendered": true,
+  "site_name": "DSS Taipei Current",
+  "github_pages_credit_links_on_all_pages": true,
+  "bubble_faces": {
+    "叫你休息": "left tail",
+    "講不聽": "right tail; lettering unchanged"
+  },
+  "visually_checked_pages": [
+    91,
+    95
+  ],
+  "layout_findings": []
+}

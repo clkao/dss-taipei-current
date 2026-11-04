@@ -1,0 +1,300 @@
+{
+  "schema": "dss-retained-files/1",
+  "files": [
+    {
+      "path": "sources/minifigure/refined-v9/model.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/prototypes/refined-v9/model.json",
+      "sha256": "be5a93440d508627b6aeb1a1ccb7099d7d50f3efecf45d1d9bc6d3ee6f223464",
+      "bytes": 1037998
+    },
+    {
+      "path": "sources/technic/refined-v2/model.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/prototypes/technic-refined-v2/model.json",
+      "sha256": "a998fed9c3847701ed0b872a69654eb5d57e2a16a4e272ed47f9ab04e057780b",
+      "bytes": 944784
+    },
+    {
+      "path": "sources/reference/donor-campaign-v10/yangliu-source-v10.blend",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/sources/donor-campaign-v10/yangliu-source-v10.blend",
+      "sha256": "3afb9e9e7441bc0b5a9455a59c34d13f0bf5c31d7291f9c967070c7f2d909f25",
+      "bytes": 7846489
+    },
+    {
+      "path": "sources/reference/donor-campaign-v10/artwork-modification-log.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/sources/donor-campaign-v10/artwork-modification-log.json",
+      "sha256": "a3bf0207289aacc923bf85b9249cc31c30e8508ec983ba280becc55b20e26bb3",
+      "bytes": 1210
+    },
+    {
+      "path": "sources/reference/campaign-modifications.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/design/campaign-modifications.json",
+      "sha256": "34e05701fc57daf9d78833c7a7562fbadabdba0d57e25449dc431aaed03ec545",
+      "bytes": 8089
+    },
+    {
+      "path": "sources/reference/public-ranger-v1.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/design/donor-profiles/public-ranger-v1.json",
+      "sha256": "5af98c9ca0cf1ff88a02b69335f345ea5839927b30720734fbaa9404234a27b9",
+      "bytes": 3483
+    },
+    {
+      "path": "sources/artwork/sticker-artwork.zip",
+      "source": "/Users/clkao/git/dss-taipei-current/sticker-artwork.zip",
+      "sha256": "bebaff5968483c2672df521bee60e601241e33e1421bcbe126935adbe76ca93d",
+      "bytes": 831725
+    },
+    {
+      "path": "sources/minifigure/legacy-v10/source.mpd",
+      "source": "/Users/clkao/git/dss-taipei-current/yangliu-shape.mpd",
+      "sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
+      "bytes": 54250
+    },
+    {
+      "path": "sources/minifigure/legacy-v10/model.json",
+      "source": "/Users/clkao/git/house-demo/output/yangliu-refined-v10/model.json",
+      "sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+      "bytes": 1642151
+    },
+    {
+      "path": "sources/minifigure/legacy-v10/instruction-plan.json",
+      "source": "/Users/clkao/git/house-demo/output/yangliu-refined-v10/instruction-plan.json",
+      "sha256": "9d05fe11832876ad3ee4fb52412c7f9ebd1f41d5f1dfcc1a0c7cb34932fa8402",
+      "bytes": 356053
+    },
+    {
+      "path": "sources/minifigure/legacy-v10/assembly-manifest.json",
+      "source": "/Users/clkao/git/house-demo/output/yangliu-refined-v10/assembly-manifest.json",
+      "sha256": "b19f21f16103e6329510991fb6d3cc2ae3de490edb7e09a87790b9d72ba9f33d",
+      "bytes": 170620
+    },
+    {
+      "path": "sources/minifigure/legacy-v10/pdf-page-map.json",
+      "source": "/Users/clkao/git/house-demo/output/yangliu-refined-v10/pdf-page-map.json",
+      "sha256": "38cda0279e0264e30c5eb5e59cb626b4d6b4468b377c301210827223b6f5d0af",
+      "bytes": 8659
+    },
+    {
+      "path": "sources/provenance/LICENSE.txt",
+      "source": "/Users/clkao/git/dss-taipei-current/LICENSE.txt",
+      "sha256": "c1dc239072ccb99271ea51b85daa9568fb8d218a5e914ef81f83edaab9dc0dd4",
+      "bytes": 2755
+    },
+    {
+      "path": "sources/provenance/licenses/CC-BY-SA-4.0.txt",
+      "source": "/Users/clkao/git/dss-taipei-current/licenses/CC-BY-SA-4.0.txt",
+      "sha256": "23ee78c8bae49cf08ea2f0c84945c66b987ebe4520881fb51b3dad4fb43d07c2",
+      "bytes": 20137
+    },
+    {
+      "path": "sources/provenance/physical-vehicle-attribution.json",
+      "source": "/Users/clkao/git/dss-taipei-current/physical-vehicle-attribution.json",
+      "sha256": "7cfe02897ce2c02af3da90a6070c1c45b39988e9488ad11fe8e1e9d53ef0ac7e",
+      "bytes": 1801
+    },
+    {
+      "path": "sources/provenance/tsai-banner/meme-attribution.json",
+      "source": "/Users/clkao/git/dss-taipei-current/tsai-banner/meme-attribution.json",
+      "sha256": "952a2c4d75573db89d5a932ea0a9d7d1116ed80405fd91785aa115a4df040a21",
+      "bytes": 1148
+    },
+    {
+      "path": "sources/provenance/CATALOG-NOTICES.txt",
+      "source": "/Users/clkao/git/dss-taipei-current/CATALOG-NOTICES.txt",
+      "sha256": "477cd71bf44ef74f354310132b81605bf4ee7a5ac10c0bdc759cca8129c4175b",
+      "bytes": 38816
+    },
+    {
+      "path": "sources/provenance/contributor-count.json",
+      "source": "/Users/clkao/git/dss-taipei-current/contributor-count.json",
+      "sha256": "a67b61c78a6cd76f6fb0c6a5f3e3d1028f8d13c230baa3afc5a16e79aa0f63b2",
+      "bytes": 1907
+    },
+    {
+      "path": "sources/provenance/credits.html",
+      "source": "/Users/clkao/git/dss-taipei-current/credits.html",
+      "sha256": "0cf80ac5f4822441f4169ad5d1dcb0401ef4b9a04b71fc06baebd50e3aa2c38a",
+      "bytes": 51214
+    },
+    {
+      "path": "sources/provenance/release-provenance.json",
+      "source": "/Users/clkao/git/dss-taipei-current/release-provenance.json",
+      "sha256": "fe1713078c61a2d3ebd6320cf6d06afaf0d7618695508185322c20bb82efbc11",
+      "bytes": 11649
+    },
+    {
+      "path": "sources/provenance/review-evidence/artifact-review.json",
+      "source": "/Users/clkao/git/dss-taipei-current/review-evidence/artifact-review.json",
+      "sha256": "bf22726a9d8dce312f19cc539e61cf81cf95f2735a186e6a578f5be049c50339",
+      "bytes": 404
+    },
+    {
+      "path": "sources/provenance/print-preflight.json",
+      "source": "/Users/clkao/git/dss-taipei-current/print-preflight.json",
+      "sha256": "fe06610e2beabccab92a540f6d94edbab9c08189609d79cfa80c91f4f939aead",
+      "bytes": 434
+    },
+    {
+      "path": "sources/provenance/technic/provenance.json",
+      "source": "/Users/clkao/git/dss-taipei-current/technic/provenance.json",
+      "sha256": "d806039875f5ebfe1a04c66a9a2906bd6a73cc599d1d9860b6b93f65d97672bf",
+      "bytes": 578
+    },
+    {
+      "path": "sources/legacy-recipes/compile_full_instructions.py",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/compile_full_instructions.py",
+      "sha256": "e392b4afc57ed969245f3eed48e8fab6ef08907c8afa02d2f0cd3d2d904b9865",
+      "bytes": 48831
+    },
+    {
+      "path": "sources/legacy-recipes/make_full_instruction_pdf.py",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/make_full_instruction_pdf.py",
+      "sha256": "150df9527e35dddbb02964fb8839ed097be5741411cd1f5a94030a6405d57b99",
+      "bytes": 18617
+    },
+    {
+      "path": "sources/legacy-recipes/prepare_refined_source.py",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/prepare_refined_source.py",
+      "sha256": "6126ff899f1cded06eb8e593ddfd091ad7258eacd08c279515b639f0c51519da",
+      "bytes": 6020
+    },
+    {
+      "path": "sources/legacy-recipes/prepare_refined_release.py",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/prepare_refined_release.py",
+      "sha256": "f5971c6149a4e33403de8aecdc614514e5f59516960dcc797aaa831ce0ebc002",
+      "bytes": 21260
+    },
+    {
+      "path": "sources/legacy-recipes/preview.js",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/preview.js",
+      "sha256": "767d43a3eab6f0a05ba54cdfe94f3778c9a940e8dbea8fb975b9e81b4bb505ec",
+      "bytes": 34458
+    },
+    {
+      "path": "sources/legacy-recipes/preview_motion.js",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/preview_motion.js",
+      "sha256": "650fb4f87779f11711290adc2334266385fee7c0216ab605f5e2fd9b911d7f22",
+      "bytes": 5209
+    },
+    {
+      "path": "sources/legacy-recipes/viewer_panel.html",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/viewer_panel.html",
+      "sha256": "66bcc157e2b3f85bf737c5d7bed962737e775f544cae14b2a1ef896cd6b22ea5",
+      "bytes": 3990
+    },
+    {
+      "path": "sources/legacy-recipes/viewer_panel.css",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/viewer_panel.css",
+      "sha256": "a9777448b418f56ca90c50ed7803247974e3f7d45f1bfb33d24226b330661559",
+      "bytes": 4370
+    },
+    {
+      "path": "sources/legacy-recipes/static_release_assets.py",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/static_release_assets.py",
+      "sha256": "d035ba6712e2e5f06e117f5ae0da43be145c9935bdf9b9288199413dd8ff57a7",
+      "bytes": 3262
+    },
+    {
+      "path": "sources/legacy-recipes/tsai_bubble_artwork.py",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/tsai_bubble_artwork.py",
+      "sha256": "be63dd7f4d2e422a0465d4cbfcf0d210b2a2bcb3d7a425e776680ab30de6f879",
+      "bytes": 2067
+    },
+    {
+      "path": "sources/legacy-recipes/build_source_model.py",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/build_source_model.py",
+      "sha256": "c7237d8aa19bad02025328424e62ea4eba5856f21c064563849264d82f29ac50",
+      "bytes": 16546
+    },
+    {
+      "path": "sources/legacy-recipes/replay_campaign.py",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/replay_campaign.py",
+      "sha256": "5f3f82746e8928dcb07ba472de785f6884f5e12360c7bb47edb136d0ee4bf400",
+      "bytes": 19437
+    },
+    {
+      "path": "sources/legacy-recipes/update_source_artwork_v7.py",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/update_source_artwork_v7.py",
+      "sha256": "d8702dbffc87fbcee44aebc85a610e06a63252ba5b2d89624249e647131a486a",
+      "bytes": 3342
+    },
+    {
+      "path": "sources/legacy-recipes/site_attribution.py",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/site_attribution.py",
+      "sha256": "78e2395f95f9408d02e1a8a7561d4a1e02ad952ed66a07854131d64587a0aa15",
+      "bytes": 887
+    },
+    {
+      "path": "evidence/legacy-v10/connected-prefixes.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/refined-v10-2026-11-03/connected-prefixes.json",
+      "sha256": "e61667c40797efac99b184b1671c288d590633d131f9370b0270d02f572e49a1",
+      "bytes": 210952
+    },
+    {
+      "path": "evidence/legacy-v10/sweep-review.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/refined-v10-2026-11-03/sweep-review.json",
+      "sha256": "d9661de3adfdb2ca9cf55b0b6e74c19adfadcb58e95c4d33a3c8518ea7f7dd25",
+      "bytes": 7125
+    },
+    {
+      "path": "evidence/legacy-v10/repeat-recipes.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/refined-v10-2026-11-03/repeat-recipes.json",
+      "sha256": "8876da66c957c5f5d346175409118e379091fa03dd26a277e073f97d2a4173b6",
+      "bytes": 11924
+    },
+    {
+      "path": "evidence/legacy-v10/catalog-connections.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/refined-v10-2026-11-03/catalog-connections.json",
+      "sha256": "3d420858227534b471dd4b515711a025cd1bd8e922d32609b873e10f3ef842b2",
+      "bytes": 703249
+    },
+    {
+      "path": "evidence/legacy-v10/controls.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/refined-v10-2026-11-03/controls.json",
+      "sha256": "901703d4fb5ece32a37d57149239d4481715cc91050673ab05a93a9e08fc2c62",
+      "bytes": 271
+    },
+    {
+      "path": "evidence/legacy-v10/production-artifact-check.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/refined-v10-2026-11-03/production-artifact-check.json",
+      "sha256": "4d2a05f8bdce8991ad3d84647ea2b4407cc96f77beb1871de01308cfef7949ab",
+      "bytes": 1288
+    },
+    {
+      "path": "evidence/legacy-v10/artifact-review.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/refined-v10-2026-11-03/artifact-review.json",
+      "sha256": "9ae2f62d5561ce354d4851d1537f67875f4bb71b6f36eaa589b73bf40ec5a3af",
+      "bytes": 221
+    },
+    {
+      "path": "evidence/legacy-v10/REFINED-V10.md",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/REFINED-V10.md",
+      "sha256": "91213805ebb67651f878a93d23a7eb6ded168484e208cf724ba822c890d13ce1",
+      "bytes": 2952
+    },
+    {
+      "path": "evidence/bootstrap/handoff.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/paseo-bootstrap-2026-11-03/handoff.json",
+      "sha256": "03432fe3a480a4e46f3b57cf763077f0799ef3c91c4f3e1c598d7fd07406f4b1",
+      "bytes": 15420
+    },
+    {
+      "path": "evidence/legacy-v10/studfleet-assessment.json",
+      "source": "/Users/clkao/git/house-demo/projects/yangliu-vehicle/evidence/studfleet-integration-2026-11-03/assessment.json",
+      "sha256": "ec9c6fd9241fb8af47ca4f2362fe6926a1650ac5c4ac02ae2b54bf35fc4e872f",
+      "bytes": 1555
+    },
+    {
+      "path": "evidence/legacy-v10/prior-327-piece-draft.md",
+      "source": "/Users/clkao/git/spacedock-research/studfleet/builds/vehicle-instructions-20261027/REPORT.md",
+      "sha256": "1793d9ec6dc8ef111fdd84c0a4abf281d01adbedc12846b19b325abc336ec9f3",
+      "bytes": 7260
+    },
+    {
+      "path": "LICENSE.txt",
+      "source": "/Users/clkao/git/dss-taipei-current/LICENSE.txt",
+      "sha256": "c1dc239072ccb99271ea51b85daa9568fb8d218a5e914ef81f83edaab9dc0dd4",
+      "bytes": 2755
+    }
+  ],
+  "copy_policy": "Exact bytes; historical recipes retained for authorship and reconstruction, not installed shared tooling."
+}

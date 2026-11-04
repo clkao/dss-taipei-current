@@ -1,0 +1,29 @@
+{
+  "schema": "dss-variant/1",
+  "revision": "technic-refined-v2",
+  "status": "prototype",
+  "source": "sources/technic/refined-v2/model.json",
+  "sha256": "a998fed9c3847701ed0b872a69654eb5d57e2a16a4e272ed47f9ab04e057780b",
+  "occurrences": 1101,
+  "reference_revision": "donor-campaign-v10-retained",
+  "reference_sha256": "3afb9e9e7441bc0b5a9455a59c34d13f0bf5c31d7291f9c967070c7f2d909f25",
+  "reference_pin_meaning": "provenance pointer, synchronization unverified",
+  "applicable_shared_features": [
+    "campaign ship-themed pickup",
+    "campaign palette and equipment"
+  ],
+  "accepted_deviations": [
+    "Technic 42126-derived interpretation; historical layout scope in provenance only"
+  ],
+  "pending_changes": [
+    "Reference reconciliation",
+    "Complete construction checks",
+    "Physical RC and strength trials"
+  ],
+  "limits": [
+    "Exceeds pyldraw3 shared backend 500-occurrence cap",
+    "No complete accepted instructions",
+    "No physical RC performance claim"
+  ],
+  "provenance": "sources/provenance/technic/provenance.json"
+}

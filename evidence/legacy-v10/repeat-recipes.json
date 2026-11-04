@@ -1,0 +1,606 @@
+{
+  "recipes": [
+    {
+      "name": "Running boards, 2 copies",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ],
+        "translation": [
+          439.9995804,
+          -4.179999999109896e-05,
+          159.99999359999998
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            97,
+            158
+          ],
+          "maximum_vertex_set_residual_ldu": 2.2022715552148384e-05
+        },
+        {
+          "ids": [
+            96,
+            166
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            115,
+            156
+          ],
+          "maximum_vertex_set_residual_ldu": 6.708203928273357e-06
+        },
+        {
+          "ids": [
+            117,
+            185
+          ],
+          "maximum_vertex_set_residual_ldu": 4.168596888254594e-05
+        },
+        {
+          "ids": [
+            197,
+            205
+          ],
+          "maximum_vertex_set_residual_ldu": 7.551344253543493e-05
+        },
+        {
+          "ids": [
+            140,
+            176
+          ],
+          "maximum_vertex_set_residual_ldu": 4.292784645537267e-05
+        },
+        {
+          "ids": [
+            98,
+            167
+          ],
+          "maximum_vertex_set_residual_ldu": 2.6666833353904606e-05
+        },
+        {
+          "ids": [
+            116,
+            157
+          ],
+          "maximum_vertex_set_residual_ldu": 1.7801123573602107e-05
+        }
+      ]
+    },
+    {
+      "name": "Speakers, 2 copies",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "translation": [
+          0.0,
+          0.0,
+          80.0
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            288,
+            294
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            289,
+            295
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            290,
+            296
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            291,
+            297
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            292,
+            298
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            293,
+            299
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Life rings, 2 copies",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ],
+        "translation": [
+          0.0,
+          -392.75013440000004,
+          160.0
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            268,
+            270
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            269,
+            271
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Wheels, rear pair",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            -1.0000000000001088,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0000000000001088,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ],
+        "translation": [
+          207.49507400001127,
+          -3.2799995921095615e-05,
+          159.9999904
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            221,
+            243
+          ],
+          "maximum_vertex_set_residual_ldu": 2.29205106496558e-12
+        },
+        {
+          "ids": [
+            222,
+            244
+          ],
+          "maximum_vertex_set_residual_ldu": 4.038415647459871e-05
+        }
+      ]
+    },
+    {
+      "name": "Wheels, front left",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            1.0000000000001088,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0000000000001088,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "translation": [
+          232.50452319998868,
+          -1.1999995926714746e-05,
+          1.2e-05
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            221,
+            235
+          ],
+          "maximum_vertex_set_residual_ldu": 2.332832025782682e-12
+        },
+        {
+          "ids": [
+            222,
+            236
+          ],
+          "maximum_vertex_set_residual_ldu": 4.596781796287513e-05
+        }
+      ]
+    },
+    {
+      "name": "Wheels, front right",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            -1.0000000000001088,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0000000000001088,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ],
+        "translation": [
+          439.9995918000113,
+          -4.4799995926325664e-05,
+          160.0000054
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            221,
+            249
+          ],
+          "maximum_vertex_set_residual_ldu": 2.332832025782682e-12
+        },
+        {
+          "ids": [
+            222,
+            250
+          ],
+          "maximum_vertex_set_residual_ldu": 3.751106626729807e-05
+        }
+      ]
+    },
+    {
+      "name": "Platform risers, copy 2",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "translation": [
+          0.0,
+          0.0,
+          80.0
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            280,
+            281
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            326,
+            327
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Platform risers, copy 3",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "translation": [
+          80.0,
+          0.0,
+          0.0
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            280,
+            282
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            326,
+            328
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Platform risers, copy 4",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "translation": [
+          80.0,
+          0.0,
+          80.0
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            280,
+            283
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            326,
+            329
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Shield panels, copy 2",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.0
+          ]
+        ],
+        "translation": [
+          160.0,
+          0.0,
+          160.0
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            2003,
+            2004
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            2006,
+            2007
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            2009,
+            2010
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Shield panels, copy 3",
+      "part_color_match": true,
+      "rigid_transform": {
+        "rotation": [
+          [
+            0.0,
+            0.0,
+            1.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            -1.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "translation": [
+          120.0,
+          0.0,
+          160.0
+        ]
+      },
+      "shape_comparison_tolerance_ldu": 0.001,
+      "exact_source_poses_preserved": true,
+      "matching": true,
+      "parts": [
+        {
+          "ids": [
+            2003,
+            2005
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            2006,
+            2008
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        },
+        {
+          "ids": [
+            2009,
+            2011
+          ],
+          "maximum_vertex_set_residual_ldu": 0.0
+        }
+      ]
+    }
+  ],
+  "limits": "The tolerance compares exported geometry; it is not a part clearance or physical-fit tolerance. Full left/right side carriers are different, mirrored recipes; only their matching eight-part running boards use 2x."
+}

@@ -1,0 +1,53 @@
+{
+  "schema": "dss-tooling/1",
+  "spacedock_binary": "spacedock 0.28.0-pre5\nOS: darwin/arm64\nChannel: edge (spacedock@spacedock-edge)\nRuntime: codex (CODEX_THREAD_ID)\nSandbox: none (safehouse available)\ncontract 3",
+  "commission_skill": "spacedock@0.28.0-pre0",
+  "studfleet_source_head": "9941400ac88c72a687a77da194c870731e67468e",
+  "studfleet_binary": {
+    "path": "/Users/clkao/git/spacedock-research/studfleet/builds/studfleet",
+    "sha256": "bcbaf07e0b068297cd95f0487dc62e844f67f3318f5bf11146e30a005ae20490",
+    "reported_identity": "studfleet/import-1;binary_sha256=bcbaf07e0b068297cd95f0487dc62e844f67f3318f5bf11146e30a005ae20490;vcs.revision=9dc7c81ffefd3afaae9b6a877365e260910533a1;vcs.modified=true",
+    "clean_current_release": false
+  },
+  "shared_resources": {
+    "package-lock.json": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/package-lock.json",
+      "sha256": "1572b9357d3e1e7100c2b24397fbbf2cba6809775d1654cd2ceeaf42dd739983"
+    },
+    "package.json": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/package.json",
+      "sha256": "e4f64935b7cacc2070ee48617fa4cd8a8a309d5a89cad526b95503f7cc3553a1"
+    },
+    "tools/connectivity/requirements.lock": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/tools/connectivity/requirements.lock",
+      "sha256": "8aab18cffe515724e06c21bcbf5c8f6bbcf42b794218585f239c446614fdd981"
+    },
+    "tools/connectivity/inspect.py": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/tools/connectivity/inspect.py",
+      "sha256": "63c691d0a6d235e48369fe6f5b7356f4c9133adf3bc7a7f2e01afa7e518089db"
+    },
+    "tools/connectivity/compat.py": {
+      "path": "/Users/clkao/git/spacedock-research/studfleet/tools/connectivity/compat.py",
+      "sha256": "6da7ae5975d3058a0ca97cfc96e1f9dce8482f05ab05993b4d89be88f67a5f3d"
+    }
+  },
+  "node": "v24.22.1",
+  "python": {
+    "path": "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/connector-venv/bin/python",
+    "version": "Python 3.14.7",
+    "executable_sha256": "87d4df53fd91304be5bac391fb204643c36b7df2023c04a0953bcbc7d4fdf634"
+  },
+  "archive": {
+    "path": "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/ldraw-complete.zip",
+    "sha256": "f3e496d0ede69ca7942fa4aa198e661ee2d22723906101e2e339d8917a4dd5f2",
+    "copied": false
+  },
+  "shadow": {
+    "path": "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow",
+    "git_revision": "9b1131fb1991f8c0bfc072325e4e12f6271aba35",
+    "expected_content_sha256": "eee7a65bfdd91375e64eaefd212b9fa2768859c9ad9e647280907b2cdf3822e9"
+  },
+  "portable_installation": false,
+  "resource_resolution": "Current local executable uses shared checkout resources. Copying the Go executable alone does not install preview or connector dependencies. nk owns portable distribution.",
+  "connector_result": "failed: connector malformed position: o/3/3/snap_cyl@L11:I0"
+}

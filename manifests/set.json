@@ -1,0 +1,16 @@
+{
+  "schema": "dss-set/1",
+  "id": "dss-taipei-current",
+  "name": "DSS Taipei Current",
+  "expansion": "Democratic Service Ship",
+  "zh": "洋流號",
+  "source_branch": "main",
+  "publication_branch": "gh-pages",
+  "publication_commit": "80942bbb98ccd7bdc1c9ee4ccbbe60a17d2b4b98",
+  "model_workflow": "docs/models",
+  "instruction_workflow": "docs/instructions",
+  "original_contributions": "CL Kao; CC BY-SA 4.0",
+  "physical_vehicle_credit": "Shen Po-yang campaign team and contributors / 沈伯洋競選團隊及參與創作者",
+  "designer_fabricator": "unverified",
+  "rights": "See sources/provenance; upstream assembly and some campaign/meme permissions unresolved."
+}

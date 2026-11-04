@@ -1,0 +1,36 @@
+{
+  "assessment_date": "2026-11-03",
+  "current_pieces": 348,
+  "current_main_steps": 68,
+  "current_pdf_pages": 102,
+  "source_mpd_sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
+  "imported_occurrences": 348,
+  "import_only_no_render_or_instruction_export": true,
+  "tested_binary": "studfleet/import-1;binary_sha256=bcbaf07e0b068297cd95f0487dc62e844f67f3318f5bf11146e30a005ae20490;vcs.revision=9dc7c81ffefd3afaae9b6a877365e260910533a1;vcs.modified=true",
+  "studfleet_source_head": "9941400",
+  "finite_profile_types": 11,
+  "current_part_types": 87,
+  "current_types_with_finite_profile": 7,
+  "current_types_without_finite_profile": 80,
+  "current_occurrences_with_a_part_profile": 52,
+  "coverage_note": "Profile presence is not full color, manufacturing, connection, insertion or physical validation. Shared-catalog connector inspection is a separate broader path.",
+  "prior_vehicle_proof": {
+    "pieces": 327,
+    "pdf_pages": 134,
+    "report": "/Users/clkao/git/spacedock-research/studfleet/builds/vehicle-instructions-20261027/REPORT.md",
+    "manual_accepted": false
+  },
+  "workflow_package_direction": {
+    "path": "/Users/clkao/git/spacedock-research/studfleet/docs/sets/README.md",
+    "lines": [
+      208,
+      226
+    ],
+    "bootstrap_implemented": false
+  },
+  "current_release_implementation": "house-demo project scripts; no per-set Spacedock workspace in this repository",
+  "reader_labels_task": {
+    "slug": "show-reader-labels-without-internal-clutter",
+    "observed_status": "ideation"
+  }
+}

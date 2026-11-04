@@ -1,0 +1,19 @@
+{
+  "schema": "dss-reference/1",
+  "revision": "donor-campaign-v10-retained",
+  "artifact": "sources/reference/donor-campaign-v10/yangliu-source-v10.blend",
+  "sha256": "3afb9e9e7441bc0b5a9455a59c34d13f0bf5c31d7291f9c967070c7f2d909f25",
+  "status": "retained-existing-source; reconciliation pending",
+  "accepted_source_revision": null,
+  "variant_synchronization": "Neither current variant demonstrated fully synchronized with this reference. Pinning records provenance only.",
+  "reference_contract": [
+    "Existing Blender source and exact hash",
+    "Provenance and generation recipes",
+    "Feature/change ledger and review evidence; no MPD required for reference-only revision"
+  ],
+  "pending": [
+    "Reconcile campaign-mods-v6/source hashes with Blender bytes",
+    "Compare shared campaign features with minifigure-v10 and Technic-v2 independently",
+    "Record applicable features and accepted deviations before claiming synchronization"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet",
+  "env": {
+    "PYTHONDONTWRITEBYTECODE": "1"
+  },
+  "argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/builds/studfleet",
+    "inspect",
+    "--assembly",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/evidence/bootstrap/intake/assembly.json",
+    "--provenance",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/evidence/bootstrap/intake/import-report.json",
+    "--report",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/evidence/bootstrap/inspection.json",
+    "--connectivity",
+    "pyldraw3",
+    "--python",
+    "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/connector-venv/bin/python",
+    "--shadow",
+    "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/shadow",
+    "--ldraw",
+    "/Users/clkao/git/spacedock-research/studfleet/builds/model-workspace-pilot/hypotheses/connector-v2-r2/inputs/ldraw-complete.zip"
+  ],
+  "outcome": "Report retained; connector backend failed. Do not convert required_failure=false into a pass.",
+  "command_exit_code": null,
+  "exit_code_note": "Tool response interrupted; report exists and no process remains."
+}

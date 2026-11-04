@@ -1,0 +1,45 @@
+{
+  "all_match_checked_draft": true,
+  "files": [
+    {
+      "file": "index.html",
+      "sha256": "62a3d22767dcfa70b90e68c364044588b368bf1c7a1128943fdbc742ff44564c",
+      "bytes": 3156494
+    },
+    {
+      "file": "instructions.pdf",
+      "sha256": "d3f510b91f86df458da7aa5635c78ad4500908e99df279f1cfa6dbe0f2faa084",
+      "bytes": 5818707
+    },
+    {
+      "file": "credits.html",
+      "sha256": "1a444d3e86d1bd731e0e338fd6610cef5cb0dcd3110bf6b67e801f849654753f",
+      "bytes": 49201
+    },
+    {
+      "file": "LICENSE.txt",
+      "sha256": "fb24f723bca398615120020d6dac3eb4e2c64a779f9be3b24a8bfae1e43f4765",
+      "bytes": 2324
+    },
+    {
+      "file": "licenses/CC-BY-SA-4.0.txt",
+      "sha256": "23ee78c8bae49cf08ea2f0c84945c66b987ebe4520881fb51b3dad4fb43d07c2",
+      "bytes": 20137
+    },
+    {
+      "file": "release-provenance.json",
+      "sha256": "53d820651d3bbce7ea7c1eeaf21c877846de995bb0c2f834c5f5c28425950f4f",
+      "bytes": 6452
+    },
+    {
+      "file": "tsai-banner/meme-attribution.json",
+      "sha256": "952a2c4d75573db89d5a932ea0a9d7d1116ed80405fd91785aa115a4df040a21",
+      "bytes": 1148
+    },
+    {
+      "file": "release.zip",
+      "sha256": "2c919ddab56bd4aca9cf29c0dd4b4f5c33d022287800832dd868785ac16c4f51",
+      "bytes": 11648949
+    }
+  ]
+}

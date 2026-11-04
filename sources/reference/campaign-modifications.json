@@ -1,0 +1,235 @@
+{
+  "revision": "campaign-mods-v6",
+  "source_blend": "sources/model-v1/yangliu-source-v1.blend",
+  "source_sha256": "36366765b452719d86c4586750055709413d5dd9cce8d552df3fca6ba8118c7f",
+  "operations": [
+    {
+      "id": "01-wood-wrap",
+      "type": "paint_atlas",
+      "description": "Replace red body paint with wood-effect campaign wrap; retain original trim and lamp textures.",
+      "selector": "paint",
+      "texture": "sources/donor-public/rangerFordlambert2_baseColor.jpeg",
+      "color_mask": {
+        "red_min": 0.22,
+        "red_over_green": 1.25,
+        "red_over_blue": 1.2
+      }
+    },
+    {
+      "id": "17-white-hood",
+      "type": "paint_solid",
+      "selector": "hood",
+      "material_name": "Coral painted hood",
+      "color": [
+        0.864,
+        0.191,
+        0.141
+      ],
+      "description": "Updated launch photo: coral hood field, replacing the earlier all-white interpretation."
+    },
+    {
+      "id": "18-white-cowl",
+      "type": "paint_atlas",
+      "selector": "hood_cowl",
+      "texture_override": "sources/artwork-v5/coral-cowl-atlas.png",
+      "description": "Coral cowl strip matches updated hood; retain black wiper detail."
+    },
+    {
+      "id": "02-white-arches",
+      "type": "smooth_flares",
+      "description": "Smooth formed white flares with rounded lips and tapered ends replace the tubular arch pieces.",
+      "revision": "campaign-mods-v5",
+      "generator": "smooth_flares.py",
+      "generator_sha256": "e4f699ef621a9c2bcf403565b2b9574b617257a32cbe457f5da9c271931a1cc0",
+      "shape": {
+        "outer_radius_m": 0.497,
+        "inner_radius_m": 0.414,
+        "body_half_width_m": 0.895,
+        "projection_m": 0.065
+      }
+    },
+    {
+      "id": "03-cabin",
+      "type": "append",
+      "module": "interior",
+      "frame": "cabin",
+      "description": "Fit four seats and driver controls; reflect across centreline to place driver on vehicle left."
+    },
+    {
+      "id": "04-glazing",
+      "type": "glass",
+      "selector": "glazing",
+      "alpha": 0.34,
+      "description": "Keep donor windshield geometry; make glazing transparent for cabin inspection."
+    },
+    {
+      "id": "05-bed-platform",
+      "type": "append",
+      "module": "platform",
+      "frame": "bed",
+      "description": "Standing platform and white nautical rails."
+    },
+    {
+      "id": "06-roof-framework",
+      "type": "append",
+      "module": "roof-rack",
+      "frame": "cab",
+      "description": "Removable white cab-top framework."
+    },
+    {
+      "id": "07-helm",
+      "type": "append",
+      "module": "helm",
+      "frame": "bed",
+      "description": "Independent helm and pedestal, shifted behind cab; pedestal extended down to bed platform.",
+      "translate": [
+        -0.65,
+        0,
+        0
+      ],
+      "extend_pedestal_to_bed": true
+    },
+    {
+      "id": "08-pa",
+      "type": "append",
+      "module": "speakers",
+      "frame": "cab",
+      "description": "Pair of removable PA speakers."
+    },
+    {
+      "id": "09-life-rings",
+      "type": "append",
+      "module": "life-rings",
+      "frame": "bed",
+      "description": "Removable ring pair on bed sides."
+    },
+    {
+      "id": "10-banner",
+      "type": "append",
+      "module": "aft-banner",
+      "frame": "bed",
+      "description": "Rear banner and lower spar trail aft around their fixed mast. Forward guy rope remains anchored to the vehicle.",
+      "rotate_about_world_z": {
+        "pivot_m": [
+          -2.313,
+          -0.799,
+          0
+        ],
+        "degrees": 180
+      },
+      "readable_flag_faces": true
+    },
+    {
+      "id": "11-sail",
+      "type": "append",
+      "module": "forward-sail",
+      "frame": "cab",
+      "description": "Launch sail, emblem and lower spar rotate aft about the fixed mast; clears the adjacent PA enclosure.",
+      "rotate_about_world_z": {
+        "pivot_m": [
+          0.274,
+          -0.6375,
+          0
+        ],
+        "degrees": 180
+      },
+      "readable_flag_faces": true
+    },
+    {
+      "id": "12-rigging",
+      "type": "append",
+      "module": "rigging",
+      "frame": "vehicle",
+      "description": "Decorative perimeter ropes hang in curved spans outside bodywork; mast guy ropes remain taut.",
+      "decorative_sag": {
+        "sag_m": 0.22,
+        "outboard_offset_m": 0.12,
+        "front_offset_m": 0.14,
+        "samples_per_span": 24,
+        "front_corner_x_m": 2.5,
+        "front_center_x_m": 2.71,
+        "front_attachment_z_m": 0.965,
+        "front_sag_m": 0.075,
+        "radius_m": 0.014
+      }
+    },
+    {
+      "id": "13-road-lights",
+      "type": "append",
+      "module": "road-light-kit",
+      "frame": "bed",
+      "optional": true,
+      "description": "Alternative road lighting module, hidden in launch view."
+    },
+    {
+      "id": "16-front-fascia",
+      "type": "front_fascia",
+      "revision": "campaign-mods-v5",
+      "description": "Photo-based front correction: six-sided grille, swept projector lamps, moulded bumper, lower light pockets, orange corners, silver skid, and campaign plate. Rounded lamp housings and fog lamps; smooth projector rims.",
+      "plate_artwork": "sources/artwork-v3/front-plate.png",
+      "plate_artwork_sha256": "f79319c63f87667a29a4a2783054163312df17a2224f4cdf8605a4ff8224af82",
+      "generator": "front_fascia.py",
+      "generator_sha256": "194c07d1b11500e426d7e3ca30fa9af487762aee30c9e6f49bf78dc7e67bb1b6",
+      "references": [
+        "sources/vehicle.jpg",
+        "sources/front.jpg"
+      ],
+      "approximate": true
+    },
+    {
+      "id": "14-hood-decal",
+      "type": "append",
+      "module": "decals",
+      "name_prefix": "Hood campaign wrap",
+      "frame": "hood",
+      "project_to": "hood",
+      "description": "Latest user photo: dark vertical 洋流 on a jagged white band over the coral hood field.",
+      "artwork_override": "sources/artwork-v5/hood-band.png",
+      "artwork_sha256": "adef5f5d8a334ab7e7529412b0816ffc4a4fe0b16484a6f118219bcd36d39c3c",
+      "transparent_artwork": true,
+      "projection_offset_m": 0.0006
+    },
+    {
+      "id": "15-front-plate",
+      "type": "append",
+      "module": "decals",
+      "name_prefix": "Front plate lettering",
+      "frame": "vehicle",
+      "translate": [
+        -0.07,
+        0,
+        -0.12
+      ],
+      "description": "Campaign plate lettering on donor bumper.",
+      "enabled": false,
+      "superseded_by": "16-front-fascia"
+    }
+  ],
+  "limits": [
+    "Attachment hardware and rear details remain inferred from photos.",
+    "Profile changes require visual review; replay does not guarantee fit to a different body.",
+    "LEGO geometry will be derived after this full-size source stage."
+  ],
+  "changes_from_v1": [
+    "Hood graphic changed to dark vertically stacked 洋流 on a jagged white strip over orange; remove invented English, circle, and bottom waves.",
+    "Cab-top platform resized to follow donor roof perimeter.",
+    "Decorative ropes now sag between attachment points instead of using straight segments."
+  ],
+  "changes_from_v2": [
+    "Simplified front details fitted to donor hood height; original fenders retained without patches or hood lifting.",
+    "Single smooth front rope span, attached at hood corners, with thinner cord.",
+    "Scope: source silhouette and LEGO-recognizable details; stop pursuing full-size accuracy."
+  ],
+  "changes_from_v3": [
+    "White hood paint and white hood artwork, retaining navy lettering.",
+    "Smooth formed flares replace round pipe arches.",
+    "Rounded headlamp/foglamp outlines and softened projector rims."
+  ],
+  "changes_from_v4": [
+    "Latest user-supplied launch photo supersedes the all-white hood: coral field with jagged white vertical band and dark lettering.",
+    "Thin surface decal offset reduces the raised lettering appearance."
+  ],
+  "changes_from_v5": [
+    "User identified sail slicing through PA speaker. Rotate forward sail and aft banner 180 degrees around their mast axes, so fabric trails rearward; retain speaker positions and vehicle-anchored guy ropes."
+  ]
+}

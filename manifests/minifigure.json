@@ -1,0 +1,72 @@
+{
+  "schema": "dss-variant/1",
+  "revision": "minifigure-v10",
+  "status": "historical-accepted-baseline-with-engineering-limits",
+  "authored_source": "sources/minifigure/refined-v9/model.json",
+  "authored_sha256": "be5a93440d508627b6aeb1a1ccb7099d7d50f3efecf45d1d9bc6d3ee6f223464",
+  "compiled_source": "sources/minifigure/legacy-v10/model.json",
+  "compiled_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+  "mpd": "sources/minifigure/legacy-v10/source.mpd",
+  "mpd_sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
+  "rigid_occurrences": 348,
+  "reference_revision": "donor-campaign-v10-retained",
+  "reference_sha256": "3afb9e9e7441bc0b5a9455a59c34d13f0bf5c31d7291f9c967070c7f2d909f25",
+  "reference_pin_meaning": "retained pointer; not synchronized or newly accepted",
+  "applicable_shared_features": [
+    "ship-themed campaign pickup",
+    "hood campaign artwork",
+    "flags",
+    "speakers",
+    "life rings",
+    "transparent enclosure"
+  ],
+  "accepted_deviations": [
+    "LEGO minifigure-scale interpretation",
+    "preassembled figures placed last",
+    "小英 beside vehicle; no bottom plate"
+  ],
+  "pending_changes": [
+    "Reference feature reconciliation only; no geometry change authorized by this adoption"
+  ],
+  "historical_acceptance": {
+    "shield_source_sha256": "da8685905555649204b121b1d13e52a0f54c6f8d86d36207af670b25c53a63ae",
+    "appearance_acceptance": {
+      "accepted": true,
+      "accepted_utc": "2026-11-03T19:44:55.613602+00:00",
+      "model_sha256": "da8685905555649204b121b1d13e52a0f54c6f8d86d36207af670b25c53a63ae",
+      "accepted_prototype_sha256": "1af77abeea4ca501d96c27431263fcde015ec4731d27caacba2434d002ef50be",
+      "exact_piece_records_without_step_sha256": "c2f8b473184156694657b4c01f86a4f44b028c6e3d011cefd99b7bbc6c617a67",
+      "authorization": "User appearance acceptance relayed by the parent agent; model refinement and instruction authoring authorized.",
+      "geometry_color_and_occurrences_identical_to_accepted_preview": true,
+      "remaining_limits": "Preferred 338-part retained-rail shield configuration. No physical-fit, grip, strength or complete insertion certification implied."
+    },
+    "tsai_source_sha256": "df27b7981d1039ad0b1d7c69980ab2e7309bc44296620a74d1635c6c1e3d1756",
+    "tsai_placement": "Standing beside the vehicle without a display base.",
+    "tsai_shift_studs": [
+      2.5,
+      -5.0,
+      0.0
+    ],
+    "scope": "Accepted shield appearance plus requested 小英 speech-bubble accessory; physical tests remain open."
+  },
+  "limits": [
+    "Digital fit audit and physical acceptance are separate. Real-brick grip, elastic response and handling have not been measured.",
+    "One central driver seat; no claim of four-seat accommodation at this scale.",
+    "The campaign body is an approximation of the source vehicle, using 75875 as a construction reference.",
+    "Campaign stickers and decorative craft cord are additional accessories. Test the sticker cuts on paper first.",
+    "The stock suspension needs a physical travel and band-retention check. Do not lift the vehicle by campaign equipment.",
+    "Low eyelets have aligned native features and actual-mesh fit evidence; their shared connector graph edges are absent because the ring extends below the socket mouth. Real clutch and cord knots remain untested.",
+    "Upper hood character is complete on the level three-tile panel. Each orange wing has one stud; verify real clutch and prevent rotation during film application.",
+    "One Red and one Light Bluish Gray x37 band selected for seller consolidation; elastic behavior has not been tested.",
+    "Optional driver minifigure removed by user choice; the seat and controls remain.",
+    "Upper hood film bridges the two internal seams of the level three-tile panel; the lower curved hood film remains separate.",
+    "Square White clip flags use Reddish Orange printed backgrounds on both faces. Hood and wedge sticker backgrounds remain transparent.",
+    "The uncut Black 10L rigid-hose mast and compact offset mount pass focused digital fit checks. Real hose straightness, clip grip and mast stiffness remain untested.",
+    "Visual prototype; no likeness acceptance yet.",
+    "Plain 973 torso uses a proposed custom jacket decal.",
+    "White 2335 flag has one decal on each face; this is a speech-bubble graphic on a real rectangular flag.",
+    "Grip axis uses nominal LDCad hand metadata, explicitly approximate; physical hand/bar/clip fit remains untested.",
+    "Instructions must install shield mounting plates before relocated rails and pane units before tall flags."
+  ],
+  "bootstrap_review": "No new model review or physical test performed."
+}

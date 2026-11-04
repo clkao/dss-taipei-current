@@ -1,0 +1,7073 @@
+{
+  "schema": "house-ldraw-assembly/1",
+  "pieces": [
+    {
+      "instance_id": "91bb579e-9289-536c-bbee-6d8716d1662c",
+      "piece_id": 1,
+      "section": "assembly-truck.ldr",
+      "placement_index": 73,
+      "local_step": 35,
+      "source_step": 71,
+      "module": "truck",
+      "ldraw_part": "6091"
+    },
+    {
+      "instance_id": "ff4ef500-a8fc-52f4-9e90-12825e6931b5",
+      "piece_id": 2,
+      "section": "assembly-truck.ldr",
+      "placement_index": 74,
+      "local_step": 35,
+      "source_step": 71,
+      "module": "truck",
+      "ldraw_part": "6091"
+    },
+    {
+      "instance_id": "f90ce983-b252-5ea8-b554-f5c6531eac42",
+      "piece_id": 3,
+      "section": "assembly-truck.ldr",
+      "placement_index": 185,
+      "local_step": 76,
+      "source_step": 116,
+      "module": "truck",
+      "ldraw_part": "2431"
+    },
+    {
+      "instance_id": "36ca2474-6de8-5ea4-8536-52d7dd681ee4",
+      "piece_id": 4,
+      "section": "assembly-truck.ldr",
+      "placement_index": 184,
+      "local_step": 76,
+      "source_step": 116,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "12cc473c-c513-55be-9afc-0765c24474fc",
+      "piece_id": 5,
+      "section": "assembly-cab-roof.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 119,
+      "module": "cab-roof",
+      "ldraw_part": "52031"
+    },
+    {
+      "instance_id": "81e5d19b-8a47-5956-b499-df8bf2dfc68b",
+      "piece_id": 6,
+      "section": "assembly-truck.ldr",
+      "placement_index": 174,
+      "local_step": 72,
+      "source_step": 112,
+      "module": "truck",
+      "ldraw_part": "87552"
+    },
+    {
+      "instance_id": "d60b8f41-c90d-59ac-9694-a39d0e082b30",
+      "piece_id": 7,
+      "section": "assembly-truck.ldr",
+      "placement_index": 183,
+      "local_step": 75,
+      "source_step": 115,
+      "module": "truck",
+      "ldraw_part": "92583"
+    },
+    {
+      "instance_id": "3cc8f8fb-74ea-5cb1-9c20-9b3384533b4d",
+      "piece_id": 8,
+      "section": "assembly-truck.ldr",
+      "placement_index": 175,
+      "local_step": 72,
+      "source_step": 112,
+      "module": "truck",
+      "ldraw_part": "87552"
+    },
+    {
+      "instance_id": "919b5dc7-3e59-5cd5-b729-2c7845095682",
+      "piece_id": 9,
+      "section": "assembly-truck.ldr",
+      "placement_index": 126,
+      "local_step": 53,
+      "source_step": 89,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "4b279f3b-d004-51ff-800b-c30eb4d177ba",
+      "piece_id": 10,
+      "section": "assembly-truck.ldr",
+      "placement_index": 118,
+      "local_step": 51,
+      "source_step": 87,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "c5676eb8-eded-5f5b-a8cc-abfbc5e35512",
+      "piece_id": 11,
+      "section": "assembly-truck.ldr",
+      "placement_index": 170,
+      "local_step": 71,
+      "source_step": 111,
+      "module": "truck",
+      "ldraw_part": "3004"
+    },
+    {
+      "instance_id": "ca560aee-b881-5c93-b992-5fbfad442d48",
+      "piece_id": 12,
+      "section": "assembly-truck.ldr",
+      "placement_index": 122,
+      "local_step": 52,
+      "source_step": 88,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "bbdd406c-c4d9-5ff3-92cc-fcc2a08d2ffc",
+      "piece_id": 13,
+      "section": "assembly-truck.ldr",
+      "placement_index": 124,
+      "local_step": 52,
+      "source_step": 88,
+      "module": "truck",
+      "ldraw_part": "54200"
+    },
+    {
+      "instance_id": "f3d133ee-5c3e-5131-afd4-c227fbcd3eae",
+      "piece_id": 14,
+      "section": "assembly-rear-bed.ldr",
+      "placement_index": 7,
+      "local_step": 5,
+      "source_step": 65,
+      "module": "truck",
+      "ldraw_part": "3460"
+    },
+    {
+      "instance_id": "bf84f437-0f53-5037-9370-773109a782bb",
+      "piece_id": 15,
+      "section": "assembly-truck.ldr",
+      "placement_index": 114,
+      "local_step": 49,
+      "source_step": 85,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "31d4880b-fd86-5d32-a36e-46baf42acb25",
+      "piece_id": 16,
+      "section": "assembly-truck.ldr",
+      "placement_index": 164,
+      "local_step": 68,
+      "source_step": 107,
+      "module": "truck",
+      "ldraw_part": "3020"
+    },
+    {
+      "instance_id": "dedfc476-273a-5d6b-916d-c026c602b513",
+      "piece_id": 17,
+      "section": "assembly-truck.ldr",
+      "placement_index": 182,
+      "local_step": 74,
+      "source_step": 114,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "c92201ac-db36-5aa8-8f6a-c42d2c86c348",
+      "piece_id": 18,
+      "section": "assembly-truck.ldr",
+      "placement_index": 181,
+      "local_step": 74,
+      "source_step": 114,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "3b1c9403-b0c1-51cf-90a6-0ec7b86879fd",
+      "piece_id": 19,
+      "section": "assembly-truck.ldr",
+      "placement_index": 178,
+      "local_step": 73,
+      "source_step": 113,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "2ed7a9a4-e365-5ff3-91e4-d8b75c666175",
+      "piece_id": 20,
+      "section": "assembly-truck.ldr",
+      "placement_index": 179,
+      "local_step": 73,
+      "source_step": 113,
+      "module": "truck",
+      "ldraw_part": "54200"
+    },
+    {
+      "instance_id": "22464860-f928-5897-aadc-0036cf2a84db",
+      "piece_id": 21,
+      "section": "assembly-truck.ldr",
+      "placement_index": 180,
+      "local_step": 73,
+      "source_step": 113,
+      "module": "truck",
+      "ldraw_part": "54200"
+    },
+    {
+      "instance_id": "8d0efa68-7ad7-57c5-a684-48027e06f148",
+      "piece_id": 22,
+      "section": "assembly-truck.ldr",
+      "placement_index": 176,
+      "local_step": 72,
+      "source_step": 112,
+      "module": "truck",
+      "ldraw_part": "87552"
+    },
+    {
+      "instance_id": "1ddebfc0-ef21-5bed-84ce-4e6f75fa34b8",
+      "piece_id": 23,
+      "section": "assembly-truck.ldr",
+      "placement_index": 177,
+      "local_step": 72,
+      "source_step": 112,
+      "module": "truck",
+      "ldraw_part": "87552"
+    },
+    {
+      "instance_id": "94380c3c-8551-5540-88c9-830c076be5e1",
+      "piece_id": 24,
+      "section": "assembly-truck.ldr",
+      "placement_index": 56,
+      "local_step": 28,
+      "source_step": 59,
+      "module": "truck",
+      "ldraw_part": "98282"
+    },
+    {
+      "instance_id": "24540577-da9e-5c19-b1d3-d48b1ad76c51",
+      "piece_id": 25,
+      "section": "assembly-truck.ldr",
+      "placement_index": 102,
+      "local_step": 46,
+      "source_step": 82,
+      "module": "truck",
+      "ldraw_part": "4081b"
+    },
+    {
+      "instance_id": "05ed46a4-af4e-552d-bb31-ad2bd5a31422",
+      "piece_id": 26,
+      "section": "assembly-truck.ldr",
+      "placement_index": 100,
+      "local_step": 45,
+      "source_step": 81,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "21eab9c7-b819-5219-890d-f3717f224965",
+      "piece_id": 27,
+      "section": "assembly-truck.ldr",
+      "placement_index": 98,
+      "local_step": 45,
+      "source_step": 81,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "ad89cb5f-5ea7-5a07-8e9f-3b58e65e5fea",
+      "piece_id": 28,
+      "section": "assembly-truck.ldr",
+      "placement_index": 159,
+      "local_step": 66,
+      "source_step": 105,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "cb8ad527-8558-5399-b227-b9a05375d687",
+      "piece_id": 29,
+      "section": "assembly-hood.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 117,
+      "module": "hood",
+      "ldraw_part": "52031"
+    },
+    {
+      "instance_id": "03d08661-ee28-5f29-ae3b-4b11a003d5e5",
+      "piece_id": 30,
+      "section": "assembly-truck.ldr",
+      "placement_index": 157,
+      "local_step": 65,
+      "source_step": 104,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "c0e93f57-950f-5695-945e-17a22f2dbdaa",
+      "piece_id": 31,
+      "section": "assembly-truck.ldr",
+      "placement_index": 160,
+      "local_step": 66,
+      "source_step": 105,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "ed40cd1e-7572-5e12-be11-3fbce688a6ee",
+      "piece_id": 32,
+      "section": "assembly-truck.ldr",
+      "placement_index": 116,
+      "local_step": 50,
+      "source_step": 86,
+      "module": "truck",
+      "ldraw_part": "3460"
+    },
+    {
+      "instance_id": "3cac5d5a-a455-598d-ac9d-211e9e0f1b5d",
+      "piece_id": 33,
+      "section": "assembly-rear-bed.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 61,
+      "module": "truck",
+      "ldraw_part": "3795"
+    },
+    {
+      "instance_id": "4e780e05-ba38-5144-b686-93f1f16055a4",
+      "piece_id": 34,
+      "section": "assembly-rear-bed.ldr",
+      "placement_index": 5,
+      "local_step": 4,
+      "source_step": 64,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "96fc2200-a562-5cc2-bfef-0298c27d6732",
+      "piece_id": 35,
+      "section": "assembly-truck.ldr",
+      "placement_index": 79,
+      "local_step": 38,
+      "source_step": 74,
+      "module": "truck",
+      "ldraw_part": "15068"
+    },
+    {
+      "instance_id": "6c031073-f28f-587a-a486-5e7d35e31c85",
+      "piece_id": 36,
+      "section": "assembly-truck.ldr",
+      "placement_index": 76,
+      "local_step": 37,
+      "source_step": 73,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "0a5003da-e7b2-5c9c-a73a-9fd1d5564549",
+      "piece_id": 37,
+      "section": "assembly-truck.ldr",
+      "placement_index": 82,
+      "local_step": 39,
+      "source_step": 75,
+      "module": "truck",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "3209aff3-5474-5f30-a953-f23263fac7cb",
+      "piece_id": 38,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 10,
+      "local_step": 6,
+      "source_step": 48,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "1882bc30-9ce4-5fcc-8f4b-1d06ef596ecc",
+      "piece_id": 39,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 8,
+      "local_step": 5,
+      "source_step": 47,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "b55c0183-931a-570e-9eaf-aec7c41a357e",
+      "piece_id": 40,
+      "section": "assembly-truck.ldr",
+      "placement_index": 85,
+      "local_step": 40,
+      "source_step": 76,
+      "module": "truck",
+      "ldraw_part": "87079"
+    },
+    {
+      "instance_id": "372ff07f-939e-5aee-b042-423def66abbe",
+      "piece_id": 41,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 13,
+      "local_step": 7,
+      "source_step": 49,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "c36bec2b-bf6a-5dbe-ae33-a2c7d7db20a0",
+      "piece_id": 42,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 12,
+      "local_step": 7,
+      "source_step": 49,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "80dcc057-57f5-56c3-bd12-46d7a2f47a7c",
+      "piece_id": 43,
+      "section": "assembly-truck.ldr",
+      "placement_index": 83,
+      "local_step": 39,
+      "source_step": 75,
+      "module": "truck",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "f4999179-8dd4-5108-a3cd-3de5a92fcd6e",
+      "piece_id": 44,
+      "section": "assembly-truck.ldr",
+      "placement_index": 77,
+      "local_step": 37,
+      "source_step": 73,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "e851b418-5c91-55de-af8d-aaf45791ed54",
+      "piece_id": 45,
+      "section": "assembly-truck.ldr",
+      "placement_index": 80,
+      "local_step": 38,
+      "source_step": 74,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "c7f93e4c-f16b-55fc-ab28-57605dfd3fbe",
+      "piece_id": 46,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 9,
+      "local_step": 5,
+      "source_step": 47,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "7328e4b3-0eef-59a4-80b1-eb6f7a5dbf2c",
+      "piece_id": 47,
+      "section": "assembly-truck.ldr",
+      "placement_index": 86,
+      "local_step": 40,
+      "source_step": 76,
+      "module": "truck",
+      "ldraw_part": "3068b"
+    },
+    {
+      "instance_id": "7a6db921-2792-5ab5-8b75-35317056a8df",
+      "piece_id": 48,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 14,
+      "local_step": 7,
+      "source_step": 49,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "53bd93f0-4666-516f-b977-4300d56aaed4",
+      "piece_id": 49,
+      "section": "assembly-truck.ldr",
+      "placement_index": 81,
+      "local_step": 38,
+      "source_step": 74,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "09cae5bd-cea3-502e-b571-9ff86eeabe68",
+      "piece_id": 50,
+      "section": "assembly-truck.ldr",
+      "placement_index": 84,
+      "local_step": 39,
+      "source_step": 75,
+      "module": "truck",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "2e374962-6d44-5d48-a481-ae71b232fbcf",
+      "piece_id": 51,
+      "section": "assembly-truck.ldr",
+      "placement_index": 78,
+      "local_step": 37,
+      "source_step": 73,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "083e4bee-dc17-50b6-8a6c-1098f6b54469",
+      "piece_id": 52,
+      "section": "assembly-truck.ldr",
+      "placement_index": 158,
+      "local_step": 65,
+      "source_step": 104,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "8315ad52-56ff-5905-ad0f-6195ada7dde3",
+      "piece_id": 53,
+      "section": "assembly-truck.ldr",
+      "placement_index": 127,
+      "local_step": 53,
+      "source_step": 89,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "0ef4e9ac-d27f-514a-8cfc-6a7099a9318c",
+      "piece_id": 54,
+      "section": "assembly-rear-bed.ldr",
+      "placement_index": 6,
+      "local_step": 4,
+      "source_step": 64,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "416eb76b-052b-55f9-b577-e1b8f18abb00",
+      "piece_id": 55,
+      "section": "assembly-truck.ldr",
+      "placement_index": 156,
+      "local_step": 65,
+      "source_step": 104,
+      "module": "truck",
+      "ldraw_part": "3031"
+    },
+    {
+      "instance_id": "d65be8b1-d37d-5068-bc97-73e162625a18",
+      "piece_id": 56,
+      "section": "assembly-truck.ldr",
+      "placement_index": 161,
+      "local_step": 67,
+      "source_step": 106,
+      "module": "truck",
+      "ldraw_part": "3037"
+    },
+    {
+      "instance_id": "3189fec9-7287-5fb9-80f2-c3b12849a5ed",
+      "piece_id": 57,
+      "section": "assembly-truck.ldr",
+      "placement_index": 115,
+      "local_step": 49,
+      "source_step": 85,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "7a00a3d2-9f67-5fc0-9173-d56d1a49dac3",
+      "piece_id": 58,
+      "section": "assembly-rear-bed.ldr",
+      "placement_index": 8,
+      "local_step": 5,
+      "source_step": 65,
+      "module": "truck",
+      "ldraw_part": "3460"
+    },
+    {
+      "instance_id": "17ab7a1c-3bbe-5e2a-82cc-ec3239b84dae",
+      "piece_id": 59,
+      "section": "assembly-rear-bed.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 62,
+      "module": "truck",
+      "ldraw_part": "3020"
+    },
+    {
+      "instance_id": "1725c70f-247b-5712-9c7e-c96ec765653d",
+      "piece_id": 60,
+      "section": "assembly-truck.ldr",
+      "placement_index": 90,
+      "local_step": 42,
+      "source_step": 78,
+      "module": "truck",
+      "ldraw_part": "15068"
+    },
+    {
+      "instance_id": "f592d8a5-02d3-5f3e-9cfd-192f61b222c0",
+      "piece_id": 61,
+      "section": "assembly-truck.ldr",
+      "placement_index": 87,
+      "local_step": 41,
+      "source_step": 77,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "0b3ec66c-ebe0-529e-a24d-77401aecb547",
+      "piece_id": 63,
+      "section": "assembly-truck.ldr",
+      "placement_index": 50,
+      "local_step": 25,
+      "source_step": 42,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "54ffadc2-bd37-5d2c-952e-b540a593e39c",
+      "piece_id": 64,
+      "section": "assembly-truck.ldr",
+      "placement_index": 120,
+      "local_step": 51,
+      "source_step": 87,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "ac64fa1b-a952-5fab-b019-a15ca17ee805",
+      "piece_id": 65,
+      "section": "assembly-truck.ldr",
+      "placement_index": 172,
+      "local_step": 71,
+      "source_step": 111,
+      "module": "truck",
+      "ldraw_part": "3004"
+    },
+    {
+      "instance_id": "69f618a8-f3ad-5bd6-a2d7-b3433b981759",
+      "piece_id": 66,
+      "section": "assembly-truck.ldr",
+      "placement_index": 125,
+      "local_step": 52,
+      "source_step": 88,
+      "module": "truck",
+      "ldraw_part": "54200"
+    },
+    {
+      "instance_id": "dcb6b49f-0b30-51bf-bfae-0641e1a797b5",
+      "piece_id": 67,
+      "section": "assembly-truck.ldr",
+      "placement_index": 123,
+      "local_step": 52,
+      "source_step": 88,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "38966297-ce89-5ba3-bb8a-86c57e753736",
+      "piece_id": 68,
+      "section": "assembly-truck.ldr",
+      "placement_index": 93,
+      "local_step": 43,
+      "source_step": 79,
+      "module": "truck",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "ae13275c-8ee1-556e-8f56-e25813723b3d",
+      "piece_id": 69,
+      "section": "assembly-truck.ldr",
+      "placement_index": 58,
+      "local_step": 29,
+      "source_step": 60,
+      "module": "truck",
+      "ldraw_part": "98282"
+    },
+    {
+      "instance_id": "46e8bb46-b7d0-5545-ae4d-ee9e13ad2945",
+      "piece_id": 70,
+      "section": "assembly-truck.ldr",
+      "placement_index": 110,
+      "local_step": 48,
+      "source_step": 84,
+      "module": "truck",
+      "ldraw_part": "4081b"
+    },
+    {
+      "instance_id": "54bd0994-e5ef-50a4-95a7-7dafede3cb18",
+      "piece_id": 71,
+      "section": "assembly-truck.ldr",
+      "placement_index": 108,
+      "local_step": 47,
+      "source_step": 83,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "e52e3c2f-2382-54e1-9ce9-4a67a1bea3b4",
+      "piece_id": 72,
+      "section": "assembly-truck.ldr",
+      "placement_index": 106,
+      "local_step": 47,
+      "source_step": 83,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "b6b931f9-0532-58d1-afdd-6935c23370b4",
+      "piece_id": 73,
+      "section": "assembly-truck.ldr",
+      "placement_index": 130,
+      "local_step": 55,
+      "source_step": 94,
+      "module": "truck",
+      "ldraw_part": "3020"
+    },
+    {
+      "instance_id": "4d468447-936e-53e0-8a61-8c45c8b54d05",
+      "piece_id": 74,
+      "section": "assembly-truck.ldr",
+      "placement_index": 165,
+      "local_step": 69,
+      "source_step": 108,
+      "module": "truck",
+      "ldraw_part": "30136"
+    },
+    {
+      "instance_id": "f42781da-98d4-5ca2-9973-2ee040c18733",
+      "piece_id": 75,
+      "section": "assembly-truck.ldr",
+      "placement_index": 48,
+      "local_step": 24,
+      "source_step": 41,
+      "module": "truck",
+      "ldraw_part": "6179"
+    },
+    {
+      "instance_id": "8d7844a8-c4af-5128-aeea-993bce5cf8a0",
+      "piece_id": 76,
+      "section": "assembly-truck.ldr",
+      "placement_index": 117,
+      "local_step": 50,
+      "source_step": 86,
+      "module": "truck",
+      "ldraw_part": "3460"
+    },
+    {
+      "instance_id": "d26d1fdc-e74d-5440-967e-4acd195f50a9",
+      "piece_id": 77,
+      "section": "assembly-truck.ldr",
+      "placement_index": 57,
+      "local_step": 28,
+      "source_step": 59,
+      "module": "truck",
+      "ldraw_part": "98282"
+    },
+    {
+      "instance_id": "05624db1-28eb-58b0-9d23-4c36290c9c71",
+      "piece_id": 78,
+      "section": "assembly-truck.ldr",
+      "placement_index": 104,
+      "local_step": 46,
+      "source_step": 82,
+      "module": "truck",
+      "ldraw_part": "4081b"
+    },
+    {
+      "instance_id": "8b23c86c-e7fb-567e-96d2-a1bbcd6a53ea",
+      "piece_id": 79,
+      "section": "assembly-truck.ldr",
+      "placement_index": 101,
+      "local_step": 45,
+      "source_step": 81,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "5a54bea4-dcdf-5f55-b53c-e0e01416349b",
+      "piece_id": 80,
+      "section": "assembly-truck.ldr",
+      "placement_index": 99,
+      "local_step": 45,
+      "source_step": 81,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "5279c7e6-65c4-5e7f-8eec-5900dbd6309d",
+      "piece_id": 81,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 11,
+      "local_step": 6,
+      "source_step": 56,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "64d0a4fe-ad3d-5c9d-9391-5f5e1a167691",
+      "piece_id": 82,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 8,
+      "local_step": 5,
+      "source_step": 55,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "4f19490e-1ca1-5c10-98d9-78e7b7178597",
+      "piece_id": 83,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 14,
+      "local_step": 7,
+      "source_step": 57,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "69b39985-82dc-5435-87b5-6d4ac771ef20",
+      "piece_id": 84,
+      "section": "assembly-truck.ldr",
+      "placement_index": 88,
+      "local_step": 41,
+      "source_step": 77,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "d812fc5c-ce07-5fe5-8772-4cb3fded1531",
+      "piece_id": 85,
+      "section": "assembly-truck.ldr",
+      "placement_index": 94,
+      "local_step": 43,
+      "source_step": 79,
+      "module": "truck",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "2848e253-8ad6-57e8-84fd-922a9b9aadea",
+      "piece_id": 86,
+      "section": "assembly-truck.ldr",
+      "placement_index": 91,
+      "local_step": 42,
+      "source_step": 78,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "87dd8e67-613d-5512-b0a0-07ffc6a2a7ca",
+      "piece_id": 87,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 9,
+      "local_step": 5,
+      "source_step": 55,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "1e21252b-5ac5-5dbb-9c68-529a7a7f8fe3",
+      "piece_id": 88,
+      "section": "assembly-truck.ldr",
+      "placement_index": 96,
+      "local_step": 44,
+      "source_step": 80,
+      "module": "truck",
+      "ldraw_part": "87079"
+    },
+    {
+      "instance_id": "76b7a9cf-6847-5568-ab1e-49a1887a4d10",
+      "piece_id": 89,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 13,
+      "local_step": 7,
+      "source_step": 57,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "ef0d7be8-9040-582c-945a-18ade7c2d595",
+      "piece_id": 90,
+      "section": "assembly-truck.ldr",
+      "placement_index": 49,
+      "local_step": 24,
+      "source_step": 41,
+      "module": "truck",
+      "ldraw_part": "3020"
+    },
+    {
+      "instance_id": "89fac683-8425-5139-8b20-8d767453f81f",
+      "piece_id": 91,
+      "section": "assembly-truck.ldr",
+      "placement_index": 52,
+      "local_step": 25,
+      "source_step": 42,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "702f4e18-6aa1-5d29-95ab-f7a510cc2c02",
+      "piece_id": 92,
+      "section": "assembly-truck.ldr",
+      "placement_index": 97,
+      "local_step": 44,
+      "source_step": 80,
+      "module": "truck",
+      "ldraw_part": "3068b"
+    },
+    {
+      "instance_id": "f4cc79af-ea2c-5967-84cc-9584c5be505e",
+      "piece_id": 93,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 12,
+      "local_step": 7,
+      "source_step": 57,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "8bbf0122-1e69-56f8-9593-a520061d6c2c",
+      "piece_id": 95,
+      "section": "assembly-truck.ldr",
+      "placement_index": 135,
+      "local_step": 57,
+      "source_step": 96,
+      "module": "truck",
+      "ldraw_part": "44728"
+    },
+    {
+      "instance_id": "8a9761b5-e275-570c-a70f-8fd07c5ba700",
+      "piece_id": 96,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 44,
+      "module": "truck",
+      "ldraw_part": "93274"
+    },
+    {
+      "instance_id": "e37994b6-b228-5369-b807-433732b73aa5",
+      "piece_id": 97,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 43,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "26f037f7-0e98-5645-9d46-37214aced9bd",
+      "piece_id": 98,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 6,
+      "local_step": 4,
+      "source_step": 46,
+      "module": "truck",
+      "ldraw_part": "54200"
+    },
+    {
+      "instance_id": "170dafa1-3828-5cf8-a1ab-33012b74991b",
+      "piece_id": 99,
+      "section": "assembly-truck.ldr",
+      "placement_index": 30,
+      "local_step": 19,
+      "source_step": 36,
+      "module": "truck",
+      "ldraw_part": "3036"
+    },
+    {
+      "instance_id": "7e55dfd9-a271-5974-acc1-b38a0dbb9e30",
+      "piece_id": 100,
+      "section": "assembly-rear-bed.ldr",
+      "placement_index": 2,
+      "local_step": 3,
+      "source_step": 63,
+      "module": "truck",
+      "ldraw_part": "44728"
+    },
+    {
+      "instance_id": "5afece6b-6b53-5467-863b-dd3ce2e103ac",
+      "piece_id": 101,
+      "section": "assembly-truck.ldr",
+      "placement_index": 65,
+      "local_step": 33,
+      "source_step": 69,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "da134495-9123-56d9-9fd5-0b1b98b67bcc",
+      "piece_id": 102,
+      "section": "assembly-truck.ldr",
+      "placement_index": 66,
+      "local_step": 33,
+      "source_step": 69,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "a6b92c30-e2d6-58f7-8ac3-5c89d6e98dda",
+      "piece_id": 103,
+      "section": "assembly-truck.ldr",
+      "placement_index": 36,
+      "local_step": 21,
+      "source_step": 38,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "d0356038-8c5d-5129-af67-e91902123cbf",
+      "piece_id": 104,
+      "section": "assembly-truck.ldr",
+      "placement_index": 37,
+      "local_step": 21,
+      "source_step": 38,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "d65572a9-9866-502c-8241-b59c587e2c56",
+      "piece_id": 105,
+      "section": "assembly-truck.ldr",
+      "placement_index": 92,
+      "local_step": 42,
+      "source_step": 78,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "faaaa500-c3b1-56c6-912c-015329f4fe83",
+      "piece_id": 106,
+      "section": "assembly-truck.ldr",
+      "placement_index": 32,
+      "local_step": 20,
+      "source_step": 37,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "7a8d6bdc-7e2f-51ac-a951-0918346fd030",
+      "piece_id": 107,
+      "section": "assembly-truck.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 7,
+      "module": "truck",
+      "ldraw_part": "3460"
+    },
+    {
+      "instance_id": "7f810ecc-8464-56ae-a7a5-45e151622c2d",
+      "piece_id": 108,
+      "section": "assembly-truck.ldr",
+      "placement_index": 89,
+      "local_step": 41,
+      "source_step": 77,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "368b89de-b1ae-5055-a456-4097487e3477",
+      "piece_id": 109,
+      "section": "assembly-rear-bed.ldr",
+      "placement_index": 3,
+      "local_step": 3,
+      "source_step": 63,
+      "module": "truck",
+      "ldraw_part": "44728"
+    },
+    {
+      "instance_id": "d44d54ea-fe5d-5c6f-a3e9-0fdbd6f01646",
+      "piece_id": 110,
+      "section": "assembly-truck.ldr",
+      "placement_index": 33,
+      "local_step": 20,
+      "source_step": 37,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "c00d3380-5af3-5a59-851a-0f3e998253e9",
+      "piece_id": 111,
+      "section": "assembly-truck.ldr",
+      "placement_index": 51,
+      "local_step": 25,
+      "source_step": 42,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "b5cbf252-c96c-56cd-bbb9-6d8f700fdc64",
+      "piece_id": 112,
+      "section": "assembly-truck.ldr",
+      "placement_index": 95,
+      "local_step": 43,
+      "source_step": 79,
+      "module": "truck",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "eafe86ed-822b-5307-96aa-8377512bb17f",
+      "piece_id": 113,
+      "section": "assembly-truck.ldr",
+      "placement_index": 5,
+      "local_step": 4,
+      "source_step": 9,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "25b04b5b-fb4c-5a07-a281-5956ba81f014",
+      "piece_id": 114,
+      "section": "assembly-truck.ldr",
+      "placement_index": 129,
+      "local_step": 55,
+      "source_step": 94,
+      "module": "truck",
+      "ldraw_part": "3001"
+    },
+    {
+      "instance_id": "520e770c-3e32-5e29-ae69-d06e7c082440",
+      "piece_id": 115,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 44,
+      "module": "truck",
+      "ldraw_part": "93274"
+    },
+    {
+      "instance_id": "6af1aeee-5c5f-5e82-97c8-57bbee9fcc4c",
+      "piece_id": 116,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 7,
+      "local_step": 4,
+      "source_step": 46,
+      "module": "truck",
+      "ldraw_part": "54200"
+    },
+    {
+      "instance_id": "2c32914e-0d42-503c-9df1-1ac5d7cf4111",
+      "piece_id": 117,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 3,
+      "local_step": 3,
+      "source_step": 45,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "7928c385-2520-55c3-b950-089c8513e643",
+      "piece_id": 118,
+      "section": "assembly-rear-bed.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 63,
+      "module": "truck",
+      "ldraw_part": "44728"
+    },
+    {
+      "instance_id": "10e1cdf2-abfd-500e-aa3b-7cfd49817654",
+      "piece_id": 119,
+      "section": "assembly-truck.ldr",
+      "placement_index": 63,
+      "local_step": 32,
+      "source_step": 68,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "5350eaa5-3728-5a80-9eef-0f8a210edee6",
+      "piece_id": 120,
+      "section": "assembly-truck.ldr",
+      "placement_index": 64,
+      "local_step": 32,
+      "source_step": 68,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "183359a6-93fe-59ad-b786-9c789fd2c75f",
+      "piece_id": 121,
+      "section": "assembly-truck.ldr",
+      "placement_index": 138,
+      "local_step": 58,
+      "source_step": 97,
+      "module": "truck",
+      "ldraw_part": "3002"
+    },
+    {
+      "instance_id": "ba80cb8e-a04f-5931-9ef3-41ff0931fcef",
+      "piece_id": 122,
+      "section": "assembly-truck.ldr",
+      "placement_index": 143,
+      "local_step": 61,
+      "source_step": 100,
+      "module": "truck",
+      "ldraw_part": "3020"
+    },
+    {
+      "instance_id": "dcaf5355-45ee-531f-a8fb-a5e2fc27b80a",
+      "piece_id": 123,
+      "section": "assembly-truck.ldr",
+      "placement_index": 139,
+      "local_step": 59,
+      "source_step": 98,
+      "module": "truck",
+      "ldraw_part": "3002"
+    },
+    {
+      "instance_id": "99c5bcd8-402b-59de-b474-98acd567eb65",
+      "piece_id": 124,
+      "section": "assembly-truck.ldr",
+      "placement_index": 133,
+      "local_step": 56,
+      "source_step": 95,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "28ab6323-031f-5462-b9a0-34ebfe419deb",
+      "piece_id": 125,
+      "section": "assembly-truck.ldr",
+      "placement_index": 136,
+      "local_step": 57,
+      "source_step": 96,
+      "module": "truck",
+      "ldraw_part": "44728"
+    },
+    {
+      "instance_id": "8be48bea-622a-5608-9e75-7cc70211bac6",
+      "piece_id": 126,
+      "section": "assembly-truck.ldr",
+      "placement_index": 141,
+      "local_step": 60,
+      "source_step": 99,
+      "module": "truck",
+      "ldraw_part": "3665b"
+    },
+    {
+      "instance_id": "933ac620-90a5-502e-bef0-8140f8bf46f1",
+      "piece_id": 127,
+      "section": "assembly-truck.ldr",
+      "placement_index": 131,
+      "local_step": 56,
+      "source_step": 95,
+      "module": "truck",
+      "ldraw_part": "3005"
+    },
+    {
+      "instance_id": "f3e98f88-f815-5dab-98cd-46ab0c12f2a0",
+      "piece_id": 128,
+      "section": "assembly-truck.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 7,
+      "module": "truck",
+      "ldraw_part": "3460"
+    },
+    {
+      "instance_id": "a140f892-bcee-5430-8d48-a376637a7893",
+      "piece_id": 129,
+      "section": "assembly-truck.ldr",
+      "placement_index": 31,
+      "local_step": 19,
+      "source_step": 36,
+      "module": "truck",
+      "ldraw_part": "3036"
+    },
+    {
+      "instance_id": "9e21e8b2-0d7d-5cf5-b2fb-b5ccf6f6e897",
+      "piece_id": 130,
+      "section": "assembly-truck.ldr",
+      "placement_index": 162,
+      "local_step": 67,
+      "source_step": 106,
+      "module": "truck",
+      "ldraw_part": "3040b"
+    },
+    {
+      "instance_id": "7250e6f1-cef8-5e98-b226-09dd3f43f485",
+      "piece_id": 132,
+      "section": "assembly-truck.ldr",
+      "placement_index": 163,
+      "local_step": 67,
+      "source_step": 106,
+      "module": "truck",
+      "ldraw_part": "3040b"
+    },
+    {
+      "instance_id": "80d5db1a-ca15-5ccf-bc14-df912407c4f6",
+      "piece_id": 134,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 9,
+      "local_step": 5,
+      "source_step": 5,
+      "module": "truck",
+      "ldraw_part": "3020"
+    },
+    {
+      "instance_id": "7a664453-6b8c-5773-8ec9-af27812ca4d8",
+      "piece_id": 135,
+      "section": "assembly-truck.ldr",
+      "placement_index": 44,
+      "local_step": 23,
+      "source_step": 40,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "108c8ef3-d985-5292-a3c2-72f2455f9e7e",
+      "piece_id": 136,
+      "section": "assembly-truck.ldr",
+      "placement_index": 140,
+      "local_step": 59,
+      "source_step": 98,
+      "module": "truck",
+      "ldraw_part": "3002"
+    },
+    {
+      "instance_id": "2afa30ab-a3f5-5af3-a5c1-eebc5050e009",
+      "piece_id": 137,
+      "section": "assembly-truck.ldr",
+      "placement_index": 134,
+      "local_step": 56,
+      "source_step": 95,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "dc0e3a72-de8c-57da-922b-7d2d09fae2e4",
+      "piece_id": 138,
+      "section": "assembly-truck.ldr",
+      "placement_index": 137,
+      "local_step": 57,
+      "source_step": 96,
+      "module": "truck",
+      "ldraw_part": "44728"
+    },
+    {
+      "instance_id": "7c12e04b-7bb0-5143-b146-fcd8adc75f07",
+      "piece_id": 139,
+      "section": "assembly-truck.ldr",
+      "placement_index": 38,
+      "local_step": 21,
+      "source_step": 38,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "b6b7f12e-ee67-5692-8b4f-7caf82718365",
+      "piece_id": 140,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 5,
+      "local_step": 3,
+      "source_step": 45,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "af5b1ab7-464f-58a2-ab7c-6f04518b925a",
+      "piece_id": 141,
+      "section": "assembly-truck.ldr",
+      "placement_index": 59,
+      "local_step": 29,
+      "source_step": 60,
+      "module": "truck",
+      "ldraw_part": "98282"
+    },
+    {
+      "instance_id": "03ce6d2d-1e6f-5250-89a4-dcc40f30aad6",
+      "piece_id": 142,
+      "section": "assembly-truck.ldr",
+      "placement_index": 112,
+      "local_step": 48,
+      "source_step": 84,
+      "module": "truck",
+      "ldraw_part": "4081b"
+    },
+    {
+      "instance_id": "34f19e66-3f6a-510d-a83e-c14d6bdd9547",
+      "piece_id": 143,
+      "section": "assembly-truck.ldr",
+      "placement_index": 109,
+      "local_step": 47,
+      "source_step": 83,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "a9cc0ce3-6e6d-5d40-9bdc-9057c7d5ffb2",
+      "piece_id": 144,
+      "section": "assembly-truck.ldr",
+      "placement_index": 107,
+      "local_step": 47,
+      "source_step": 83,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "b575b18b-0dba-5080-85a0-e27bb131555a",
+      "piece_id": 145,
+      "section": "assembly-truck.ldr",
+      "placement_index": 7,
+      "local_step": 6,
+      "source_step": 11,
+      "module": "truck",
+      "ldraw_part": "3460"
+    },
+    {
+      "instance_id": "312d2c34-f995-59c7-a397-05174603d847",
+      "piece_id": 146,
+      "section": "assembly-truck.ldr",
+      "placement_index": 39,
+      "local_step": 21,
+      "source_step": 38,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "6b46e2cb-0fd7-5a06-9c31-71571c3e524b",
+      "piece_id": 147,
+      "section": "assembly-truck.ldr",
+      "placement_index": 142,
+      "local_step": 60,
+      "source_step": 99,
+      "module": "truck",
+      "ldraw_part": "3665b"
+    },
+    {
+      "instance_id": "665f3318-b804-5e22-85d9-1feecb10b4f0",
+      "piece_id": 148,
+      "section": "assembly-truck.ldr",
+      "placement_index": 45,
+      "local_step": 23,
+      "source_step": 40,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "128fc19b-d2b8-54f6-8c92-15641100aa1a",
+      "piece_id": 149,
+      "section": "assembly-truck.ldr",
+      "placement_index": 132,
+      "local_step": 56,
+      "source_step": 95,
+      "module": "truck",
+      "ldraw_part": "3005"
+    },
+    {
+      "instance_id": "e4e7dfb9-5a6c-59f6-a0c2-9020ea44ac54",
+      "piece_id": 150,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 2,
+      "module": "truck",
+      "ldraw_part": "3031"
+    },
+    {
+      "instance_id": "6382a2e4-20d9-5e07-93d8-467e94904210",
+      "piece_id": 151,
+      "section": "assembly-truck.ldr",
+      "placement_index": 53,
+      "local_step": 25,
+      "source_step": 42,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "e4cfc893-e95c-5eb8-ae31-3ad6d6374de0",
+      "piece_id": 152,
+      "section": "assembly-truck.ldr",
+      "placement_index": 3,
+      "local_step": 3,
+      "source_step": 8,
+      "module": "truck",
+      "ldraw_part": "18671"
+    },
+    {
+      "instance_id": "e32f4cb0-9f75-5e50-ab1e-4f39bfba8594",
+      "piece_id": 153,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 3,
+      "module": "truck",
+      "ldraw_part": "3020"
+    },
+    {
+      "instance_id": "9fb33c9e-3dba-50ef-8512-9b26322950c2",
+      "piece_id": 154,
+      "section": "assembly-truck.ldr",
+      "placement_index": 40,
+      "local_step": 22,
+      "source_step": 39,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "a45b5495-5b3c-56de-a6c2-a70888d019e6",
+      "piece_id": 155,
+      "section": "assembly-truck.ldr",
+      "placement_index": 34,
+      "local_step": 20,
+      "source_step": 37,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "c7a9aafb-5723-5c7d-9216-e6d9a9e8f864",
+      "piece_id": 156,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 52,
+      "module": "truck",
+      "ldraw_part": "93274"
+    },
+    {
+      "instance_id": "fdf14cff-818f-5640-870c-0384dd59057d",
+      "piece_id": 157,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 7,
+      "local_step": 4,
+      "source_step": 54,
+      "module": "truck",
+      "ldraw_part": "54200"
+    },
+    {
+      "instance_id": "5a4fad1b-137a-566b-987d-a3735a7694e0",
+      "piece_id": 158,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 51,
+      "module": "truck",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "2bc90b66-9575-57e3-880d-723b9a67dfeb",
+      "piece_id": 159,
+      "section": "assembly-truck.ldr",
+      "placement_index": 35,
+      "local_step": 20,
+      "source_step": 37,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "65310a7f-bbc4-5af6-9df6-8e3fcb02515f",
+      "piece_id": 160,
+      "section": "assembly-truck.ldr",
+      "placement_index": 41,
+      "local_step": 22,
+      "source_step": 39,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "d150f904-9f42-59f6-ae54-a6323fc73a3e",
+      "piece_id": 161,
+      "section": "assembly-truck.ldr",
+      "placement_index": 6,
+      "local_step": 5,
+      "source_step": 10,
+      "module": "truck",
+      "ldraw_part": "87079"
+    },
+    {
+      "instance_id": "7d7d8cc1-a28b-50b4-817a-022ec96ace97",
+      "piece_id": 162,
+      "section": "assembly-truck.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 8,
+      "module": "truck",
+      "ldraw_part": "18671"
+    },
+    {
+      "instance_id": "e511e435-5137-5c30-b948-4360b1f5d776",
+      "piece_id": 163,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 3,
+      "local_step": 2,
+      "source_step": 2,
+      "module": "truck",
+      "ldraw_part": "3031"
+    },
+    {
+      "instance_id": "29696791-3533-54ae-8d7b-faf5da820535",
+      "piece_id": 164,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 10,
+      "local_step": 5,
+      "source_step": 5,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "150a4bf2-6246-54a4-8030-30f96ee3de69",
+      "piece_id": 165,
+      "section": "assembly-truck.ldr",
+      "placement_index": 8,
+      "local_step": 6,
+      "source_step": 11,
+      "module": "truck",
+      "ldraw_part": "3460"
+    },
+    {
+      "instance_id": "0d89d346-e11f-5d19-9f43-63476ec3f66c",
+      "piece_id": 166,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 52,
+      "module": "truck",
+      "ldraw_part": "93274"
+    },
+    {
+      "instance_id": "5083ff28-1a6f-55d8-8c76-787baaec7aa6",
+      "piece_id": 167,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 6,
+      "local_step": 4,
+      "source_step": 54,
+      "module": "truck",
+      "ldraw_part": "54200"
+    },
+    {
+      "instance_id": "554c55fe-7bb3-5596-8af9-2d4bb7a78dd2",
+      "piece_id": 168,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 5,
+      "local_step": 3,
+      "source_step": 3,
+      "module": "truck",
+      "ldraw_part": "3021"
+    },
+    {
+      "instance_id": "ac5ac15d-3d18-58eb-b03d-5a4a7998421f",
+      "piece_id": 169,
+      "section": "assembly-truck.ldr",
+      "placement_index": 20,
+      "local_step": 15,
+      "source_step": 32,
+      "module": "truck",
+      "ldraw_part": "98263"
+    },
+    {
+      "instance_id": "e54fd1f8-9cb0-5d62-aead-71e860f47f17",
+      "piece_id": 170,
+      "section": "assembly-truck.ldr",
+      "placement_index": 29,
+      "local_step": 18,
+      "source_step": 35,
+      "module": "truck",
+      "ldraw_part": "2431"
+    },
+    {
+      "instance_id": "8aa0c1d0-84b4-5745-a237-107f42c575e6",
+      "piece_id": 171,
+      "section": "assembly-truck.ldr",
+      "placement_index": 15,
+      "local_step": 13,
+      "source_step": 30,
+      "module": "truck",
+      "ldraw_part": "2654a"
+    },
+    {
+      "instance_id": "0582d195-9079-5cda-adba-06af4908bf8d",
+      "piece_id": 172,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 1,
+      "module": "truck",
+      "ldraw_part": "32018"
+    },
+    {
+      "instance_id": "e8bd55d5-cc96-5250-93be-ae430b8b0329",
+      "piece_id": 173,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 7,
+      "local_step": 4,
+      "source_step": 4,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "350dc1c2-d393-5944-b396-84981251e2b1",
+      "piece_id": 174,
+      "section": "assembly-truck.ldr",
+      "placement_index": 46,
+      "local_step": 23,
+      "source_step": 40,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "1fc506d4-fd6b-5b3e-a779-cdec31dee8fb",
+      "piece_id": 175,
+      "section": "assembly-truck.ldr",
+      "placement_index": 47,
+      "local_step": 23,
+      "source_step": 40,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "611f258a-b327-58f8-aa80-93baa9ded782",
+      "piece_id": 176,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 5,
+      "local_step": 3,
+      "source_step": 53,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "83192376-3f2b-5d15-ad75-3bd2b51d91a3",
+      "piece_id": 177,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 6,
+      "local_step": 3,
+      "source_step": 3,
+      "module": "truck",
+      "ldraw_part": "3021"
+    },
+    {
+      "instance_id": "206bd7fe-0248-56a3-bdc8-36cc58b3bcc3",
+      "piece_id": 178,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 1,
+      "module": "truck",
+      "ldraw_part": "32018"
+    },
+    {
+      "instance_id": "f7699f15-5826-5115-a231-3ab02eb3a460",
+      "piece_id": 179,
+      "section": "assembly-chassis-core.ldr",
+      "placement_index": 8,
+      "local_step": 4,
+      "source_step": 4,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "237e89fe-8968-54fe-b640-a76e64d282fe",
+      "piece_id": 180,
+      "section": "assembly-truck.ldr",
+      "placement_index": 42,
+      "local_step": 22,
+      "source_step": 39,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "91bbf722-a2ff-5e6f-aebd-8c5d2f6c5bbe",
+      "piece_id": 181,
+      "section": "assembly-truck.ldr",
+      "placement_index": 16,
+      "local_step": 13,
+      "source_step": 30,
+      "module": "truck",
+      "ldraw_part": "2654a"
+    },
+    {
+      "instance_id": "01a529cd-8a64-5ec4-bb6f-42fab62de019",
+      "piece_id": 182,
+      "section": "assembly-truck.ldr",
+      "placement_index": 24,
+      "local_step": 16,
+      "source_step": 33,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "4b283cbe-fc63-50da-aa96-a7a243e3c901",
+      "piece_id": 183,
+      "section": "assembly-truck.ldr",
+      "placement_index": 22,
+      "local_step": 16,
+      "source_step": 33,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "cc56c573-ae42-5f35-b427-74447ac71870",
+      "piece_id": 184,
+      "section": "assembly-truck.ldr",
+      "placement_index": 23,
+      "local_step": 16,
+      "source_step": 33,
+      "module": "truck",
+      "ldraw_part": "99207"
+    },
+    {
+      "instance_id": "d52d6710-de9d-5122-938f-cf25b1013e63",
+      "piece_id": 185,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 3,
+      "local_step": 3,
+      "source_step": 53,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "88571e06-811b-57a5-a82c-b84f72ef2be9",
+      "piece_id": 186,
+      "section": "assembly-truck.ldr",
+      "placement_index": 43,
+      "local_step": 22,
+      "source_step": 39,
+      "module": "truck",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "b06f9eab-b17e-50fd-9689-173686a59229",
+      "piece_id": 187,
+      "section": "assembly-truck.ldr",
+      "placement_index": 25,
+      "local_step": 17,
+      "source_step": 34,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "8b69954b-5dd6-58a0-bf46-244f44a19c23",
+      "piece_id": 188,
+      "section": "assembly-truck.ldr",
+      "placement_index": 18,
+      "local_step": 14,
+      "source_step": 31,
+      "module": "truck",
+      "ldraw_part": "2654a"
+    },
+    {
+      "instance_id": "adaa9974-b69f-5087-83c0-2d995c61afa4",
+      "piece_id": 189,
+      "section": "assembly-truck.ldr",
+      "placement_index": 26,
+      "local_step": 17,
+      "source_step": 34,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "d10a2d57-7a61-5c3d-909b-07a5b09a1f10",
+      "piece_id": 190,
+      "section": "assembly-truck.ldr",
+      "placement_index": 21,
+      "local_step": 15,
+      "source_step": 32,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "1435d503-da99-5ba1-8198-d89e420c108a",
+      "piece_id": 191,
+      "section": "assembly-truck.ldr",
+      "placement_index": 19,
+      "local_step": 14,
+      "source_step": 31,
+      "module": "truck",
+      "ldraw_part": "2654a"
+    },
+    {
+      "instance_id": "eff59020-ac0d-5dd1-843c-c163f9ce8495",
+      "piece_id": 192,
+      "section": "assembly-truck.ldr",
+      "placement_index": 67,
+      "local_step": 34,
+      "source_step": 70,
+      "module": "truck",
+      "ldraw_part": "92280"
+    },
+    {
+      "instance_id": "05189ce3-9b46-504c-b962-0dca263713e3",
+      "piece_id": 193,
+      "section": "assembly-truck.ldr",
+      "placement_index": 166,
+      "local_step": 69,
+      "source_step": 108,
+      "module": "truck",
+      "ldraw_part": "2412b"
+    },
+    {
+      "instance_id": "24aa1de3-6a14-56b0-a5d5-fbb29da0eb4b",
+      "piece_id": 194,
+      "section": "assembly-truck.ldr",
+      "placement_index": 71,
+      "local_step": 35,
+      "source_step": 71,
+      "module": "truck",
+      "ldraw_part": "14719"
+    },
+    {
+      "instance_id": "05f05cc2-455c-57df-889c-a8ffb8d8f9b0",
+      "piece_id": 195,
+      "section": "assembly-truck.ldr",
+      "placement_index": 69,
+      "local_step": 34,
+      "source_step": 70,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "cd255c7c-1a68-56c3-b707-760f3f9532f9",
+      "piece_id": 196,
+      "section": "assembly-truck.ldr",
+      "placement_index": 68,
+      "local_step": 34,
+      "source_step": 70,
+      "module": "truck",
+      "ldraw_part": "92280"
+    },
+    {
+      "instance_id": "3e59083f-fb21-5d5a-9f40-bcf9623ac343",
+      "piece_id": 197,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 45,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "deb5a776-b662-54c7-a396-07c84b5c2093",
+      "piece_id": 198,
+      "section": "assembly-truck.ldr",
+      "placement_index": 75,
+      "local_step": 36,
+      "source_step": 72,
+      "module": "truck",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "97ae3834-99fe-5f4f-9d0b-88f907eccf64",
+      "piece_id": 199,
+      "section": "assembly-truck.ldr",
+      "placement_index": 168,
+      "local_step": 70,
+      "source_step": 109,
+      "module": "truck",
+      "ldraw_part": "3829a"
+    },
+    {
+      "instance_id": "252cd185-621a-5871-ac1d-7c56ecdb53b2",
+      "piece_id": 200,
+      "section": "assembly-truck.ldr",
+      "placement_index": 169,
+      "local_step": 70,
+      "source_step": 109,
+      "module": "truck",
+      "ldraw_part": "3828"
+    },
+    {
+      "instance_id": "4e6c05b0-2e53-51fd-a149-d19d62ca1a81",
+      "piece_id": 201,
+      "section": "assembly-truck.ldr",
+      "placement_index": 167,
+      "local_step": 69,
+      "source_step": 108,
+      "module": "truck",
+      "ldraw_part": "2412b"
+    },
+    {
+      "instance_id": "ff37c0cb-8032-5fa5-9bdc-2a938f7e457e",
+      "piece_id": 202,
+      "section": "assembly-truck.ldr",
+      "placement_index": 70,
+      "local_step": 34,
+      "source_step": 70,
+      "module": "truck",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "f9181c4f-e2f4-51d5-83c5-09f0d39377af",
+      "piece_id": 203,
+      "section": "assembly-truck.ldr",
+      "placement_index": 72,
+      "local_step": 35,
+      "source_step": 71,
+      "module": "truck",
+      "ldraw_part": "14719"
+    },
+    {
+      "instance_id": "5e32a0a7-a655-5243-bb1e-03ad8566b612",
+      "piece_id": 204,
+      "section": "assembly-truck.ldr",
+      "placement_index": 17,
+      "local_step": 14,
+      "source_step": 31,
+      "module": "truck",
+      "ldraw_part": "2654a"
+    },
+    {
+      "instance_id": "f1d6209d-c31c-56f0-aa03-47160520b949",
+      "piece_id": 205,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 53,
+      "module": "truck",
+      "ldraw_part": "85984"
+    },
+    {
+      "instance_id": "89dd59ac-969d-5411-abb0-5f27c5efe0c6",
+      "piece_id": 206,
+      "section": "assembly-truck.ldr",
+      "placement_index": 61,
+      "local_step": 31,
+      "source_step": 67,
+      "module": "truck",
+      "ldraw_part": "18654"
+    },
+    {
+      "instance_id": "97cc68bf-75e4-5856-b78a-cbe813dc6568",
+      "piece_id": 207,
+      "section": "assembly-tailgate.ldr",
+      "placement_index": 5,
+      "local_step": 3,
+      "source_step": 92,
+      "module": "truck",
+      "ldraw_part": "6636"
+    },
+    {
+      "instance_id": "3e6e26a2-7850-5cbd-a5cf-37b867009699",
+      "piece_id": 208,
+      "section": "assembly-tailgate.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 90,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "404abb8c-583a-505a-b3dd-3cb33b3e379d",
+      "piece_id": 209,
+      "section": "assembly-tailgate.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 90,
+      "module": "truck",
+      "ldraw_part": "3795"
+    },
+    {
+      "instance_id": "30a66313-fc2e-57ad-9a72-3023e2cf4907",
+      "piece_id": 210,
+      "section": "assembly-tailgate.ldr",
+      "placement_index": 3,
+      "local_step": 2,
+      "source_step": 91,
+      "module": "truck",
+      "ldraw_part": "60478"
+    },
+    {
+      "instance_id": "64eba9c1-d8c7-5ba0-a7dd-2ab1d6b1619e",
+      "piece_id": 211,
+      "section": "assembly-tailgate.ldr",
+      "placement_index": 2,
+      "local_step": 1,
+      "source_step": 90,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "5feabdc6-c62c-5b9d-8b46-0bba37bef3e5",
+      "piece_id": 212,
+      "section": "assembly-tailgate.ldr",
+      "placement_index": 6,
+      "local_step": 3,
+      "source_step": 92,
+      "module": "truck",
+      "ldraw_part": "6636"
+    },
+    {
+      "instance_id": "183432ae-6b57-5dd5-8840-feed42376f40",
+      "piece_id": 213,
+      "section": "assembly-tailgate.ldr",
+      "placement_index": 4,
+      "local_step": 2,
+      "source_step": 91,
+      "module": "truck",
+      "ldraw_part": "60478"
+    },
+    {
+      "instance_id": "4d609ad9-c1f8-5542-85b0-438e2a43f6ba",
+      "piece_id": 214,
+      "section": "assembly-truck.ldr",
+      "placement_index": 62,
+      "local_step": 31,
+      "source_step": 67,
+      "module": "truck",
+      "ldraw_part": "18654"
+    },
+    {
+      "instance_id": "84554094-499d-506a-a312-41af97b118a8",
+      "piece_id": 215,
+      "section": "assembly-truck.ldr",
+      "placement_index": 27,
+      "local_step": 18,
+      "source_step": 35,
+      "module": "truck",
+      "ldraw_part": "4286"
+    },
+    {
+      "instance_id": "0bad7be1-14f1-580d-9b85-ede56e99ae0c",
+      "piece_id": 216,
+      "section": "assembly-truck.ldr",
+      "placement_index": 9,
+      "local_step": 7,
+      "source_step": 12,
+      "module": "truck",
+      "ldraw_part": "2780"
+    },
+    {
+      "instance_id": "f3746f6e-90ee-5a14-82fc-df386848e1c8",
+      "piece_id": 217,
+      "section": "assembly-rear-left-suspension.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 13,
+      "module": "truck",
+      "ldraw_part": "32556b"
+    },
+    {
+      "instance_id": "128288a9-e443-5c90-af24-a8b8ef33a0a7",
+      "piece_id": 218,
+      "section": "assembly-rear-left-suspension.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 13,
+      "module": "truck",
+      "ldraw_part": "32140"
+    },
+    {
+      "instance_id": "31714aba-8af3-5388-9115-2e55c0e44c56",
+      "piece_id": 219,
+      "section": "assembly-rear-left-suspension.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 14,
+      "module": "truck",
+      "ldraw_part": "2780"
+    },
+    {
+      "instance_id": "58d51c7a-80a7-5745-a35a-fe87547392d6",
+      "piece_id": 220,
+      "section": "assembly-front-left-suspension.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 21,
+      "module": "truck",
+      "ldraw_part": "32556b"
+    },
+    {
+      "instance_id": "1d8c0c69-ad39-5f3b-88ae-f4fdf3f009ec",
+      "piece_id": 221,
+      "section": "assembly-rear-left-wheel.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 120,
+      "module": "truck",
+      "ldraw_part": "55981"
+    },
+    {
+      "instance_id": "f73e1c4e-6928-57ad-8884-877116a44586",
+      "piece_id": 222,
+      "section": "assembly-rear-left-wheel.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 121,
+      "module": "truck",
+      "ldraw_part": "92402"
+    },
+    {
+      "instance_id": "a06e3a2b-d088-587a-92f6-9243d3910d5d",
+      "piece_id": 223,
+      "section": "assembly-rear-left-suspension.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 15,
+      "module": "truck",
+      "ldraw_part": "32556b"
+    },
+    {
+      "instance_id": "db4d12a2-bfb8-5235-a8b2-a69643f59de1",
+      "piece_id": 224,
+      "section": "assembly-rear-left-suspension.ldr",
+      "placement_index": 3,
+      "local_step": 2,
+      "source_step": 14,
+      "module": "truck",
+      "ldraw_part": "32140"
+    },
+    {
+      "instance_id": "d5630f47-907b-56a8-9e2e-f5957f2fd724",
+      "piece_id": 225,
+      "section": "assembly-rear-right-suspension.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 18,
+      "module": "truck",
+      "ldraw_part": "2780"
+    },
+    {
+      "instance_id": "8be0905e-a2ff-57d6-b442-3a35686d4d59",
+      "piece_id": 226,
+      "section": "assembly-rear-right-suspension.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 17,
+      "module": "truck",
+      "ldraw_part": "32556b"
+    },
+    {
+      "instance_id": "f38d0a9e-ca93-511b-baa4-b1403ed94d27",
+      "piece_id": 227,
+      "section": "assembly-rear-left-suspension.ldr",
+      "placement_index": 5,
+      "local_step": 3,
+      "source_step": 15,
+      "module": "truck",
+      "ldraw_part": "6628"
+    },
+    {
+      "instance_id": "b6f43e90-f4f6-582a-8261-83c843700e39",
+      "piece_id": 228,
+      "section": "assembly-front-left-suspension.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 22,
+      "module": "truck",
+      "ldraw_part": "2780"
+    },
+    {
+      "instance_id": "895aba72-d104-5122-9f9d-52ca538d37aa",
+      "piece_id": 229,
+      "section": "assembly-truck.ldr",
+      "placement_index": 28,
+      "local_step": 18,
+      "source_step": 35,
+      "module": "truck",
+      "ldraw_part": "4286"
+    },
+    {
+      "instance_id": "3b28c80d-f710-5d97-a2dc-ed790ad9faf8",
+      "piece_id": 230,
+      "section": "assembly-rear-right-suspension.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 17,
+      "module": "truck",
+      "ldraw_part": "32140"
+    },
+    {
+      "instance_id": "f17392aa-ada1-51f0-96b0-c6b9e95e943c",
+      "piece_id": 231,
+      "section": "assembly-truck.ldr",
+      "placement_index": 10,
+      "local_step": 7,
+      "source_step": 12,
+      "module": "truck",
+      "ldraw_part": "2780"
+    },
+    {
+      "instance_id": "5cd78329-896c-51d2-b6d3-d2020b519b8a",
+      "piece_id": 232,
+      "section": "assembly-front-left-suspension.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 21,
+      "module": "truck",
+      "ldraw_part": "32140"
+    },
+    {
+      "instance_id": "1ec88f18-58af-5788-b0c5-12a032bcca74",
+      "piece_id": 233,
+      "section": "assembly-front-right-suspension.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 26,
+      "module": "truck",
+      "ldraw_part": "2780"
+    },
+    {
+      "instance_id": "3c37cff7-4041-5d74-a909-7a5dbb8bdb9d",
+      "piece_id": 234,
+      "section": "assembly-front-right-suspension.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 25,
+      "module": "truck",
+      "ldraw_part": "32556b"
+    },
+    {
+      "instance_id": "8c35d6dc-490a-5096-9190-a833bb446663",
+      "piece_id": 235,
+      "section": "assembly-front-left-wheel.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 126,
+      "module": "truck",
+      "ldraw_part": "55981"
+    },
+    {
+      "instance_id": "d70aeb84-bbfd-57f7-ba71-1458268a66ae",
+      "piece_id": 236,
+      "section": "assembly-front-left-wheel.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 127,
+      "module": "truck",
+      "ldraw_part": "92402"
+    },
+    {
+      "instance_id": "057026dd-0dbc-5f02-81ae-abda0715d239",
+      "piece_id": 237,
+      "section": "assembly-front-left-suspension.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 23,
+      "module": "truck",
+      "ldraw_part": "32556b"
+    },
+    {
+      "instance_id": "7b81d7c4-db7b-5cfe-b2c1-ea5d1ac56057",
+      "piece_id": 238,
+      "section": "assembly-front-left-suspension.ldr",
+      "placement_index": 3,
+      "local_step": 2,
+      "source_step": 22,
+      "module": "truck",
+      "ldraw_part": "32140"
+    },
+    {
+      "instance_id": "8994ff63-321c-5aa5-9d5d-bed196237f6b",
+      "piece_id": 239,
+      "section": "assembly-front-left-suspension.ldr",
+      "placement_index": 5,
+      "local_step": 3,
+      "source_step": 23,
+      "module": "truck",
+      "ldraw_part": "6628"
+    },
+    {
+      "instance_id": "b38d86a5-bc25-5f9d-921f-00fa2d972479",
+      "piece_id": 240,
+      "section": "assembly-rear-right-suspension.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 19,
+      "module": "truck",
+      "ldraw_part": "32556b"
+    },
+    {
+      "instance_id": "04d60069-7b9c-5f2b-b5ce-2c937b8c657b",
+      "piece_id": 241,
+      "section": "assembly-rear-right-suspension.ldr",
+      "placement_index": 3,
+      "local_step": 2,
+      "source_step": 18,
+      "module": "truck",
+      "ldraw_part": "32140"
+    },
+    {
+      "instance_id": "974dc7bd-d629-5b1f-bf3c-583a67776a89",
+      "piece_id": 242,
+      "section": "assembly-rear-right-suspension.ldr",
+      "placement_index": 5,
+      "local_step": 3,
+      "source_step": 19,
+      "module": "truck",
+      "ldraw_part": "6628"
+    },
+    {
+      "instance_id": "3932d95f-db1a-5df5-8903-6a7f4a959cc2",
+      "piece_id": 243,
+      "section": "assembly-rear-right-wheel.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 123,
+      "module": "truck",
+      "ldraw_part": "55981"
+    },
+    {
+      "instance_id": "e223e03d-de4f-5c8a-bd81-6c9eb9edfbc7",
+      "piece_id": 244,
+      "section": "assembly-rear-right-wheel.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 124,
+      "module": "truck",
+      "ldraw_part": "92402"
+    },
+    {
+      "instance_id": "53f7229b-e072-5192-a336-f7f9976762dd",
+      "piece_id": 245,
+      "section": "assembly-front-right-suspension.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 25,
+      "module": "truck",
+      "ldraw_part": "32140"
+    },
+    {
+      "instance_id": "5c6f4068-ed51-53c4-b224-034dc13558f7",
+      "piece_id": 246,
+      "section": "assembly-front-right-suspension.ldr",
+      "placement_index": 3,
+      "local_step": 2,
+      "source_step": 26,
+      "module": "truck",
+      "ldraw_part": "32140"
+    },
+    {
+      "instance_id": "c8de3581-a6f3-59d1-a9ee-7788a2c9368c",
+      "piece_id": 247,
+      "section": "assembly-front-right-suspension.ldr",
+      "placement_index": 5,
+      "local_step": 3,
+      "source_step": 27,
+      "module": "truck",
+      "ldraw_part": "6628"
+    },
+    {
+      "instance_id": "92461563-70f0-572e-ae82-8fb912c42f8d",
+      "piece_id": 248,
+      "section": "assembly-front-right-suspension.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 27,
+      "module": "truck",
+      "ldraw_part": "32556b"
+    },
+    {
+      "instance_id": "148a54e0-12c2-5e6a-bd65-becb9e8c96c1",
+      "piece_id": 249,
+      "section": "assembly-front-right-wheel.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 129,
+      "module": "truck",
+      "ldraw_part": "55981"
+    },
+    {
+      "instance_id": "9ccfaab5-04d9-51ec-a0b9-630ec111019c",
+      "piece_id": 250,
+      "section": "assembly-front-right-wheel.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 130,
+      "module": "truck",
+      "ldraw_part": "92402"
+    },
+    {
+      "instance_id": "ce04ffdb-8004-5050-ae75-75cf36dcf09c",
+      "piece_id": 251,
+      "section": "assembly-helm-unit.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 146,
+      "module": "helm",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "bca19f96-1175-5da6-9698-ed3eb0319b7b",
+      "piece_id": 252,
+      "section": "assembly-helm-unit.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 147,
+      "module": "helm",
+      "ldraw_part": "3003"
+    },
+    {
+      "instance_id": "8b56ae70-7ebb-5957-98f5-4e82aef46610",
+      "piece_id": 253,
+      "section": "assembly-helm-unit.ldr",
+      "placement_index": 3,
+      "local_step": 4,
+      "source_step": 149,
+      "module": "helm",
+      "ldraw_part": "3700"
+    },
+    {
+      "instance_id": "4202227d-edf5-566c-a99c-5adae2531bd5",
+      "piece_id": 254,
+      "section": "assembly-helm-unit.ldr",
+      "placement_index": 4,
+      "local_step": 5,
+      "source_step": 150,
+      "module": "helm",
+      "ldraw_part": "4790"
+    },
+    {
+      "instance_id": "fc2112a9-27be-5a46-abd1-05fec727f96d",
+      "piece_id": 255,
+      "section": "assembly-candidate.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 195,
+      "module": "candidate",
+      "ldraw_part": "3815c01"
+    },
+    {
+      "instance_id": "8a954307-e324-58cb-9155-ed712abdbd22",
+      "piece_id": 256,
+      "section": "assembly-candidate.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 195,
+      "module": "candidate",
+      "ldraw_part": "973p5i"
+    },
+    {
+      "instance_id": "0144edb9-7033-5ea1-8200-4c47b17b0eb3",
+      "piece_id": 257,
+      "section": "assembly-candidate.ldr",
+      "placement_index": 2,
+      "local_step": 1,
+      "source_step": 195,
+      "module": "candidate",
+      "ldraw_part": "3818"
+    },
+    {
+      "instance_id": "eabb4214-2472-5988-bfc5-ea5fadcb29f5",
+      "piece_id": 258,
+      "section": "assembly-candidate.ldr",
+      "placement_index": 3,
+      "local_step": 1,
+      "source_step": 195,
+      "module": "candidate",
+      "ldraw_part": "3819"
+    },
+    {
+      "instance_id": "93272819-4336-5a80-99ac-a2aae075b5a4",
+      "piece_id": 259,
+      "section": "assembly-candidate.ldr",
+      "placement_index": 4,
+      "local_step": 1,
+      "source_step": 195,
+      "module": "candidate",
+      "ldraw_part": "3820"
+    },
+    {
+      "instance_id": "5e67a31a-25a3-5b6b-b9bc-d280993c4043",
+      "piece_id": 260,
+      "section": "assembly-candidate.ldr",
+      "placement_index": 5,
+      "local_step": 1,
+      "source_step": 195,
+      "module": "candidate",
+      "ldraw_part": "3820"
+    },
+    {
+      "instance_id": "89cd91ed-0f43-51ca-8123-91a89590a88a",
+      "piece_id": 262,
+      "section": "assembly-candidate.ldr",
+      "placement_index": 6,
+      "local_step": 1,
+      "source_step": 195,
+      "module": "candidate",
+      "ldraw_part": "3626cp87"
+    },
+    {
+      "instance_id": "d5c45765-4451-570a-a0ab-3898a17e04a8",
+      "piece_id": 263,
+      "section": "assembly-candidate.ldr",
+      "placement_index": 7,
+      "local_step": 1,
+      "source_step": 195,
+      "module": "candidate",
+      "ldraw_part": "98385"
+    },
+    {
+      "instance_id": "a0e00ddc-8628-506e-9b69-d2e0725a5584",
+      "piece_id": 265,
+      "section": "assembly-banner.ldr",
+      "placement_index": 3,
+      "local_step": 2,
+      "source_step": 183,
+      "module": "banner",
+      "ldraw_part": "76348"
+    },
+    {
+      "instance_id": "e5c7045a-1812-572a-9771-de236405dd55",
+      "piece_id": 266,
+      "section": "assembly-banner.ldr",
+      "placement_index": 5,
+      "local_step": 3,
+      "source_step": 184,
+      "module": "banner",
+      "ldraw_part": "2335"
+    },
+    {
+      "instance_id": "dd477006-5f54-5fe3-89fb-02bee8407201",
+      "piece_id": 267,
+      "section": "assembly-banner.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 184,
+      "module": "banner",
+      "ldraw_part": "2335"
+    },
+    {
+      "instance_id": "15b14c71-f623-5b64-a425-08a63ef5ddad",
+      "piece_id": 268,
+      "section": "assembly-ring-left-unit.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 185,
+      "module": "ring-left",
+      "ldraw_part": "15712"
+    },
+    {
+      "instance_id": "ea0d63d1-5dda-5b5e-9270-268763358576",
+      "piece_id": 269,
+      "section": "assembly-ring-left-unit.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 186,
+      "module": "ring-left",
+      "ldraw_part": "30340"
+    },
+    {
+      "instance_id": "234788fc-5452-572c-8595-82d92902a15c",
+      "piece_id": 270,
+      "section": "assembly-ring-right-unit.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 188,
+      "module": "ring-right",
+      "ldraw_part": "15712"
+    },
+    {
+      "instance_id": "e38ed6d8-cc57-51f9-ac67-c40f0b334427",
+      "piece_id": 271,
+      "section": "assembly-ring-right-unit.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 189,
+      "module": "ring-right",
+      "ldraw_part": "30340"
+    },
+    {
+      "instance_id": "070d2a69-66d6-5623-b3f2-3de28c4323fa",
+      "piece_id": 280,
+      "section": "assembly-platform-riser-1.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 132,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "c0461e58-a703-5e30-8f7a-3b7bacb3ac7a",
+      "piece_id": 281,
+      "section": "assembly-platform-riser-2.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 135,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "b4d7590a-b198-5fe6-aee0-29e9de0249c2",
+      "piece_id": 282,
+      "section": "assembly-platform-riser-3.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 138,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "d0b9b37a-2b16-58bf-b3f9-1a82acd33931",
+      "piece_id": 283,
+      "section": "assembly-platform-riser-4.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 141,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "67509e1d-3c1c-5e58-a12f-a4a19f16c9e3",
+      "piece_id": 284,
+      "section": "assembly-deck.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 144,
+      "module": "deck",
+      "ldraw_part": "3958"
+    },
+    {
+      "instance_id": "a01286b5-341f-5e63-b2a3-af5b8bf97025",
+      "piece_id": 285,
+      "section": "assembly-deck.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 164,
+      "module": "deck",
+      "ldraw_part": "4083"
+    },
+    {
+      "instance_id": "bba763d2-b3e6-57f6-b0d1-4e80a4b719f7",
+      "piece_id": 286,
+      "section": "assembly-deck.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 164,
+      "module": "deck",
+      "ldraw_part": "4083"
+    },
+    {
+      "instance_id": "aebdf476-aefb-51ef-8544-c65da585aa5d",
+      "piece_id": 287,
+      "section": "assembly-interior.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 110,
+      "module": "interior",
+      "ldraw_part": "4079"
+    },
+    {
+      "instance_id": "fb5c6602-a9ea-5cb1-8d6d-0f428c29a346",
+      "piece_id": 288,
+      "section": "assembly-speaker-left-unit.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 165,
+      "module": "speaker-left",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "6898fe9d-277d-5670-b53c-9ddaea025a12",
+      "piece_id": 289,
+      "section": "assembly-speaker-left-unit.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 166,
+      "module": "speaker-left",
+      "ldraw_part": "4070"
+    },
+    {
+      "instance_id": "31d1252d-0f3a-5d37-a323-264600541933",
+      "piece_id": 290,
+      "section": "assembly-speaker-left-unit.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 166,
+      "module": "speaker-left",
+      "ldraw_part": "4070"
+    },
+    {
+      "instance_id": "cf559dcc-add8-5a57-a556-1672380fc519",
+      "piece_id": 291,
+      "section": "assembly-speaker-left-unit.ldr",
+      "placement_index": 3,
+      "local_step": 3,
+      "source_step": 167,
+      "module": "speaker-left",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "c383133f-76ca-507e-a069-a5c27f112a3b",
+      "piece_id": 292,
+      "section": "assembly-speaker-left-unit.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 167,
+      "module": "speaker-left",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "4f1ba285-aaed-582d-a3cc-75174d5338f5",
+      "piece_id": 293,
+      "section": "assembly-speaker-left-unit.ldr",
+      "placement_index": 5,
+      "local_step": 4,
+      "source_step": 168,
+      "module": "speaker-left",
+      "ldraw_part": "3068b"
+    },
+    {
+      "instance_id": "39fec8f4-8d9d-54bf-bf2c-36b1fef776cf",
+      "piece_id": 294,
+      "section": "assembly-speaker-right-unit.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 170,
+      "module": "speaker-right",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "431663b9-93e9-594d-a297-6de347cebc4d",
+      "piece_id": 295,
+      "section": "assembly-speaker-right-unit.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 171,
+      "module": "speaker-right",
+      "ldraw_part": "4070"
+    },
+    {
+      "instance_id": "8e9a1a46-3fb6-5c17-914f-70eb6b230adb",
+      "piece_id": 296,
+      "section": "assembly-speaker-right-unit.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 171,
+      "module": "speaker-right",
+      "ldraw_part": "4070"
+    },
+    {
+      "instance_id": "8f4e0c88-0afd-569b-aea2-03e860bd881d",
+      "piece_id": 297,
+      "section": "assembly-speaker-right-unit.ldr",
+      "placement_index": 3,
+      "local_step": 3,
+      "source_step": 172,
+      "module": "speaker-right",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "4dd36b0a-37c0-586a-ae14-3acc03d2a812",
+      "piece_id": 298,
+      "section": "assembly-speaker-right-unit.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 172,
+      "module": "speaker-right",
+      "ldraw_part": "6141"
+    },
+    {
+      "instance_id": "3ae0844f-f66e-5860-855f-353be7b6276c",
+      "piece_id": 299,
+      "section": "assembly-speaker-right-unit.ldr",
+      "placement_index": 5,
+      "local_step": 4,
+      "source_step": 173,
+      "module": "speaker-right",
+      "ldraw_part": "3068b"
+    },
+    {
+      "instance_id": "d8803f1a-d90c-5b87-b6be-9dcd714a459d",
+      "piece_id": 300,
+      "section": "assembly-sail.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 175,
+      "module": "sail",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "7a8c7a11-8b22-5cb5-9648-c21a37794663",
+      "piece_id": 301,
+      "section": "assembly-sail.ldr",
+      "placement_index": 3,
+      "local_step": 3,
+      "source_step": 177,
+      "module": "sail",
+      "ldraw_part": "4095"
+    },
+    {
+      "instance_id": "a81a06e3-6c61-5cab-a76b-9c7f01ff0140",
+      "piece_id": 302,
+      "section": "assembly-sail-panel.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 178,
+      "module": "sail",
+      "ldraw_part": "65426"
+    },
+    {
+      "instance_id": "e4bdfb33-867c-5d91-b2fa-2a36dd0bcecd",
+      "piece_id": 303,
+      "section": "assembly-sail-panel.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 178,
+      "module": "sail",
+      "ldraw_part": "65429"
+    },
+    {
+      "instance_id": "1797ae6c-4fba-55f7-b6da-219ab007618c",
+      "piece_id": 304,
+      "section": "assembly-sail-panel.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 179,
+      "module": "sail",
+      "ldraw_part": "3068b"
+    },
+    {
+      "instance_id": "4ee99271-c6d4-5967-b387-a8d89f2683f4",
+      "piece_id": 305,
+      "section": "assembly-sail-panel.ldr",
+      "placement_index": 3,
+      "local_step": 3,
+      "source_step": 180,
+      "module": "sail",
+      "ldraw_part": "61252"
+    },
+    {
+      "instance_id": "34cd3b4c-dc35-577d-a98b-0f2eaebd512c",
+      "piece_id": 306,
+      "section": "assembly-sail-panel.ldr",
+      "placement_index": 4,
+      "local_step": 3,
+      "source_step": 180,
+      "module": "sail",
+      "ldraw_part": "61252"
+    },
+    {
+      "instance_id": "735ff26d-40ce-5199-9ea7-db748d898030",
+      "piece_id": 307,
+      "section": "assembly-sail.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 176,
+      "module": "sail",
+      "ldraw_part": "3062b"
+    },
+    {
+      "instance_id": "db05cf94-d7dd-5da4-bc79-dd4d437641eb",
+      "piece_id": 308,
+      "section": "assembly-sail.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 176,
+      "module": "sail",
+      "ldraw_part": "3062b"
+    },
+    {
+      "instance_id": "6757661d-ff11-555a-8435-c3a97e9010a2",
+      "piece_id": 309,
+      "section": "assembly-truck.ldr",
+      "placement_index": 144,
+      "local_step": 62,
+      "source_step": 101,
+      "module": "truck",
+      "ldraw_part": "2412b"
+    },
+    {
+      "instance_id": "b4e9e93b-3040-52cb-a9a4-5b27825cdbe7",
+      "piece_id": 310,
+      "section": "assembly-truck.ldr",
+      "placement_index": 145,
+      "local_step": 62,
+      "source_step": 101,
+      "module": "truck",
+      "ldraw_part": "2412b"
+    },
+    {
+      "instance_id": "85d9a838-40a2-562f-98aa-88f399942c55",
+      "piece_id": 311,
+      "section": "assembly-truck.ldr",
+      "placement_index": 146,
+      "local_step": 62,
+      "source_step": 101,
+      "module": "truck",
+      "ldraw_part": "2412b"
+    },
+    {
+      "instance_id": "e0a0f75b-7ea1-5fb3-a111-21df5e03c2d4",
+      "piece_id": 312,
+      "section": "assembly-truck.ldr",
+      "placement_index": 147,
+      "local_step": 62,
+      "source_step": 101,
+      "module": "truck",
+      "ldraw_part": "2412b"
+    },
+    {
+      "instance_id": "f7837faa-349d-5150-a816-0d94e3168983",
+      "piece_id": 314,
+      "section": "assembly-truck.ldr",
+      "placement_index": 151,
+      "local_step": 63,
+      "source_step": 102,
+      "module": "truck",
+      "ldraw_part": "3070b"
+    },
+    {
+      "instance_id": "0791db05-f897-5313-9922-69e422f1d0c2",
+      "piece_id": 316,
+      "section": "assembly-truck.ldr",
+      "placement_index": 155,
+      "local_step": 64,
+      "source_step": 103,
+      "module": "truck",
+      "ldraw_part": "3070b"
+    },
+    {
+      "instance_id": "fb932afd-fa15-5aa9-9971-086ce6c091c9",
+      "piece_id": 317,
+      "section": "assembly-truck.ldr",
+      "placement_index": 148,
+      "local_step": 63,
+      "source_step": 102,
+      "module": "truck",
+      "ldraw_part": "49307"
+    },
+    {
+      "instance_id": "f928779e-296c-5156-8c6a-fbde7ebea1e9",
+      "piece_id": 318,
+      "section": "assembly-truck.ldr",
+      "placement_index": 149,
+      "local_step": 63,
+      "source_step": 102,
+      "module": "truck",
+      "ldraw_part": "49307"
+    },
+    {
+      "instance_id": "d98997fd-c00d-5353-912e-90c0840143af",
+      "piece_id": 319,
+      "section": "assembly-truck.ldr",
+      "placement_index": 150,
+      "local_step": 63,
+      "source_step": 102,
+      "module": "truck",
+      "ldraw_part": "3070b"
+    },
+    {
+      "instance_id": "10b2951d-7440-5e02-804c-e88924e7840f",
+      "piece_id": 320,
+      "section": "assembly-truck.ldr",
+      "placement_index": 152,
+      "local_step": 64,
+      "source_step": 103,
+      "module": "truck",
+      "ldraw_part": "49307"
+    },
+    {
+      "instance_id": "8fa7b0dd-87a9-5d13-88f7-d65b1bdffb40",
+      "piece_id": 321,
+      "section": "assembly-truck.ldr",
+      "placement_index": 153,
+      "local_step": 64,
+      "source_step": 103,
+      "module": "truck",
+      "ldraw_part": "49307"
+    },
+    {
+      "instance_id": "1982f534-21ee-5d5f-abce-e5a55832f2ec",
+      "piece_id": 322,
+      "section": "assembly-truck.ldr",
+      "placement_index": 154,
+      "local_step": 64,
+      "source_step": 103,
+      "module": "truck",
+      "ldraw_part": "3070b"
+    },
+    {
+      "instance_id": "45e35bdf-80d4-5e3a-ae02-b69af7d5123d",
+      "piece_id": 323,
+      "section": "assembly-helm-unit.ldr",
+      "placement_index": 2,
+      "local_step": 3,
+      "source_step": 148,
+      "module": "helm",
+      "ldraw_part": "3023b"
+    },
+    {
+      "instance_id": "ad6f24fb-e41d-5f17-a595-b175614c36cf",
+      "piece_id": 324,
+      "section": "assembly-truck.ldr",
+      "placement_index": 171,
+      "local_step": 71,
+      "source_step": 111,
+      "module": "truck",
+      "ldraw_part": "3004"
+    },
+    {
+      "instance_id": "7d5fb3fa-8e4a-5c8d-956c-099ab0fa4a24",
+      "piece_id": 325,
+      "section": "assembly-truck.ldr",
+      "placement_index": 173,
+      "local_step": 71,
+      "source_step": 111,
+      "module": "truck",
+      "ldraw_part": "3004"
+    },
+    {
+      "instance_id": "33dd71c4-e9b6-59a6-a8de-6efee086b333",
+      "piece_id": 326,
+      "section": "assembly-platform-riser-1.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 133,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "b1722d11-c0aa-5a8e-8848-49c95ac8e1e6",
+      "piece_id": 327,
+      "section": "assembly-platform-riser-2.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 136,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "0d5babfc-8549-5498-8d3c-cad69d301f87",
+      "piece_id": 328,
+      "section": "assembly-platform-riser-3.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 139,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "8e6d550c-ddee-5ea5-8e3a-b5b07a0a3c55",
+      "piece_id": 329,
+      "section": "assembly-platform-riser-4.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 142,
+      "module": "truck",
+      "ldraw_part": "3022"
+    },
+    {
+      "instance_id": "07c2e4a1-56f9-58df-b94a-fd9ed550d418",
+      "piece_id": 330,
+      "section": "assembly-truck.ldr",
+      "placement_index": 119,
+      "local_step": 51,
+      "source_step": 87,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "da02efcc-d1e1-56b2-9fee-1af16ffbbbcd",
+      "piece_id": 331,
+      "section": "assembly-left-side-carrier.ldr",
+      "placement_index": 11,
+      "local_step": 6,
+      "source_step": 48,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "835cbd40-9215-5878-a33b-b114ecef5f94",
+      "piece_id": 332,
+      "section": "assembly-truck.ldr",
+      "placement_index": 121,
+      "local_step": 51,
+      "source_step": 87,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "abea0b31-19c4-5ba4-99b1-f36c13a8b9c3",
+      "piece_id": 333,
+      "section": "assembly-right-side-carrier.ldr",
+      "placement_index": 10,
+      "local_step": 6,
+      "source_step": 56,
+      "module": "truck",
+      "ldraw_part": "3710"
+    },
+    {
+      "instance_id": "c263e718-b63b-5ae0-b302-d8938d1c248b",
+      "piece_id": 334,
+      "section": "assembly-hood.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 118,
+      "module": "hood",
+      "ldraw_part": "3068b"
+    },
+    {
+      "instance_id": "e6082bf4-e2f6-519d-873f-d9de9315ceea",
+      "piece_id": 335,
+      "section": "assembly-truck.ldr",
+      "placement_index": 103,
+      "local_step": 46,
+      "source_step": 82,
+      "module": "truck",
+      "ldraw_part": "3070b"
+    },
+    {
+      "instance_id": "b8ecb824-691d-5eaf-827c-3c4569a05e38",
+      "piece_id": 336,
+      "section": "assembly-truck.ldr",
+      "placement_index": 111,
+      "local_step": 48,
+      "source_step": 84,
+      "module": "truck",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "96b53daf-d35f-589a-bbbc-a69384542262",
+      "piece_id": 337,
+      "section": "assembly-truck.ldr",
+      "placement_index": 105,
+      "local_step": 46,
+      "source_step": 82,
+      "module": "truck",
+      "ldraw_part": "3070b"
+    },
+    {
+      "instance_id": "5559394d-aad9-5169-9670-6c5ba7fc5138",
+      "piece_id": 338,
+      "section": "assembly-truck.ldr",
+      "placement_index": 113,
+      "local_step": 48,
+      "source_step": 84,
+      "module": "truck",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "1bbce540-12d9-55ba-8348-37106315f004",
+      "piece_id": 339,
+      "section": "assembly-hood.ldr",
+      "placement_index": 2,
+      "local_step": 2,
+      "source_step": 118,
+      "module": "hood",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "16a5186e-7bcf-5925-a011-322a58263e96",
+      "piece_id": 340,
+      "section": "assembly-hood.ldr",
+      "placement_index": 3,
+      "local_step": 2,
+      "source_step": 118,
+      "module": "hood",
+      "ldraw_part": "3069b"
+    },
+    {
+      "instance_id": "6d26e0c9-5267-5af6-834f-f0bb9a6eadd5",
+      "piece_id": 341,
+      "section": "assembly-banner.ldr",
+      "placement_index": 2,
+      "local_step": 1,
+      "source_step": 182,
+      "module": "banner",
+      "ldraw_part": "85861"
+    },
+    {
+      "instance_id": "c81bfcb6-30d9-5a7f-a285-32e0f53fe033",
+      "piece_id": 342,
+      "section": "assembly-banner.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 182,
+      "module": "banner",
+      "ldraw_part": "3062b"
+    },
+    {
+      "instance_id": "4cf1b402-c02f-5ff8-8554-113e3970f72a",
+      "piece_id": 343,
+      "section": "assembly-banner.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 182,
+      "module": "banner",
+      "ldraw_part": "3794b"
+    },
+    {
+      "instance_id": "dac30bb9-ce2d-5102-8192-3f564596f9da",
+      "piece_id": 400,
+      "section": "assembly-tsai-unit.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 196,
+      "module": "tsai",
+      "ldraw_part": "3815c01"
+    },
+    {
+      "instance_id": "f9ac8256-ba0e-586f-b43b-a45709892bf5",
+      "piece_id": 401,
+      "section": "assembly-tsai-unit.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 196,
+      "module": "tsai",
+      "ldraw_part": "973"
+    },
+    {
+      "instance_id": "49171f89-035c-5268-9733-405d8b9a51e5",
+      "piece_id": 402,
+      "section": "assembly-tsai-unit.ldr",
+      "placement_index": 2,
+      "local_step": 1,
+      "source_step": 196,
+      "module": "tsai",
+      "ldraw_part": "3818"
+    },
+    {
+      "instance_id": "2010493c-7446-5c71-b638-441ef97e6a2b",
+      "piece_id": 403,
+      "section": "assembly-tsai-unit.ldr",
+      "placement_index": 3,
+      "local_step": 1,
+      "source_step": 196,
+      "module": "tsai",
+      "ldraw_part": "3819"
+    },
+    {
+      "instance_id": "6314595f-9880-5ce4-8290-55e6a2d8682f",
+      "piece_id": 404,
+      "section": "assembly-tsai-unit.ldr",
+      "placement_index": 4,
+      "local_step": 1,
+      "source_step": 196,
+      "module": "tsai",
+      "ldraw_part": "3820"
+    },
+    {
+      "instance_id": "392b8fda-dcf5-5a0f-aad6-a60068e519ce",
+      "piece_id": 405,
+      "section": "assembly-tsai-unit.ldr",
+      "placement_index": 5,
+      "local_step": 1,
+      "source_step": 196,
+      "module": "tsai",
+      "ldraw_part": "3820"
+    },
+    {
+      "instance_id": "6f72c15d-529d-51c8-93dc-a34a2dd0ede0",
+      "piece_id": 406,
+      "section": "assembly-tsai-unit.ldr",
+      "placement_index": 6,
+      "local_step": 1,
+      "source_step": 196,
+      "module": "tsai",
+      "ldraw_part": "3626cp87"
+    },
+    {
+      "instance_id": "dc9eccee-a8ad-5c08-9bb6-a73274eb1efa",
+      "piece_id": 407,
+      "section": "assembly-tsai-unit.ldr",
+      "placement_index": 7,
+      "local_step": 1,
+      "source_step": 196,
+      "module": "tsai",
+      "ldraw_part": "62711"
+    },
+    {
+      "instance_id": "d5f643ed-5bee-58ba-97d3-b6729a142f92",
+      "piece_id": 408,
+      "section": "assembly-tsai-unit.ldr",
+      "placement_index": 8,
+      "local_step": 2,
+      "source_step": 197,
+      "module": "tsai",
+      "ldraw_part": "30374"
+    },
+    {
+      "instance_id": "ac755821-d28a-565f-b8ad-8bbf12f1c3ac",
+      "piece_id": 409,
+      "section": "assembly-tsai-unit.ldr",
+      "placement_index": 9,
+      "local_step": 2,
+      "source_step": 197,
+      "module": "tsai",
+      "ldraw_part": "2335"
+    },
+    {
+      "instance_id": "a9589887-a8e3-59ab-92c7-a9a20a3d162e",
+      "piece_id": 2001,
+      "section": "assembly-shield.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 145,
+      "module": "shield",
+      "ldraw_part": "3034"
+    },
+    {
+      "instance_id": "027384ae-6537-5974-8c70-9f79fd563f7e",
+      "piece_id": 2002,
+      "section": "assembly-shield.ldr",
+      "placement_index": 1,
+      "local_step": 1,
+      "source_step": 145,
+      "module": "shield",
+      "ldraw_part": "3034"
+    },
+    {
+      "instance_id": "463b0c05-89f4-5010-90e9-98ee1d9829c2",
+      "piece_id": 2003,
+      "section": "assembly-shield-panel-1.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 152,
+      "module": "shield",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "71f01180-a799-5784-804b-4c7fa68aee17",
+      "piece_id": 2004,
+      "section": "assembly-shield-panel-2.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 156,
+      "module": "shield",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "7a23e9a3-eeea-5b05-8473-799f47178dbb",
+      "piece_id": 2005,
+      "section": "assembly-shield-panel-3.ldr",
+      "placement_index": 0,
+      "local_step": 1,
+      "source_step": 160,
+      "module": "shield",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "cf2c15e7-c743-57c4-85c1-e3f007949e58",
+      "piece_id": 2006,
+      "section": "assembly-shield-panel-1.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 153,
+      "module": "shield",
+      "ldraw_part": "59349"
+    },
+    {
+      "instance_id": "55dc26d4-b8f9-5ffb-b014-87d0d2f75a4e",
+      "piece_id": 2007,
+      "section": "assembly-shield-panel-2.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 157,
+      "module": "shield",
+      "ldraw_part": "59349"
+    },
+    {
+      "instance_id": "5aca97d5-8aff-5c87-bb1a-c7a8061e9012",
+      "piece_id": 2008,
+      "section": "assembly-shield-panel-3.ldr",
+      "placement_index": 1,
+      "local_step": 2,
+      "source_step": 161,
+      "module": "shield",
+      "ldraw_part": "59349"
+    },
+    {
+      "instance_id": "799b3fea-1485-5faa-a6b4-1476cc1b3096",
+      "piece_id": 2009,
+      "section": "assembly-shield-panel-1.ldr",
+      "placement_index": 2,
+      "local_step": 3,
+      "source_step": 154,
+      "module": "shield",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "c3a34ef7-fcf8-526b-beb3-45f025944cd4",
+      "piece_id": 2010,
+      "section": "assembly-shield-panel-2.ldr",
+      "placement_index": 2,
+      "local_step": 3,
+      "source_step": 158,
+      "module": "shield",
+      "ldraw_part": "3666"
+    },
+    {
+      "instance_id": "fd19d3b7-2108-5622-a99e-9eeb6bc62c98",
+      "piece_id": 2011,
+      "section": "assembly-shield-panel-3.ldr",
+      "placement_index": 2,
+      "local_step": 3,
+      "source_step": 162,
+      "module": "shield",
+      "ldraw_part": "3666"
+    }
+  ],
+  "assemblies": [
+    {
+      "name": "banner",
+      "section": "assembly-banner.ldr",
+      "parent": null,
+      "pieces": 6,
+      "origin_ldu": [
+        40.0,
+        -360.37506720000005,
+        50.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "cab-roof",
+      "section": "assembly-cab-roof.ldr",
+      "parent": null,
+      "pieces": 1,
+      "origin_ldu": [
+        189.9998092,
+        -200.3750106,
+        79.9999834
+      ],
+      "rotation": [
+        [
+          0.0,
+          0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "candidate",
+      "section": "assembly-candidate.ldr",
+      "parent": null,
+      "pieces": 8,
+      "origin_ldu": [
+        49.0,
+        -240.3750672,
+        56.31
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "deck",
+      "section": "assembly-deck.ldr",
+      "parent": null,
+      "pieces": 3,
+      "origin_ldu": [
+        80.0,
+        -200.3750672,
+        10.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "helm-unit",
+      "section": "assembly-helm-unit.ldr",
+      "parent": "helm",
+      "pieces": 5,
+      "origin_ldu": [
+        80.0,
+        -208.3750672,
+        80.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "helm",
+      "section": "assembly-helm.ldr",
+      "parent": null,
+      "pieces": 5,
+      "origin_ldu": [
+        80.0,
+        -208.3750672,
+        80.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "hood",
+      "section": "assembly-hood.ldr",
+      "parent": null,
+      "pieces": 4,
+      "origin_ldu": [
+        329.999795,
+        -152.3750162,
+        49.9999476
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "interior",
+      "section": "assembly-interior.ldr",
+      "parent": null,
+      "pieces": 1,
+      "origin_ldu": [
+        240.0,
+        -96.37501440000001,
+        80.0
+      ],
+      "rotation": [
+        [
+          0.0,
+          0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "ring-left-unit",
+      "section": "assembly-ring-left-unit.ldr",
+      "parent": "ring-left",
+      "pieces": 2,
+      "origin_ldu": [
+        80.0,
+        -196.37506720000002,
+        -3.999999999999999
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "ring-left",
+      "section": "assembly-ring-left.ldr",
+      "parent": null,
+      "pieces": 2,
+      "origin_ldu": [
+        80.0,
+        -196.37506720000002,
+        -3.999999999999999
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "ring-right-unit",
+      "section": "assembly-ring-right-unit.ldr",
+      "parent": "ring-right",
+      "pieces": 2,
+      "origin_ldu": [
+        80.0,
+        -196.37506720000002,
+        156.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "ring-right",
+      "section": "assembly-ring-right.ldr",
+      "parent": null,
+      "pieces": 2,
+      "origin_ldu": [
+        80.0,
+        -196.37506720000002,
+        156.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "sail-panel",
+      "section": "assembly-sail-panel.ldr",
+      "parent": "sail",
+      "pieces": 5,
+      "origin_ldu": [
+        140.0,
+        -360.0,
+        52.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "sail",
+      "section": "assembly-sail.ldr",
+      "parent": null,
+      "pieces": 9,
+      "origin_ldu": [
+        140.0,
+        -360.0,
+        52.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "shield-panel-1",
+      "section": "assembly-shield-panel-1.ldr",
+      "parent": "shield",
+      "pieces": 3,
+      "origin_ldu": [
+        80.0,
+        -288.3750672,
+        30.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "shield-panel-2",
+      "section": "assembly-shield-panel-2.ldr",
+      "parent": "shield",
+      "pieces": 3,
+      "origin_ldu": [
+        80.0,
+        -288.3750672,
+        130.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "shield-panel-3",
+      "section": "assembly-shield-panel-3.ldr",
+      "parent": "shield",
+      "pieces": 3,
+      "origin_ldu": [
+        150.0,
+        -288.3750672,
+        80.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "shield",
+      "section": "assembly-shield.ldr",
+      "parent": null,
+      "pieces": 11,
+      "origin_ldu": [
+        80.0,
+        -288.3750672,
+        20.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "speaker-left-unit",
+      "section": "assembly-speaker-left-unit.ldr",
+      "parent": "speaker-left",
+      "pieces": 6,
+      "origin_ldu": [
+        190.0,
+        -240.39999999999998,
+        30.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "speaker-left",
+      "section": "assembly-speaker-left.ldr",
+      "parent": null,
+      "pieces": 6,
+      "origin_ldu": [
+        190.0,
+        -240.39999999999998,
+        30.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "speaker-right-unit",
+      "section": "assembly-speaker-right-unit.ldr",
+      "parent": "speaker-right",
+      "pieces": 6,
+      "origin_ldu": [
+        190.0,
+        -240.39999999999998,
+        110.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "speaker-right",
+      "section": "assembly-speaker-right.ldr",
+      "parent": null,
+      "pieces": 6,
+      "origin_ldu": [
+        190.0,
+        -240.39999999999998,
+        110.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "chassis-core",
+      "section": "assembly-chassis-core.ldr",
+      "parent": "truck",
+      "pieces": 11,
+      "origin_ldu": [
+        109.99981160000002,
+        -80.375034,
+        59.99996420000001
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "rear-left-suspension",
+      "section": "assembly-rear-left-suspension.ldr",
+      "parent": "truck",
+      "pieces": 6,
+      "origin_ldu": [
+        85.6213924,
+        -54.3750626,
+        10.0000036
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "rear-right-suspension",
+      "section": "assembly-rear-right-suspension.ldr",
+      "parent": "truck",
+      "pieces": 6,
+      "origin_ldu": [
+        85.621397,
+        -54.3750804,
+        99.99999880000001
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "front-left-suspension",
+      "section": "assembly-front-left-suspension.ldr",
+      "parent": "truck",
+      "pieces": 6,
+      "origin_ldu": [
+        279.9997682,
+        -54.3750626,
+        10.000015399999999
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "front-right-suspension",
+      "section": "assembly-front-right-suspension.ldr",
+      "parent": "truck",
+      "pieces": 6,
+      "origin_ldu": [
+        279.9997682,
+        -54.3750804,
+        99.99998980000001
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "left-side-carrier",
+      "section": "assembly-left-side-carrier.ldr",
+      "parent": "truck",
+      "pieces": 15,
+      "origin_ldu": [
+        139.9998104,
+        -112.3750154,
+        7.9999966
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "right-side-carrier",
+      "section": "assembly-right-side-carrier.ldr",
+      "parent": "truck",
+      "pieces": 15,
+      "origin_ldu": [
+        139.9998182,
+        -112.375063,
+        129.9999982
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "rear-bed",
+      "section": "assembly-rear-bed.ldr",
+      "parent": "truck",
+      "pieces": 9,
+      "origin_ldu": [
+        59.9997676,
+        -120.37506719999999,
+        29.9999238
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "tailgate",
+      "section": "assembly-tailgate.ldr",
+      "parent": "truck",
+      "pieces": 7,
+      "origin_ldu": [
+        16.1898238,
+        -126.3800368,
+        39.9299598
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "rear-left-wheel",
+      "section": "assembly-rear-left-wheel.ldr",
+      "parent": "truck",
+      "pieces": 2,
+      "origin_ldu": [
+        103.7475112,
+        -37.470318,
+        -0.006665
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "rear-right-wheel",
+      "section": "assembly-rear-right-wheel.ldr",
+      "parent": "truck",
+      "pieces": 2,
+      "origin_ldu": [
+        103.7475516,
+        -37.4703508,
+        159.9999678
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "front-left-wheel",
+      "section": "assembly-front-left-wheel.ldr",
+      "parent": "truck",
+      "pieces": 2,
+      "origin_ldu": [
+        336.2520456,
+        -37.470330000000004,
+        -0.006682800000000001
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "front-right-wheel",
+      "section": "assembly-front-right-wheel.ldr",
+      "parent": "truck",
+      "pieces": 2,
+      "origin_ldu": [
+        336.2520694,
+        -37.470362800000004,
+        159.9999828
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "platform-riser-1",
+      "section": "assembly-platform-riser-1.ldr",
+      "parent": "truck",
+      "pieces": 2,
+      "origin_ldu": [
+        60.0,
+        -136.37506720000002,
+        40.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "platform-riser-2",
+      "section": "assembly-platform-riser-2.ldr",
+      "parent": "truck",
+      "pieces": 2,
+      "origin_ldu": [
+        60.0,
+        -136.37506720000002,
+        120.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "platform-riser-3",
+      "section": "assembly-platform-riser-3.ldr",
+      "parent": "truck",
+      "pieces": 2,
+      "origin_ldu": [
+        140.0,
+        -136.37506720000002,
+        40.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "platform-riser-4",
+      "section": "assembly-platform-riser-4.ldr",
+      "parent": "truck",
+      "pieces": 2,
+      "origin_ldu": [
+        140.0,
+        -136.37506720000002,
+        120.0
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "truck",
+      "section": "assembly-truck.ldr",
+      "parent": null,
+      "pieces": 274,
+      "origin_ldu": [
+        16.1898238,
+        -200.3750626,
+        -0.006682800000000001
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "tsai-unit",
+      "section": "assembly-tsai-unit.ldr",
+      "parent": "tsai",
+      "pieces": 10,
+      "origin_ldu": [
+        50.0,
+        -125.671776956,
+        -123.69
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "tsai",
+      "section": "assembly-tsai.ldr",
+      "parent": null,
+      "pieces": 10,
+      "origin_ldu": [
+        50.0,
+        -125.671776956,
+        -123.69
+      ],
+      "rotation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  ],
+  "operations": [
+    {
+      "source_step": 1,
+      "section": "assembly-chassis-core.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 1
+    },
+    {
+      "source_step": 2,
+      "section": "assembly-chassis-core.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 1
+    },
+    {
+      "source_step": 3,
+      "section": "assembly-chassis-core.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 1
+    },
+    {
+      "source_step": 4,
+      "section": "assembly-chassis-core.ldr",
+      "local_step": 4,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 1
+    },
+    {
+      "source_step": 5,
+      "section": "assembly-chassis-core.ldr",
+      "local_step": 5,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 1
+    },
+    {
+      "source_step": 6,
+      "section": "assembly-truck.ldr",
+      "local_step": 1,
+      "kind": "join",
+      "child": "chassis-core",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 1
+    },
+    {
+      "source_step": 7,
+      "section": "assembly-truck.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 2
+    },
+    {
+      "source_step": 8,
+      "section": "assembly-truck.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 2
+    },
+    {
+      "source_step": 9,
+      "section": "assembly-truck.ldr",
+      "local_step": 4,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 2
+    },
+    {
+      "source_step": 10,
+      "section": "assembly-truck.ldr",
+      "local_step": 5,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 3
+    },
+    {
+      "source_step": 11,
+      "section": "assembly-truck.ldr",
+      "local_step": 6,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 4
+    },
+    {
+      "source_step": 12,
+      "section": "assembly-truck.ldr",
+      "local_step": 7,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 5
+    },
+    {
+      "source_step": 13,
+      "section": "assembly-rear-left-suspension.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 6
+    },
+    {
+      "source_step": 14,
+      "section": "assembly-rear-left-suspension.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 6
+    },
+    {
+      "source_step": 15,
+      "section": "assembly-rear-left-suspension.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 6
+    },
+    {
+      "source_step": 16,
+      "section": "assembly-truck.ldr",
+      "local_step": 8,
+      "kind": "join",
+      "child": "rear-left-suspension",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 6
+    },
+    {
+      "source_step": 17,
+      "section": "assembly-rear-right-suspension.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 7
+    },
+    {
+      "source_step": 18,
+      "section": "assembly-rear-right-suspension.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 7
+    },
+    {
+      "source_step": 19,
+      "section": "assembly-rear-right-suspension.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 7
+    },
+    {
+      "source_step": 20,
+      "section": "assembly-truck.ldr",
+      "local_step": 9,
+      "kind": "join",
+      "child": "rear-right-suspension",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 7
+    },
+    {
+      "source_step": 21,
+      "section": "assembly-front-left-suspension.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 8
+    },
+    {
+      "source_step": 22,
+      "section": "assembly-front-left-suspension.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 8
+    },
+    {
+      "source_step": 23,
+      "section": "assembly-front-left-suspension.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 8
+    },
+    {
+      "source_step": 24,
+      "section": "assembly-truck.ldr",
+      "local_step": 10,
+      "kind": "join",
+      "child": "front-left-suspension",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 8
+    },
+    {
+      "source_step": 25,
+      "section": "assembly-front-right-suspension.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 9
+    },
+    {
+      "source_step": 26,
+      "section": "assembly-front-right-suspension.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 9
+    },
+    {
+      "source_step": 27,
+      "section": "assembly-front-right-suspension.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 9
+    },
+    {
+      "source_step": 28,
+      "section": "assembly-truck.ldr",
+      "local_step": 11,
+      "kind": "join",
+      "child": "front-right-suspension",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 9
+    },
+    {
+      "source_step": 29,
+      "section": "assembly-truck.ldr",
+      "local_step": 12,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 10
+    },
+    {
+      "source_step": 30,
+      "section": "assembly-truck.ldr",
+      "local_step": 13,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 11
+    },
+    {
+      "source_step": 31,
+      "section": "assembly-truck.ldr",
+      "local_step": 14,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 11
+    },
+    {
+      "source_step": 32,
+      "section": "assembly-truck.ldr",
+      "local_step": 15,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 12
+    },
+    {
+      "source_step": 33,
+      "section": "assembly-truck.ldr",
+      "local_step": 16,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 13
+    },
+    {
+      "source_step": 34,
+      "section": "assembly-truck.ldr",
+      "local_step": 17,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 13
+    },
+    {
+      "source_step": 35,
+      "section": "assembly-truck.ldr",
+      "local_step": 18,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 13
+    },
+    {
+      "source_step": 36,
+      "section": "assembly-truck.ldr",
+      "local_step": 19,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 14
+    },
+    {
+      "source_step": 37,
+      "section": "assembly-truck.ldr",
+      "local_step": 20,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 15
+    },
+    {
+      "source_step": 38,
+      "section": "assembly-truck.ldr",
+      "local_step": 21,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 15
+    },
+    {
+      "source_step": 39,
+      "section": "assembly-truck.ldr",
+      "local_step": 22,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 16
+    },
+    {
+      "source_step": 40,
+      "section": "assembly-truck.ldr",
+      "local_step": 23,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 16
+    },
+    {
+      "source_step": 41,
+      "section": "assembly-truck.ldr",
+      "local_step": 24,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 17
+    },
+    {
+      "source_step": 42,
+      "section": "assembly-truck.ldr",
+      "local_step": 25,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 17
+    },
+    {
+      "source_step": 43,
+      "section": "assembly-left-side-carrier.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 18
+    },
+    {
+      "source_step": 44,
+      "section": "assembly-left-side-carrier.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 18
+    },
+    {
+      "source_step": 45,
+      "section": "assembly-left-side-carrier.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 18
+    },
+    {
+      "source_step": 46,
+      "section": "assembly-left-side-carrier.ldr",
+      "local_step": 4,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 18
+    },
+    {
+      "source_step": 47,
+      "section": "assembly-left-side-carrier.ldr",
+      "local_step": 5,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 18
+    },
+    {
+      "source_step": 48,
+      "section": "assembly-left-side-carrier.ldr",
+      "local_step": 6,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 18
+    },
+    {
+      "source_step": 49,
+      "section": "assembly-left-side-carrier.ldr",
+      "local_step": 7,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 18
+    },
+    {
+      "source_step": 50,
+      "section": "assembly-truck.ldr",
+      "local_step": 26,
+      "kind": "join",
+      "child": "left-side-carrier",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 18
+    },
+    {
+      "source_step": 51,
+      "section": "assembly-right-side-carrier.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 19
+    },
+    {
+      "source_step": 52,
+      "section": "assembly-right-side-carrier.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 19
+    },
+    {
+      "source_step": 53,
+      "section": "assembly-right-side-carrier.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 19
+    },
+    {
+      "source_step": 54,
+      "section": "assembly-right-side-carrier.ldr",
+      "local_step": 4,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 19
+    },
+    {
+      "source_step": 55,
+      "section": "assembly-right-side-carrier.ldr",
+      "local_step": 5,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 19
+    },
+    {
+      "source_step": 56,
+      "section": "assembly-right-side-carrier.ldr",
+      "local_step": 6,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 19
+    },
+    {
+      "source_step": 57,
+      "section": "assembly-right-side-carrier.ldr",
+      "local_step": 7,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 19
+    },
+    {
+      "source_step": 58,
+      "section": "assembly-truck.ldr",
+      "local_step": 27,
+      "kind": "join",
+      "child": "right-side-carrier",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 19
+    },
+    {
+      "source_step": 59,
+      "section": "assembly-truck.ldr",
+      "local_step": 28,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 20
+    },
+    {
+      "source_step": 60,
+      "section": "assembly-truck.ldr",
+      "local_step": 29,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 20
+    },
+    {
+      "source_step": 61,
+      "section": "assembly-rear-bed.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 21
+    },
+    {
+      "source_step": 62,
+      "section": "assembly-rear-bed.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 21
+    },
+    {
+      "source_step": 63,
+      "section": "assembly-rear-bed.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 21
+    },
+    {
+      "source_step": 64,
+      "section": "assembly-rear-bed.ldr",
+      "local_step": 4,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 21
+    },
+    {
+      "source_step": 65,
+      "section": "assembly-rear-bed.ldr",
+      "local_step": 5,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 21
+    },
+    {
+      "source_step": 66,
+      "section": "assembly-truck.ldr",
+      "local_step": 30,
+      "kind": "join",
+      "child": "rear-bed",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 21
+    },
+    {
+      "source_step": 67,
+      "section": "assembly-truck.ldr",
+      "local_step": 31,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 22
+    },
+    {
+      "source_step": 68,
+      "section": "assembly-truck.ldr",
+      "local_step": 32,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 23
+    },
+    {
+      "source_step": 69,
+      "section": "assembly-truck.ldr",
+      "local_step": 33,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 23
+    },
+    {
+      "source_step": 70,
+      "section": "assembly-truck.ldr",
+      "local_step": 34,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 24
+    },
+    {
+      "source_step": 71,
+      "section": "assembly-truck.ldr",
+      "local_step": 35,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 24
+    },
+    {
+      "source_step": 72,
+      "section": "assembly-truck.ldr",
+      "local_step": 36,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 24
+    },
+    {
+      "source_step": 73,
+      "section": "assembly-truck.ldr",
+      "local_step": 37,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 25
+    },
+    {
+      "source_step": 74,
+      "section": "assembly-truck.ldr",
+      "local_step": 38,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 25
+    },
+    {
+      "source_step": 75,
+      "section": "assembly-truck.ldr",
+      "local_step": 39,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 26
+    },
+    {
+      "source_step": 76,
+      "section": "assembly-truck.ldr",
+      "local_step": 40,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 26
+    },
+    {
+      "source_step": 77,
+      "section": "assembly-truck.ldr",
+      "local_step": 41,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 27
+    },
+    {
+      "source_step": 78,
+      "section": "assembly-truck.ldr",
+      "local_step": 42,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 27
+    },
+    {
+      "source_step": 79,
+      "section": "assembly-truck.ldr",
+      "local_step": 43,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 28
+    },
+    {
+      "source_step": 80,
+      "section": "assembly-truck.ldr",
+      "local_step": 44,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 28
+    },
+    {
+      "source_step": 81,
+      "section": "assembly-truck.ldr",
+      "local_step": 45,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 29
+    },
+    {
+      "source_step": 82,
+      "section": "assembly-truck.ldr",
+      "local_step": 46,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 29
+    },
+    {
+      "source_step": 83,
+      "section": "assembly-truck.ldr",
+      "local_step": 47,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 30
+    },
+    {
+      "source_step": 84,
+      "section": "assembly-truck.ldr",
+      "local_step": 48,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 30
+    },
+    {
+      "source_step": 85,
+      "section": "assembly-truck.ldr",
+      "local_step": 49,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 31
+    },
+    {
+      "source_step": 86,
+      "section": "assembly-truck.ldr",
+      "local_step": 50,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 32
+    },
+    {
+      "source_step": 87,
+      "section": "assembly-truck.ldr",
+      "local_step": 51,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 32
+    },
+    {
+      "source_step": 88,
+      "section": "assembly-truck.ldr",
+      "local_step": 52,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 33
+    },
+    {
+      "source_step": 89,
+      "section": "assembly-truck.ldr",
+      "local_step": 53,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 33
+    },
+    {
+      "source_step": 90,
+      "section": "assembly-tailgate.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 34
+    },
+    {
+      "source_step": 91,
+      "section": "assembly-tailgate.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 34
+    },
+    {
+      "source_step": 92,
+      "section": "assembly-tailgate.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 34
+    },
+    {
+      "source_step": 93,
+      "section": "assembly-truck.ldr",
+      "local_step": 54,
+      "kind": "join",
+      "child": "tailgate",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 34
+    },
+    {
+      "source_step": 94,
+      "section": "assembly-truck.ldr",
+      "local_step": 55,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 35
+    },
+    {
+      "source_step": 95,
+      "section": "assembly-truck.ldr",
+      "local_step": 56,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 35
+    },
+    {
+      "source_step": 96,
+      "section": "assembly-truck.ldr",
+      "local_step": 57,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 36
+    },
+    {
+      "source_step": 97,
+      "section": "assembly-truck.ldr",
+      "local_step": 58,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 36
+    },
+    {
+      "source_step": 98,
+      "section": "assembly-truck.ldr",
+      "local_step": 59,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 37
+    },
+    {
+      "source_step": 99,
+      "section": "assembly-truck.ldr",
+      "local_step": 60,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 37
+    },
+    {
+      "source_step": 100,
+      "section": "assembly-truck.ldr",
+      "local_step": 61,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 38
+    },
+    {
+      "source_step": 101,
+      "section": "assembly-truck.ldr",
+      "local_step": 62,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 38
+    },
+    {
+      "source_step": 102,
+      "section": "assembly-truck.ldr",
+      "local_step": 63,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 39
+    },
+    {
+      "source_step": 103,
+      "section": "assembly-truck.ldr",
+      "local_step": 64,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 39
+    },
+    {
+      "source_step": 104,
+      "section": "assembly-truck.ldr",
+      "local_step": 65,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 40
+    },
+    {
+      "source_step": 105,
+      "section": "assembly-truck.ldr",
+      "local_step": 66,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 40
+    },
+    {
+      "source_step": 106,
+      "section": "assembly-truck.ldr",
+      "local_step": 67,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 41
+    },
+    {
+      "source_step": 107,
+      "section": "assembly-truck.ldr",
+      "local_step": 68,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 41
+    },
+    {
+      "source_step": 108,
+      "section": "assembly-truck.ldr",
+      "local_step": 69,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 42
+    },
+    {
+      "source_step": 109,
+      "section": "assembly-truck.ldr",
+      "local_step": 70,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 42
+    },
+    {
+      "source_step": 110,
+      "section": "assembly-interior.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 42
+    },
+    {
+      "source_step": 111,
+      "section": "assembly-truck.ldr",
+      "local_step": 71,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 43
+    },
+    {
+      "source_step": 112,
+      "section": "assembly-truck.ldr",
+      "local_step": 72,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 43
+    },
+    {
+      "source_step": 113,
+      "section": "assembly-truck.ldr",
+      "local_step": 73,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 44
+    },
+    {
+      "source_step": 114,
+      "section": "assembly-truck.ldr",
+      "local_step": 74,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 44
+    },
+    {
+      "source_step": 115,
+      "section": "assembly-truck.ldr",
+      "local_step": 75,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 45
+    },
+    {
+      "source_step": 116,
+      "section": "assembly-truck.ldr",
+      "local_step": 76,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 45
+    },
+    {
+      "source_step": 117,
+      "section": "assembly-hood.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 46
+    },
+    {
+      "source_step": 118,
+      "section": "assembly-hood.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 46
+    },
+    {
+      "source_step": 119,
+      "section": "assembly-cab-roof.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 47
+    },
+    {
+      "source_step": 120,
+      "section": "assembly-rear-left-wheel.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 121,
+      "section": "assembly-rear-left-wheel.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 122,
+      "section": "assembly-truck.ldr",
+      "local_step": 77,
+      "kind": "join",
+      "child": "rear-left-wheel",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 123,
+      "section": "assembly-rear-right-wheel.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 124,
+      "section": "assembly-rear-right-wheel.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 125,
+      "section": "assembly-truck.ldr",
+      "local_step": 78,
+      "kind": "join",
+      "child": "rear-right-wheel",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 126,
+      "section": "assembly-front-left-wheel.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 127,
+      "section": "assembly-front-left-wheel.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 128,
+      "section": "assembly-truck.ldr",
+      "local_step": 79,
+      "kind": "join",
+      "child": "front-left-wheel",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 129,
+      "section": "assembly-front-right-wheel.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 130,
+      "section": "assembly-front-right-wheel.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 131,
+      "section": "assembly-truck.ldr",
+      "local_step": 80,
+      "kind": "join",
+      "child": "front-right-wheel",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 48
+    },
+    {
+      "source_step": 132,
+      "section": "assembly-platform-riser-1.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 133,
+      "section": "assembly-platform-riser-1.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 134,
+      "section": "assembly-truck.ldr",
+      "local_step": 81,
+      "kind": "join",
+      "child": "platform-riser-1",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 135,
+      "section": "assembly-platform-riser-2.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 136,
+      "section": "assembly-platform-riser-2.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 137,
+      "section": "assembly-truck.ldr",
+      "local_step": 82,
+      "kind": "join",
+      "child": "platform-riser-2",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 138,
+      "section": "assembly-platform-riser-3.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 139,
+      "section": "assembly-platform-riser-3.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 140,
+      "section": "assembly-truck.ldr",
+      "local_step": 83,
+      "kind": "join",
+      "child": "platform-riser-3",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 141,
+      "section": "assembly-platform-riser-4.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 142,
+      "section": "assembly-platform-riser-4.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 143,
+      "section": "assembly-truck.ldr",
+      "local_step": 84,
+      "kind": "join",
+      "child": "platform-riser-4",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 49
+    },
+    {
+      "source_step": 144,
+      "section": "assembly-deck.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 50
+    },
+    {
+      "source_step": 145,
+      "section": "assembly-shield.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 51
+    },
+    {
+      "source_step": 146,
+      "section": "assembly-helm-unit.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 52
+    },
+    {
+      "source_step": 147,
+      "section": "assembly-helm-unit.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 52
+    },
+    {
+      "source_step": 148,
+      "section": "assembly-helm-unit.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 52
+    },
+    {
+      "source_step": 149,
+      "section": "assembly-helm-unit.ldr",
+      "local_step": 4,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 52
+    },
+    {
+      "source_step": 150,
+      "section": "assembly-helm-unit.ldr",
+      "local_step": 5,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 52
+    },
+    {
+      "source_step": 151,
+      "section": "assembly-helm.ldr",
+      "local_step": 1,
+      "kind": "join",
+      "child": "helm-unit",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 52
+    },
+    {
+      "source_step": 152,
+      "section": "assembly-shield-panel-1.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 53
+    },
+    {
+      "source_step": 153,
+      "section": "assembly-shield-panel-1.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 53
+    },
+    {
+      "source_step": 154,
+      "section": "assembly-shield-panel-1.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 53
+    },
+    {
+      "source_step": 155,
+      "section": "assembly-shield.ldr",
+      "local_step": 2,
+      "kind": "join",
+      "child": "shield-panel-1",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 53
+    },
+    {
+      "source_step": 156,
+      "section": "assembly-shield-panel-2.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 53
+    },
+    {
+      "source_step": 157,
+      "section": "assembly-shield-panel-2.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 53
+    },
+    {
+      "source_step": 158,
+      "section": "assembly-shield-panel-2.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 53
+    },
+    {
+      "source_step": 159,
+      "section": "assembly-shield.ldr",
+      "local_step": 3,
+      "kind": "join",
+      "child": "shield-panel-2",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 53
+    },
+    {
+      "source_step": 160,
+      "section": "assembly-shield-panel-3.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 54
+    },
+    {
+      "source_step": 161,
+      "section": "assembly-shield-panel-3.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 54
+    },
+    {
+      "source_step": 162,
+      "section": "assembly-shield-panel-3.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 54
+    },
+    {
+      "source_step": 163,
+      "section": "assembly-shield.ldr",
+      "local_step": 4,
+      "kind": "join",
+      "child": "shield-panel-3",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 54
+    },
+    {
+      "source_step": 164,
+      "section": "assembly-deck.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 55
+    },
+    {
+      "source_step": 165,
+      "section": "assembly-speaker-left-unit.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 56
+    },
+    {
+      "source_step": 166,
+      "section": "assembly-speaker-left-unit.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 56
+    },
+    {
+      "source_step": 167,
+      "section": "assembly-speaker-left-unit.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 56
+    },
+    {
+      "source_step": 168,
+      "section": "assembly-speaker-left-unit.ldr",
+      "local_step": 4,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 56
+    },
+    {
+      "source_step": 169,
+      "section": "assembly-speaker-left.ldr",
+      "local_step": 1,
+      "kind": "join",
+      "child": "speaker-left-unit",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 56
+    },
+    {
+      "source_step": 170,
+      "section": "assembly-speaker-right-unit.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 56
+    },
+    {
+      "source_step": 171,
+      "section": "assembly-speaker-right-unit.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 56
+    },
+    {
+      "source_step": 172,
+      "section": "assembly-speaker-right-unit.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 56
+    },
+    {
+      "source_step": 173,
+      "section": "assembly-speaker-right-unit.ldr",
+      "local_step": 4,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 56
+    },
+    {
+      "source_step": 174,
+      "section": "assembly-speaker-right.ldr",
+      "local_step": 1,
+      "kind": "join",
+      "child": "speaker-right-unit",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 56
+    },
+    {
+      "source_step": 175,
+      "section": "assembly-sail.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 57
+    },
+    {
+      "source_step": 176,
+      "section": "assembly-sail.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 57
+    },
+    {
+      "source_step": 177,
+      "section": "assembly-sail.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 57
+    },
+    {
+      "source_step": 178,
+      "section": "assembly-sail-panel.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 58
+    },
+    {
+      "source_step": 179,
+      "section": "assembly-sail-panel.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 58
+    },
+    {
+      "source_step": 180,
+      "section": "assembly-sail-panel.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 58
+    },
+    {
+      "source_step": 181,
+      "section": "assembly-sail.ldr",
+      "local_step": 4,
+      "kind": "join",
+      "child": "sail-panel",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 58
+    },
+    {
+      "source_step": 182,
+      "section": "assembly-banner.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 59
+    },
+    {
+      "source_step": 183,
+      "section": "assembly-banner.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 60
+    },
+    {
+      "source_step": 184,
+      "section": "assembly-banner.ldr",
+      "local_step": 3,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 60
+    },
+    {
+      "source_step": 185,
+      "section": "assembly-ring-left-unit.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 61
+    },
+    {
+      "source_step": 186,
+      "section": "assembly-ring-left-unit.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 61
+    },
+    {
+      "source_step": 187,
+      "section": "assembly-ring-left.ldr",
+      "local_step": 1,
+      "kind": "join",
+      "child": "ring-left-unit",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 61
+    },
+    {
+      "source_step": 188,
+      "section": "assembly-ring-right-unit.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 61
+    },
+    {
+      "source_step": 189,
+      "section": "assembly-ring-right-unit.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 61
+    },
+    {
+      "source_step": 190,
+      "section": "assembly-ring-right.ldr",
+      "local_step": 1,
+      "kind": "join",
+      "child": "ring-right-unit",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 61
+    },
+    {
+      "source_step": 191,
+      "section": "assembly-truck.ldr",
+      "local_step": 85,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 62
+    },
+    {
+      "source_step": 192,
+      "section": "assembly-truck.ldr",
+      "local_step": 86,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 63
+    },
+    {
+      "source_step": 193,
+      "section": "assembly-truck.ldr",
+      "local_step": 87,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 64
+    },
+    {
+      "source_step": 194,
+      "section": "assembly-truck.ldr",
+      "local_step": 88,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 65
+    },
+    {
+      "source_step": 195,
+      "section": "assembly-candidate.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 66
+    },
+    {
+      "source_step": 196,
+      "section": "assembly-tsai-unit.ldr",
+      "local_step": 1,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 67
+    },
+    {
+      "source_step": 197,
+      "section": "assembly-tsai-unit.ldr",
+      "local_step": 2,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 67
+    },
+    {
+      "source_step": 198,
+      "section": "assembly-tsai.ldr",
+      "local_step": 1,
+      "kind": "join",
+      "child": "tsai-unit",
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 67
+    },
+    {
+      "source_step": 199,
+      "section": "assembly-truck.ldr",
+      "local_step": 89,
+      "kind": "build",
+      "child": null,
+      "direction": "top",
+      "table_layout": false,
+      "repeat_recipe": null,
+      "callout": null,
+      "instruction_step": 68
+    }
+  ],
+  "roots": {
+    "banner": "banner",
+    "cab-roof": "cab-roof",
+    "candidate": "candidate",
+    "deck": "deck",
+    "helm": "helm",
+    "hood": "hood",
+    "interior": "interior",
+    "ring-left": "ring-left",
+    "ring-right": "ring-right",
+    "sail": "sail",
+    "shield": "shield",
+    "speaker-left": "speaker-left",
+    "speaker-right": "speaker-right",
+    "truck": "truck",
+    "tsai": "tsai"
+  },
+  "physical_strength": "not_evaluated",
+  "model_sha256": "49b6a0d3eb138e4f456084714d7cbf0422da8b8209ed500d057447dd9a6021a0",
+  "mpd_sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2"
+}

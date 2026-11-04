@@ -1,0 +1,26 @@
+{
+  "schema": "dss-workflow-bootstrap-check/1",
+  "observed_utc": "2026-11-04T04:32:06.822917+00:00",
+  "models_validate": "VALID",
+  "instructions_validate": "VALID",
+  "boot_discovery": [
+    "docs/instructions",
+    "docs/models"
+  ],
+  "state_backend": "split-root linked state worktrees in same repository",
+  "dependency_holds": "Body dependency holds are mandatory operator preconditions, not engine-enforced scheduling. status --next alone is not dispatch permission.",
+  "publication_local_head": "80942bbb98ccd7bdc1c9ee4ccbbe60a17d2b4b98",
+  "publication_remote_head": "80942bbb98ccd7bdc1c9ee4ccbbe60a17d2b4b98",
+  "publication_checkout_status_porcelain": "",
+  "publication_unchanged": true,
+  "preview": {
+    "http://127.0.0.1:8766/": 200,
+    "http://127.0.0.1:8766/technic/": 200,
+    "visual_review": false
+  },
+  "state_heads_reported_by_owner": {
+    "models": "aaf5631",
+    "instructions": "3403614"
+  },
+  "historical_review_replayed": false
+}

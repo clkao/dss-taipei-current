@@ -1,0 +1,11 @@
+{
+  "schema": "dss-adoption/1",
+  "date": "2026-11-03",
+  "authority": "evidence/bootstrap/handoff.json prompt; user-directed retrospective adoption",
+  "historical_stages_executed_in_spacedock": false,
+  "new_acceptance_claimed": false,
+  "unchanged_approval_reuse": "Scope and artifact identities preserved in variant and legacy manifests",
+  "source_reconciliation_complete": false,
+  "geometry_changed": false,
+  "release_replaced": false
+}

@@ -1,0 +1,33 @@
+{
+  "source_sha256": "2731d741432719d4a80494f263b2f1d01f783af8141f0ea401170668be5bb291",
+  "geometry_sha256_before": "ff387a9a62a314b7e383839818872637b5a69e26e91c458212b49be67aef884b",
+  "geometry_sha256_after": "ff387a9a62a314b7e383839818872637b5a69e26e91c458212b49be67aef884b",
+  "changes": [
+    {
+      "object": "Tall \u6d0b\u6d41 banner.001",
+      "role": "aft-banner",
+      "artwork": "banner.png",
+      "transparency": "Ink composited over source red cloth material"
+    },
+    {
+      "object": "Sail \u9806 emblem.001",
+      "role": "forward-sail",
+      "artwork": "wedge-tile.png",
+      "transparency": "Transparent decal over existing hood or sail geometry"
+    },
+    {
+      "object": "Sail \u9806 emblem / opposite face",
+      "role": "forward-sail",
+      "artwork": "wedge-tile.png",
+      "transparency": "Transparent decal over existing hood or sail geometry"
+    },
+    {
+      "object": "Hood campaign wrap.001",
+      "role": "decals",
+      "artwork": "hood-band.png",
+      "transparency": "Transparent decal over existing hood or sail geometry"
+    }
+  ],
+  "artwork_revision": "artwork-v10",
+  "scope": "Artwork and alpha/material composition only. No mesh or pose changes."
+}

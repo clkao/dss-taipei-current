@@ -1,0 +1,53 @@
+<aside aria-label="Model controls">
+  <div class="panel-tabs" role="tablist" aria-label="Model tools">
+    <button id="build-tab" role="tab" data-panel-mode="build" aria-selected="true" aria-controls="build-controls">Build</button>
+    <button id="inspect-tab" role="tab" data-panel-mode="inspect" aria-selected="false" aria-controls="inspect-controls" tabindex="-1">Inspect</button>
+  </div>
+  <div id="build-controls" role="tabpanel" aria-labelledby="build-tab" data-panel-content="build"></div>
+  <div id="inspect-controls" role="tabpanel" aria-labelledby="inspect-tab" data-panel-content="inspect" hidden>
+    <label class="explode-control"><input id="explode" type="checkbox"> Explode model</label>
+    <h2 class="control-label">Show components</h2>
+    <div id="modules"></div>
+    <section class="piece-inspector">
+      <h2 class="control-label">Selected piece</h2>
+      <pre id="selected">Select a piece in the model to see its reference.</pre>
+      <button id="copy" disabled>Copy reference</button>
+    </section>
+  </div>
+</aside></main>
+<footer id="project-details" class="project-details">
+  <section>
+    <h2>About the model</h2>
+    <p><strong>DSS Taipei Current</strong><br>Democratic Service Ship · 洋流號</p>
+    <p>327 rigid pieces · 117 build steps<br>8 studs wide · 24 studs long</p>
+    <p class="build-status">Test-build edition. Physical grip, suspension and handling strength remain untested.</p>
+    <p>Bands, stickers and craft cord are additional. <a href="digital-fit-audit.md">Digital fit review</a></p>
+  </section>
+  <section>
+    <h2>Files &amp; parts</h2>
+    <ul class="file-links">
+      <li><a href="yangliu-shape.mpd" download>3D model (MPD)</a> · <a href="inventory.csv" download>Parts list (CSV)</a></li>
+      <li><a href="instructions.pdf#page=94">Print sheets: pages 94–95 in the instruction PDF</a></li>
+    </ul>
+    <details class="bricklink-import">
+      <summary>Make a BrickLink wanted list</summary>
+      <p>Copy the XML, then open BrickLink. Choose <strong>Upload BrickLink XML format</strong>, paste it, and verify the parts before adding them.</p>
+      <div class="file-actions"><button id="copy-wanted-xml">Copy parts XML</button><a href="https://www.bricklink.com/v2/wanted/upload.page" target="_blank" rel="noopener">Open BrickLink ↗</a></div>
+      <p id="wanted-copy-status" role="status" aria-live="polite"></p>
+      <a href="wanted-list.xml" download>Download XML instead</a>
+    </details>
+    <details class="more-files"><summary>More downloads</summary><ul class="file-links">
+      <li><a href="release.zip" download>Complete offline package</a></li>
+      <li><a href="bricklink-inventory.csv" download>Purchase inventory (CSV)</a> · <a href="bricklink-mapping.json">Part mapping</a></li>
+      <li><a href="sticker-artwork.zip" download>Editable sticker artwork (ZIP)</a></li>
+    </ul></details>
+  </section>
+  <section>
+    <h2>Sources &amp; credits</h2>
+    <p id="design-attribution">Design adaptations by <strong>CL Kao</strong><br>Powered by <a href="https://spacedock.md/" target="_blank" rel="noopener">spacedock.md</a></p>
+    <p>Original contributions &amp; adaptations: <a href="credits.html#license">CC BY-SA 4.0</a>. Third-party terms apply.</p>
+    <p>Pickup construction: <strong>KamalMYafi’s LEGO 75875 reconstruction</strong>. Part meshes: <strong>LDraw contributors</strong>. Graphics adapted from official campaign sources.</p>
+    <a href="credits.html">Named contributors, sources &amp; changes →</a>
+  </section>
+  <p class="disclaimer">Independent fan design for use with genuine LEGO® bricks. Not affiliated with, sponsored by, or endorsed by the LEGO Group or the campaign. <a id="technic-easter-egg" href="technic/" target="_blank" rel="noopener" aria-label="Explore the Technic preview (work in progress)" title="Found the engine room? Technic preview · work in progress" style="display:inline-block;min-width:24px;min-height:24px;text-align:center">⚙</a></p>
+</footer>

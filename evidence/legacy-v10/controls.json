@@ -1,0 +1,9 @@
+{
+  "old_step_21_isolated_slope_detected": true,
+  "new_carriers_connected_at_installation": true,
+  "original_poses_and_inventory_preserved": true,
+  "temporal_graph_findings": 0,
+  "nonempty_operations": 193,
+  "broadphase_directions": 6,
+  "repeat_shape_checks": 11
+}
