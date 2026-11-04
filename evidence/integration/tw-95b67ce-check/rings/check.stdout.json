@@ -1,0 +1,1562 @@
+{
+  "compiled_plan": {
+    "schema": "studfleet/compiled-1",
+    "revision": "6a17862253609688dcafd921307f4ce7d78e8a815909413401e9d0eb6aa6228f",
+    "assembly_sha256": "c1a12498d0f95fb7905a98b1b7331d5edda0ce98330d80cf76b6f9f97007d8b2",
+    "plan_sha256": "f99c41bb4d4db2a0ae787326d64c3636f3f4f9598bf584d02f41ba3eed3aab54",
+    "steps": [
+      {
+        "inventory": [
+          {
+            "part": "15712",
+            "color": 15,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-185",
+        "unit": "rings",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-185"
+        ],
+        "new": [
+          "p1"
+        ],
+        "cumulative": [
+          "p1"
+        ],
+        "operations": [
+          {
+            "id": "legacy-op-185",
+            "introduce": [
+              "p1"
+            ],
+            "join": "",
+            "depends": [],
+            "direction": [
+              0,
+              0,
+              0
+            ],
+            "distance": 0,
+            "seed": true,
+            "caption": "Life-ring mount",
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "rings-1",
+            "transform": [
+              [
+                0,
+                0,
+                -1,
+                80
+              ],
+              [
+                1,
+                0,
+                0,
+                -196.3750672
+              ],
+              [
+                0,
+                -1,
+                0,
+                4
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2"
+            }
+          },
+          {
+            "id": "rings-2",
+            "transform": [
+              [
+                0,
+                0,
+                -1,
+                80
+              ],
+              [
+                -1,
+                0,
+                0,
+                -196.3750672
+              ],
+              [
+                0,
+                1,
+                0,
+                156
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "30340",
+            "color": 4,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-186",
+        "unit": "rings",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-186"
+        ],
+        "new": [
+          "p2"
+        ],
+        "cumulative": [
+          "p1",
+          "p2"
+        ],
+        "operations": [
+          {
+            "caption": "Fit the red life ring",
+            "depends": [
+              "legacy-op-185"
+            ],
+            "id": "legacy-op-186",
+            "introduce": [
+              "p2"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "rings-1",
+            "transform": [
+              [
+                0,
+                0,
+                -1,
+                80
+              ],
+              [
+                1,
+                0,
+                0,
+                -196.3750672
+              ],
+              [
+                0,
+                -1,
+                0,
+                4
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2"
+            }
+          },
+          {
+            "id": "rings-2",
+            "transform": [
+              [
+                0,
+                0,
+                -1,
+                80
+              ],
+              [
+                -1,
+                0,
+                0,
+                -196.3750672
+              ],
+              [
+                0,
+                1,
+                0,
+                156
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "15712",
+            "color": 15,
+            "quantity": 1
+          },
+          {
+            "part": "30340",
+            "color": 4,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-187",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-187"
+        ],
+        "new": [
+          "o/1/1/1",
+          "o/1/1/2"
+        ],
+        "cumulative": [
+          "o/1/1/1",
+          "o/1/1/2"
+        ],
+        "operations": [
+          {
+            "caption": "Place completed ring 1 of 2. Isolated specimen; vehicle support omitted.",
+            "depends": [],
+            "id": "legacy-op-187",
+            "introduce": null,
+            "join": "rings-1",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "15712",
+            "color": 15,
+            "quantity": 1
+          },
+          {
+            "part": "30340",
+            "color": 4,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-190",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-190"
+        ],
+        "new": [
+          "o/2/1/1",
+          "o/2/1/2"
+        ],
+        "cumulative": [
+          "o/1/1/1",
+          "o/1/1/2",
+          "o/2/1/1",
+          "o/2/1/2"
+        ],
+        "operations": [
+          {
+            "caption": "Place completed ring 2 of 2. Isolated specimen; vehicle support omitted.",
+            "depends": [
+              "legacy-op-187"
+            ],
+            "id": "legacy-op-190",
+            "introduce": null,
+            "join": "rings-2",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      }
+    ],
+    "units": {
+      "rings": [
+        {
+          "id": "p1",
+          "part": "15712",
+          "color": 15,
+          "module": "",
+          "matrix": [
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "id": "p2",
+          "part": "30340",
+          "color": 4,
+          "module": "",
+          "matrix": [
+            [
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              1,
+              0,
+              8
+            ],
+            [
+              0,
+              0,
+              1,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ]
+        }
+      ]
+    },
+    "signatures": {
+      "rings": "72582248c858c143eab1fdd00f3bd091a8c31c09114bfcc06e8fd0328a87b5f5"
+    },
+    "occurrence_operations": {
+      "o/1/1/1": "legacy-op-185",
+      "o/1/1/2": "legacy-op-186",
+      "o/2/1/1": "legacy-op-185",
+      "o/2/1/2": "legacy-op-186"
+    }
+  },
+  "exports": {
+    "inventory": "complete exact LDraw part/color quantities",
+    "purchasing": "unavailable",
+    "reason": "unmapped BrickLink lot 15712/15"
+  },
+  "inspection": {
+    "work": {
+      "supported_pair_visits": 0,
+      "connector_candidate_pairs": 0,
+      "candidate_connector_comparisons": 0,
+      "declared_sample_work": 0,
+      "total_units": 0,
+      "limit_units": 10000000,
+      "result_limit": 50000
+    },
+    "connector_status": "upstream connector analysis not requested",
+    "schema": "studfleet/inspection-1",
+    "assembly_sha256": "c1a12498d0f95fb7905a98b1b7331d5edda0ce98330d80cf76b6f9f97007d8b2",
+    "source_sha256": "1cdd759d251897a8cb2173ff30df519665d898cb961f8d9290834d6b1356beaa",
+    "provenance": "verified exact source and occurrence chain",
+    "capabilities": {
+      "schema": "studfleet/capabilities-1",
+      "tool": "studfleet/import-1;binary_sha256=ba331fec26dea7351a89a8fc52fe295f164a34ebc169fe5a62af444bc09bdc22;vcs.revision=9941400ac88c72a687a77da194c870731e67468e;vcs.modified=true",
+      "profile_sha256": "e69064b980b0630fe0dc1512994bf6f8b2e05be5590c018ae242b7d6a0b91829",
+      "expected_archive_sha256": "f3e496d0ede69ca7942fa4aa198e661ee2d22723906101e2e339d8917a4dd5f2",
+      "profiles": {
+        "3003": {
+          "width": 2,
+          "depth": 2,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            0,
+            322
+          ],
+          "part_sha256": "aed0ccd750126a58d38b012a4e8b16c172896339547c120ef67b69e1386f490d",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3003",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=24; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3004": {
+          "width": 2,
+          "depth": 1,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            47,
+            322
+          ],
+          "part_sha256": "e1caee3b32175393c9d6ea176a47f8869173a01d03a451e1cfe10d09167c0203",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3004",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=24; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3020": {
+          "width": 4,
+          "depth": 2,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70,
+            47
+          ],
+          "part_sha256": "551e433cc4bcfdeeb6e390e509d52ee2e62c90d3eae625ee36928ef32291bb79",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3020\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  2 x  4\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-16 {Roland Melkert} Initial info for 3020.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 4 C 2 20 20]\n"
+        },
+        "3022": {
+          "width": 2,
+          "depth": 2,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            47
+          ],
+          "part_sha256": "3cd09bfe626e751ad95eab0ea83e5f3adea81f05d34993a1c4bf432ee386fe25",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3022",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3023": {
+          "width": 2,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            47
+          ],
+          "part_sha256": "fa3eeab92b077488bae3dbc0fe974ef3327a77f130776d2965f13d3ebc22ab57",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3023",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "3024": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "e053af4f232374b0c8da2dc0f9620bedf0576ca43d7c3ceebc6676050ae61da8",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3024\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  1 x  1\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-17 {Roland Melkert} Initial info for 3024.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0]\n"
+        },
+        "3031": {
+          "width": 4,
+          "depth": 4,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "e67436538e47cb38b8352e91c2b5b7c7c274e070912603e5e9fc0b4513962338",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3031\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Plate  4 x  4\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-19 {Roland Melkert} Initial info for 3031.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 4 C 4 20 20]\n"
+        },
+        "3070b": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": false,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "c7608c7e9f40c61747fb46c7107ef141b0a441e381768d2cdac0129f8ad03752",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=3070\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Tile  1 x  1 with Groove\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2014-02-08 {Roland Melkert} Initial info for 3070b.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 4] [pos=0 8 0]\n"
+        },
+        "3710": {
+          "width": 4,
+          "depth": 1,
+          "height": 8,
+          "studs": true,
+          "colors": [
+            47
+          ],
+          "part_sha256": "1a2d17e3e35750ccf02a54c7aee0cf7485c1c8596492746fc798d341399a3a6e",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=3710",
+          "shadow": "Finite ordinary stud-grid profile: top male Y=0, underside female Y=8; 20-LDU centered grid, body dimensions from official part and resolved primitives. "
+        },
+        "87087": {
+          "width": 1,
+          "depth": 1,
+          "height": 24,
+          "studs": true,
+          "colors": [
+            0,
+            4,
+            14,
+            15,
+            19,
+            70
+          ],
+          "part_sha256": "0d170f4222bc555c4c0f85de872f3481715d4e2557a0359448d95352df1b2ac9",
+          "manufactured_evidence": "https://www.bricklink.com/catalogColors.asp?itemNo=87087\u0026itemType=P",
+          "shadow": "0 LDCad shadow info for \"Brick  1 x  1 with Stud on 1 Side\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-15 {Roland Melkert} Initial info for 87087.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=S 6 20] [pos=0 24 0]\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 4 20] [pos=0 10 -14] [ori=1 0 0 0 0 1 0 -1 0]\n"
+        },
+        "98138": {
+          "width": 1,
+          "depth": 1,
+          "height": 8,
+          "studs": false,
+          "colors": [
+            322
+          ],
+          "part_sha256": "1d506f39ea2bf69757206009498025381bbf28d9fa0b79385a30f4c5fa37f111",
+          "manufactured_evidence": "tools/catalog-witnesses.md; https://www.bricklink.com/v2/catalog/catalogitem.page?P=98138",
+          "shadow": "Finite underside-only socket Y=8; no top studs; conservative 20 x 8 x 20 LDU square body."
+        }
+      },
+      "static_pose": "Exact proper orthogonal poses; conservative body and stud/socket profiles",
+      "render_support": "unverified: no archive resolved",
+      "default_import_limits": {
+        "bytes": 131072,
+        "definitions": 64,
+        "depth": 16,
+        "occurrences": 500,
+        "coordinate": 100000,
+        "deadline_ms": 2000
+      }
+    },
+    "total": 4,
+    "geometry_supported": 0,
+    "manufactured_color_witnessed": 0,
+    "findings": [
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/1/1/1"
+        ],
+        "message": "No reviewed conservative body profile for 15712",
+        "sources": [
+          {
+            "id": "o/1/1/1",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-ring-left.ldr"
+              },
+              {
+                "definition": "assembly-ring-left.ldr",
+                "line": 15,
+                "reference": "assembly-ring-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-left-unit.ldr",
+                "line": 22,
+                "reference": "15712.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/1/1/1"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/1/1/1",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-ring-left.ldr"
+              },
+              {
+                "definition": "assembly-ring-left.ldr",
+                "line": 15,
+                "reference": "assembly-ring-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-left-unit.ldr",
+                "line": 22,
+                "reference": "15712.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/1/1/2"
+        ],
+        "message": "No reviewed conservative body profile for 30340",
+        "sources": [
+          {
+            "id": "o/1/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-ring-left.ldr"
+              },
+              {
+                "definition": "assembly-ring-left.ldr",
+                "line": 15,
+                "reference": "assembly-ring-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-left-unit.ldr",
+                "line": 26,
+                "reference": "30340.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/1/1/2"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/1/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-ring-left.ldr"
+              },
+              {
+                "definition": "assembly-ring-left.ldr",
+                "line": 15,
+                "reference": "assembly-ring-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-left-unit.ldr",
+                "line": 26,
+                "reference": "30340.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/2/1/1"
+        ],
+        "message": "No reviewed conservative body profile for 15712",
+        "sources": [
+          {
+            "id": "o/2/1/1",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-ring-right.ldr"
+              },
+              {
+                "definition": "assembly-ring-right.ldr",
+                "line": 32,
+                "reference": "assembly-ring-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-right-unit.ldr",
+                "line": 39,
+                "reference": "15712.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/2/1/1"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/2/1/1",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-ring-right.ldr"
+              },
+              {
+                "definition": "assembly-ring-right.ldr",
+                "line": 32,
+                "reference": "assembly-ring-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-right-unit.ldr",
+                "line": 39,
+                "reference": "15712.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/profile",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative bodies",
+        "occurrences": [
+          "o/2/1/2"
+        ],
+        "message": "No reviewed conservative body profile for 30340",
+        "sources": [
+          {
+            "id": "o/2/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-ring-right.ldr"
+              },
+              {
+                "definition": "assembly-ring-right.ldr",
+                "line": 32,
+                "reference": "assembly-ring-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-right-unit.ldr",
+                "line": 43,
+                "reference": "30340.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/manufactured-color",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "manufacturing",
+        "occurrences": [
+          "o/2/1/2"
+        ],
+        "message": "Part/color combination lacks reviewed manufacture evidence",
+        "sources": [
+          {
+            "id": "o/2/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-ring-right.ldr"
+              },
+              {
+                "definition": "assembly-ring-right.ldr",
+                "line": 32,
+                "reference": "assembly-ring-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-right-unit.ldr",
+                "line": 43,
+                "reference": "30340.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/admission",
+        "status": "pass",
+        "severity": "info",
+        "scope": "input",
+        "occurrences": null,
+        "message": "Finite proper rigid assembly; admission is not construction approval",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/pairs",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "conservative body pairs",
+        "occurrences": [
+          "o/1/1/1",
+          "o/1/1/2",
+          "o/2/1/1",
+          "o/2/1/2"
+        ],
+        "message": "Body-pair checks not evaluated for pairs involving these occurrences",
+        "sources": [
+          {
+            "id": "o/1/1/1",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-ring-left.ldr"
+              },
+              {
+                "definition": "assembly-ring-left.ldr",
+                "line": 15,
+                "reference": "assembly-ring-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-left-unit.ldr",
+                "line": 22,
+                "reference": "15712.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/1/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-ring-left.ldr"
+              },
+              {
+                "definition": "assembly-ring-left.ldr",
+                "line": 15,
+                "reference": "assembly-ring-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-left-unit.ldr",
+                "line": 26,
+                "reference": "30340.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/1",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-ring-right.ldr"
+              },
+              {
+                "definition": "assembly-ring-right.ldr",
+                "line": 32,
+                "reference": "assembly-ring-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-right-unit.ldr",
+                "line": 39,
+                "reference": "15712.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-ring-right.ldr"
+              },
+              {
+                "definition": "assembly-ring-right.ldr",
+                "line": 32,
+                "reference": "assembly-ring-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-right-unit.ldr",
+                "line": 43,
+                "reference": "30340.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/connections",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "local-profile connector graph",
+        "occurrences": [
+          "o/1/1/1",
+          "o/1/1/2",
+          "o/2/1/1",
+          "o/2/1/2"
+        ],
+        "message": "Local-profile graph covers reviewed-profile occurrences only; shared-catalog graphs are reported separately when requested",
+        "sources": [
+          {
+            "id": "o/1/1/1",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-ring-left.ldr"
+              },
+              {
+                "definition": "assembly-ring-left.ldr",
+                "line": 15,
+                "reference": "assembly-ring-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-left-unit.ldr",
+                "line": 22,
+                "reference": "15712.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/1/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 5,
+                "reference": "assembly-ring-left.ldr"
+              },
+              {
+                "definition": "assembly-ring-left.ldr",
+                "line": 15,
+                "reference": "assembly-ring-left-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-left-unit.ldr",
+                "line": 26,
+                "reference": "30340.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/1",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-ring-right.ldr"
+              },
+              {
+                "definition": "assembly-ring-right.ldr",
+                "line": 32,
+                "reference": "assembly-ring-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-right-unit.ldr",
+                "line": 39,
+                "reference": "15712.dat"
+              }
+            ]
+          },
+          {
+            "id": "o/2/1/2",
+            "path": [
+              {
+                "definition": "clkao-house.ldr",
+                "line": 8,
+                "reference": "assembly-ring-right.ldr"
+              },
+              {
+                "definition": "assembly-ring-right.ldr",
+                "line": 32,
+                "reference": "assembly-ring-right-unit.ldr"
+              },
+              {
+                "definition": "assembly-ring-right-unit.ldr",
+                "line": 43,
+                "reference": "30340.dat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "code": "inspect-1/constraints",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "declared constraints",
+        "occurrences": null,
+        "message": "None supplied; no grounding claim",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/render",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "render geometry/material",
+        "occurrences": null,
+        "message": "Unverified until selected archive geometry and colors are resolved",
+        "sources": []
+      },
+      {
+        "code": "inspect-1/insertion",
+        "status": "unsupported",
+        "severity": "warning",
+        "scope": "ordering",
+        "occurrences": null,
+        "message": "Plan required; no insertion or ordering evidence",
+        "sources": []
+      }
+    ],
+    "connections": [],
+    "observed_components": [],
+    "unresolved": [
+      "o/1/1/1",
+      "o/1/1/2",
+      "o/2/1/1",
+      "o/2/1/2"
+    ],
+    "supported_body_bounds": null,
+    "required_failure": false,
+    "limits": [
+      "Conservative rectangular bodies exclude stud/socket engagement; 0.001 LDU contact tolerance.",
+      "Fine mesh interference, grip, stiffness, tipping and physical strength untested.",
+      "Supported body bounds are not complete render bounds."
+    ]
+  },
+  "instruction_frames": {
+    "copy_state": {
+      "legacy-op-185": {
+        "completed": [],
+        "consumed": [],
+        "retained": []
+      },
+      "legacy-op-186": {
+        "completed": [
+          "rings-1",
+          "rings-2"
+        ],
+        "consumed": [],
+        "retained": [
+          "rings-1",
+          "rings-2"
+        ]
+      },
+      "legacy-op-187": {
+        "completed": [
+          "rings-1",
+          "rings-2"
+        ],
+        "consumed": [
+          "rings-1"
+        ],
+        "retained": [
+          "rings-2"
+        ]
+      },
+      "legacy-op-190": {
+        "completed": [
+          "rings-1",
+          "rings-2"
+        ],
+        "consumed": [
+          "rings-1",
+          "rings-2"
+        ],
+        "retained": []
+      }
+    },
+    "display_order": [
+      {
+        "kind": "assembly",
+        "id": "legacy-op-185"
+      },
+      {
+        "kind": "assembly",
+        "id": "legacy-op-186"
+      },
+      {
+        "kind": "assembly",
+        "id": "legacy-op-187"
+      },
+      {
+        "kind": "assembly",
+        "id": "legacy-op-190"
+      }
+    ],
+    "step_guidance": {
+      "legacy-op-185": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit"
+      },
+      "legacy-op-186": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit"
+      },
+      "legacy-op-187": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit"
+      },
+      "legacy-op-190": {
+        "placement_hint": "omit",
+        "pdf_main": [
+          "installed"
+        ],
+        "pdf_parent_context": "omit"
+      }
+    },
+    "schema": "studfleet/instruction-frames-1",
+    "revision": "6a17862253609688dcafd921307f4ce7d78e8a815909413401e9d0eb6aa6228f",
+    "steps": [
+      {
+        "inventory": [
+          {
+            "part": "15712",
+            "color": 15,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-185",
+        "unit": "rings",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-185"
+        ],
+        "new": [
+          "p1"
+        ],
+        "cumulative": [
+          "p1"
+        ],
+        "operations": [
+          {
+            "id": "legacy-op-185",
+            "introduce": [
+              "p1"
+            ],
+            "join": "",
+            "depends": [],
+            "direction": [
+              0,
+              0,
+              0
+            ],
+            "distance": 0,
+            "seed": true,
+            "caption": "Life-ring mount",
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "rings-1",
+            "transform": [
+              [
+                0,
+                0,
+                -1,
+                80
+              ],
+              [
+                1,
+                0,
+                0,
+                -196.3750672
+              ],
+              [
+                0,
+                -1,
+                0,
+                4
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2"
+            }
+          },
+          {
+            "id": "rings-2",
+            "transform": [
+              [
+                0,
+                0,
+                -1,
+                80
+              ],
+              [
+                -1,
+                0,
+                0,
+                -196.3750672
+              ],
+              [
+                0,
+                1,
+                0,
+                156
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "30340",
+            "color": 4,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-186",
+        "unit": "rings",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-186"
+        ],
+        "new": [
+          "p2"
+        ],
+        "cumulative": [
+          "p1",
+          "p2"
+        ],
+        "operations": [
+          {
+            "caption": "Fit the red life ring",
+            "depends": [
+              "legacy-op-185"
+            ],
+            "id": "legacy-op-186",
+            "introduce": [
+              "p2"
+            ],
+            "join": "",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": [
+          {
+            "id": "rings-1",
+            "transform": [
+              [
+                0,
+                0,
+                -1,
+                80
+              ],
+              [
+                1,
+                0,
+                0,
+                -196.3750672
+              ],
+              [
+                0,
+                -1,
+                0,
+                4
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/1/1/1",
+              "p2": "o/1/1/2"
+            }
+          },
+          {
+            "id": "rings-2",
+            "transform": [
+              [
+                0,
+                0,
+                -1,
+                80
+              ],
+              [
+                -1,
+                0,
+                0,
+                -196.3750672
+              ],
+              [
+                0,
+                1,
+                0,
+                156
+              ],
+              [
+                0,
+                0,
+                0,
+                1
+              ]
+            ],
+            "occurrences": {
+              "p1": "o/2/1/1",
+              "p2": "o/2/1/2"
+            }
+          }
+        ]
+      },
+      {
+        "inventory": [
+          {
+            "part": "15712",
+            "color": 15,
+            "quantity": 1
+          },
+          {
+            "part": "30340",
+            "color": 4,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-187",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-187"
+        ],
+        "new": [
+          "o/1/1/1",
+          "o/1/1/2"
+        ],
+        "cumulative": [
+          "o/1/1/1",
+          "o/1/1/2"
+        ],
+        "operations": [
+          {
+            "caption": "Place completed ring 1 of 2. Isolated specimen; vehicle support omitted.",
+            "depends": [],
+            "id": "legacy-op-187",
+            "introduce": null,
+            "join": "rings-1",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      },
+      {
+        "inventory": [
+          {
+            "part": "15712",
+            "color": 15,
+            "quantity": 1
+          },
+          {
+            "part": "30340",
+            "color": 4,
+            "quantity": 1
+          }
+        ],
+        "id": "legacy-op-190",
+        "unit": "",
+        "kind": "ordered",
+        "source_operations": [
+          "legacy-op-190"
+        ],
+        "new": [
+          "o/2/1/1",
+          "o/2/1/2"
+        ],
+        "cumulative": [
+          "o/1/1/1",
+          "o/1/1/2",
+          "o/2/1/1",
+          "o/2/1/2"
+        ],
+        "operations": [
+          {
+            "caption": "Place completed ring 2 of 2. Isolated specimen; vehicle support omitted.",
+            "depends": [
+              "legacy-op-187"
+            ],
+            "id": "legacy-op-190",
+            "introduce": null,
+            "join": "rings-2",
+            "movement": "unknown",
+            "seed": false,
+            "view": [
+              0,
+              0,
+              0
+            ]
+          }
+        ],
+        "copies": null
+      }
+    ],
+    "sources": {
+      "legacy-op-185": [
+        {
+          "id": "legacy-op-185",
+          "sha256": "a3a83deefea56a83db4dc18d70a270a0f75277bb48eff5729c18fc8b732d2ad4"
+        }
+      ],
+      "legacy-op-186": [
+        {
+          "id": "legacy-op-186",
+          "sha256": "6894c0458399e781051376d5e39ca83beac3a72616d12ad00e65be3c252cd974"
+        }
+      ],
+      "legacy-op-187": [
+        {
+          "id": "legacy-op-187",
+          "sha256": "bdd4be0abc66d261d88bcc311a6978d2cf11b3d006df6727083403b8cef415cb"
+        }
+      ],
+      "legacy-op-190": [
+        {
+          "id": "legacy-op-190",
+          "sha256": "6517a167ad3a413248d807318cde92c10f62afe8db9652de60e52fdd0574c849"
+        }
+      ]
+    },
+    "compositions": {},
+    "views": {}
+  },
+  "inventory_csv": "revision,part,ldraw_color,quantity\n6a17862253609688dcafd921307f4ce7d78e8a815909413401e9d0eb6aa6228f,15712,15,2\n6a17862253609688dcafd921307f4ce7d78e8a815909413401e9d0eb6aa6228f,30340,4,2\n",
+  "status": {
+    "schema": "studfleet/draft-status-1",
+    "classification": "draft",
+    "label": "Draft — construction unverified",
+    "revision": "6a17862253609688dcafd921307f4ce7d78e8a815909413401e9d0eb6aa6228f",
+    "structural_validity": true,
+    "construction": "unverified",
+    "rendering": "not requested: check-only",
+    "total_occurrences": 4,
+    "inspection_sha256": "5b0e25f1015b267067680fe996b7e991dc9c1434a8a7960b9cd88d100e27455d",
+    "limits": [
+      "Body profiles cover 0/4 occurrences; required static findings present: false. upstream connector analysis not requested.",
+      "Insertion not checked; arrows are authored placement suggestions.",
+      "Physical strength and stability untested.",
+      "Static body/profile gaps and known findings are recorded in inspection.json; metadata contacts do not certify construction."
+    ]
+  }
+}

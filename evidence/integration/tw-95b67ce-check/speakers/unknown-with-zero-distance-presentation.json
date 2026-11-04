@@ -1,0 +1,61 @@
+{
+  "schema": "studfleet/presentation-1",
+  "plan_sha256": "acc7674ba1f934336090e20692c22669e6ad7bb0fe2918dc1c52ca4e8b6d1714",
+  "required_capabilities": [
+    "authored-operation-details",
+    "local-recipe-compositions",
+    "builder-step-guidance",
+    "placement-hint-omission",
+    "recipe-scheduling"
+  ],
+  "step_guidance": {
+    "legacy-op-165": {
+      "placement_hint": "omit",
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit"
+    },
+    "legacy-op-166": {
+      "placement_hint": "omit",
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit"
+    },
+    "legacy-op-167": {
+      "placement_hint": "omit",
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit"
+    },
+    "legacy-op-168": {
+      "placement_hint": "omit",
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit"
+    },
+    "legacy-op-169": {
+      "placement_hint": "omit",
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit"
+    },
+    "legacy-op-174": {
+      "placement_hint": "omit",
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit"
+    }
+  },
+  "recipe_schedule": [
+    {
+      "unit": "speakers",
+      "before_step": "legacy-op-169"
+    }
+  ]
+}

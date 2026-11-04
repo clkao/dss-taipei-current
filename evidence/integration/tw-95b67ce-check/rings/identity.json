@@ -1,0 +1,140 @@
+{
+  "occurrences": [
+    {
+      "piece_id": 268,
+      "instance_id": "15b14c71-f623-5b64-a425-08a63ef5ddad",
+      "occurrence_id": "o/8/1/1",
+      "module": "ring-left",
+      "part": "15712",
+      "color": 15,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 26,
+          "reference": "assembly-ring-left.ldr"
+        },
+        {
+          "definition": "assembly-ring-left.ldr",
+          "line": 166,
+          "reference": "assembly-ring-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-left-unit.ldr",
+          "line": 173,
+          "reference": "15712.dat"
+        }
+      ],
+      "reduced_occurrence_id": "o/1/1/1",
+      "exact_part_color_world_matrix": true
+    },
+    {
+      "piece_id": 269,
+      "instance_id": "ea0d63d1-5dda-5b5e-9270-268763358576",
+      "occurrence_id": "o/8/1/2",
+      "module": "ring-left",
+      "part": "30340",
+      "color": 4,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 26,
+          "reference": "assembly-ring-left.ldr"
+        },
+        {
+          "definition": "assembly-ring-left.ldr",
+          "line": 166,
+          "reference": "assembly-ring-left-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-left-unit.ldr",
+          "line": 177,
+          "reference": "30340.dat"
+        }
+      ],
+      "reduced_occurrence_id": "o/1/1/2",
+      "exact_part_color_world_matrix": true
+    },
+    {
+      "piece_id": 270,
+      "instance_id": "234788fc-5452-572c-8595-82d92902a15c",
+      "occurrence_id": "o/9/1/1",
+      "module": "ring-right",
+      "part": "15712",
+      "color": 15,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 29,
+          "reference": "assembly-ring-right.ldr"
+        },
+        {
+          "definition": "assembly-ring-right.ldr",
+          "line": 183,
+          "reference": "assembly-ring-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-right-unit.ldr",
+          "line": 190,
+          "reference": "15712.dat"
+        }
+      ],
+      "reduced_occurrence_id": "o/2/1/1",
+      "exact_part_color_world_matrix": true
+    },
+    {
+      "piece_id": 271,
+      "instance_id": "e38ed6d8-cc57-51f9-ac67-c40f0b334427",
+      "occurrence_id": "o/9/1/2",
+      "module": "ring-right",
+      "part": "30340",
+      "color": 4,
+      "source_path": [
+        {
+          "definition": "clkao-house.ldr",
+          "line": 29,
+          "reference": "assembly-ring-right.ldr"
+        },
+        {
+          "definition": "assembly-ring-right.ldr",
+          "line": 183,
+          "reference": "assembly-ring-right-unit.ldr"
+        },
+        {
+          "definition": "assembly-ring-right-unit.ldr",
+          "line": 194,
+          "reference": "30340.dat"
+        }
+      ],
+      "reduced_occurrence_id": "o/2/1/2",
+      "exact_part_color_world_matrix": true
+    }
+  ],
+  "copies": [
+    {
+      "copy": "rings-1",
+      "legacy_build_operations": [
+        185,
+        186
+      ],
+      "legacy_join": 187,
+      "piece_ids": [
+        268,
+        269
+      ]
+    },
+    {
+      "copy": "rings-2",
+      "legacy_build_operations": [
+        188,
+        189
+      ],
+      "legacy_join": 190,
+      "piece_ids": [
+        270,
+        271
+      ]
+    }
+  ],
+  "copy_local_frame": "Exact first-member installed matrix for each copy. No assembly pose changed.",
+  "semantic_scope": "One repeated 2x local recipe followed by exact copy uses, matching retained reader intent. Isolated placement, no support context or physical path claim."
+}

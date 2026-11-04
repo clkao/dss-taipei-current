@@ -1,0 +1,20 @@
+{
+  "name": "missing-omission",
+  "argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints/builds/placement-hint-implementation/studfleet",
+    "draft",
+    "--assembly",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/tw-95b67ce-check/rings/intake/assembly.json",
+    "--provenance",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/tw-95b67ce-check/rings/intake/import-report.json",
+    "--plan",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/tw-95b67ce-check/rings/missing-omission-plan.json",
+    "--presentation",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/tw-95b67ce-check/rings/missing-omission-presentation.json",
+    "--check-only"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints",
+  "exit_code": 1,
+  "stdout": "",
+  "stderr": "studfleet: presentation.json placement_hint: step legacy-op-186: unknown movement requires explicit installed omission\n"
+}

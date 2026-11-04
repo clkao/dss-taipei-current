@@ -1,0 +1,275 @@
+{
+  "candidate": "95b67ce1177afbe4323ed7fcb9da772f71d759b5",
+  "binary": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints/builds/placement-hint-implementation/studfleet",
+  "binary_sha256": "ba331fec26dea7351a89a8fc52fe295f164a34ebc169fe5a62af444bc09bdc22",
+  "results": {
+    "speakers": {
+      "exit_code": 0,
+      "occurrences": 12,
+      "all_source_part_color_world_matrices_equal": true,
+      "all_occurrences_in_compiled_provenance": true,
+      "local_recipe_frames": 4,
+      "per_copy_recipe_inventory_quantity": 6,
+      "copies": 2,
+      "copy_state": {
+        "legacy-op-165": {
+          "completed": [],
+          "consumed": [],
+          "retained": []
+        },
+        "legacy-op-166": {
+          "completed": [],
+          "consumed": [],
+          "retained": []
+        },
+        "legacy-op-167": {
+          "completed": [],
+          "consumed": [],
+          "retained": []
+        },
+        "legacy-op-168": {
+          "completed": [
+            "speakers-1",
+            "speakers-2"
+          ],
+          "consumed": [],
+          "retained": [
+            "speakers-1",
+            "speakers-2"
+          ]
+        },
+        "legacy-op-169": {
+          "completed": [
+            "speakers-1",
+            "speakers-2"
+          ],
+          "consumed": [
+            "speakers-1"
+          ],
+          "retained": [
+            "speakers-2"
+          ]
+        },
+        "legacy-op-174": {
+          "completed": [
+            "speakers-1",
+            "speakers-2"
+          ],
+          "consumed": [
+            "speakers-1",
+            "speakers-2"
+          ],
+          "retained": []
+        }
+      },
+      "display_order": [
+        {
+          "kind": "assembly",
+          "id": "legacy-op-165"
+        },
+        {
+          "kind": "assembly",
+          "id": "legacy-op-166"
+        },
+        {
+          "kind": "assembly",
+          "id": "legacy-op-167"
+        },
+        {
+          "kind": "assembly",
+          "id": "legacy-op-168"
+        },
+        {
+          "kind": "assembly",
+          "id": "legacy-op-169"
+        },
+        {
+          "kind": "assembly",
+          "id": "legacy-op-174"
+        }
+      ],
+      "all_step_omission_and_installed_intent": true,
+      "unknown_movement_direction_distance_absent": true,
+      "status": {
+        "schema": "studfleet/draft-status-1",
+        "classification": "draft",
+        "label": "Draft — construction unverified",
+        "revision": "f26a16c8b550e48a9d28639d34a94bacaf6efebb7ff9a0111739fd26adcdd83b",
+        "structural_validity": true,
+        "construction": "unverified",
+        "rendering": "not requested: check-only",
+        "total_occurrences": 12,
+        "inspection_sha256": "e2bfdeca0dc93c35589cac9aa27dd42497ef817b09086ca1e88d4017dd9fb178",
+        "limits": [
+          "Body profiles cover 2/12 occurrences; required static findings present: false. upstream connector analysis not requested.",
+          "Insertion not checked; arrows are authored placement suggestions.",
+          "Physical strength and stability untested.",
+          "Static body/profile gaps and known findings are recorded in inspection.json; metadata contacts do not certify construction."
+        ]
+      },
+      "identity_hashes": {
+        "intake/source.mpd": "938027ec9ed24310e1431005fdf402387fdfe226b6739a75784cbd5a532de353",
+        "intake/assembly.json": "b0f10112d9d023a456659c7deede00d2dbc2e50ef57c00475229273efcf5dccb",
+        "intake/import-report.json": "bb7bc8bd78275a40dc42f6b2c2e5c39c59e89911186cd759019e820eada4946b",
+        "plan.json": "288136ebd456bd913fb346df6847e11bb1abe0391fa73e2e57fdaa73a0de76c1",
+        "presentation.json": "8227ef76e46f8df863cc7c9c8e3e16023cb472cad01e18f3f8ce2756ea55db79",
+        "identity.json": "0d2a868ea921d2f0445a9b9cbecc1a042ab3e0bf878b2be072be5b61512ddba4",
+        "check.stdout.json": "c7a6bcdf201b0dd23f0ad44dad944e1e80a37767c89959551f723ad5988fc094"
+      },
+      "negative_controls": [
+        {
+          "name": "missing-omission",
+          "exit_code": 1,
+          "stderr": "studfleet: presentation.json placement_hint: step legacy-op-166: unknown movement requires explicit installed omission\n"
+        },
+        {
+          "name": "unknown-with-zero-distance",
+          "exit_code": 1,
+          "stderr": "studfleet: plan: operation legacy-op-166: unknown movement must omit direction and distance\n"
+        }
+      ]
+    },
+    "rings": {
+      "exit_code": 0,
+      "occurrences": 4,
+      "all_source_part_color_world_matrices_equal": true,
+      "all_occurrences_in_compiled_provenance": true,
+      "local_recipe_frames": 2,
+      "per_copy_recipe_inventory_quantity": 2,
+      "copies": 2,
+      "copy_state": {
+        "legacy-op-185": {
+          "completed": [],
+          "consumed": [],
+          "retained": []
+        },
+        "legacy-op-186": {
+          "completed": [
+            "rings-1",
+            "rings-2"
+          ],
+          "consumed": [],
+          "retained": [
+            "rings-1",
+            "rings-2"
+          ]
+        },
+        "legacy-op-187": {
+          "completed": [
+            "rings-1",
+            "rings-2"
+          ],
+          "consumed": [
+            "rings-1"
+          ],
+          "retained": [
+            "rings-2"
+          ]
+        },
+        "legacy-op-190": {
+          "completed": [
+            "rings-1",
+            "rings-2"
+          ],
+          "consumed": [
+            "rings-1",
+            "rings-2"
+          ],
+          "retained": []
+        }
+      },
+      "display_order": [
+        {
+          "kind": "assembly",
+          "id": "legacy-op-185"
+        },
+        {
+          "kind": "assembly",
+          "id": "legacy-op-186"
+        },
+        {
+          "kind": "assembly",
+          "id": "legacy-op-187"
+        },
+        {
+          "kind": "assembly",
+          "id": "legacy-op-190"
+        }
+      ],
+      "all_step_omission_and_installed_intent": true,
+      "unknown_movement_direction_distance_absent": true,
+      "status": {
+        "schema": "studfleet/draft-status-1",
+        "classification": "draft",
+        "label": "Draft — construction unverified",
+        "revision": "6a17862253609688dcafd921307f4ce7d78e8a815909413401e9d0eb6aa6228f",
+        "structural_validity": true,
+        "construction": "unverified",
+        "rendering": "not requested: check-only",
+        "total_occurrences": 4,
+        "inspection_sha256": "5b0e25f1015b267067680fe996b7e991dc9c1434a8a7960b9cd88d100e27455d",
+        "limits": [
+          "Body profiles cover 0/4 occurrences; required static findings present: false. upstream connector analysis not requested.",
+          "Insertion not checked; arrows are authored placement suggestions.",
+          "Physical strength and stability untested.",
+          "Static body/profile gaps and known findings are recorded in inspection.json; metadata contacts do not certify construction."
+        ]
+      },
+      "identity_hashes": {
+        "intake/source.mpd": "1cdd759d251897a8cb2173ff30df519665d898cb961f8d9290834d6b1356beaa",
+        "intake/assembly.json": "c1a12498d0f95fb7905a98b1b7331d5edda0ce98330d80cf76b6f9f97007d8b2",
+        "intake/import-report.json": "6f8f604519c9182d0815967e1124b02c23e5080af32efdfc0ff70b03e0c599ec",
+        "plan.json": "f99c41bb4d4db2a0ae787326d64c3636f3f4f9598bf584d02f41ba3eed3aab54",
+        "presentation.json": "da266cb6ed327328025af7f4d022fdb1c473c179671405b7b645aded68a475e5",
+        "identity.json": "77f420f4ea64a9996fa6c8e54a9b49fb2df7ff81d44a40ca6fda4b4aa0ceb49c",
+        "check.stdout.json": "77090352ba464357b39f747e0fe560d82f295fd4924b1d5b9850f5a6b240aae1"
+      },
+      "negative_controls": [
+        {
+          "name": "missing-omission",
+          "exit_code": 1,
+          "stderr": "studfleet: presentation.json placement_hint: step legacy-op-186: unknown movement requires explicit installed omission\n"
+        },
+        {
+          "name": "unknown-with-zero-distance",
+          "exit_code": 1,
+          "stderr": "studfleet: plan: operation legacy-op-186: unknown movement must omit direction and distance\n"
+        }
+      ]
+    }
+  },
+  "scope": [
+    "Same-binary fresh imports and public draft --check-only only. No rendering, no browser, no shared-tool writes.",
+    "Recipe schedule is accepted at the first main join. This does not distinguish scheduled behavior from default preparation or prove relocation after an earlier main step.",
+    "Copies become available together after one complete 2x recipe, then each join consumes its exact copy.",
+    "Reduced assemblies omit vehicle support context. No physical placement, connector coverage, complete manual or publication parity claim."
+  ],
+  "findings": [
+    {
+      "owner": "DSS input author",
+      "classification": "resolved authoring refusal",
+      "detail": "Initial presentation omitted mandatory authored-operation-details/local-recipe-compositions capabilities. Exact refused inputs and commands retained. Added only those capabilities; no product/source repair."
+    },
+    {
+      "owner": "StudFleet draft-status presentation",
+      "classification": "nonblocking wording observation",
+      "detail": "Check-only status still says arrows are authored placement suggestions although every displayed step requests omission. No rendered effect inspected. Construction remains explicitly unverified."
+    },
+    {
+      "owner": "DSS integration",
+      "classification": "remaining evidence",
+      "detail": "Actual PDF and viewer omission/readability and complete tray/copy rendering await an explicit render lease."
+    }
+  ],
+  "resources": {
+    "output_bytes": 208273,
+    "free_bytes": 4346322944,
+    "ceiling_bytes": 157286400,
+    "free_floor_bytes": 536870912
+  },
+  "retention": {
+    "original_run_directory": "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/tw-95b67ce-check",
+    "retained_directory": "/Users/clkao/git/spacedock-research/dss-taipei-current/evidence/integration/tw-95b67ce-check",
+    "note": "Files copied byte-for-byte after the no-render lease. Recorded commands retain original run paths."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema": "studfleet/presentation-1",
+  "plan_sha256": "f99c41bb4d4db2a0ae787326d64c3636f3f4f9598bf584d02f41ba3eed3aab54",
+  "required_capabilities": [
+    "builder-step-guidance",
+    "placement-hint-omission",
+    "recipe-scheduling"
+  ],
+  "step_guidance": {
+    "legacy-op-185": {
+      "placement_hint": "omit",
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit"
+    },
+    "legacy-op-186": {
+      "placement_hint": "omit",
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit"
+    },
+    "legacy-op-187": {
+      "placement_hint": "omit",
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit"
+    },
+    "legacy-op-190": {
+      "placement_hint": "omit",
+      "pdf_main": [
+        "installed"
+      ],
+      "pdf_parent_context": "omit"
+    }
+  },
+  "recipe_schedule": [
+    {
+      "unit": "rings",
+      "before_step": "legacy-op-187"
+    }
+  ]
+}

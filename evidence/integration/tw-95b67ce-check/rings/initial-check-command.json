@@ -1,0 +1,22 @@
+{
+  "argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints/builds/placement-hint-implementation/studfleet",
+    "draft",
+    "--assembly",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/tw-95b67ce-check/rings/intake/assembly.json",
+    "--provenance",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/tw-95b67ce-check/rings/intake/import-report.json",
+    "--plan",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/tw-95b67ce-check/rings/plan.json",
+    "--presentation",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/tw-95b67ce-check/rings/presentation.json",
+    "--check-only"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints",
+  "exit_code": 1,
+  "elapsed_seconds": 0.009957041591405869,
+  "binary_sha256": "ba331fec26dea7351a89a8fc52fe295f164a34ebc169fe5a62af444bc09bdc22",
+  "assembly_sha256": "c1a12498d0f95fb7905a98b1b7331d5edda0ce98330d80cf76b6f9f97007d8b2",
+  "plan_sha256": "f99c41bb4d4db2a0ae787326d64c3636f3f4f9598bf584d02f41ba3eed3aab54",
+  "presentation_sha256": "7e72647545e906ccb457373eafddb3ab9a7872554e2a0b221b788abcbb19bd38"
+}

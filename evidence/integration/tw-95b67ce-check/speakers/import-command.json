@@ -1,0 +1,15 @@
+{
+  "argv": [
+    "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints/builds/placement-hint-implementation/studfleet",
+    "import-mpd",
+    "--input",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/evidence/integration/scheduler-410a7a2/speakers.mpd",
+    "--out",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/builds/tw-95b67ce-check/speakers/intake"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/studfleet/.worktrees/spacedock-ensign-show-installed-drafts-without-unverified-placement-hints",
+  "exit_code": 0,
+  "stdout": "",
+  "stderr": "",
+  "elapsed_seconds": 0.26178895868360996
+}

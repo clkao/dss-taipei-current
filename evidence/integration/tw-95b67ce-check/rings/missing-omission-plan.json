@@ -1,0 +1,136 @@
+{
+  "schema": "studfleet/plan-1",
+  "assembly_sha256": "c1a12498d0f95fb7905a98b1b7331d5edda0ce98330d80cf76b6f9f97007d8b2",
+  "units": [
+    {
+      "id": "rings",
+      "copies": [
+        {
+          "id": "rings-1",
+          "transform": [
+            [
+              0,
+              0,
+              -1,
+              80
+            ],
+            [
+              1,
+              0,
+              0,
+              -196.3750672
+            ],
+            [
+              0,
+              -1,
+              0,
+              4
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "occurrences": {
+            "p1": "o/1/1/1",
+            "p2": "o/1/1/2"
+          }
+        },
+        {
+          "id": "rings-2",
+          "transform": [
+            [
+              0,
+              0,
+              -1,
+              80
+            ],
+            [
+              -1,
+              0,
+              0,
+              -196.3750672
+            ],
+            [
+              0,
+              1,
+              0,
+              156
+            ],
+            [
+              0,
+              0,
+              0,
+              1
+            ]
+          ],
+          "occurrences": {
+            "p1": "o/2/1/1",
+            "p2": "o/2/1/2"
+          }
+        }
+      ],
+      "groups": [
+        {
+          "id": "rings-recipe",
+          "kind": "ordered",
+          "operations": [
+            {
+              "id": "legacy-op-185",
+              "introduce": [
+                "p1"
+              ],
+              "depends": [],
+              "seed": true,
+              "caption": "Life-ring mount",
+              "direction": [
+                0,
+                0,
+                0
+              ],
+              "distance": 0
+            },
+            {
+              "id": "legacy-op-186",
+              "introduce": [
+                "p2"
+              ],
+              "depends": [
+                "legacy-op-185"
+              ],
+              "seed": false,
+              "caption": "Fit the red life ring",
+              "movement": "unknown"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "rings-placements",
+      "kind": "ordered",
+      "operations": [
+        {
+          "id": "legacy-op-187",
+          "join": "rings-1",
+          "depends": [],
+          "movement": "unknown",
+          "caption": "Place completed ring 1 of 2. Isolated specimen; vehicle support omitted."
+        },
+        {
+          "id": "legacy-op-190",
+          "join": "rings-2",
+          "depends": [
+            "legacy-op-187"
+          ],
+          "movement": "unknown",
+          "caption": "Place completed ring 2 of 2. Isolated specimen; vehicle support omitted."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "schema": "studfleet/assembly-1",
+  "candidate": "import-1cdd759d251897a8cb2173ff30df519665d898cb961f8d9290834d6b1356beaa",
+  "attribution": "Imported MPD; original comments and authorship retained in source.mpd. Import identity is not an accepted design.",
+  "instances": [
+    {
+      "id": "o/1/1/1",
+      "part": "15712",
+      "color": 15,
+      "module": "",
+      "matrix": [
+        [
+          0,
+          0,
+          -1,
+          80
+        ],
+        [
+          1,
+          0,
+          0,
+          -196.3750672
+        ],
+        [
+          0,
+          -1,
+          0,
+          4
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "o/1/1/2",
+      "part": "30340",
+      "color": 4,
+      "module": "",
+      "matrix": [
+        [
+          0,
+          0,
+          -1,
+          80
+        ],
+        [
+          1,
+          0,
+          0,
+          -196.3750672
+        ],
+        [
+          0,
+          -1,
+          0,
+          -4
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "o/2/1/1",
+      "part": "15712",
+      "color": 15,
+      "module": "",
+      "matrix": [
+        [
+          0,
+          0,
+          -1,
+          80
+        ],
+        [
+          -1,
+          0,
+          0,
+          -196.3750672
+        ],
+        [
+          0,
+          1,
+          0,
+          156
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "o/2/1/2",
+      "part": "30340",
+      "color": 4,
+      "module": "",
+      "matrix": [
+        [
+          0,
+          0,
+          -1,
+          80
+        ],
+        [
+          -1,
+          0,
+          0,
+          -196.3750672
+        ],
+        [
+          0,
+          1,
+          0,
+          164
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ]
+    }
+  ],
+  "constraints": []
+}
