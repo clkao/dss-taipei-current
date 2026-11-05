@@ -478,3 +478,18 @@ PDFpreserve/generate/check exits0 with directwaits62764/62776/62958 and no remai
 ### Remaining scope and limits
 
 After authorized closure resolution, only unrun exact run-pdf.py e65c0989 --raster is needed (30s20MiB; pages3/4/5/128/129;576start/512floor). No browser/PDFregeneration needed. Then actualA4inspection, map-based package/referencebinding and sameindependentreview. No stage/gate advancement. NativeStudFleet adopted=false, physical insertion/strength and independentnativeUI remain unproven. Currentpublication unchanged. Authoring remains partial despite digital/source checks.
+
+## Stage Report: authoring (cycle 10 — affected A4 completion and package plan)
+
+- DONE for bound artifacts — Bind the exact four-piece diagram intent and source operations, with paired pin targets and unchanged model/order/stock. FrozenPDF6d02/map5aee/diagram69021 retain136pages/three authoritative operations/fourpieces/one2+2tray. No source/order/stock changes.
+- PARTIAL toward complete package — Prepare the smallest real hybrid PDF/viewer integration and honest producer/adoption record, preserving published R2 fixes and name-only credit. AllfiveactualA4pages3/4/5/128/129 inspected by author: page4 conciseheading/largeone-diagram/pairedreceiver rings/one2+2tray/no repeatedcaption; page5 continuespanel4/8; chapter/printguides readable. SixUIimages/settlednavigation evidence alreadypassed. No newmaterialfinding. Exact finalpackage/referencebinding still awaits planreview/execution; sameindependentreview remains separate.
+- DONE for remaining proposal/evidence — Return exact static commits/pins and a bounded affected-generation/review plan without heavy runtime or publication. Remaining-only grantb999c3f2 ran exactfivePoppler commands once; noPDF/browser/source retry. Evidence5857263 and AFFECTED-REVIEW-HANDOFF.md. Package source/plan6403051 prepared only: bind-package.pyd1d98ddbcac5b3c512086a4cb8848089a9148a8b5f82cafbe3afe155ab4c7794, PACKAGE-PLAN35a813e2; no packagewrite yet.
+
+### Raster and separate closure outcome
+
+AllfivePoppler exits0/explicitwait/no remainingPIDs71768/71786/71789/71792/71806.2.994s,peak876,052B,minfree7,724,638,208. PDF/map unchanged. Exactrasters: page00330f03569,page004d4585806,page005840a1760,page1286a374548,page129071c9b73; fullSHA/argv in raster-evidence/hybrid-raster-run.json.
+ONElater authorized birth/profile/listenercensus: noowned/profile/unknown/EPERM/listener; onebindfree. Onlyretainedownedce86b402profile/browsertempremoved; absent. Separate later-closure-resolution.json preservesoriginalsupervisor1/twoTIME_WAIT; no retroactivegreen. Allownedworkclosed; RELEASE promptlysent. Actualpageinspection addsauthorvisualevidence, notindependentreview/physicalproof.
+
+### Minimal package plan and limits
+
+Read-only audit: currentindex/viewer ownedregular; README/fullcheck/preflight/stickerZIP/provenance/manifest/releaseZIP absentnonlinks. ProposedonepinnedPythonbytepatch/hash/ZIP command <=30s60MiB,576start512floor; rootplanreview required beforeexecute. Strictwriteallowlist rejectslinks/unexpectedoutputs; oldHTMLretainedbyrename. PRINTING.txt rewrittenonlyinsidefreshownedZIP; nofilesystemextraction/write orchangededitableartbytes. Actualmap136/128129 driveslinks; exactscript/payload/handlers equal. Baselinepublication2105eb69bbc60228fe0eb5a49cd2242db0d0469a fromroot; planned29rootfilemap (28existing+diagram), Technic/unrelatedpreserved. Experimentalsharedasset+oneDSScomposer provenance, nativeadopted=false/sectionacceptancepending. No publication or gate/reviewadvance. Physical/nativeUI/full-edition limits remain.
