@@ -62,3 +62,28 @@ Use existing demonstrated local/manual/hybrid rendering and retained numbers-onl
 ## Review notes and limits
 
 Author in an isolated worktree and commit source/evidence locally. You are not alone: preserve peers' edits and all prior publication/evidence. Independent instruction-review and captain acceptance remain required before new delivery/publication. No automatic approval. Start with source reconciliation and the cheapest decisive views, then render only necessary new assets; reuse unchanged exact assets. Use bounded fresh disk/memory checks and preserve actual failures. Do not wait for or alter StudFleet metadata. Report three dispatch outcomes: source-bound correction decisions; clear rendered instruction candidate; exact validation/review handoff.
+
+
+## Stage Report: authoring
+
+- DONE: Reconcile and disposition all seven fresh reader findings against exact source, preserving model, stock, copies and dependency order.
+  Source commit `709069e`; `corrections/builder-clear-logical-steps/REVIEW-HANDOFF.md` maps each trigger, source operation, correction and limit. Both reported missing trays already existed and received clearer allocations.
+- DONE: Produce clear logical steps and decisive receiving/attachment diagrams, with no page-count target or oversized substep shortcuts.
+  The 80-page candidate separates suspension recipes/attachments and cabin operations, adds four-stack receiver details, numbered cord routing, figure foot detail and explicit completed-carrier references. `author-visual-review.json` records author inspection, not independent acceptance.
+- DONE: Deliver exact locally validated PDF/viewer package and source-bound before/after evidence for independent review, without publication or shared-tool changes.
+  Package: `.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/candidate`; handoff and exact manifest are committed with the source. PDF `db13a65349791ea4af2644df5cff26afd1a1bc29a218ec9f1df95983fca02956`; viewer `4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865`; ZIP `5c34b1d1783d4d67b12b0989431a0277a008f6356b530f952c9d8753cc0ea459`.
+
+### Evidence boundaries
+
+- Input/compilation: immutable model and plan hashes match the predecessor. Legacy/manual presentation remains explicit. No native StudFleet adoption claim.
+- Artifact verification: `validation.json` checks 348 unique introductions, all 215 operations, changed-step stock/operation correspondence, A4 dimensions, all 80 rasters and every ZIP member. Missing parts, duplicate ownership, changed operation assignments or changed package bytes fail these checks.
+- Equivalence: `reuse-check.json` compares 56 retained pages above the renumbered footer. Any artwork pixel change fails the exact comparison. Known-good wheel/riser, carrier recipe, life-ring and banner pages remain equivalent.
+- Visual/headless: all 24 changed pages received author image inspection. `final-browser-check.json` records 20 page selections, next/previous, 1400/390-pixel layouts and return from 3D inspection. Failed image loading, horizontal overflow, navigation errors or runtime exceptions fail the exercised checks.
+- Human acceptance: pending fresh independent instruction review and captain decision. No reader acceptance or publication authority is inferred.
+- Physical limits: source-position markers do not certify connectors or insertion. Figure stud engagement, wheel engagement, cord cut length/slack and knot type remain unverified or unspecified.
+- Runtime: default Node had a missing llhttp library; the declared Node 24 runtime succeeded. PyMuPDF was absent; ReportLab/pypdf/Poppler supplied the final process. Only task-owned closed Chrome profiles were removed. Final free disk was about 296 MiB; further rendering needs a fresh guard.
+- StudFleet gaps: unchanged. This round changes local instruction presentation and artifact evidence only. No shared tool was tested or modified; full-edition native parity remains open.
+
+### Summary
+
+All seven findings now have source-bound dispositions and an exact local review candidate. The package preserves accepted model bytes, source operations, stock ownership and known-good repeated construction. Independent all-page reader review and captain acceptance remain the next required decisions.
