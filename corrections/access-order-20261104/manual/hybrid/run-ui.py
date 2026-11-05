@@ -5,7 +5,7 @@ R=Path(__file__).resolve().parents[4];D=R/'builds/access-corrected-hybrid-prefix
 NODE='/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node';HELPER=Path(__file__).with_name('review.mjs')
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 assert sha(D/'model.json')=='3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229'
-assert sha(D/'viewer.html')=='cd7b46db708cfb16bb18cbbd78f5049c9000049f38e04e9161c4f264d6c81bf4'
+assert sha(D/'viewer.html')=='6f00c106ad2decca8f8bb6b868956ef8da0da1428dfa0fbbe972e5203e1d836f'
 TEMP=R/'tmp/hybrid-prefix-browser-temp'
 assert not TEMP.exists()
 assert not PROFILE.exists();sock=socket.socket();sock.bind(('127.0.0.1',19402));sock.close()
