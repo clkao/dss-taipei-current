@@ -212,3 +212,41 @@ Package: `builds/clear-logical/cycle1/package` in the author worktree. PDF `59b6
 ### Summary
 
 The exact successor resolves the original review's visual blockers while preserving source, stock, order and known-good pages. Present it for the captain's acceptance decision; no delivery/publication approval is inferred. StudFleet gap status and native full-edition parity are unchanged because no shared tool update/test occurred; shared-reference reconciliation and physical certification remain unresolved.
+
+## Stage Report: authoring (cycle 3)
+
+Captain revision round2 completed at source commit `9d30303`. Exact feedback is preserved in `corrections/builder-clear-logical-steps/cycle2/CORRECTION-LOG.md`: replace crossed A/B suspension matching with direct diagrams, and point p36's callout to its assembly area. This is the actual gate-attempt1 revise response, not acceptance.
+
+### Completion checklist
+
+- [x] Replace suspension crossed-letter matching with source-bound readable common-frame placement diagrams, preserving canonical poses and honest physical limits.
+  - pp10/12/14/16 now show one common-camera placement view, an intact unit separated for display, and two parallel arrows between actual catalog pin ends and beam-hole mouths. A/B labels and matching/turn prose removed. Representative actual pixels inspected before remaining final pages; failed camera/framing/layout specimens retained.
+  - `feature-check.json` records parallel projected directions and unchanged source records. Display offsets do not certify insertion motion.
+- [x] Fix page36 callout to identify the actual receiving area and apply the generalized placement/callout rule locally with a bounded analogous audit.
+  - Step20 operation82 installs rear-bed unit IDs14,33,34,54,58,59,100,109,118 after recipe operations77–81. Rails14/58 align above carrier plates38/81. Final high-angle view exposes plate81's orange top; callout ends inside its localized outline, with rail58 placement arrow. The earlier low-angle hidden-face outlines were rejected and retained as failed evidence.
+  - Original recipe panels/tray preserved; x0–519 source-pixel comparison passes. Near changed callout boundary, the wider initial crop had minor JPEG differences; no full-page equality claim.
+  - `docs/instructions/README.md` now states common-frame placement and actual-area callout rules. Bounded actual-pixel audit of pp30/32/33/34/35/37/38 found no additional required change; decisions recorded.
+- [x] Deliver inspected affected pages and exact successor package/equivalence evidence for the same reviewer and captain gate, preserving all prior versions and no publication.
+  - Five affected A4 page images inspected. 75 unaffected PDF content streams and page JPEG bytes match cycle1 exactly. Exact model/plan, all348 unique introductions and all215 source operations preserved.
+  - Actual Enlarge/native image zoom for pp10/36 and actual 3D-link/browser-history Back to loaded p36 passed with errors empty. Screenshots inspected; headless390×900 only, horizontal scrolling required. No live-device or default-fit detail readability claim.
+
+### Exact package and review access
+
+Author worktree: `/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps`.
+
+- Package: `builds/clear-logical/cycle2/package`.
+- Before/after: `builds/clear-logical/cycle2/before-after.html`.
+- PDF SHA256 `19d5c4262279624e38635367f958fcb9ccd6ffa87ca3b9a8f0da91da87d1716c`.
+- Viewer SHA256 `4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865` (unchanged shell; each package binds its own image bytes).
+- ZIP SHA256 `98fc465d0f6bb04d4eb4100efb2bb40984f9a80469b007e472befe88c5325c00`.
+- Manifest SHA256 `a69c695f58b89ffbdd98b66cbe88a6a5ccf2678b4b4427a4421fb4ae637a2ec3`; all109 ZIP members verified.
+
+Evidence root: `corrections/builder-clear-logical-steps/cycle2/`. `REVIEW-HANDOFF.md` is the review entry; `CORRECTION-LOG.md` records feedback/disposition/failures/audit; `feature-check.json`, `receiver-catalog.json`, `author-visual-review.json`, `browser-check.json`, `runtime-evidence.json`, `validation.json`, `package-check.json`, `version-bindings.json` bind actual checks and limits. The provided official LEGO PDF printed14 was inspected as a spatial illustration reference; no reference artwork was copied into delivery.
+
+Reviewed cycle1 PDF `59b66fb0bfb8766306b89475e5516cc0c1a5286605355c760ca578a723530f64` and ZIP `635049be41e87e1446500e433d58bece6a77822ddd816677abca4d079a0ecf04` remain unchanged, as do original rejected PDF `db13a65349791ea4af2644df5cff26afd1a1bc29a218ec9f1df95983fca02956` and ZIP `5c34b1d1783d4d67b12b0989431a0277a008f6356b530f952c9d8753cc0ea459`.
+
+### Summary and limits
+
+Direct suspension arrows replace the matching puzzle; page36 points to a visible receiving surface. All previously successful ring/plate/foot/cabin/carrier/grouping fixes remain unchanged. Eight scoped browser/render runs exited0; established576MiB admission/512MiB active guards retained. Archive minimum free5,008,572,416 bytes, elapsed1.08 seconds. No cleanup of peers or shared caches occurred.
+
+Ready for same-reviewer recommendation and captain gate. No publication or acceptance claimed. Physical insertion, grip, strength and manufacturing remain unverified; cord knot/length/slack limits remain. No shared StudFleet update/test ran; DSS tooling gaps and native full-edition parity remain unchanged.
