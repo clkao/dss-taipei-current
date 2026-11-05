@@ -520,3 +520,39 @@ Author has no unresolved productfinding in this scope. Originalsupervisor1/TIME_
 ### Summary
 
 Complete source-bound experimental hybrid section and finalpackage are ready for sameindependent affectedreview. Allauthor-ownedruntimeclosed, artifacts/evidence frozen, limits explicit. No furtherauthor implementation/runtime remains.
+
+## Stage Report: instruction-review (cycle 4 — hybrid prefix affected review)
+
+- DONE — Verify exact final package/source/stock/operations and reference/artwork/credit bindings against retained R2.
+  Evidence: independently hashed all 29 package/transport files and six screenshots against recorded pins; all match. Model and plan are byte-identical to retained R2. Reviewed binding, package checks, archive/artwork preservation record and 29-file map against publication2105eb69bbc60228fe0eb5a49cd2242db0d0469a.
+- DONE — Inspect actual affected A4 and viewer screenshots/navigation evidence for one clear diagram, concise text, correct tray/returns/page flow.
+  Evidence: personally inspected actual A4 pages3/4/5/128/129 and all six saved r2-diagram/inspect1/inspect2/inspect3/next4/diagram-narrow screenshots; reviewed navigation source and ten recorded traces with no failures. This is independent artifact/source review of author headless evidence, not my own live interaction.
+- DONE — Report digital affected recommendation and concrete findings, preserving physical/native UI/native adoption limits and original failure/closure evidence.
+  Evidence: PASSED for this affected digital correction with the nonblocking Polish/FOLLOW-UP below. No product correction, publication or gate approval by reviewer; physical/native criteria remain open.
+
+### Findings and retained evidence
+
+- Requested correction closed digitally — Location: PDF4 and primary viewer prefix. Observation: one large diagram has short numbered labels1/2/3, both pin targets and one 2×32018+2×2780 tray; duplicate sidebar/below-diagram prose is absent. Impact: the three actions read as one construction sequence. Disposition: sufficient for requested digital scope; source operations legacy-001a/legacy-012/legacy-001b and identities172/216/231/178 remain unchanged.
+- Polish/FOLLOW-UP — Location: optional Inspect1/2/3 Local assembly selector. Observation: Inspect1/2 screenshots show a blank select; Inspect3 shows “Actions 1–3 · one diagram” while displaying the installed inspection state. Impact: secondary selection feedback is inconsistent, but correct action heading/image/tray and explicit Diagram return remain; no stock/source harm demonstrated. Owner/disposition: DSS viewer presentation adapter, future selection-display fix only; FO accepted nonblocking follow-up. This is not a native StudFleet defect.
+- The PDF continues directly from diagram4 to panel4/8 on page5; both square plates and completed beams remain visible. Chapter page3 and actual print guides128–129 are readable; no clipping or missing glyph found in these five pages. Narrow screenshot900×1000 retains readable labels/tray without duplicate text; other viewport sizes were not exercised by reviewer.
+- Navigation source distinguishes actual Start/Inspect/Diagram/Next/Previous DOM clicks from setters used for setup and R2 controls. Recorded ten traces cover primaryNext4, Previousdiagram and optional returns; settled caption checks restore original Inspect/panel4/overview text. R2 main11 bands/local seed and second-base return checks remain author evidence.
+- Independently verified final HTML full script bytes, including payload/handlers, equal tested viewer6f00c106ad2decca8f8bb6b868956ef8da0da1428dfa0fbbe972e5203e1d836f. Reviewed zero-context diff: only print label130–131→128–129 and anchor130→128 changed.
+- Independently checked 135 remaining page records match retained R2 metadata after old4–6→new4 grouping, with subsequent page numbers minus2. Reviewed checker source/results proving 135 unaffected decoded streams, all page-image bytes and boxes equal to retained first136-pagePDFd8cb; reuse prior R2 visual review accordingly. I did not reread every page of this new136-pagePDF or rerun its checker.
+- Name-only 彭柏源 credit0d9e, Technic/rights and editable artwork remain bound; reviewed package evidence records every artwork member unchanged except PRINTING.txt. The separate ordered-prefix.png is included for offline display. No claim that all inherited source labels were validated; existing3666-label FOLLOW-UP remains open outside this scope.
+- Producer is experimental shared task66 asset69021 with the DSS legacy composer/adapter. Native StudFleet production adoption remains false; unchanged source poses and diagram arrows do not establish physical movement or insertion clearance.
+- Runtime history preserved: both UI attempts had Node/Chrome0 but supervisor1; concise run attribution found two TIME_WAIT and a still-busy fresh bind. Later authorized closure separately records empty owned/profile/unknown census, no EPERM/listener, free port and removal of only owned profile/temp. Original exits are not relabeled green or treated as demonstrated product defects; upstream overrun/RSSunknown remain recorded.
+- SKIPPED — New browser/native-host/render/PDF/compiler/backend execution: prohibited and unnecessary for the static binding/affected review. No reviewer-owned runtime, tab, server or lease remains.
+- AC2 physical/supported continuous insertion exercises, prior carrier/sweep witnesses and AC4 independent native UI remain unfulfilled; full-edition parity/native production adoption remain unproven. No physical certification, all-AC pass, captain acceptance or shared-gap closure is inferred.
+
+### Exact reviewed package
+
+Candidate builds/access-corrected-hybrid-prefix; author source17f823e. Full pins independently matched package-evidence/hybrid-package-check.json and hybrid-publication-file-map.json.
+- PDF: 6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062; map: 5aee7e6fd9b08d304a9335e424d1a61cde45395f041053f45fe4fb2c55e9dc78.
+- Viewer: 18025ef3f162357eb0fb833b948639e0873db59778997a37356233342666725a; index: 8e805e7da2b8667d6a3b79f4e8d7d63ce07d41b6fb3064643015ab00db7988b5.
+- Manifest: 28d6a5a2cb18b6a8db6ede24949de0a5311957642a2b67652610bd7844d108c6; ZIP: 3d9300eaad2c4deaf910f7f60d0e9648b83ffd8367cb5cc3d54f2ce3dd3a7769.
+- Model: 3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229; plan: df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff.
+- Diagram: 69021bb267165d79bae743f98154e1d3853cb81e5d28526ddfb9b19142d6301b; credit: 0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367; provenance: 3d20374f992618bfe52ac5d0d40ed3d995022771938d6a9b40ef3baaf16c3734.
+
+### Summary
+
+PASSED for the hybrid prefix digital correction, based on five actual A4 pages, six screenshots, retained-equivalence evidence and independent source/hash checks. Optional Inspect selector feedback remains a nonblocking DSS polish follow-up; physical, independent native UI and native adoption limits stay open. Captain/FO publication disposition is separate from this recommendation.
