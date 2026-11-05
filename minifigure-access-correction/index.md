@@ -440,3 +440,11 @@ Nextproposed exactstagea42128c9 <=5s15MiB retainsoldHTML/6PNG/logs before replac
 ### Summary
 
 First hybridPDF is generated and statically bound; actualUI exposed a presentation defect and closure accounting stop. Ownedclosure subsequently resolved under explicit separate grant. Narrow staticUI correction and failed-only proposal await authorization; complete hybrid authoring/review remains unfinished.
+
+### Cycle 8 captain text refinement — static successor only
+
+Captain: “i don't think we need the text. the diagram should be obvious”. This supersedes ungranted7bcefe4 grouped prose; historical source/evidence and original candidate remain intact. Source d0a370b removes the repeated below-image caption and hides sidebar title/description/recipe-note only in primary diagram mode, after the synchronous wrapper chain. Embedded numbered labels, one2+2tray and navigation/Inspect remain. Leaving restores element visibility before original exact-action/main handlers. Settled checker now requires actual absence of duplicate prose and restoration in Inspect1/2/3, Next4 and overview; no runtime pass yet.
+
+Planned viewer6f00c106ad2decca8f8bb6b868956ef8da0da1428dfa0fbbe972e5203e1d836f; sourceoverlay0b1f832b/reviewb5edc61a/driver6faba230/stagea42128c9. Fullpins/proposal: manual/hybrid/diagram-text-static-pins.json and DIAGRAM-TEXT-REFINEMENT.md. Failed-only UI proposal remains100s165MiB inclclosure with same resource/ownership rules; no grant inferred.
+
+PDFbytes d8cb remain UNCHANGED. Static assessment finds duplicate explanatory title at make_pdf.py45 and repeated caption at48 on page4. Proposed narrow later change: structural title “Chassis core” and removal of only that caption call. This would change PDFbytes and need its own disposition, generation/equivalence and actual affected review; no PDFsource edit/regeneration occurred here. No upstream/sharedasset change, package mutation or publication. Runtime fully released; authoring remains incomplete.
