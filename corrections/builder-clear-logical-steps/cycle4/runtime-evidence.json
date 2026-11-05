@@ -1,0 +1,158 @@
+{
+  "runs": {
+    "camera-study": {
+      "argv": [
+        "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/render.mjs",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle4/camera-study"
+      ],
+      "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps",
+      "active_floor_bytes": 536870912,
+      "admission_free_bytes": 9861767168,
+      "started_unix": 1793900905.41986,
+      "memory_snapshot": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                    15840.\nPages active:                                 705296.\nPages inactive:                               696751.\nPages speculative:                              7991.\nPages throttled:                                   0.\nPages wired down:                             353143.\nPages purgeable:                               17531.\n\"Translation faults\":                   320012747352.\nPages copy-on-write:                     60617420444.\nPages zero filled:                      116847369758.\nPages reactivated:                       11050388179.\nPages purged:                             2418985403.\nFile-backed pages:                            470963.\nAnonymous pages:                              939075.\nPages stored in compressor:                  1644430.\nPages occupied by compressor:                 278737.\nDecompressions:                          10533437717.\nCompressions:                            11237154949.\nPageins:                                  2980988801.\nPageouts:                                   28448764.\nSwapins:                                    31332317.\nSwapouts:                                   46064512.\n",
+      "exit": 1,
+      "stop_reason": null,
+      "min_free_bytes": 9857384448,
+      "elapsed_seconds": 13.23631424922496,
+      "evidence_path": "builds/clear-logical/cycle4/camera-study/run.json",
+      "run_log_sha256": "da3f91c506615efbfa12fe87410054fbec0977eca91c5fba5acf431146f92da3"
+    },
+    "requested-views": {
+      "argv": [
+        "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/render.mjs",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle4/requested-views"
+      ],
+      "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps",
+      "active_floor_bytes": 536870912,
+      "admission_free_bytes": 9855913984,
+      "started_unix": 1793900971.753402,
+      "memory_snapshot": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                     8396.\nPages active:                                 693367.\nPages inactive:                               691840.\nPages speculative:                              2760.\nPages throttled:                                   0.\nPages wired down:                             342922.\nPages purgeable:                               13695.\n\"Translation faults\":                   320014000110.\nPages copy-on-write:                     60617501406.\nPages zero filled:                      116848161322.\nPages reactivated:                       11050496915.\nPages purged:                             2418991240.\nFile-backed pages:                            458354.\nAnonymous pages:                              929613.\nPages stored in compressor:                  1724715.\nPages occupied by compressor:                 317704.\nDecompressions:                          10533489541.\nCompressions:                            11237297543.\nPageins:                                  2981048455.\nPageouts:                                   28449213.\nSwapins:                                    31335192.\nSwapouts:                                   46064512.\n",
+      "exit": 0,
+      "stop_reason": null,
+      "min_free_bytes": 9849593856,
+      "elapsed_seconds": 11.139907707460225,
+      "evidence_path": "builds/clear-logical/cycle4/requested-views/run.json",
+      "run_log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "camera-study-retry": {
+      "argv": [
+        "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/render.mjs",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle4/camera-study-retry",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/camera-jobs.json"
+      ],
+      "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps",
+      "active_floor_bytes": 536870912,
+      "admission_free_bytes": 9856921600,
+      "started_unix": 1793901016.276852,
+      "memory_snapshot": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                    24686.\nPages active:                                 664323.\nPages inactive:                               656916.\nPages speculative:                              6585.\nPages throttled:                                   0.\nPages wired down:                             377068.\nPages purgeable:                               12829.\n\"Translation faults\":                   320014854013.\nPages copy-on-write:                     60617559879.\nPages zero filled:                      116848674283.\nPages reactivated:                       11050620078.\nPages purged:                             2418994709.\nFile-backed pages:                            477955.\nAnonymous pages:                              849869.\nPages stored in compressor:                  1757268.\nPages occupied by compressor:                 327945.\nDecompressions:                          10533559681.\nCompressions:                            11237411145.\nPageins:                                  2981074233.\nPageouts:                                   28449372.\nSwapins:                                    31335382.\nSwapouts:                                   46064512.\n",
+      "exit": 0,
+      "stop_reason": null,
+      "min_free_bytes": 9849999360,
+      "elapsed_seconds": 11.836850624531507,
+      "evidence_path": "builds/clear-logical/cycle4/camera-study-retry/run.json",
+      "run_log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "selected-bed": {
+      "argv": [
+        "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/render.mjs",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle4/selected-bed",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/bed-selected-jobs.json"
+      ],
+      "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps",
+      "active_floor_bytes": 536870912,
+      "admission_free_bytes": 9673928704,
+      "started_unix": 1793901214.127402,
+      "memory_snapshot": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                    51265.\nPages active:                                 645051.\nPages inactive:                               657665.\nPages speculative:                              2215.\nPages throttled:                                   0.\nPages wired down:                             324403.\nPages purgeable:                               24631.\n\"Translation faults\":                   320018046329.\nPages copy-on-write:                     60617759944.\nPages zero filled:                      116850846207.\nPages reactivated:                       11050985191.\nPages purged:                             2419013364.\nFile-backed pages:                            474081.\nAnonymous pages:                              830850.\nPages stored in compressor:                  1851635.\nPages occupied by compressor:                 376642.\nDecompressions:                          10533710135.\nCompressions:                            11237675706.\nPageins:                                  2981180873.\nPageouts:                                   28450394.\nSwapins:                                    31336389.\nSwapouts:                                   46064512.\n",
+      "exit": 0,
+      "stop_reason": null,
+      "min_free_bytes": 9669328896,
+      "elapsed_seconds": 11.115767374634743,
+      "evidence_path": "builds/clear-logical/cycle4/selected-bed/run.json",
+      "run_log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "browser-review": {
+      "argv": [
+        "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/review-mobile.mjs",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle4/browser-review"
+      ],
+      "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps",
+      "active_floor_bytes": 536870912,
+      "admission_free_bytes": 9749336064,
+      "started_unix": 1793901698.082697,
+      "memory_snapshot": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                    49421.\nPages active:                                 652160.\nPages inactive:                               645282.\nPages speculative:                              6238.\nPages throttled:                                   0.\nPages wired down:                             350050.\nPages purgeable:                                6894.\n\"Translation faults\":                   320025809185.\nPages copy-on-write:                     60618244818.\nPages zero filled:                      116855826929.\nPages reactivated:                       11051607670.\nPages purged:                             2419031691.\nFile-backed pages:                            481360.\nAnonymous pages:                              822320.\nPages stored in compressor:                  1792526.\nPages occupied by compressor:                 354209.\nDecompressions:                          10534012768.\nCompressions:                            11237987311.\nPageins:                                  2981370770.\nPageouts:                                   28452088.\nSwapins:                                    31337772.\nSwapouts:                                   46064512.\n",
+      "exit": 0,
+      "stop_reason": null,
+      "min_free_bytes": 9741856768,
+      "elapsed_seconds": 13.087694541551173,
+      "evidence_path": "builds/clear-logical/cycle4/browser-review/run.json",
+      "run_log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "hidden-specimen": {
+      "argv": [
+        "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/hidden-segments.mjs",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle4/hidden-specimen",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/hidden-specimen-jobs.json"
+      ],
+      "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps",
+      "active_floor_bytes": 536870912,
+      "admission_free_bytes": 9691099136,
+      "started_unix": 1793901890.163434,
+      "memory_snapshot": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                    13212.\nPages active:                                 675822.\nPages inactive:                               671047.\nPages speculative:                              3673.\nPages throttled:                                   0.\nPages wired down:                             262637.\nPages purgeable:                               54961.\n\"Translation faults\":                   320030642775.\nPages copy-on-write:                     60618674539.\nPages zero filled:                      116858577415.\nPages reactivated:                       11052098789.\nPages purged:                             2419040072.\nFile-backed pages:                            425842.\nAnonymous pages:                              924700.\nPages stored in compressor:                  1883245.\nPages occupied by compressor:                 431325.\nDecompressions:                          10534342745.\nCompressions:                            11238704200.\nPageins:                                  2981476740.\nPageouts:                                   28453309.\nSwapins:                                    31340116.\nSwapouts:                                   46064512.\n",
+      "exit": 0,
+      "stop_reason": null,
+      "min_free_bytes": 9349423104,
+      "elapsed_seconds": 12.824322458356619,
+      "evidence_path": "builds/clear-logical/cycle4/hidden-specimen/run.json",
+      "run_log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "hidden-remaining": {
+      "argv": [
+        "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/hidden-segments.mjs",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle4/hidden-remaining",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/hidden-remaining-jobs.json"
+      ],
+      "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps",
+      "active_floor_bytes": 536870912,
+      "admission_free_bytes": 9681723392,
+      "started_unix": 1793902541.377207,
+      "memory_snapshot": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                     5083.\nPages active:                                 497993.\nPages inactive:                               487356.\nPages speculative:                              7112.\nPages throttled:                                   0.\nPages wired down:                             553303.\nPages purgeable:                               14603.\n\"Translation faults\":                   320033689204.\nPages copy-on-write:                     60618869922.\nPages zero filled:                      116860107711.\nPages reactivated:                       11052580335.\nPages purged:                             2419121877.\nFile-backed pages:                            352314.\nAnonymous pages:                              640147.\nPages stored in compressor:                  2037204.\nPages occupied by compressor:                 506750.\nDecompressions:                          10534749605.\nCompressions:                            11239360508.\nPageins:                                  2981546839.\nPageouts:                                   28453595.\nSwapins:                                    31340846.\nSwapouts:                                   46064512.\n",
+      "exit": 0,
+      "stop_reason": null,
+      "min_free_bytes": 9661534208,
+      "elapsed_seconds": 11.628439167514443,
+      "evidence_path": "builds/clear-logical/cycle4/hidden-remaining/run.json",
+      "run_log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "browser-review-hidden": {
+      "argv": [
+        "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle4/review-mobile.mjs",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle4/browser-review-hidden"
+      ],
+      "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps",
+      "active_floor_bytes": 536870912,
+      "admission_free_bytes": 10297741312,
+      "started_unix": 1793902608.618858,
+      "memory_snapshot": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                     3899.\nPages active:                                 655424.\nPages inactive:                               641054.\nPages speculative:                             14667.\nPages throttled:                                   0.\nPages wired down:                             328998.\nPages purgeable:                               28464.\n\"Translation faults\":                   320037065735.\nPages copy-on-write:                     60619054351.\nPages zero filled:                      116862140041.\nPages reactivated:                       11052738525.\nPages purged:                             2419153177.\nFile-backed pages:                            382654.\nAnonymous pages:                              928491.\nPages stored in compressor:                  1835274.\nPages occupied by compressor:                 413132.\nDecompressions:                          10535157065.\nCompressions:                            11239842951.\nPageins:                                  2981651452.\nPageouts:                                   28454199.\nSwapins:                                    31344075.\nSwapouts:                                   46064512.\n",
+      "exit": 0,
+      "stop_reason": null,
+      "min_free_bytes": 10292387840,
+      "elapsed_seconds": 7.332130207680166,
+      "evidence_path": "builds/clear-logical/cycle4/browser-review-hidden/run.json",
+      "run_log_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  },
+  "guards_MiB": {
+    "admission": 576,
+    "active": 512
+  },
+  "cleanup": "Only closed task-owned private browser profiles removed after Chrome exit/process check. First failed camera launch profile cleaned after explicit process census. No peer cleanup.",
+  "limits": "No physical build, no live-device test, no shared-tool update. Initial camera study startup failed before capture; retry used same four cameras with 20s discovery bound."
+}
