@@ -794,3 +794,18 @@ Read-only installed stdlib confirms destination open mutates the same ZipInfo he
 ### Cycle17 successor preflight STOP
 
 Authorized87076cb/a29220ce successor waited exit1 at line14 fresh576MiB diskguard, before input hashing/outputmkdir.0.05s real/directRSS24281088B; exactfree not printed, only below576MiB proven. No retry1 package, ZIP/metadata checks or browser ran. This is resource hold, not another helper defect. Durable package/RETRY1-PREFLIGHT-STOP.md retains exact boundary; no auto retry or peer cleanup. Final package/gate readiness remains incomplete pending fresh adequate space and continuation; published bytes unchanged.
+
+## Stage Report: authoring (cycle 18 — exact package created, affected UI pending)
+
+- DONE: Prepare source-bound integration of the reviewed69-page composition into the existing viewer and exact package without changing publication.
+  Exact87076cb/a29220ce resumed once after prior preflight stop; waited exit0. New builds/simplification-package-retry1 passes input pins, immutable model/PDF, script/payload byte equality, new regular mutable outputs, streamed ZIP member hashes and semantic ZIP metadata. Sourceb540c8b package-run.json binds final29file pins; preferredPDF5c347b0e/mapde2bc995 unchanged,print61/62,diagram81510ce8,name-onlycredit0d9e0d05.
+- DONE: Define minimal affected verification and final package review with owned-output isolation and fresh resource guards.
+  UI-PROPOSAL.md: existing six-shot/ten-trace successor5b5d0f4c/review2e1ad6ca, exact candidate/profile8956cf89/port19817;90s150MiB576/512guards, ownedidentityclosure and noauto retry. Only paths/pins and actual69PDF/61–62link assertions added; existing memberships/root/bands/base2x/secondcopy and settled prose checks retained. Syntax passes; browser UNRUN. Same Epicurus exact package review follows actual UI pass; no repeated69PDF render.
+- DONE: Record exact remaining acceptance limits and concrete gate-readiness work without fabricating completion.
+  CompactPDF8+4+3each2x with distinctCbranches differs deliberately from retained detailed viewer base8only2x. No broadviewer refactor/native adoption. AC2physical/insertion and AC4nativeUI remain unproven. Gate still requires affectedactualUI, finalexactpackage independentrecommendation and captain decision; publication unchanged.
+
+### Summary
+
+Successful static generation1.17s real/directRSS93863936B/peakfootprint83149280B/newregular27119125B. Script spawned no children; parent waited0 and freshps showed no package process. Fresh576/stage512guards passed; exactminimumfree not instrumented. ZIP semantic metadata equal; Python recomputed encoding flags/CRC/sizes/offsets are disclosed. Existing firstBadZipFile stop and later diskpreflightstop remain preserved; no retrospectivegreen.
+
+Final indexab1b57bbce96a8011a9f9560930d2e886d4a5572a403a67776ae1f38cdf8e1d7;viewer4802fff8c4c9e29828dbf9cdee48a2e945c96934a4a0fc70475962c99dcdd068;manifest7c11b72ad86a7c03f95787f11323ed4667827b4cbd01f3b9102a6f8709b176cd;ZIPd58bcda0441b40efc2aa4698c85ae5cb879236a1b613ee9f74bf54755066889e;provenance6c1fbf8fa22fc86c10fa81f29e46d6c3959817883a65ca6c110ccdb76b65d21c. PDF/model/plan/rights/Technic preserved. Actual affected review remains necessary despite unchanged scripts; no complete authoring/gate approval claimed.
