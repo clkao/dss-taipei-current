@@ -1,0 +1,15 @@
+# Exact affected viewer check — UNRUN
+
+Package generation passed; package-run.json contains full29-member pins and measured1.17s/93,863,936BdirectRSS/27,119,125Bnewregular. PDF5c347b0e/mapde2bc995 remain exact accepted-composition bytes. Indexab1b57bb/viewer4802fff8/manifest7c11b72a/archive d58bcda0/provenance6c1fbf8f. Prior failing partial and diskpreflight stops retained. No package processes remained in fresh ps; script itself spawned no children.
+
+Use existing hybrid six-shot/ten-trace check, copied locally for immutable successor pins and output isolation. Only helper changes: candidatepath, privateprofile/port/temp, exactviewer/diagram/manifest guards, and an assertion for preferred69PDF/download and actual61–62 printlink. Existing membership, tray, root/bands, base2x/second-copy return, settled hidden/restored prose assertions unchanged. Node syntax check and Python AST parse pass; browser has not run.
+
+Exact cwd: /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction
+
+Exact command: `PYTHONDONTWRITEBYTECODE=1 /Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python corrections/access-order-20261104/manual/simplify/package/run-ui.py`
+
+Supervisor5b5d0f4c9eabb29c1e9667b9d5e6e9fd99596ad92920cb12ca52af3335baa2bf invokes pinnedNode24 absolute path and review.mjs2e1ad6ca15bf01be2422fd6fa93949bf1240ea700490f72bd100fed19bde600d against builds/simplification-package-retry1. Exact private profile tmp/yangliu-preview-chrome-8956cf89 must be absent; derived port19817 must be free. Temp tmp/simplification-package-browser-temp must be absent. Fresh576MiB/active512MiB floor,90s outer/150MiB allincremental output/profile/temp. Existing supervisor records identity journal,75s stop/82s escalation only same recorded identities,86s loopcap plus finalclosure. No unknown/peer signals. Direct Node explicit wait; independent profileargument census,knownidentityabsence/freeport/noEPERM required for deletion of own profile/temp. Retain unknown/busy/EPERM and STOP; no auto cleanup/retry loop. Original closure failure records remain separate.
+
+Only six new PNGs plus existing check/log/telemetry formats: diagram desktop/narrow,Inspect1/2/3,Next4. Inspect all six actual images after closure; assert numbers-only diagram is clear and no repeated prose leaks,2+2tray intact,original captions return. UI tests also visit overview/previous/selector/root11/base17/right18. No69PDF generation/raster, no 3D source change or complete67/52 repeat solely for textlinks. No zero-network claim. Frozen manifest/ZIP exclude these review evidence outputs.
+
+Same Epicurus final review follows actual pass: exact offline package and landing/viewer link behavior, diagram appearance, credit name-only, manifest/ZIP/member metadata,print61/62,prior69PDF review identity and retained detailed-viewer difference. Viewer still only deduplicates base8; larger8+4+3 repeat and Cbranches belong to preferredPDF. PhysicalAC2/nativeUIAC4/nativeadoption remain open. No publication before exact-package gate/applicable authority.
