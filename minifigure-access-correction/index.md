@@ -523,11 +523,11 @@ Complete source-bound experimental hybrid section and finalpackage are ready for
 
 ## Stage Report: instruction-review (cycle 4 — hybrid prefix affected review)
 
-- DONE — Verify exact final package/source/stock/operations and reference/artwork/credit bindings against retained R2.
+- DONE: Verify exact final package/source/stock/operations and reference/artwork/credit bindings against retained R2.
   Evidence: independently hashed all 29 package/transport files and six screenshots against recorded pins; all match. Model and plan are byte-identical to retained R2. Reviewed binding, package checks, archive/artwork preservation record and 29-file map against publication2105eb69bbc60228fe0eb5a49cd2242db0d0469a.
-- DONE — Inspect actual affected A4 and viewer screenshots/navigation evidence for one clear diagram, concise text, correct tray/returns/page flow.
+- DONE: Inspect actual affected A4 and viewer screenshots/navigation evidence for one clear diagram, concise text, correct tray/returns/page flow.
   Evidence: personally inspected actual A4 pages3/4/5/128/129 and all six saved r2-diagram/inspect1/inspect2/inspect3/next4/diagram-narrow screenshots; reviewed navigation source and ten recorded traces with no failures. This is independent artifact/source review of author headless evidence, not my own live interaction.
-- DONE — Report digital affected recommendation and concrete findings, preserving physical/native UI/native adoption limits and original failure/closure evidence.
+- DONE: Report digital affected recommendation and concrete findings, preserving physical/native UI/native adoption limits and original failure/closure evidence.
   Evidence: PASSED for this affected digital correction with the nonblocking Polish/FOLLOW-UP below. No product correction, publication or gate approval by reviewer; physical/native criteria remain open.
 
 ### Findings and retained evidence
@@ -541,7 +541,7 @@ Complete source-bound experimental hybrid section and finalpackage are ready for
 - Name-only 彭柏源 credit0d9e, Technic/rights and editable artwork remain bound; reviewed package evidence records every artwork member unchanged except PRINTING.txt. The separate ordered-prefix.png is included for offline display. No claim that all inherited source labels were validated; existing3666-label FOLLOW-UP remains open outside this scope.
 - Producer is experimental shared task66 asset69021 with the DSS legacy composer/adapter. Native StudFleet production adoption remains false; unchanged source poses and diagram arrows do not establish physical movement or insertion clearance.
 - Runtime history preserved: both UI attempts had Node/Chrome0 but supervisor1; concise run attribution found two TIME_WAIT and a still-busy fresh bind. Later authorized closure separately records empty owned/profile/unknown census, no EPERM/listener, free port and removal of only owned profile/temp. Original exits are not relabeled green or treated as demonstrated product defects; upstream overrun/RSSunknown remain recorded.
-- SKIPPED — New browser/native-host/render/PDF/compiler/backend execution: prohibited and unnecessary for the static binding/affected review. No reviewer-owned runtime, tab, server or lease remains.
+- SKIPPED: New browser/native-host/render/PDF/compiler/backend execution: prohibited and unnecessary for the static binding/affected review. No reviewer-owned runtime, tab, server or lease remains.
 - AC2 physical/supported continuous insertion exercises, prior carrier/sweep witnesses and AC4 independent native UI remain unfulfilled; full-edition parity/native production adoption remain unproven. No physical certification, all-AC pass, captain acceptance or shared-gap closure is inferred.
 
 ### Exact reviewed package
