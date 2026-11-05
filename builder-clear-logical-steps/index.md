@@ -87,3 +87,30 @@ Author in an isolated worktree and commit source/evidence locally. You are not a
 ### Summary
 
 All seven findings now have source-bound dispositions and an exact local review candidate. The package preserves accepted model bytes, source operations, stock ownership and known-good repeated construction. Independent all-page reader review and captain acceptance remain the next required decisions.
+
+## Stage Report: instruction-review
+
+- DONE: Independently review the exact 80-page candidate for all seven findings and logical-step clarity at A4, using existing rasters and verifying source-bound dispositions; no page-count quota or oversized-step shortcuts.
+  Review commit `9d011e1`, `corrections/builder-clear-logical-steps/INDEPENDENT-REVIEW.md`: all 80 A4-layout rasters inspected individually; seven dispositions and grouping decisions recorded. R1–R4 remain; recommendation is return to authoring.
+- DONE: Check exact model/plan/stock/copy/flexible-state correspondence and package identity; critically review cutaways and A/B targets for misleading attachment implications, and assess changed viewer paths at their actual evidence level.
+  Fresh `independent-check.json` verifies five pinned hashes, 108 manifest members, 348 unique introductions, 215 operations, changed-page allocations and source/plan byte equality; any changed member, duplicate stock or changed allocation fails. Visual checks preserve bands/recipes; R1/R2 reject origin projections as sufficient mating/threading targets.
+- DONE: Report every acceptance criterion and concrete findings with severity, source/page evidence and smallest correction; preserve candidate bytes, use existing green evidence without duplicate rendering, and leave physical/live limitations and captain acceptance explicit.
+  AC-1 not met; AC-2 met at changed boundaries; AC-3 digitally met with physical limits; AC-4/5 partial. R1/R2 HIGH, R3/R4 MEDIUM, R5 LOW evidence limitation. No candidate mutation or rendering; source/headless screenshot review is not live browser testing.
+
+### Findings for routing
+
+- R1 HIGH: pages 10/12/14/16, operations 17/21/25/29: A/B use new-pin origins, with off-hole/overlapping marks. Use source-derived visible pin-end/hole-mouth targets and a larger unit view.
+- R2 HIGH: page 69, operation 210: occluded ring-origin marks appear over speakers/platform. Show the actual four apertures with closeups/leaders and preserve the source route and unknown knot/slack details.
+- R3 MEDIUM: pages 24/25, operations 43–46: identical isolated floor plates lack a link to their installed position/orientation. Highlight the corresponding plate/corner in each complete-state locator.
+- R4 MEDIUM: page 71, operation 215: foot detail lacks matched receiving targets and omits more structure than its label states. Add paired positions, a landmark/turn cue and complete omission labeling; do not infer removal.
+- R5 LOW: recorded mobile fit is not detail readability; recorded 3D return is direct URL navigation. Exercise enlargement and actual link/back paths at the claimed viewing size.
+
+### Evidence boundaries
+
+Exact PDF `db13a65349791ea4af2644df5cff26afd1a1bc29a218ec9f1df95983fca02956`; viewer `4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865`; ZIP `5c34b1d1783d4d67b12b0989431a0277a008f6356b530f952c9d8753cc0ea459`. Package remains `builds/clear-logical/candidate` in the author worktree. Existing 56-page artwork equivalence and headless results are reused within their actual scope, not upgraded to full-page identity, physical clearance or live user review.
+
+No demonstrated model defect; corrections route to instruction authoring. Historical scoped model acceptance remains separate from this package's pending captain acceptance. No publication authority or physical certification is inferred. StudFleet gaps are unchanged: no shared tool update/test occurred; native full-edition parity remains open.
+
+### Summary
+
+The exact candidate has independently verified digital correspondence and substantially clearer logical grouping. Return it to authoring for visible attachment targets and cutaway orientation fixes before asking the captain to accept the package; no geometry change or wholesale reformatting is needed by these findings.
