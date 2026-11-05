@@ -56,6 +56,17 @@ gates:
                 id: briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-3:revision-1
                 digest: sha256:dec750559e20038906bab338fb1081276bc8cd91f45a2c7ad72a3da2c6db352a
                 room-ref: '@review/instruction-review/briefing-3'
+              resolution:
+                type: Resolution
+                id: resolution:spacedock:czrrfahe7jyh39409x9jnf6r:instruction-review:3
+                briefing: briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-3:revision-1
+                by: person:captain
+                at: "2026-11-05T20:27:48.442727Z"
+                decision: approve
+                reason: Captain said approve after presentation of exact cycle5 PDF525e42c3f6dc61913d29af791cc27f34699dd9ca8a2ce1036989ae4e62381e97 and ZIPa284f8c62e1fc2b551cbec7329d5d2dd64db47bb22d34e2998b09638821677b3. Accepts local digital edition including disclosed three order exchanges and direct captain review after independent-review cycle limit; no new independent PASS, physical certification or publication authority inferred.
+              application:
+                target-stage: delivered
+                state: pending
 ---
 
 ## Brief
