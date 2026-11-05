@@ -1,0 +1,344 @@
+{
+  "stages": [
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "27",
+        "-l",
+        "27",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68109,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68109 68106    160 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 27 -l 27 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68109 68106  14688 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 27 -l 27 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68109 68106  17552 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 27 -l 27 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "30",
+        "-l",
+        "30",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68114,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68114 68106    944 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 30 -l 30 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68114 68106  17840 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 30 -l 30 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "37",
+        "-l",
+        "37",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68121,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68121 68106    704 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 37 -l 37 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68121 68106  18032 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 37 -l 37 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68121 68106  18032 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 37 -l 37 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "45",
+        "-l",
+        "45",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68126,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68126 68106    704 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 45 -l 45 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68126 68106  17920 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 45 -l 45 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "46",
+        "-l",
+        "46",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68130,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68130 68106    688 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 46 -l 46 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68130 68106  17920 Wed Nov  4 21:43:23 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 46 -l 46 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "49",
+        "-l",
+        "49",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68137,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68137 68106    688 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 49 -l 49 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68137 68106  18000 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 49 -l 49 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "50",
+        "-l",
+        "50",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68141,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68141 68106    688 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 50 -l 50 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68141 68106  18128 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 50 -l 50 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "51",
+        "-l",
+        "51",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68145,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68145 68106    688 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 51 -l 51 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68145 68106  17744 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 51 -l 51 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "53",
+        "-l",
+        "53",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68149,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68149 68106    528 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 53 -l 53 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68149 68106  18064 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 53 -l 53 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68149 68106  18064 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 53 -l 53 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "55",
+        "-l",
+        "55",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68158,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68158 68106    752 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 55 -l 55 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68158 68106  18080 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 55 -l 55 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "57",
+        "-l",
+        "57",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68162,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68162 68106    880 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 57 -l 57 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68162 68106  17984 Wed Nov  4 21:43:24 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 57 -l 57 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "58",
+        "-l",
+        "58",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68166,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68166 68106    688 Wed Nov  4 21:43:25 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 58 -l 58 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68166 68106  19808 Wed Nov  4 21:43:25 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 58 -l 58 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68166 68106  91472 Wed Nov  4 21:43:25 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 58 -l 58 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68166 68106  91472 Wed Nov  4 21:43:25 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 58 -l 58 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68166 68106  94784 Wed Nov  4 21:43:25 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 58 -l 58 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "61",
+        "-l",
+        "61",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf",
+        ".worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "pid": 68173,
+      "exit": 0,
+      "stderr": "",
+      "samples": [
+        "68173 68106    688 Wed Nov  4 21:43:25 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 61 -l 61 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page",
+        "68173 68106  18080 Wed Nov  4 21:43:25 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 61 -l 61 .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/instructions.pdf .worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i1-retry1/a4-review/page"
+      ],
+      "waited": true,
+      "survivors": []
+    }
+  ],
+  "elapsed": 2.4789520828053355,
+  "min_free_bytes": 2558689280,
+  "observed_direct_rss_peak": 97058816,
+  "old_rasters": {
+    "page-15.png": "d19d59001a2e02a3cc7db17da6f9e2b54d276d98917d7284c8b61ddba0c1d54f",
+    "page-14.png": "7ca4fe0c49d5b5978869193a5df7dd0bb884c1bfa9b98d92f20a81b6400ad4a8",
+    "page-16.png": "5354439f51b2fb67d04c0cc92c92d85dcd85941c9385d89b57c4516a76e6181c",
+    "page-07.png": "2958f6562d2a4185fba10fe077a7adaf6493d75a789b7998dc3b27850dea74a4",
+    "page-04.png": "9d59ad28dd3a7d0b9c134f40fd412ce12f107dd298f4598367b070d9721380cc",
+    "page-05.png": "a25f50054c2e336fde52df31cae057bf979bcda0a756a78821206c9cc41d3e24",
+    "page-21.png": "d2bc33545bbbd20de22bb119b642687ab30bd2df7ece86e12e6d391c0361862a",
+    "page-09.png": "a823f3d17b5f1605697f695201058983a1f288af2ed91efd8d2e36931ca4877d",
+    "page-23.png": "22b2b36a7d10ea681973b73ec0b331d7ff6bc7cb95bdf53651ab8ddbd9d360a4",
+    "page-22.png": "3f3b59eae60d2931eb954902f971cc91a4ba0740cf29b171a76105c441584641",
+    "page-26.png": "ecf0b89a569a1e69f6f8cb8726f7e7cc224a2c79c90a338f8226f82d47d0c859",
+    "page-25.png": "ee5619708b08dd0ae94619500ce8a5f5e092e43a652cf8dc71bbdc9fa29e5807",
+    "page-18.png": "959e5502f84a7d62e0633f494fc384235108aeaa43463fec4e47356b201c5341",
+    "page-24.png": "0e2a941e8df25dadb3db3091b515022925867564d97d3a434ef66a5164473f53"
+  },
+  "new_rasters": {
+    "page-49.png": "7855fba388d82f08c9fe7f144e2f3d1258bd78145faa36388c0ae4a92658f0ac",
+    "page-61.png": "499dd98d79838a165d7561103add6da81e125227e86d7fac570578ae396f2aab",
+    "page-58.png": "b52f80312085040f82474098b4fef67e4b23e687fcbb9cf27759d98e216a405d",
+    "page-57.png": "3a9a67e92a76d2962344057ef060b71493515c5248ec109ef4fd5912a6c27be3",
+    "page-55.png": "409469bb3d8b0b14ae41ef1e815313bf4992e814c9f45ab369e47e8158cfeda9",
+    "page-45.png": "42dbc7ba6718069d87fb26e56dc5bf5669d7da2adc0d8976eb8cf3c12265bfec",
+    "page-51.png": "7ce1035c397c21e2dae4ca8ead0e62a409901f8111ce5a2c5a3da4553f55ab12",
+    "page-50.png": "88ae3dc24ae54fbd3a910ae57db5b95e48227e30014b756c864ea76a64a210f1",
+    "page-46.png": "9d773ea7b9c7e74f3baf8d650df586f80333594db4215874f34ad650d9e0b7f0",
+    "page-53.png": "ecd25300c9f7f08dde0cfcac44aa158aebe4ffd2c1c1915214eff129780f6655",
+    "page-37.png": "ae536c7a4fc1fc7a174b122116e402bdeb0fafda328f85f2b0889f61102200bd",
+    "page-27.png": "cf20cbaff9ce810b576076e3dfb85cdf080df52fe367d4509cfc89f9fe929f88",
+    "page-30.png": "c14d22b13386885ac51542185d51629127854f92dcba78f5bb35a34d30930869"
+  },
+  "observation_limit": "Sampled direct RSS, not continuous combined RSS"
+}

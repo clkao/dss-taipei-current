@@ -1,0 +1,20 @@
+{
+  "baseline_sha256": "8342318d322f149510ddc423a96a77a4eaf77916faddd428d54df3d249082e1c",
+  "derived_sha256": "d6c7e2237ff7d846c5462fd5722edb20157957265db2d9787e4b9eca78602a8e",
+  "exact_substitutions": [
+    {
+      "old": ",1,\"Start with one beam\",\"#243d57\"",
+      "new": ",1,\"\",\"#243d57\""
+    },
+    {
+      "old": ",2,\"Fit both pins\",\"#087da8\"",
+      "new": ",2,\"\",\"#087da8\""
+    },
+    {
+      "old": ",3,\"Add the second beam\",\"#bd541e\"",
+      "new": ",3,\"\",\"#bd541e\""
+    }
+  ],
+  "geometry_data_paired_patch_unchanged": true,
+  "png": "pending runtime"
+}
