@@ -496,9 +496,12 @@ Read-only audit: currentindex/viewer ownedregular; README/fullcheck/preflight/st
 
 ## Stage Report: authoring (cycle 11 — complete hybrid package ready for same reviewer)
 
-- DONE — Bind the exact four-piece diagram intent and source operations, with paired pin targets and unchanged model/order/stock. Three authoritative operations legacy-001a/legacy-012/legacy-001b and exact172/216/231/178 remain; one2+2tray and paired216+231marks. Model3d233/plan df9/348records/215operations unchanged. Experimentalasset69021/task66a3972ea, oneDSScomposer, no nativeadoption claim.
-- DONE for authoring — Prepare the smallest real hybrid PDF/viewer integration and honest producer/adoption record, preserving published R2 fixes and name-only credit. Complete candidate builds/access-corrected-hybrid-prefix:136A4/onepage4diagram, optionalexactInspect states/primaryNext4/Previousreturn, no redundantdiagramprose. Author inspected allfiveaffectedA4 and sixUIimages; ten traces/settledtext/source/stock/R2main11bands/2xcopyreturn passed. Actualmap128/129 references/artworkPRINTING/preflight bound, allmanifest/archivehashes verified. OriginalR2/oldcandidate/failure evidence retained. Independentreview/acceptance remains separate.
-- DONE — Return exact static commits/pins and a bounded affected-generation/review plan without heavy runtime or publication. All separately authorized runs/evidence/limits recorded above; no furtherheavy work. Finalsource17f823e and manual/hybrid/AFFECTED-REVIEW-HANDOFF.md freeze completepackage, exact29filemap against2105 and review paths. No publication/state/gateadvance byauthor.
+- DONE: Bind the exact four-piece diagram intent and source operations, with paired pin targets and unchanged model/order/stock.
+  Evidence: Three authoritative operations legacy-001a/legacy-012/legacy-001b and exact172/216/231/178 remain; one2+2tray and paired216+231marks. Model3d233/plan df9/348records/215operations unchanged. Experimentalasset69021/task66a3972ea, oneDSScomposer, no nativeadoption claim.
+- DONE: Prepare the smallest real hybrid PDF/viewer integration and honest producer/adoption record, preserving published R2 fixes and name-only credit.
+  Evidence: Complete candidate builds/access-corrected-hybrid-prefix:136A4/onepage4diagram, optionalexactInspect states/primaryNext4/Previousreturn, no redundantdiagramprose. Author inspected allfiveaffectedA4 and sixUIimages; ten traces/settledtext/source/stock/R2main11bands/2xcopyreturn passed. Actualmap128/129 references/artworkPRINTING/preflight bound, allmanifest/archivehashes verified. OriginalR2/oldcandidate/failure evidence retained. Independentreview/acceptance remains separate.
+- DONE: Return exact static commits/pins and a bounded affected-generation/review plan without heavy runtime or publication.
+  Evidence: All separately authorized runs/evidence/limits recorded above; no furtherheavy work. Finalsource17f823e and manual/hybrid/AFFECTED-REVIEW-HANDOFF.md freeze completepackage, exact29filemap against2105 and review paths. No publication/state/gateadvance byauthor.
 
 ### Final frozen package
 
