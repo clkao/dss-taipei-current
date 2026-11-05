@@ -1,0 +1,15 @@
+{
+  "target": {
+    "id": 33,
+    "world": [
+      0.49998897,
+      18.61875315,
+      -4.00000036
+    ],
+    "x": 0.4357098931309858,
+    "y": 0.4339306130212409
+  },
+  "meaning": "New floating rear-bed crossbar, not assembled receiver",
+  "fixed_camera_projection_residual_max": 1.1102230246251565e-16,
+  "removed_outline": "rightmost projected receiving polygon"
+}

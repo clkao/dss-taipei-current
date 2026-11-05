@@ -1,0 +1,1289 @@
+{
+  "baseline": "sources/legacy-recipes/make_full_instruction_pdf.py:start",
+  "baseline_sha256": "150df9527e35dddbb02964fb8839ed097be5741411cd1f5a94030a6405d57b99",
+  "coral": "#d86c55",
+  "treatment": "rounded coral number badge with white bold number; component/local numbering subordinate",
+  "pages": [
+    {
+      "page": 4,
+      "source_page": 4,
+      "changes": [
+        {
+          "number": 1,
+          "title": "Build the chassis core",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "source_page": 5,
+      "changes": [
+        {
+          "number": 1,
+          "title": "Chassis ties",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "source_page": 6,
+      "changes": [
+        {
+          "number": 1,
+          "title": "Complete the chassis core",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "source_page": 7,
+      "changes": [
+        {
+          "number": 2,
+          "title": "Build the rear frame supports",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Fit the lower rear bumper face",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "source_page": 8,
+      "changes": [
+        {
+          "number": 4,
+          "title": "Extend the longitudinal plates toward the front",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "source_page": 9,
+      "changes": [
+        {
+          "number": 5,
+          "title": "Rear left suspension unit",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "source_page": 10,
+      "changes": [
+        {
+          "number": 5,
+          "title": "Attach the completed suspension unit",
+          "rect": [
+            29,
+            522.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "source_page": 11,
+      "changes": [
+        {
+          "number": 6,
+          "title": "Rear right suspension unit",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "source_page": 12,
+      "changes": [
+        {
+          "number": 6,
+          "title": "Attach the completed suspension unit",
+          "rect": [
+            29,
+            522.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "source_page": 13,
+      "changes": [
+        {
+          "number": 7,
+          "title": "Front left suspension unit",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "source_page": 14,
+      "changes": [
+        {
+          "number": 7,
+          "title": "Attach the completed suspension unit",
+          "rect": [
+            29,
+            522.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "source_page": 15,
+      "changes": [
+        {
+          "number": 8,
+          "title": "Front right suspension unit",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "source_page": 16,
+      "changes": [
+        {
+          "number": 8,
+          "title": "Attach the completed suspension unit",
+          "rect": [
+            29,
+            522.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "source_page": 17,
+      "changes": [
+        {
+          "number": 9,
+          "title": "Fit the two suspension bands",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "source_page": 18,
+      "changes": [
+        {
+          "number": 10,
+          "title": "Underside dishes",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "source_page": 19,
+      "changes": [
+        {
+          "number": 11,
+          "title": "Rear support / separate bumper seed",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "source_page": 20,
+      "changes": [
+        {
+          "number": 12,
+          "title": "Bumper / layers",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "source_page": 21,
+      "changes": [
+        {
+          "number": 12,
+          "title": "Bumper / trim",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "source_page": 22,
+      "changes": [
+        {
+          "number": 12,
+          "title": "Bumper installation / front dish last",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "source_page": 23,
+      "changes": [
+        {
+          "number": 13,
+          "title": "Install both floor plates",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "source_page": 24,
+      "changes": [
+        {
+          "number": 14,
+          "title": "Four spacers \u2014 two layers",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "source_page": 25,
+      "changes": [
+        {
+          "number": 15,
+          "title": "Four spacers \u2014 two layers",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "source_page": 26,
+      "changes": [
+        {
+          "number": 16,
+          "title": "Build the bed floor and supports",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 33,
+      "source_page": 34,
+      "changes": [
+        {
+          "number": 19,
+          "title": "Fit all four wheel arches",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "source_page": 35,
+      "changes": [
+        {
+          "number": 20,
+          "title": "Rear bed / lower layers",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "source_page": 36,
+      "changes": [
+        {
+          "subtitle_moved": true,
+          "rect": [
+            30,
+            499.2756,
+            500,
+            16
+          ],
+          "new_rect": [
+            36,
+            489,
+            125,
+            15
+          ]
+        },
+        {
+          "number": 20,
+          "title": "Install the rear bed",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "source_page": 37,
+      "changes": [
+        {
+          "number": 21,
+          "title": "Fit the two round rear trims",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 22,
+          "title": "Build the rear bumper strip layers",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 37,
+      "source_page": 38,
+      "changes": [
+        {
+          "number": 23,
+          "title": "Finish the rear bumper",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 24,
+          "title": "Build the left side panels",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "source_page": 39,
+      "changes": [
+        {
+          "number": 25,
+          "title": "Finish the left side trim",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 39,
+      "source_page": 40,
+      "changes": [
+        {
+          "number": 26,
+          "title": "Right side panels - use all six listed parts",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "source_page": 41,
+      "changes": [
+        {
+          "number": 27,
+          "title": "Finish the right side trim",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 28,
+          "title": "Finish the rear wheel-arch caps",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "source_page": 42,
+      "changes": [
+        {
+          "number": 29,
+          "title": "Finish the front wheel-arch caps",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 30,
+          "title": "Cap the rear side rails",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "source_page": 43,
+      "changes": [
+        {
+          "number": 31,
+          "title": "Tie the upper body sides",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 32,
+          "title": "Finish the upper body strips",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 43,
+      "source_page": 44,
+      "changes": [
+        {
+          "subtitle_moved": true,
+          "rect": [
+            30,
+            499.2756,
+            500,
+            16
+          ],
+          "new_rect": [
+            36,
+            489,
+            125,
+            15
+          ]
+        },
+        {
+          "number": 33,
+          "title": "Fit the rear tailgate",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        },
+        {
+          "remove_duplicate": "33 / 1x",
+          "rect": [
+            400.0,
+            411.2756,
+            100,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "page": 44,
+      "source_page": 45,
+      "changes": [
+        {
+          "number": 34,
+          "title": "Build the front body core",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 35,
+          "title": "Build the front face supports",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 45,
+      "source_page": 46,
+      "changes": [
+        {
+          "number": 36,
+          "title": "Fit the lamp housings and lower slopes",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 37,
+          "title": "Build the front grille",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "source_page": 47,
+      "changes": [
+        {
+          "number": 38,
+          "title": "Fit both curved bumpers and headlights",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 39,
+          "title": "Build the hood supports",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "source_page": 48,
+      "changes": [
+        {
+          "number": 40,
+          "title": "Build the cabin floor",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 48,
+      "source_page": 49,
+      "changes": [
+        {
+          "number": 41,
+          "title": "Dashboard and two grilles",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 49,
+      "source_page": 50,
+      "changes": [
+        {
+          "number": 41,
+          "title": "Steering stand and wheel",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 50,
+      "source_page": 51,
+      "changes": [
+        {
+          "number": 41,
+          "title": "Seat",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 51,
+      "source_page": 52,
+      "changes": [
+        {
+          "number": 42,
+          "title": "Build the rear cab pillars and glazing",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 43,
+          "title": "Tie and cap the rear cab frame",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "source_page": 53,
+      "changes": [
+        {
+          "number": 44,
+          "title": "Fit the windscreen and roof support",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 45,
+          "title": "Fit the hood and upper tiles",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 53,
+      "source_page": 54,
+      "changes": [
+        {
+          "number": 46,
+          "title": "Fit the removable white cab roof",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 54,
+      "source_page": 55,
+      "changes": [
+        {
+          "number": 47,
+          "title": "/ 4x",
+          "rect": [
+            31.0,
+            465.2756,
+            90,
+            36
+          ]
+        },
+        {
+          "number": 48,
+          "title": "/ 4x",
+          "rect": [
+            31.0,
+            250.2756,
+            90,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 55,
+      "source_page": 56,
+      "changes": [
+        {
+          "number": 49,
+          "title": "Fit the tan rear platform",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 50,
+          "title": "Fit the white enclosure mounting plates",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 56,
+      "source_page": 57,
+      "changes": [
+        {
+          "number": 51,
+          "title": "Helm / support",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 57,
+      "source_page": 58,
+      "changes": [
+        {
+          "subtitle_moved": true,
+          "rect": [
+            30,
+            499.2756,
+            500,
+            16
+          ],
+          "new_rect": [
+            36,
+            489,
+            125,
+            15
+          ]
+        },
+        {
+          "number": 51,
+          "title": "Fit the helm console",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        },
+        {
+          "remove_duplicate": "51 / 1x",
+          "rect": [
+            400.0,
+            411.2756,
+            100,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "page": 58,
+      "source_page": 59,
+      "changes": [
+        {
+          "subtitle_moved": true,
+          "rect": [
+            30,
+            499.2756,
+            500,
+            16
+          ],
+          "new_rect": [
+            36,
+            489,
+            125,
+            15
+          ]
+        },
+        {
+          "number": 52,
+          "title": "Fit both side shield panels",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        },
+        {
+          "remove_duplicate": "52 / 2x",
+          "rect": [
+            400.0,
+            411.2756,
+            100,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "page": 59,
+      "source_page": 60,
+      "changes": [
+        {
+          "number": 52,
+          "title": "Shield attachment",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 60,
+      "source_page": 61,
+      "changes": [
+        {
+          "number": 53,
+          "title": "Build 1 more shield / recipe 52",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 54,
+          "title": "Fit the two outboard nautical rails",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 61,
+      "source_page": 62,
+      "changes": [
+        {
+          "subtitle_moved": true,
+          "rect": [
+            30,
+            499.2756,
+            500,
+            16
+          ],
+          "new_rect": [
+            36,
+            489,
+            125,
+            15
+          ]
+        },
+        {
+          "number": 55,
+          "title": "Fit both roof speakers",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        },
+        {
+          "remove_duplicate": "55 / 2x",
+          "rect": [
+            400.0,
+            411.2756,
+            100,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "page": 62,
+      "source_page": 63,
+      "changes": [
+        {
+          "number": 56,
+          "title": "Fit the sail mast and supports",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 63,
+      "source_page": 64,
+      "changes": [
+        {
+          "subtitle_moved": true,
+          "rect": [
+            30,
+            499.2756,
+            500,
+            16
+          ],
+          "new_rect": [
+            36,
+            489,
+            125,
+            15
+          ]
+        },
+        {
+          "number": 57,
+          "title": "Clip the flag to the mast",
+          "rect": [
+            29,
+            505.27559999999994,
+            783.8897637795277,
+            36
+          ]
+        },
+        {
+          "remove_duplicate": "57 / 1x",
+          "rect": [
+            400.0,
+            411.2756,
+            100,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "page": 64,
+      "source_page": 65,
+      "changes": [
+        {
+          "number": 58,
+          "title": "Fit the rear mast foot and open-stud collar",
+          "rect": [
+            31.0,
+            453.2756,
+            382,
+            40
+          ]
+        },
+        {
+          "number": 59,
+          "title": "Fit the rear mast and both flags",
+          "rect": [
+            422.9449,
+            453.2756,
+            385,
+            40
+          ]
+        }
+      ]
+    },
+    {
+      "page": 65,
+      "source_page": 66,
+      "changes": [
+        {
+          "number": 60,
+          "title": "/ 2x",
+          "rect": [
+            31.0,
+            465.2756,
+            90,
+            36
+          ]
+        },
+        {
+          "number": 61,
+          "title": "",
+          "rect": [
+            31.0,
+            238.2756,
+            90,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 66,
+      "source_page": 67,
+      "changes": [
+        {
+          "number": 62,
+          "title": "",
+          "rect": [
+            31.0,
+            465.2756,
+            90,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 67,
+      "source_page": 68,
+      "changes": [
+        {
+          "number": 63,
+          "title": "Apply the triangular flag tile sticker",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 68,
+      "source_page": 69,
+      "changes": [
+        {
+          "number": 64,
+          "title": "Thread the four rings in order",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 69,
+      "source_page": 70,
+      "changes": [
+        {
+          "number": 65,
+          "title": "/ 1x preassembled",
+          "rect": [
+            31.0,
+            460.2756,
+            200,
+            36
+          ]
+        },
+        {
+          "number": 66,
+          "title": "/ 1x preassembled",
+          "rect": [
+            315.0,
+            460.2756,
+            200,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "page": 70,
+      "source_page": 71,
+      "changes": [
+        {
+          "number": 67,
+          "title": "Place the completed figures",
+          "rect": [
+            29,
+            521.2756,
+            783.8897637795277,
+            36
+          ]
+        }
+      ]
+    }
+  ]
+}

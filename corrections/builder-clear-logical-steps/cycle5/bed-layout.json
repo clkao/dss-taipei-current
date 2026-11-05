@@ -1,0 +1,16 @@
+{
+  "source_image": "selected-bed/bed-selected-B.png",
+  "all_visible_geometry_bbox": [
+    489,
+    245,
+    1060,
+    899
+  ],
+  "padded_display_window": [
+    464,
+    220,
+    1085,
+    924
+  ],
+  "no_visible_geometry_omitted": true
+}

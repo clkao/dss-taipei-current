@@ -1,0 +1,610 @@
+{
+  "source_sha256": "ccf58ae4031e4a466f471bb87668f897375684cbd10c0ca892fc219553edd5f3",
+  "left_ids": [
+    97,
+    96,
+    115,
+    117,
+    197,
+    140,
+    98,
+    116,
+    38,
+    39,
+    42,
+    41,
+    331,
+    46,
+    48
+  ],
+  "right_ids": [
+    158,
+    166,
+    156,
+    185,
+    205,
+    176,
+    167,
+    157,
+    81,
+    87,
+    89,
+    83,
+    333,
+    82,
+    93
+  ],
+  "same_inventory": true,
+  "complete_rigid_congruence": false,
+  "proper_rotations_examined": 24,
+  "position_orientation_tolerance": 1e-05,
+  "plate_symmetry_evidence": {
+    "3666": {
+      "ldraw_rotation": [
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ]
+      ],
+      "unique_vertex_set_equal": true,
+      "vertices": 379
+    },
+    "3710": {
+      "ldraw_rotation": [
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          -1
+        ]
+      ],
+      "unique_vertex_set_equal": true,
+      "vertices": 247
+    }
+  },
+  "maximal_rigidly_aligned_subset": {
+    "count": 13,
+    "rotation": [
+      [
+        -1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        -1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "translation": [
+      21.99997932,
+      8.00000056,
+      2.6800000005877678e-06
+    ],
+    "pairs": [
+      {
+        "left": 97,
+        "right": 158,
+        "part": "3666",
+        "color": "dark-orange",
+        "position_error_scene_units": 1.9860273225978185e-15,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 96,
+        "right": 166,
+        "part": "93274",
+        "color": "black",
+        "position_error_scene_units": 1.1011357784172475e-06,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 115,
+        "right": 156,
+        "part": "93274",
+        "color": "black",
+        "position_error_scene_units": 9.386160029615153e-07,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 117,
+        "right": 185,
+        "part": "85984",
+        "color": "black",
+        "position_error_scene_units": 1.307746153034904e-06,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 197,
+        "right": 205,
+        "part": "85984",
+        "color": "black",
+        "position_error_scene_units": 2.800178565262715e-06,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 140,
+        "right": 176,
+        "part": "85984",
+        "color": "black",
+        "position_error_scene_units": 1.2459935799914543e-06,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 98,
+        "right": 167,
+        "part": "54200",
+        "color": "dark-orange",
+        "position_error_scene_units": 1.371021517696139e-06,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 116,
+        "right": 157,
+        "part": "54200",
+        "color": "dark-orange",
+        "position_error_scene_units": 1.076150547696098e-06,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 39,
+        "right": 82,
+        "part": "99207",
+        "color": "black",
+        "position_error_scene_units": 1.593298465486968e-06,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 42,
+        "right": 93,
+        "part": "99207",
+        "color": "black",
+        "position_error_scene_units": 1.9037594388040159e-06,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 41,
+        "right": 89,
+        "part": "99207",
+        "color": "black",
+        "position_error_scene_units": 4.04122506068174e-06,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 46,
+        "right": 87,
+        "part": "99207",
+        "color": "black",
+        "position_error_scene_units": 1.4258681559365764e-06,
+        "orientation_error": 0.0
+      },
+      {
+        "left": 48,
+        "right": 83,
+        "part": "99207",
+        "color": "black",
+        "position_error_scene_units": 1.8130085506968012e-06,
+        "orientation_error": 0.0
+      }
+    ]
+  },
+  "subset_not_a_complete_connected_recipe": "13 includes three outer brackets supported only through the omitted upper plates; not a valid preassembled13-part unit.",
+  "complete_verified_common_units": [
+    {
+      "name": "lower_carrier",
+      "count": 8,
+      "rotation": [
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "translation": [
+        21.99997932,
+        8.00000056,
+        2.68e-06
+      ],
+      "pairs": [
+        {
+          "left": 97,
+          "right": 158,
+          "part": "3666",
+          "color": "dark-orange",
+          "position_error_scene_units": 2.175583928816829e-15,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 96,
+          "right": 166,
+          "part": "93274",
+          "color": "black",
+          "position_error_scene_units": 1.1011357779413524e-06,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 115,
+          "right": 156,
+          "part": "93274",
+          "color": "black",
+          "position_error_scene_units": 9.386160024032196e-07,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 117,
+          "right": 185,
+          "part": "85984",
+          "color": "black",
+          "position_error_scene_units": 1.3077461531367791e-06,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 140,
+          "right": 176,
+          "part": "85984",
+          "color": "black",
+          "position_error_scene_units": 1.2459935800983784e-06,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 197,
+          "right": 205,
+          "part": "85984",
+          "color": "black",
+          "position_error_scene_units": 2.8001785654038623e-06,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 98,
+          "right": 167,
+          "part": "54200",
+          "color": "dark-orange",
+          "position_error_scene_units": 1.371021517696139e-06,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 116,
+          "right": 157,
+          "part": "54200",
+          "color": "dark-orange",
+          "position_error_scene_units": 1.076150547696098e-06,
+          "orientation_error": 0.0
+        }
+      ]
+    },
+    {
+      "name": "long_rail",
+      "count": 4,
+      "rotation": [
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "translation": [
+        17.99998015,
+        8.00000056,
+        2.68e-06
+      ],
+      "pairs": [
+        {
+          "left": 38,
+          "right": 81,
+          "part": "3666",
+          "color": "dark-orange",
+          "position_error_scene_units": 1.2175385012032424e-06,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 39,
+          "right": 87,
+          "part": "99207",
+          "color": "black",
+          "position_error_scene_units": 2.291091445138617e-06,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 41,
+          "right": 83,
+          "part": "99207",
+          "color": "black",
+          "position_error_scene_units": 1.7921495484577761e-06,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 42,
+          "right": 89,
+          "part": "99207",
+          "color": "black",
+          "position_error_scene_units": 3.041545661086028e-06,
+          "orientation_error": 0.0
+        }
+      ]
+    },
+    {
+      "name": "short_rail",
+      "count": 3,
+      "rotation": [
+        [
+          -1,
+          0,
+          0
+        ],
+        [
+          0,
+          -1,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ]
+      ],
+      "translation": [
+        27.99998015,
+        8.00000056,
+        2.68e-06
+      ],
+      "pairs": [
+        {
+          "left": 331,
+          "right": 333,
+          "part": "3710",
+          "color": "dark-orange",
+          "position_error_scene_units": 1.2175385012032424e-06,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 46,
+          "right": 93,
+          "part": "99207",
+          "color": "black",
+          "position_error_scene_units": 2.8165404312975126e-06,
+          "orientation_error": 0.0
+        },
+        {
+          "left": 48,
+          "right": 82,
+          "part": "99207",
+          "color": "black",
+          "position_error_scene_units": 2.2861758455349057e-06,
+          "orientation_error": 0.0
+        }
+      ]
+    }
+  ],
+  "real_difference": "After aligning lower carriers with 180-degree proper rotation, source left long rail center x9 maps to right x13, but right long rail is at x9; source left short rail center x14 maps to right x8, but right short rail is at x14. The rail split reverses relative to the lower-carrier frame.",
+  "final_joints": [
+    {
+      "step": 56,
+      "id": "legacy-049j1",
+      "kind": "join",
+      "assembly": "left-side-carrier",
+      "child": "left-upper-rail-1",
+      "placements": [
+        {
+          "ids": [
+            38,
+            39,
+            41,
+            42
+          ],
+          "direction": null,
+          "contacts": []
+        }
+      ],
+      "source_mate_pairs": [
+        [
+          39,
+          96
+        ]
+      ]
+    },
+    {
+      "step": 60,
+      "id": "legacy-049j2",
+      "kind": "join",
+      "assembly": "left-side-carrier",
+      "child": "left-upper-rail-2",
+      "placements": [
+        {
+          "ids": [
+            46,
+            48,
+            331
+          ],
+          "direction": null,
+          "contacts": []
+        }
+      ],
+      "source_mate_pairs": [
+        [
+          46,
+          115
+        ]
+      ]
+    },
+    {
+      "step": 69,
+      "id": "legacy-057j1",
+      "kind": "join",
+      "assembly": "right-side-carrier",
+      "child": "right-upper-rail-1",
+      "placements": [
+        {
+          "ids": [
+            81,
+            83,
+            87,
+            89
+          ],
+          "direction": null,
+          "contacts": []
+        }
+      ],
+      "source_mate_pairs": [
+        [
+          87,
+          156
+        ]
+      ]
+    },
+    {
+      "step": 73,
+      "id": "legacy-057j2",
+      "kind": "join",
+      "assembly": "right-side-carrier",
+      "child": "right-upper-rail-2",
+      "placements": [
+        {
+          "ids": [
+            82,
+            93,
+            333
+          ],
+          "direction": null,
+          "contacts": []
+        }
+      ],
+      "source_mate_pairs": [
+        [
+          82,
+          166
+        ]
+      ]
+    },
+    {
+      "step": 61,
+      "id": "legacy-050",
+      "kind": "join",
+      "assembly": "truck",
+      "child": "left-side-carrier",
+      "placements": [
+        {
+          "ids": [
+            38,
+            39,
+            41,
+            42,
+            46,
+            48,
+            96,
+            97,
+            98,
+            115,
+            116,
+            117,
+            140,
+            197,
+            331
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "source_mate_pairs": []
+    },
+    {
+      "step": 74,
+      "id": "legacy-058",
+      "kind": "join",
+      "assembly": "truck",
+      "child": "right-side-carrier",
+      "placements": [
+        {
+          "ids": [
+            81,
+            82,
+            83,
+            87,
+            89,
+            93,
+            156,
+            157,
+            158,
+            166,
+            167,
+            176,
+            185,
+            205,
+            333
+          ],
+          "direction": "top",
+          "contacts": []
+        }
+      ],
+      "source_mate_pairs": []
+    }
+  ],
+  "minimal_order_proposal": {
+    "left_unchanged": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "right_current": [
+      70,
+      71,
+      72,
+      73
+    ],
+    "right_proposed": [
+      70,
+      72,
+      71,
+      73
+    ],
+    "reason": "Under the complete short-rail rigid copy map, left first bracket46 corresponds to right93 (current op72), and left next bracket48 corresponds to right82 (current op71). Both stay loose and both precede join73. No final geometry/ownership change.",
+    "status": "PROPOSED ONLY; no semantic mutation"
+  },
+  "access_limits": "Source loose-rail bracket-before-join structure retained. No claim of certified physical insertion, grip or clearance; step19 witness and installed suspension bands must remain.",
+  "presentation_recommendation": "Do not label complete15-part carrier2x. Show common8-part lower recipe and common4/3-part loose rail recipes with readable names, then one explicit opposite rail-split comparison and two distinct full-carrier/chassis placements. No internal IDs or tiny detail locators."
+}

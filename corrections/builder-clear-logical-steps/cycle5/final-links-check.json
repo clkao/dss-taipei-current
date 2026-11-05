@@ -1,0 +1,95 @@
+{
+  "checks": [
+    {
+      "page": 31,
+      "actual_link": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/pages/page-31.jpg",
+      "fit": {
+        "naturalWidth": 1200,
+        "width": 390,
+        "height": 275,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/pages/page-31.jpg"
+      },
+      "enlarged": {
+        "naturalWidth": 1200,
+        "width": 1200,
+        "height": 849,
+        "scrollX": 400,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/pages/page-31.jpg"
+      },
+      "interaction": "Actual Enlarge page link click, then native image click and browser scrolling"
+    },
+    {
+      "page": 32,
+      "actual_link": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/pages/page-32.jpg",
+      "fit": {
+        "naturalWidth": 1200,
+        "width": 390,
+        "height": 275,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/pages/page-32.jpg"
+      },
+      "enlarged": {
+        "naturalWidth": 1200,
+        "width": 1200,
+        "height": 849,
+        "scrollX": 400,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/pages/page-32.jpg"
+      },
+      "interaction": "Actual Enlarge page link click, then native image click and browser scrolling"
+    },
+    {
+      "page": 35,
+      "actual_link": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/pages/page-35.jpg",
+      "fit": {
+        "naturalWidth": 1200,
+        "width": 390,
+        "height": 275,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/pages/page-35.jpg"
+      },
+      "enlarged": {
+        "naturalWidth": 1200,
+        "width": 1200,
+        "height": 849,
+        "scrollX": 400,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/pages/page-35.jpg"
+      },
+      "interaction": "Actual Enlarge page link click, then native image click and browser scrolling"
+    },
+    {
+      "print_link": "Print sheets: pages 71\u201372 in the instruction PDF",
+      "pdf_download_79": true
+    },
+    {
+      "actual_3D_link": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/model-viewer.html",
+      "back_history_entry": {
+        "id": 6,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/index.html#page=35",
+        "userTypedURL": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/index.html",
+        "title": "DSS Taipei Current \u2014 build guide",
+        "transitionType": "auto_toplevel"
+      },
+      "returned_guide": {
+        "page": 35,
+        "pages": 79,
+        "imageLoaded": true,
+        "image": "pages/page-35.jpg",
+        "title": "20"
+      },
+      "interaction": "Actual 3D inspection anchor click, then Page.navigateToHistoryEntry for Back"
+    }
+  ],
+  "errors": [],
+  "headless": true,
+  "native_browser_image_viewer": true,
+  "human_testing": false,
+  "default_fit_detail_readability_claimed": false,
+  "enlarged_readability": "Author image inspection required for the captured natural-pixel state"
+}
