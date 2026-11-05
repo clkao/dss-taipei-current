@@ -809,3 +809,18 @@ Authorized87076cb/a29220ce successor waited exit1 at line14 fresh576MiB diskguar
 Successful static generation1.17s real/directRSS93863936B/peakfootprint83149280B/newregular27119125B. Script spawned no children; parent waited0 and freshps showed no package process. Fresh576/stage512guards passed; exactminimumfree not instrumented. ZIP semantic metadata equal; Python recomputed encoding flags/CRC/sizes/offsets are disclosed. Existing firstBadZipFile stop and later diskpreflightstop remain preserved; no retrospectivegreen.
 
 Final indexab1b57bbce96a8011a9f9560930d2e886d4a5572a403a67776ae1f38cdf8e1d7;viewer4802fff8c4c9e29828dbf9cdee48a2e945c96934a4a0fc70475962c99dcdd068;manifest7c11b72ad86a7c03f95787f11323ed4667827b4cbd01f3b9102a6f8709b176cd;ZIPd58bcda0441b40efc2aa4698c85ae5cb879236a1b613ee9f74bf54755066889e;provenance6c1fbf8fa22fc86c10fa81f29e46d6c3959817883a65ca6c110ccdb76b65d21c. PDF/model/plan/rights/Technic preserved. Actual affected review remains necessary despite unchanged scripts; no complete authoring/gate approval claimed.
+
+## Stage Report: authoring (cycle 19 — exact package ready for independent review)
+
+- DONE: Prepare source-bound integration of the reviewed69-page composition into the existing viewer and exact package without changing publication.
+  Sourceb58c8f4 manual/simplify/package/REVIEW-HANDOFF.md binds actual builds/simplification-package-retry1 and full29filemap. Package generation/membermetadata checks pass; finalPDF5c347b0e/mapde2bc995 unchanged. Indexab1b57bb/viewer4802fff8/manifest7c11b72a/ZIPd58bcda0/diagram81510ce8/name-onlycredit0d9e0d05; all manifestfiles rehashed unchanged after UI. Actual print61/62 and regular mutable output isolation hold.
+- DONE: Define minimal affected verification and final package review with owned-output isolation and fresh resource guards.
+  Exact5b5d0f4c/2e1ad6ca ran once:6actualPNG/10membershiptraces,actual69PDF/61–62links,2+2tray,root11/bands/base2x/rightcopyreturns and settled primary/Inspect/Next4/overview assertions pass. Node84323 explicitwait0/Chrome84330exit0. Author personally viewed all6 actual outputs; no new required finding. Same Epicurus gets exact final package and previous69PDF review/equivalence, not a manufactured fresh69rerender.
+- DONE: Record exact remaining acceptance limits and concrete gate-readiness work without fabricating completion.
+  Detailedviewer base8only2x remains explicitly distinct from preferredPDF8+4+3each2x/C17C18branches. Inherited optionalInspectselectorpolish stays follow-up. Independent exact-package recommendation and captain gate remain next; physicalAC2/nativeUIAC4/nativeadoption remain open. No all-AC approval or publication.
+
+### Summary
+
+UI runtime11.505s/minfree785297408B/new13860409B; originalsupervisor1 solelybindErrno48 with emptyowned/profilecensus/no unknown/noEPERM. Read-onlylsof showed noLISTEN;netstat2TIME_WAIT. AuthorizedONElaterfreshcensus+bind succeeded; onlyownedprofile8956cf89/temp removed. Originalsupervisor1 is retained separately from Node/Chrome0 and laterclosure; RELEASEsent. Time-l11.59s/RSS251445248B is not combinedbrowsercohort peak. No zeroHTTP claim.
+
+Actualdesktop/narrowprimary numbers-only diagram readable;2+2tray/noextra prose; Inspect1/2/3 sourcecaptions/states andNext4 restored. Sixhashes/fulltelemetry/closure and exact29publicationmap are durable under package/ui-evidence. OriginalZIPfailure and diskstops retained. Authoring now supplies the complete exact digitalcandidate for required independent finalreview; existing publication24425a3 remains unchanged and captain acceptance is not inferred.
