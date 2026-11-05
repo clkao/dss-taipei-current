@@ -8,13 +8,13 @@ D=ROOT/'builds/simplification-i2'
 assert not D.exists(), 'Preserve candidates; output must be absent'
 expected={'model.json':'3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229','instructions.pdf':'6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062'}
 for name,sha in expected.items():assert hashlib.sha256((BASE/name).read_bytes()).hexdigest()==sha,name
-ASSETS=ROOT/'builds/simplification-i2-assets'
+ASSETS=ROOT/'builds/simplification-i2-receivers'
 review=json.loads((ASSETS/'review-pass.json').read_text())
 assert review['author_image_review']=='PASS'
 for name,sha in review['files'].items():assert hashlib.sha256((ASSETS/name).read_bytes()).hexdigest()==sha,name
 D.mkdir()
 for name in ['model.json','part-icons.json','front.png','images']:(D/name).symlink_to((BASE/name).resolve())
-ASSETS=ROOT/'builds/simplification-i2-assets'
+ASSETS=ROOT/'builds/simplification-i2-receivers'
 assert (ASSETS/'numbers-only.png').is_file() and (ASSETS/'receiver-locations.json').is_file()
 (D/'ordered-prefix.png').symlink_to(ASSETS/'numbers-only.png')
 (D/'receiver-assets').symlink_to(ASSETS)

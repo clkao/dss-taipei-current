@@ -1,0 +1,16 @@
+{
+  "grant": "cc7e6e43",
+  "original_supervisor_exit": 1,
+  "original_port_error": "[Errno 48] Address already in use",
+  "live": {},
+  "unknown": {},
+  "profile_users": {},
+  "port19324_bind_free": true,
+  "bind_error": null,
+  "eperm": false,
+  "closure_pass": true,
+  "removed": [
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/tmp/yangliu-preview-chrome-3ce3ba4c",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i2-assets/temp"
+  ]
+}

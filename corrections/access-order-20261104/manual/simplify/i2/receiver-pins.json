@@ -1,0 +1,12 @@
+{
+  "corrections/access-order-20261104/manual/simplify/i2/receiver-jobs.json": "fccfdb66afa299015dd9964600c7557b0157ac9c5e5eaa58503ceb77c8fa5195",
+  "corrections/access-order-20261104/manual/simplify/i2/numbers-only.html": "d6c7e2237ff7d846c5462fd5722edb20157957265db2d9787e4b9eca78602a8e",
+  "corrections/access-order-20261104/manual/simplify/i2/numbers-only-binding.json": "e2c45da740617f74a0cd131db20fef44549b86bed3c2b51542fe180ec4ba9800",
+  "builds/access-corrected-hybrid-prefix/model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+  "builds/access-corrected-hybrid-prefix/viewer.html": "18025ef3f162357eb0fb833b948639e0873db59778997a37356233342666725a",
+  "builds/access-corrected-hybrid-prefix/render-scene.json": "94dd266f0f12eb45ebab2c1ebae7f17778eb87ac81800ed2b37f4ee560e35ecc",
+  "builds/access-corrected-hybrid-prefix/catalog-meshes.json": "890e8ca24848e179e485b86c1ac925b2d5a3e63e88fb369774bd2ff3e53d3810",
+  "corrections/access-order-20261104/manual/simplify/i2/render-receivers.mjs": "4119f40b4fc4bd7142e7ec9536ea36e50f108d2593c70d5fe2d7406e69614a49",
+  "corrections/access-order-20261104/manual/simplify/i2/run-receivers.py": "066ec6c9779354b94d2e2ef5112a65e6c74beeaa49ad27e105499018084ee426",
+  "builds/simplification-i2-assets/numbers-only.png": "81510ce86c45ee948366fda805ace64ea5d564b35d05ec69941f11bc192fb35f"
+}

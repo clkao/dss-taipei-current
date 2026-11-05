@@ -34,3 +34,16 @@ Same cwd and pinned Python, exact absolute `manual/simplify/i2/run.py`. It creat
 Selected pages remain4,5,7,9,14,15,16,18,21,22,23,24,25,26,27,30,37,45,46,49,50,51,53,55,57,58,61. Exact Poppler889fd534… command per page: `pdftoppm -r 110 -png -f N -l N <newPDF> <newA4dir>/page`. All writable PDF/map/guide/raster/measurement/log paths are new regular files. Inputs only are readonly symlinks. No marker repeat, package, viewer shipment, publication or existing-candidate overwrite.
 
 Actual i2 page feedback will select iteration3 work: smallest remaining target ambiguity, visual flow, sticker details/figure redundancy and whole-manual checks. The page plan remains a design candidate, not a71-page quota or final acceptance. Three actual design passes are still required; i2 is not counted until rendered and reviewed. Physical insertion/handling, nativeUI and native adoption remain unproven.
+
+## Receiver-only successor — UNRUN, numbers-only reused
+
+First StageA generated15images normally (Node/Chrome0) but original supervisor1 on busyport; separate authorized closure later succeeded. Actual image review found orthographic frustum restoration omitted. Full record in first-assets-evidence; no imagePASS/PDF. No geometry/selection/layout change.
+
+Exact next command, same cwd/pinnedPython:
+```
+PYTHONDONTWRITEBYTECODE=1 /Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/simplify/i2/run-receivers.py
+```
+
+Driver066ec6c9779354b94d2e2ef5112a65e6c74beeaa49ad27e105499018084ee426, Nodehelper4119f40b4fc4bd7142e7ec9536ea36e50f108d2593c70d5fe2d7406e69614a49, bundle4c023f3385a09b6edd340658acd2860da0c1c07c960c6fdd2f9308c939bda026. Fresh output builds/simplification-i2-receivers; private profile tmp/yangliu-preview-chrome-f0c05ede; port19038. Same90s150MiB/576start512floor/identityclosure, no PDF. Exactly14newreceiverPNGs; numbers-only81510ce86c45ee948366fda805ace64ea5d564b35d05ec69941f11bc192fb35f is linked read-only, not rerendered. Helper saves/restores left/right/top/bottom/zoom and asserts projection equality plus paired target-coordinate agreement. Retain originals and stop on any new error/finding.
+
+Future conditional PDF uses corrected receiver directory: make_pdfc3c7f38e…, staticbundle79cb6558…; other layout/check/plan unchanged. This path rebind does not authorize StageB. Review all14correctedimages and originalgreen number image before creating exact imagePASS hashes. No extra iteration is claimed for a helper repair.
