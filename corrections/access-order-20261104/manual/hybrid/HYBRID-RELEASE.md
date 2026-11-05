@@ -1,0 +1,15 @@
+# Hybrid first-section digital release
+
+The parent reports source17f823e merged and pushed through main6d61ba0. Publication24425a3cd5c0e925fe8922425fde7630b5177f7c replaces2105eb69bbc60228fe0eb5a49cd2242db0d0469a, retained in history. The exact29-file map was verified against prior and candidate bytes before transport; only12 changed paths were copied and all29 post-copy hashes matched. Technic and unrelated paths remain unchanged. The parent verified Pages status built, error null, updated2026-11-05T01:06:16Z for that exact publication commit. Seven live HTTP responses returned200 and matched the reviewed full hashes: index, viewer, PDF, diagram, credit page, manifest and ZIP. This confirms deployed bytes, not independent native UI interaction.
+
+Captain authority includes the earlier “looks good. fix the text issue you mentioned. and publish. credit the bug report in instruction feedback on the website”, subsequent “proceed”, and explicit section-by-section hybrid integration. The later “i don't think we need the text. the diagram should be obvious” directs the concise presentation. Name-only 彭柏源 credit remains on credits.html as separately requested.
+
+Epicurus instruction-review cycle4, state335239c, PASSED the affected digital correction after five actual A4 pages, six screenshots and independent source/hash/equivalence review. The first three chassis-core operations now appear as one diagram in the actual136page manual and primary viewer path. The three source operations, four identities/final poses, two-beam/two-pin tray and required order remain authoritative. The paired-target image is an experimental StudFleet task66 asset, integrated by one DSS legacy composer/adapter. Shared experimental section reuse is real; native StudFleet production adoption remains false.
+
+The optional Inspect selector has a nonblocking Polish/FOLLOW-UP: Inspect1/2 shows blank selection and Inspect3 retains the diagram label, while action heading, image, tray and Diagram return remain correct. Owner: DSS viewer presentation adapter. No fix is included in this release. Inherited3666 label follow-up also remains outside scope.
+
+Formal AC2 physical/supported continuous insertion and AC4 independent native UI remain UNPROVEN. Author headless checks, independent screenshot judgment and captain feedback are distinct evidence. Native adoption/full-edition parity and prior physical sweep limits are not closed by publication.
+
+Earlier failures remain literal: supervisor1 closure errors and observed TIME_WAIT were preserved separately from Node/Chrome0 and later authorized closure. Upstream resource overrun and combined-RSSunknown remain; no failed cohort is relabeled successful. No runtime was repeated to create this release record.
+
+Full reviewed pins and parent-reported transport/live outcomes belong in hybrid-release-record.json. Exact29-file transport mapping is package-evidence/hybrid-publication-file-map.json. Original RELEASE.md/R2-RELEASE.md and all historical package evidence remain intact. Parent owns publication and live verification; this worker records evidence only.
