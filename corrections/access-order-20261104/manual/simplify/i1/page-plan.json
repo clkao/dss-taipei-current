@@ -1,0 +1,484 @@
+{
+  "expected_total_pages": 71,
+  "front_matter": 3,
+  "end_matter": 9,
+  "construction": [
+    {
+      "kind": "prefix",
+      "steps": [
+        1
+      ]
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        1
+      ],
+      "frames": [
+        4,
+        5
+      ],
+      "title": "Chassis ties"
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        1
+      ],
+      "frames": [
+        6,
+        7,
+        8
+      ],
+      "title": "Complete the chassis core"
+    },
+    {
+      "kind": "main",
+      "steps": [
+        2,
+        3
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        4
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        5
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        6
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        7
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        8
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        9
+      ]
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        10
+      ],
+      "frames": [
+        1,
+        2
+      ],
+      "title": "Underside dishes"
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        11
+      ],
+      "frames": [
+        1,
+        2
+      ],
+      "title": "Rear support / separate bumper seed"
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        12
+      ],
+      "frames": [
+        1,
+        2,
+        3
+      ],
+      "title": "Bumper / layers"
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        12
+      ],
+      "frames": [
+        4,
+        5
+      ],
+      "title": "Bumper / trim"
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        12
+      ],
+      "frames": [
+        6,
+        7,
+        8
+      ],
+      "title": "Bumper installation / front dish last"
+    },
+    {
+      "kind": "main",
+      "steps": [
+        13,
+        14
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        15,
+        16
+      ]
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        17
+      ],
+      "frames": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "title": "Lower carrier / 2x",
+      "copies": 2
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        17,
+        18
+      ],
+      "frames": [
+        5,
+        6,
+        7
+      ],
+      "title": "Four-piece rail / 2x",
+      "copies": 2,
+      "repeat": "rail1"
+    },
+    {
+      "kind": "rail2",
+      "steps": [
+        17,
+        18
+      ],
+      "title": "Three-piece rail / 2x",
+      "copies": 2
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        17
+      ],
+      "frames": [
+        8,
+        9,
+        13,
+        14
+      ],
+      "title": "Carrier 17 / attach the completed rails"
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        17
+      ],
+      "frames": [
+        15,
+        16
+      ],
+      "title": "Carrier 17 / vehicle attachment"
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        18
+      ],
+      "frames": [
+        8,
+        9,
+        13,
+        14
+      ],
+      "title": "Carrier 18 / attach the completed rails"
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        18
+      ],
+      "frames": [
+        15,
+        16
+      ],
+      "title": "Carrier 18 / vehicle attachment"
+    },
+    {
+      "kind": "main",
+      "steps": [
+        19
+      ]
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        20
+      ],
+      "frames": [
+        1,
+        2,
+        3
+      ],
+      "title": "Rear bed / lower layers"
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        20
+      ],
+      "frames": [
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        21,
+        22
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        23,
+        24
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        25,
+        26
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        27,
+        28
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        29,
+        30
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        31,
+        32
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        33
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        34,
+        35
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        36,
+        37
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        38,
+        39
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        40,
+        41
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        42,
+        43
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        44,
+        45
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        46
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        47
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        48
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        49,
+        50
+      ]
+    },
+    {
+      "kind": "frames",
+      "steps": [
+        51
+      ],
+      "frames": [
+        1,
+        2,
+        3
+      ],
+      "title": "Helm / support"
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        51
+      ],
+      "frames": [
+        4,
+        5
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        52
+      ]
+    },
+    {
+      "kind": "approach",
+      "steps": [
+        52
+      ],
+      "title": "Shield attachment"
+    },
+    {
+      "kind": "main",
+      "steps": [
+        53,
+        54
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        55
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        56
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        57
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        58,
+        59
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        60
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        61,
+        62
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        63,
+        64
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        65
+      ]
+    },
+    {
+      "kind": "callout",
+      "steps": [
+        66
+      ]
+    },
+    {
+      "kind": "main",
+      "steps": [
+        67
+      ]
+    }
+  ]
+}

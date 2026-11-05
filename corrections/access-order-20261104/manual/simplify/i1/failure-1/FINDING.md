@@ -1,0 +1,14 @@
+# Iteration1 first run — STOP / resource release
+
+- Observed: grant65462d3d exact frozen driver8953a124 ran once. Supervisor exit1; PDF child42929 was terminated with SIGTERM, exit-15, after3.507s. Normal compositor completion is unknown; no PDF/map exists. Direct observed RSS peaked1,196,032,000 bytes; total elapsed3.664s, minimum free790,003,712B, owned new output59,583B. Parentwait completed and recorded survivors were empty. A fresh ps census also found supervisor42867 and child42929 absent. Slot RELEASE sent to root. No checker/raster/retry.
+- Expected: direct observed RSS below1GiB, completion within160s/160MiB, then static check and27 rasters. Missing RSS would mean UNKNOWN, notzero; here a concrete sample breached the cap.
+- Owner: DSS local PDF composer/retained-template image lifetime; no model or visual defect established. Original template/shared packages remain read-only.
+- Proposed next action: local overlay page-scoped jpeg_cache.clear() after c.showPage, then exactly the failed candidate under the same cap after explicit disposition/grant. No quality, geometry, source order, layout or resolution reduction.
+
+Retained artifacts: failed build directory with composition-plan and two guidePNGs; original empty pdf.log and run.json copied here. Absence of final PDF means this is not a completed simplification iteration. No pixel/page comparison can be claimed.
+
+Read-only diagnosis: retained template make_full_instruction_pdf.py61–65 caches ImageReader objects across every page. Installed ReportLab5.0.1 utils.py738–760 retains PIL decoded image plus RGB _data; canvas.py984 forces getRGBData for image dedup. PDFImageXObject stores encoded JPEG data independently (pdfdoc.py2191 onward). Clearing the caller cache after showPage should release decoded image representations while retaining identical embedded JPEG bytes and canvas image reuse.
+
+158 narrative images have a calculated263,940,480 thumbnailRGB bytes at the existing960x680 ceiling; two retained representations total527,880,960 bytes before icons, artwork, allocator overhead and PDF structures. This is a source-based memory explanation, not a measured per-allocation profile. The two generated hood guide files show construction pages finished and print processing began, but an empty log does not identify the exact interrupted line. Hood2048x1536, banners2048x2048, jacket512x512 source headers were inspected read-only. No source image was decoded in diagnosis.
+
+Prior successful136-page compositor uses the identical global cache and recorded no RSS metric. Thus this is not established as a new layout memory regression. The smallest falsifiable experiment is the one page-lifetime change with unchanged1GiB cap, actual successful71page output and observed RSS. Preserve failed source04c7aeb and failed output; use a fresh retry path. No new harness or budget escalation is proposed.

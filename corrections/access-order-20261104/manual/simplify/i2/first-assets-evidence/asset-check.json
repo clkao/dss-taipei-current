@@ -1,0 +1,174 @@
+{
+  "numbers": {
+    "texts": [
+      "1",
+      "2",
+      "3"
+    ],
+    "binding": {
+      "mode": "diagram",
+      "source_hash": "8094a5b8dd58df0dd864982602e396e82a6d461e8c86e3e28232f268e5418878",
+      "unit": "chassis-core",
+      "operation": null,
+      "cumulative": [
+        "o/14/1/1",
+        "o/14/10",
+        "o/14/11",
+        "o/14/1/2"
+      ],
+      "new": [],
+      "rendered": [
+        "o/14/1/1",
+        "o/14/1/2",
+        "o/14/10",
+        "o/14/11"
+      ],
+      "display_offsets": {
+        "o/14/10": [
+          0,
+          0,
+          55
+        ],
+        "o/14/11": [
+          0,
+          0,
+          55
+        ],
+        "o/14/1/2": [
+          0,
+          0,
+          150
+        ]
+      },
+      "source_matrices_unchanged": true,
+      "rendered_matrices": {
+        "o/14/1/1": [
+          0.05,
+          0,
+          0,
+          0,
+          0,
+          -0.05,
+          0,
+          0,
+          0,
+          0,
+          -0.05,
+          0,
+          10.999990050000001,
+          3.218752030000001,
+          -3.5000014300000006,
+          1
+        ],
+        "o/14/1/2": [
+          0.05,
+          0,
+          0,
+          0,
+          0,
+          -0.05,
+          0,
+          0,
+          0,
+          0,
+          -0.05,
+          0,
+          10.999990940000002,
+          3.218752630000001,
+          -12.000000400000001,
+          1
+        ],
+        "o/14/10": [
+          -1.6500000000000002e-8,
+          0,
+          -0.05,
+          0,
+          0,
+          -0.05,
+          0,
+          0,
+          -0.05,
+          0,
+          1.6500000000000002e-8,
+          0,
+          5.000000330000001,
+          2.718753720000001,
+          -6.75,
+          1
+        ],
+        "o/14/11": [
+          -1.6500000000000002e-8,
+          0,
+          -0.05,
+          0,
+          0,
+          -0.05,
+          0,
+          0,
+          -0.05,
+          0,
+          1.6500000000000002e-8,
+          0,
+          16.999986500000002,
+          2.718753720000001,
+          -6.75,
+          1
+        ]
+      }
+    },
+    "paired": {
+      "source_hash": "8094a5b8dd58df0dd864982602e396e82a6d461e8c86e3e28232f268e5418878",
+      "action3": {
+        "action": 3,
+        "operation": "legacy-001b",
+        "moving_occurrence": "o/14/1/2",
+        "receivers": [
+          {
+            "piece_id": 216,
+            "occurrence_id": "o/14/10",
+            "instance_id": "0bad7be1-14f1-580d-9b85-ede56e99ae0c",
+            "part": "2780",
+            "color": 0,
+            "screen_target": [
+              709.2895638339493,
+              239.08045009092135
+            ]
+          },
+          {
+            "piece_id": 231,
+            "occurrence_id": "o/14/11",
+            "instance_id": "f17392aa-ada1-51f0-96b0-c6b9e95e943c",
+            "part": "2780",
+            "color": 0,
+            "screen_target": [
+              240.1230971770454,
+              264.8769320512811
+            ]
+          }
+        ],
+        "meaning": "paired receiver locators; not physical insertion paths"
+      },
+      "first_two_actions": "retained unchanged",
+      "source_order_poses_tray_offsets": "retained unchanged"
+    },
+    "rect": {
+      "x": 200,
+      "y": 335.59375,
+      "width": 1000,
+      "height": 640,
+      "scale": 1
+    }
+  },
+  "pairs": [
+    "s12-f7",
+    "s17-f9",
+    "s17-f14",
+    "s17-f16",
+    "s18-f9",
+    "s18-f14",
+    "s18-f16"
+  ],
+  "errors": [],
+  "source_unchanged": true,
+  "physical_verified": false
+}

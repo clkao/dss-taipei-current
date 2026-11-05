@@ -1,0 +1,13 @@
+{
+  "builds/access-corrected-hybrid-prefix/package-manifest.json": "28d6a5a2cb18b6a8db6ede24949de0a5311957642a2b67652610bd7844d108c6",
+  "builds/access-corrected-hybrid-prefix/release.zip": "3d9300eaad2c4deaf910f7f60d0e9648b83ffd8367cb5cc3d54f2ce3dd3a7769",
+  "builds/access-corrected-hybrid-prefix/model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+  "builds/access-corrected-hybrid-prefix/instruction-plan.json": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+  "builds/access-corrected-hybrid-prefix/viewer.html": "18025ef3f162357eb0fb833b948639e0873db59778997a37356233342666725a",
+  "builds/access-corrected-hybrid-prefix/index.html": "8e805e7da2b8667d6a3b79f4e8d7d63ce07d41b6fb3064643015ab00db7988b5",
+  "builds/access-corrected-hybrid-prefix/credits.html": "0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367",
+  "builds/access-corrected-hybrid-prefix/sticker-artwork.zip": "804dc963a58215bb15f872183fec6cb2e87d44dea6853cc851582d5490068fe8",
+  "builds/simplification-i3-polish/instructions.pdf": "5c347b0e5d639a5ed5f45be6e867a14772fa01ed92ec4c80b472f956bbcf7bbd",
+  "builds/simplification-i3-polish/pdf-page-map.json": "de2bc9955d5472d8113203fd195a20cdc7bd463a52ffc13c154d173d851cf61a",
+  "builds/simplification-i2-assets/numbers-only.png": "81510ce86c45ee948366fda805ace64ea5d564b35d05ec69941f11bc192fb35f"
+}

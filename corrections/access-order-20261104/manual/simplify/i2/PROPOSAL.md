@@ -1,0 +1,57 @@
+# Iteration2 — implemented local correction / UNRUN
+
+Source input is actual iteration1 PDF e8739547… and independent critique254fd6c. Root completed the remaining13 i1 rasters; its exact record is now retained under i1/rendered-evidence. Original memorySTOP, diskSTOP and later completion remain distinct. No accepted package or publication changed.
+
+## Implemented changes
+
+- Tray columns follow measured complete text plus36pt icon,4pt gap and10pt clearance. ArialBold9pt examples: `1 x 3626cp87`55.546875pt (cell105.546875pt); `1 x 3815c01`50.049316pt; `2 x 32556b`45.536133pt. This replaces fixed3-column narrow trays without shrinking type. Runtime checker compares every measured label footprint against its cell.
+- Callout parts appear once in a full-width per-copy tray. Simple wheel/riser/ring callouts show one completed construction image beside installation, not two oversized snapshots or a false exploded view. Other necessary ordered frames remain. Source operations remain traceable.
+- Rail2 has separate three-frame C17 and C18 lanes, each using its actual base/first/second source frames. One-copy total tray is3710×1+99207×2. No normalized order, merged branch or third bracket.
+- Carrier components A(base8),B(rail4),C(rail3) each show2x, allocated17+18. A18/B18/C18 are explicitly reserved. Joins identify B17/C17 or B18/C18 and preserve distinct whole-carrier placements. Shield52 remains2 copies;53 explicitly builds1 from recipe52 using its own new-stock tray rather than consuming a fictitious earlier third copy.
+- Seven receiver/installed pairs use a locked common camera. Source-origin locators are projected from existing assembly matrices; two views share coordinates. PDF composition adds matched marks, larger clipped detail and a whole-assembly locator rectangle. No path arrow or connector/insertion proof is inferred. Source pair IDs are explicit in receiver-jobs.json; rail joins use existing source_mate_pairs. Bumper and whole-carrier locators identify source parts/regions, not validated contact points.
+- Local numbers-only derivative d6c7e223… changes only three badge-label arguments in frozen8342318d HTML to empty strings. Exact substitutions are recorded. Geometry/catalog/proof JSON/paired-target patch stay byte-identical; both pin locators, action numbers and arrows remain. No shared edits or upstream request.
+
+The house manual informed per-copy tray placement, component/placement linkage and source-bound locator insets. Its prose and fixed grid were not copied. Existing readable i1 ordinary pages and base/rail1 composition remain. FO workflow rule3f65b1f is recorded authority; no README overwrite/rebase.
+
+## Stage A — proposed asset run, requires resource grant
+
+CWD `/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction`.
+
+```
+PYTHONDONTWRITEBYTECODE=1 /Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/simplify/i2/run-assets.py
+```
+
+Driver launches pinned Node24.22.1 and local render.mjs2cf4b4a9…; full source pins are asset-pins.json. It uses existing capturePreviewInternals as a one-run observation callback; the shipped viewer has no new API. Its setter/render calls are presentation operations, selection membership is authored evidence, and source-origin projection is a locator, not GPU visibility proof.
+
+Fresh absent output `builds/simplification-i2-assets`, private profile `tmp/yangliu-preview-chrome-3ce3ba4c`, port19324 free before launch. Exact output:1 numbers-only PNG,14 receiver PNGs,receiver-locations.json,asset-check.json,telemetry/logs and owned temp. One browser, no full-model render sweep. ≤90s including closure,≤150MiB all new output/profile/temp; fresh≥576MiB/free floor512MiB. Existing PID-identity supervisor reap/census/profile cleanup rules retained; unknown/live/EPERM/busy port retains profile and STOP. No peer signals, shared writes or installed-code changes.
+
+After closure, inspect all15 actual images and locator bindings. **STOP before PDF if correspondence, visible receiver context, number-only text or source equality fails.** Only after actual author image PASS create review-pass.json with exact generated hashes. make_pdf.py refuses without that record. No manufactured PASS or automatic rerender.
+
+## Stage B — conditional PDF / affected pages, separately released
+
+Same cwd and pinned Python, exact absolute `manual/simplify/i2/run.py`. It creates absent `builds/simplification-i2` and `tmp/simplification-i2`. Expected71 pages; actual count governs. PDF≤90s,static checker≤20s,27 selected110dpi rasters within≤160s total/160MiB; observed directRSS<1GiB,576start/512floor. Known page-cache lifetime fix retained; no quality/resolution change. input-pins.json binds static source/images and actual review-pass binds generated assets.
+
+Selected pages remain4,5,7,9,14,15,16,18,21,22,23,24,25,26,27,30,37,45,46,49,50,51,53,55,57,58,61. Exact Poppler889fd534… command per page: `pdftoppm -r 110 -png -f N -l N <newPDF> <newA4dir>/page`. All writable PDF/map/guide/raster/measurement/log paths are new regular files. Inputs only are readonly symlinks. No marker repeat, package, viewer shipment, publication or existing-candidate overwrite.
+
+Actual i2 page feedback will select iteration3 work: smallest remaining target ambiguity, visual flow, sticker details/figure redundancy and whole-manual checks. The page plan remains a design candidate, not a71-page quota or final acceptance. Three actual design passes are still required; i2 is not counted until rendered and reviewed. Physical insertion/handling, nativeUI and native adoption remain unproven.
+
+## Receiver-only successor — UNRUN, numbers-only reused
+
+First StageA generated15images normally (Node/Chrome0) but original supervisor1 on busyport; separate authorized closure later succeeded. Actual image review found orthographic frustum restoration omitted. Full record in first-assets-evidence; no imagePASS/PDF. No geometry/selection/layout change.
+
+Exact next command, same cwd/pinnedPython:
+```
+PYTHONDONTWRITEBYTECODE=1 /Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/simplify/i2/run-receivers.py
+```
+
+Driver066ec6c9779354b94d2e2ef5112a65e6c74beeaa49ad27e105499018084ee426, Nodehelper4119f40b4fc4bd7142e7ec9536ea36e50f108d2593c70d5fe2d7406e69614a49, bundle4c023f3385a09b6edd340658acd2860da0c1c07c960c6fdd2f9308c939bda026. Fresh output builds/simplification-i2-receivers; private profile tmp/yangliu-preview-chrome-f0c05ede; port19038. Same90s150MiB/576start512floor/identityclosure, no PDF. Exactly14newreceiverPNGs; numbers-only81510ce86c45ee948366fda805ace64ea5d564b35d05ec69941f11bc192fb35f is linked read-only, not rerendered. Helper saves/restores left/right/top/bottom/zoom and asserts projection equality plus paired target-coordinate agreement. Retain originals and stop on any new error/finding.
+
+Future conditional PDF uses corrected receiver directory: make_pdfc3c7f38e…, staticbundle79cb6558…; other layout/check/plan unchanged. This path rebind does not authorize StageB. Review all14correctedimages and originalgreen number image before creating exact imagePASS hashes. No extra iteration is claimed for a helper repair.
+
+## Actual corrected image review — StageB ready, UNRUN
+
+All14 corrected receiver PNGs plus reused opening81510ce8 were individually inspected. Complete framing and scale now match; no clipping or further image-level finding. Seven full projection matrices match and paired locator residuals are0. Author image review e46e027cb5efdc2290bb343442f10a4bb525cdf59999b170f1613847c2010637 binds every consumed asset. This permits composing a candidate, not final A4/physical/native acceptance.
+
+Receiver helper/Chrome exited0; supervisor1 busyport is preserved. Separate closure-onlyd3bd7af4 found no LISTEN/allTCP/netstat entries, no attributed/profile/unknown identities, noEPERM and one bind succeeded. Only owned profilef0c05ede and receiver temp removed. Full release sent. Records in receiver-evidence retain both original failure and later resolution.
+
+StageB exact invocation remains pinnedPython87d with PYTHONDONTWRITEBYTECODE1 absolute manual/simplify/i2/run.py a8b522f196db7072e1251928d43996908eb58e064274b56125ed33f1e55d37c5, same cwd. PDFc3c7f38e615abb4ceb71470756cc8c8a7a04ddf0a8bb795277f393090a695fc2; layout84c012a3cfbe66bd8904d8baa3a79df336651c86bbc4d262b82419719970fa6d; checkebeded448bc102f24d38f525299a1a1e5e425d429a41597f72cb41e80961eca6; staticbundle79cb65582f07ba970c4fc5dc162c97c0db5555a9f3f4b7a9f1d6093f2daad054. Fresh builds/tmp simplification-i2, expected71PDF and27 listed110dpi rasters,≤160s160MiB/576start512floor/directRSS<1GiB. No browser,3D,marker repeat or package/publication. Awaits separate scheduling grant.

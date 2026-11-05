@@ -1,0 +1,18 @@
+{
+  "grant": "d3bd7af4",
+  "attribution": "lsof LISTEN/allTCP19038 and netstat exactport returned no entries at observation; original busyport cause unknown",
+  "original_supervisor_exit": 1,
+  "original_node_exit": 0,
+  "original_port_error": "[Errno 48] Address already in use",
+  "live": {},
+  "unknown": {},
+  "profile_users": {},
+  "port19038_bind_free": true,
+  "bind_error": null,
+  "eperm": false,
+  "closure_pass": true,
+  "removed": [
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/tmp/yangliu-preview-chrome-f0c05ede",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i2-receivers/temp"
+  ]
+}

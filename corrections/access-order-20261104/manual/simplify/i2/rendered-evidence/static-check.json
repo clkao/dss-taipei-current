@@ -1,0 +1,12 @@
+{
+  "measured_tray_cells": 78,
+  "pages": 71,
+  "pdf_sha256": "a8fdb1b6fc76194613702a530d36f708a2f16561188fd963ca39e7135a7f2b73",
+  "map_sha256": "d3cf43c710b9aa9427f627ede432cb4bfa96f344078d2931db51c400e3f14edb",
+  "unchanged_model_sha256": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+  "source_steps": 67,
+  "source_operations": 215,
+  "unique_parts": 348,
+  "visual_review": "pending; this static check is not readability or physical proof",
+  "baseline_immutable": true
+}
