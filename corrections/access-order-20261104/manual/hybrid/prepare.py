@@ -9,6 +9,9 @@ UP=Path(binding['corrected_asset'])
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 assert sha(UP)==binding['corrected_asset_sha256']
 assert sha(OLD/'model.json')=='3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229'
+assert sha(OLD/'viewer.html')=='8c6b1608d9d959fbea6072a864766ffecc2087734a3e531b33977bcb2848d30d'
+assert sha(OLD/'index.html')=='4c5c1401db161f3a49b7d05463b7c5b2cb4ef82a2ec1e085f60f0ff8da46b6f5'
+assert sha(OLD/'credits.html')=='0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367'
 m=json.loads((OLD/'model.json').read_text());frames=m['instruction_plan']['steps'][0]['manual']['frames']
 assert [(f['source_operation'],f['ids']) for f in frames[:3]]==[('legacy-001a',[172]),('legacy-012',[216,231]),('legacy-001b',[178])]
 NEW.mkdir() # Fail rather than reuse an existing candidate.

@@ -1,0 +1,9 @@
+{
+  "candidate": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix",
+  "expected_viewer_sha256": "1d56a99417d2e6d64185398f9c85a76ccea31837803a46c8d737a126831b7a18",
+  "profile": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/tmp/yangliu-preview-chrome-ce86b402",
+  "port": 19402,
+  "temp": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/tmp/hybrid-prefix-browser-temp",
+  "ui_limit_seconds": 90,
+  "ui_incremental_limit_mib": 150
+}

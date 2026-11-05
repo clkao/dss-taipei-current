@@ -368,9 +368,42 @@
   "presentation_only_caption": "3. Seat the second beam on BOTH exposed pins.",
   "adopted": false,
   "physical_insertion_verified": false,
-  "corrected_asset": null,
-  "corrected_asset_sha256": null,
-  "asset_status": "BLOCKED: task66 paired receiver marks for both216+231 pending; original prototype retained, not selected final",
-  "upstream_source_revision": "5ef0722",
-  "upstream_proof_revision": "26d477e2"
+  "corrected_asset": "/Users/clkao/git/spacedock-research/studfleet/builds/ordered-construction-diagram/paired-target-v1/artifacts/diagram-paired.png",
+  "corrected_asset_sha256": "69021bb267165d79bae743f98154e1d3853cb81e5d28526ddfb9b19142d6301b",
+  "asset_status": "selected experimental asset; integrated review pending",
+  "upstream_source_revision": "a3972ea",
+  "upstream_proof_revision": "26d477e2",
+  "upstream_asset_binding_sha256": "b5669accd2c7a101fd0c0172d32a6320ef9d6774ae104a015f11c79e642127fa",
+  "upstream_source_correction": {
+    "intent_sha256": "a2c749c5c8f0d37f016760a560ff2a249e54446bea502680fcd940f4f1833865",
+    "patch_sha256": "6b0b38dc68acd611ee365987e68b29372dc5a04f8c95aadaaec58ad067cec039",
+    "generator_sha256": "f0b7f1b081c0ce2ce84428e78515b6c5a4bbf44db8ebccf6db044e9765779d78"
+  },
+  "receiver_binding": {
+    "operation_id": "legacy-001b",
+    "caption": "Fit over both pins",
+    "moving_piece_id": 178,
+    "moving_occurrence": "o/14/1/2",
+    "moving_instance_id": "206bd7fe-0248-56a3-bdc8-36cc58b3bcc3",
+    "receivers_available_after": "legacy-012",
+    "receivers": [
+      {
+        "piece_id": 216,
+        "occurrence_id": "o/14/10",
+        "instance_id": "0bad7be1-14f1-580d-9b85-ede56e99ae0c",
+        "part": "2780",
+        "color": 0
+      },
+      {
+        "piece_id": 231,
+        "occurrence_id": "o/14/11",
+        "instance_id": "f17392aa-ada1-51f0-96b0-c6b9e95e943c",
+        "part": "2780",
+        "color": 0
+      }
+    ],
+    "locator_anchor": "the two existing source-bound blue action2 receiver targets; add orange outer rings without changing them",
+    "physical_path_meaning": false
+  },
+  "upstream_resource_limits": "Normal supervisor/Node exit0, time-l18.95s and postwait own-job absence; admin90.677s exceeded budget. Combined RSS UNKNOWN from truncated/mixed ps; arithmetic1059840KiB is not complete cohort peak. No older/personal renderer attribution established. Original failure history retained."
 }

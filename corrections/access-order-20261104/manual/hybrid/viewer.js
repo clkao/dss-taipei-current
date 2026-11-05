@@ -28,7 +28,7 @@
   };
   window.setInstructionStep=(n,opts)=>{
    box.hidden=true;actions.hidden=true;const result=step(n,opts);
-   if(Number(n)===1){const select=document.querySelector('#recipe-frame');for(const o of select.options){if(['1','2'].includes(o.value))o.remove();else if(o.value==='3')o.textContent='Actions 1–3 · one diagram';}}
+   if(Number(n)===1){const select=document.querySelector('#recipe-frame');for(const o of [...select.options]){if(['1','2'].includes(o.value))o.remove();else if(o.value==='3')o.textContent='Actions 1–3 · one diagram';}}
    return result;
   };
   // Inspected source states are optional; primary Next continues after the prefix.
