@@ -1,10 +1,12 @@
 """One-time UI-only successor staging; execute only with its coordinated lease."""
 from pathlib import Path
-import hashlib,subprocess
+import hashlib,subprocess,json
 P=Path(__file__).resolve().parent;R=P.parents[3];B=R/'builds/access-corrected-hybrid-prefix'
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 assert sha(B/'viewer.html')=='1d56a99417d2e6d64185398f9c85a76ccea31837803a46c8d737a126831b7a18'
-assert sha(B/'instructions.pdf')=='d8cb787b8f6572854370e650b4ceb2f59c35d78e3ae5bec7ebd43d16bbabc137'
+assert sha(B/'before-diagram-text-trim/instructions.pdf')=='d8cb787b8f6572854370e650b4ceb2f59c35d78e3ae5bec7ebd43d16bbabc137'
+check=json.loads((B/'hybrid-pdf-check.json').read_text())
+assert check['pdf_sha256']==sha(B/'instructions.pdf') and check['unchanged_135_page_streams_and_all_page_images_equal']
 old=subprocess.check_output(['git','show','5562901:corrections/access-order-20261104/manual/hybrid/viewer.js'],cwd=R,text=True)
 new=(P/'viewer.js').read_text();retained=B/'before-sidebar-fix';retained.mkdir()
 for n in ['viewer.html','index.html']:
