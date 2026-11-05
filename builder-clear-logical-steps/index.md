@@ -367,3 +367,37 @@ Evidence root `corrections/builder-clear-logical-steps/cycle4/`: `REVIEW-HANDOFF
 The named five pages now use orange continuous alignment paths, true stud endpoints, a naturally oriented rear-bed view and geometry-derived partial hidden-line styling. This is explicit captain follow-up after cycle3, not a fourth independent review. The earlier authorized semantic exception original44→43 and46→45 remains unchanged and synchronized; original-order equality remains false. Actual cycle3 four-frame ownership/bands/downstream browser evidence is reused by hash because plan and handlers are identical.
 
 Initial camera startup failed before capture; same four jobs succeeded with bounded20s discovery. Evidence retained.576MiB admission/512MiB active guards stayed unchanged; final archive minimum free10,274,217,984 bytes. Only closed task browser profiles cleaned. No shared StudFleet update, publication, independent PASS, human acceptance, live-device, physical fit/path/strength or full-edition native parity claim. Captain judgment remains pending.
+
+## Stage Report: authoring (cycle 6)
+
+- DONE: Prove maximal complete-side repeat equivalence and replace internal identifiers/tiny diagrams with one truthful complete2x recipe and distinct placements where supported; report any semantic order proposal before changing it.
+  Source `ecaae43`; full15-part sides are not rigidly congruent; maximal13 aligned parts exclude two supporting plates and are not a complete recipe. Verified complete8/4/3 units each2x share one method; large matched variants and distinct placements replace internal IDs. `side-equivalence-finding.json` would fail the full15 repeat assertion; FO authorized the minimal71/72 order correction before implementation.
+- DONE: Correct p36 recipe pointer/new-component role and remove redundant right outline; remove p37 duplicate numbering and restore consistent orange-backed logical-step headings from retained style.
+  Newp35 leader ends on floating crossbar, right outline absent; newp36 has separate21/22 coral headings. Retained original style hash150df952…; all main-step heading regions inspected. Final3D CSS separately exercised: coralrgb(216,108,85), whitergb(255,255,255); PDF/images unchanged by CSS fix.
+- DONE: Return actual readable final pages/package, precise source/stock/order and unchanged-content evidence plus preserved failures for direct captain judgment, no shared-tool changes or publication.
+  `validation.json` checks79 A4 pages,348 exact piece records/unique introductions,215 unique operations, common8/4/3 ownership, unchangedstep19,79 guide links and108 loose file hashes;72 unaffected body regions match outside declared heading/footer masks. Any pose/stock/extra reorder/ownership/link/body-region change fails the corresponding check.109 ZIP members verified.
+
+### Exact package and semantic exception
+
+Worktree `/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps`; code commit `ecaae43` on `builder-clear-logical-steps`.
+
+- Package `builds/clear-logical/cycle5/package`.
+- PDF SHA256 `525e42c3f6dc61913d29af791cc27f34699dd9ca8a2ce1036989ae4e62381e97`.
+- ZIP SHA256 `a284f8c62e1fc2b551cbec7329d5d2dd64db47bb22d34e2998b09638821677b3`.
+- Manifest SHA256 `d36a38059619579d4423714bb8a9e051d54db8bcad90fb1211edeb178d9435c7`.
+- Model SHA256 `d7081640aac6a6bf39ba561f576c1cebdb5edaa1f9dc7b1da81e7eecc1643bb0`; plan `ff41d3c3b2007140dc509200cc6eee6da068def6645dcb5fce1930b9aaa96d76`.
+- Guide/index `da294f78a64a6260cec36de22bdd5aa5a795123b64b1cbc9431290ed45fee9c9`;3D viewer `d45f5b58bb49af7b94e484bb04ab4c4b4fc1c80187bada7f7dbd2a919d455f97`.
+
+FO authorized right loose-rail original72 before71, yielding[70,72,71,73], alongside existing44-before43 and46-before45. One derived plan drives PDF and3D. Original-order equality remains false by exactly these three exchanges; all rigid poses/colors/stock remain exact. Semantic order correction is distinct from display-only offsets/hidden lines. No physical insertion clearance claim.
+
+Evidence root `corrections/builder-clear-logical-steps/cycle5/`: `CORRECTION-LOG.md`, `REVIEW-HANDOFF.md`, `before-after.html`, `side-equivalence-finding.json`, `operation-crosswalk.json`, `validation.json`, `author-visual-review.json`, `browser-check.json`, `final-links-check.json`, `viewer-heading-check.json`, `runtime-evidence.json`, `package-check.json`, `version-bindings.json`.
+
+Actual browser rightcarrier frames10/11/12/14/16 verify changed IDs/order/bands; final guide/image/print navigation exercised separately. Final3D heading computed-style and screenshot check is distinct from PDF/guide heading inspection. All67 main-step heading regions inspected; final full pages27/28/29/30/31/32/35/36/54/65/69 inspected. No whole-page byte equality claim where headings changed. Guide79 pages; old36→35,37→36, print72/73→71/72.
+
+Cycle4 PDF89c7b5ae… / ZIP06689b90… remain unchanged; full earlier snapshot bindings retained. Pre3D-styleZIP `692e240fca4061f28c83278190c38818662eac3142ff9f40ec7def88bb670aef` retained, same finalPDF. Failed outside views, header overlap/fragments and clipped tray-icon specimens retained; final corrections inspected. Initial absent-head CSS anchor failure corrected at unique style anchor and actually exercised.
+
+### Summary
+
+Common construction is now shown once with the honest small rail-split variant and distinct vehicle placements. Pointer roles and original coral heading hierarchy are restored.79 pages follow removal of duplicate composition, not a quota.
+
+576MiB admission/512MiB active floors remained unchanged; final archive minimum free1,232,252,928 bytes. Only closed owned browser profiles cleaned. No shared StudFleet update/test; tooling/native parity/physical gaps remain open. This is author/headless/artifact evidence, not independent PASS, live-device usability, human acceptance, physical certification or publication. Direct captain judgment remains pending.
