@@ -25,3 +25,13 @@ Six saved images live in candidate `r2-diagram.png`, `r2-diagram-narrow.png`, `r
 ## Limits and gate
 
 Package generation passes; affected headless UI assertions and author's actual6image inspection pass, with separate postrunclosure resolved. Independent final exact-package review and captain acceptance remain pending. Physical/insertionAC2 and independentnativeUIAC4 remain open; no nativeStudFleet adoption, physical certification, zeroHTTP or all-AC claim. Prior firstZIP failure and diskpreflightstop remain recorded. After review, present exact package and these limits at the captain gate. Existing publication remains unchanged; this author does not publish.
+
+## Formal AC1–5 accounting
+
+| Criterion | Evidence and remaining limit |
+|---|---|
+| AC1 same model/honest stock | Exact model/plan bytes retained;348introductions/215operation crosswalk and copy ownership evidence reused. Newpackage hashes bind them; final independent package check pending. |
+| AC2 reported transitions usable | Actual ordered/context panels and source sequence supported. Physical/supported continuous insertion exercises unperformed; carrier witnesses156/99,166/129,96/99,115/129 remain unresolved. Localrecipe review does not certify wholecarrier placement. |
+| AC3 comparable-risk sweep | Original199operation/68step sweep and rearbed-beforetrim correction retained. Suspension/floor/caps/lights/cabin/roof/shield/lateequipment holds remain; optional mesh owner StudFleet31(315f09esmt0nmg9mhfysv662), physical handling needs real parts. No sweep clearance from visual simplification. |
+| AC4 readable complete package | Exact69PDF independently reviewed; complete artifact/ZIP binding and author affectedUI pass. Retained main/local/copy evidence scoped to unchanged scripts. Fresh independent exactpackage review and independent native main/local/copy UI remain open. Legacy/manual delivery is explicit, not supported nativecompiler adoption. |
+| AC5 truthful acceptance/history | Exactpins, failures/closure and prior editions retained; no publication mutation. Independent final findings and captain decision still required for this package; prior publication authority is not a new acceptance result. |
