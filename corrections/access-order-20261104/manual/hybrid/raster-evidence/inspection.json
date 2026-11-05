@@ -1,0 +1,22 @@
+{
+  "grant": "b999c3f2",
+  "actual_pages_inspected": [
+    3,
+    4,
+    5,
+    128,
+    129
+  ],
+  "observations": {
+    "3": "Chapter overview and step ranges readable; unchanged content.",
+    "4": "Chassis core structural heading; one large three-action diagram with two receiver rings and one2+2parts tray; no repeated caption.",
+    "5": "Continues with panel4/8 tying both beams; two3031plates and context retained.",
+    "128": "Sticker placement/scale guide readable, printpage128.",
+    "129": "Both speechbubblefaces/jacket/20mm scale and limits retained, printpage129."
+  },
+  "author_visual_result": "PASS for these five actual A4 rasters; independent review remains separate",
+  "closure": "Separate later fresh census/listener/bind passed; only owned profile/temp removed. Original supervisor1/twoTIME_WAIT retained.",
+  "package_binding": "PENDING; no references/manifest/ZIP rewritten",
+  "publication_changed": false,
+  "native_studfleet_adopted": false
+}

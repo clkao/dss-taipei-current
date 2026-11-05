@@ -1,0 +1,18 @@
+{
+  "authorization": "b999c3f2 one later closure",
+  "original_supervisor_exit": 1,
+  "observed_unix": 1793840055.245943,
+  "listen": {
+    "exit": 1,
+    "stdout": "",
+    "stderr": ""
+  },
+  "live_owned": {},
+  "profile_users": {},
+  "unknown_identities": [],
+  "eperm_observed": false,
+  "port_bind_free": true,
+  "closure_resolved": true,
+  "profile_absent": true,
+  "temp_absent": true
+}

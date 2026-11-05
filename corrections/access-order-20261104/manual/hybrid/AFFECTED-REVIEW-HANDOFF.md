@@ -1,0 +1,17 @@
+# Hybrid prefix: affected artifact review evidence
+
+Current candidate builds/access-corrected-hybrid-prefix has actual136pagePDF and tested primary single-diagram viewer. It is not yet a release package: print references, provenance, manifest/archive binding are pending separate authorization. Do not publish it or treat this handoff as a passed independent review.
+
+PDF6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062; map5aee7e6fd9b08d304a9335e424d1a61cde45395f041053f45fe4fb2c55e9dc78; viewer6f00c106ad2decca8f8bb6b868956ef8da0da1428dfa0fbbe972e5203e1d836f; model3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229; plan df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff. Exact remaining pins and six screenshot hashes are in text-run-evidence/result.json; five page hashes in raster-evidence/hybrid-raster-run.json.
+
+Author read all five actual saved A4 images a4-review/page-003.png,004,005,128,129. Page4 has concise structural title, one large diagram with short numbered labels, both pin receiver marks, one tray2×32018+2×2780 and no repeated caption. Page5 resumes panel4/8 with both beams/two square plates. Adjacent chapter page and two print guides remain readable. No new material finding in this affected inspection.
+
+Author inspected all six saved UI images r2-{diagram,inspect1,inspect2,inspect3,next4,diagram-narrow}.png. Actual settled checks confirm no duplicate diagram sidebar/belowimage prose and restoration of original Inspect/Next4/overview captions. Ten source/navigation traces and R2main11bands/seed/2xcopy controls passed. These are author headless/visual evidence, not independent native reader interaction or physical assembly certification.
+
+Exact PDF checker compared all boxes and image bytes, and all135 unaffected decodedpagecontent streams against retained first136pagePDFd8cb; equal. Maps match except actualPDFhash. Earlier grouping preserves every remaining R2page's image/source metadata after old4–6→new4, with subsequentpagesminus2. This correspondence is source/artifact evidence, not a claim of independently reading every new page. Same reviewer can reuse retained R2review and challenge the changed diagram/flow/refbindings.
+
+Producer: immutable experimental StudFleet task66 diagram69021 plus DSS legacy composer/adapter. Not native StudFleet production output; adopted=false. Authoritative three operations and four exact final poses remain unchanged; no invented physical movement. Historical upstream resource failures/overrun/RSSunknown remain in binding evidence.
+
+Runtime history remains literal. FirstUI and conciseUI had Node/Chrome0 but supervisor1 on finalbind. ConciseUI attribution actually saw twoTIME_WAIT; freshbind remainedbusy and profile was retained. Remaining-only grantb999c3f2 produced five rasters in2.994s, peak876,052B/minfree7,724,638,208, allfivePoppler processes explicitlywaited0/absent. Its separate authorized later census/listener/bind found noowned/profile/unknown/EPERM/listener and freeport; only ownedprofile/temp removed. Raw failures are not relabeled successful. Allownedwork is closed and compute released.
+
+Next: exact map-driven package/reference binding under separate scope, then same independent affected review of finalpins and these actual artifacts. Preserve name-only credit, Technic, rights and editableart. No source/geometry/order/stock change or additional renderer/browser/PDF rerun is needed for existing green evidence.
