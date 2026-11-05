@@ -123,3 +123,40 @@ FO authorized correction of R1-R5 without a captain rejection. Source commit `42
 The FO restored the established 512 MiB active disk floor during source investigation. No new render, PDF, ZIP or browser run occurred under the proposed lower floor. Commands only read source/catalog data, created directories and linked the existing catalog. Static derivation and syntax checks followed under the restored rule. Fresh free space remains about 310 MiB, below 576 MiB admission.
 
 All task-owned closed browser profiles were already removed in the prior round. No peer cleanup occurred. Existing unique evidence and artifacts remain preserved. Fresh read-only SHA256 checks confirm that the rejected PDF `db13a653`, viewer `4d6b7902` and ZIP `5c34b1d1` remain unchanged. R1-R5 remain open until rendered corrections, exact successor-package checks and actual enlarged/link/back exercises run after resource recovery. No authoring completion or acceptance is claimed for this correction round.
+
+## Stage Report: authoring (cycle 2)
+
+FO-authorized correction round 1 completed at source commit `92cc98d`, following static source commit `420c107`. This is a response to independent findings, not a captain rejection or acceptance. The original review and rejected package remain intact.
+
+### Completion checklist
+
+- [x] Correct R1-R4 with source-bound actual visible attachment features and matched context/orientation, preserving rejected bytes and immutable model/stock/order.
+  - R1: catalog pin-end and beam-hole-mouth leaders, enlarged unit panels, explicit turn; pp10/12/14/16.
+  - R2: four actual aperture closeups plus region locator, original cord route; p69.
+  - R3: installed-plate blue highlight and matched C corner; pp24/25.
+  - R4: same overhead foot views, paired sole regions and helm landmark, accurate enclosure/upper-body omission caption; p71.
+  - Verified source records, exact model/plan, all 348 introductions and 215 operations. Unchanged 72 PDF content streams and page rasters match the predecessor exactly.
+- [x] Exercise existing enlarged mobile detail and actual link/back navigation for R5 with honest evidence categories and bounded own resources.
+  - Actual Enlarge anchor/native image zoom for pp10/24/69/71; actual 3D anchor and browser-history Back to loaded p71. Errors empty. Source-pixel screenshots visually inspected; horizontal scrolling required. Headless 390×900 viewport only, no live human/device test or default-fit detail readability claim.
+  - Original resource hold preserved. 576 MiB admission / 512 MiB active guards retained. One archive admission failed before writes; later recovery admitted successful archive creation. No render/package/browser run used the proposed lower floor.
+- [x] Return exact revised package, affected visual review and unchanged-content evidence for the kept independent reviewer; no publication or shared-tool work.
+  - Package: `/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package`.
+  - PDF SHA256 `59b66fb0bfb8766306b89475e5516cc0c1a5286605355c760ca578a723530f64`.
+  - Viewer SHA256 `4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865` (unchanged shell; corrected images separately bound).
+  - ZIP SHA256 `635049be41e87e1446500e433d58bece6a77822ddd816677abca4d079a0ecf04`; 109 archive members verified.
+
+### Correction evidence
+
+All source evidence below is under the author worktree `corrections/builder-clear-logical-steps/cycle1/`:
+
+- `REVIEW-HANDOFF.md`: concrete R1–R5 disposition, exact successor and predecessor identities, remaining limits.
+- `features.json`, `derive-features.py`, `locator-faces.json`, `ring-locator.json`, `jobs-feet-top.json`: actual feature and orientation correspondence.
+- `validation.json`, `package-check.json`, `package-manifest.json`: immutable input, unaffected-content and exact-package verification.
+- `browser-check.json`, `mobile-run.json`, `author-visual-review.json`: actual exercises and inspected screenshot hashes. Screenshots remain in `builds/clear-logical/cycle1/browser-review/`.
+- `RESOURCE-AND-FEATURE-LOG.md`, `render-run.json`, `feet-top-run.json`, `first-draft.json`: retained hold, failed draft disposition, successful bounded runs. Archive minimum free 794,468,352 bytes; elapsed 1.11 seconds.
+
+Rejected PDF `db13a65349791ea4af2644df5cff26afd1a1bc29a218ec9f1df95983fca02956`, viewer `4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865`, ZIP `5c34b1d1783d4d67b12b0989431a0277a008f6356b530f952c9d8753cc0ea459` remain unchanged at `builds/clear-logical/candidate`. Review commit `9d011e1` remains unchanged.
+
+### Summary and limits
+
+Eight affected pages now use visible features and matched context. Previously green grouping, cabin, carrier and tray work remains unchanged. The exact successor is ready for the kept independent reviewer. Independent recommendation and captain acceptance remain pending. No publication occurred. Digital feature correspondence does not certify insertion clearance, physical fit or strength. Sole marks identify regions rather than certified stud/cavity centers. Cord knot, cut length and slack remain unspecified. No shared StudFleet update/test ran; DSS tooling gaps and native full-edition parity remain unchanged.
