@@ -1,0 +1,36 @@
+{
+  "category": "author visual review, independent review pending",
+  "A4_affected_pages_inspected": [
+    10,
+    12,
+    14,
+    16,
+    36
+  ],
+  "mobile_source_pixel_views_inspected": [
+    10,
+    36
+  ],
+  "default_fit_detail_readability_claimed": false,
+  "horizontal_scrolling_required": true,
+  "human_device_testing": false,
+  "page36_left_recipe_and_tray_pixels_equal": true,
+  "comparison_region_pixels": [
+    0,
+    0,
+    520,
+    849
+  ],
+  "initial_530px_comparison": "JPEG differences only x527..529 y495..511 near changed callout boundary; excluded from exact recipe-content comparison",
+  "screenshots": {
+    "browser-review/returned-guide-390.png": "facd30eed162e33bc216a8a0a94e3902e81fbf15200d8cc4c843977e2630bce5",
+    "browser-review/enlarged-36.png": "b24eb5b5ae16ef8a5f3aea900866bfca58280a94eb8d256a3654932b8d0c46cd",
+    "browser-review/enlarged-10.png": "c432ae02bab140e67e98899b47b2ffb1bdcf3b37449eb594d8976cf74fcc512c"
+  },
+  "bounded_audit": {
+    "30,32,33": "Existing carrier details have localized region boxes and recognizable receivers; unchanged.",
+    "34": "Wheel arches visibly emphasized in main state; no detached callout. Unchanged.",
+    "35": "Rear-bed recipe only; no placement callout. Unchanged.",
+    "37,38": "Direct construction panels with new-part emphasis, no detached callout. Unchanged."
+  }
+}
