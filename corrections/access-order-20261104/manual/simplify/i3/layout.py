@@ -83,12 +83,11 @@ def small_unit(s,top,height):
         label(str(j+1),36+j*130,y+ih+3,9,CORAL,True)
     if n==47:
         label('Inner face',36,y-2,9,INK)
-        label('Outer face',530,y-2,9,INK)
     before=plan['steps'][n-2]['manual']['image']
     if n in [47,60]:
         region_picture(D/before,REGIONS[n],310,y,190,ih)
         region_picture(D/a['image'],REGIONS[n],520,y,190,ih)
-        label('Before',310,y+ih+3,9,INK);label('After',520,y+ih+3,9,INK)
+        label('Before',310,y+ih+3,9,INK);label('After / outer face' if n==47 else 'After',520,y+ih+3,9,INK)
         picture(D/a['image'],717,y,90,ih)
     else:
         region_picture(D/a['image'],REGIONS[n],325,y,330,ih)

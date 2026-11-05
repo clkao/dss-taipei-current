@@ -1,0 +1,9 @@
+# Third candidate: render succeeded, raster disk preflight stopped
+
+Grant3ef4e6b0 executed original source20837f1 once. Supervisor exited1 before launching page50 at the per-child576MiB disk preflight. PDF/check and49 raster children exited0; all explicit waits completed, original and later fresh PID census empty. RELEASE sent. Retained run.json records14.7802885 seconds through the last completed child, minimum603516928B, peakincrement16936556B and observed directRSS700203008B, not combined. The later failed preflight free value was not logged. A subsequent evidence-writing shell heredoc failed ENOSPC; no source/evidence was lost. Read-only census then observed767619072B free. No unsupported attribution of external disk consumption.
+
+Actual69-page PDF42948683c57d88986c5eb85029a848d6212c156b14ac566cb3c875afdef64ae3; map7cbf4ccf4ca14eeb1562dd86f8f9a63ff01b342cbc3427aaf9e85040fcec1cd4. All output hashes1–49 retained; no old artifacts replaced. Pages50–69 unrun and unreviewed.
+
+Author personally inspected all49 saved A4 pages. New finding: page45 lower Outer face caption is covered by the after-image crop. Mechanism: label drawn at y−2 before picture; ascenders overlap image bounds starting at y. DSS Polish/FIX authorized: remove this lower label, use After / outer face above image. Original layoutd9bb retained; static revised layout303e2bc5f43129c8f29bc7a3176df8cca20308992f00adc6ab1b45465e01ec21 prepared. No regeneration. Existing input pins deliberately still bind original candidate; final successor proposal awaits remaining20-page inspection.
+
+Observed gains: page45 combines wheel/riser on one page with actual rim and tyre states, bare axle and installed-wheel detail; page18/24–27 bounded detail regions remove diagnostic IDs/false-precision origin rings; page23 reservation no longer crosses panel border. Remaining same-source assembly/physical limitations unchanged. No final all-page review or acceptance claim.
