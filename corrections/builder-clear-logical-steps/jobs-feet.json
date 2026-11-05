@@ -1,0 +1,19 @@
+[
+  {
+    "name": "helm-feet",
+    "step": 67,
+    "ids": [
+      284,
+      255
+    ],
+    "newIds": [
+      255
+    ],
+    "focus": [
+      255
+    ],
+    "view": "rear-other",
+    "targets": [],
+    "bands": false
+  }
+]

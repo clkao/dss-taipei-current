@@ -1,0 +1,681 @@
+{
+  "pages": 80,
+  "page_records": [
+    {
+      "source_page": 1,
+      "unchanged_content": true,
+      "page": 1
+    },
+    {
+      "source_page": 2,
+      "unchanged_content": true,
+      "page": 2
+    },
+    {
+      "source_page": 3,
+      "unchanged_content": true,
+      "page": 3
+    },
+    {
+      "source_page": 4,
+      "unchanged_content": true,
+      "page": 4
+    },
+    {
+      "source_page": 5,
+      "unchanged_content": true,
+      "page": 5
+    },
+    {
+      "source_page": 6,
+      "unchanged_content": true,
+      "page": 6
+    },
+    {
+      "source_page": 7,
+      "unchanged_content": true,
+      "page": 7
+    },
+    {
+      "source_page": 8,
+      "focused_page": 1,
+      "title": "4  Extend the longitudinal plates toward the front",
+      "steps": [
+        4
+      ],
+      "operations": [
+        13
+      ],
+      "new_ids": [
+        145,
+        165
+      ],
+      "page": 8
+    },
+    {
+      "source_page": 9,
+      "focused_page": 2,
+      "title": "5  Rear left suspension unit",
+      "steps": [
+        5
+      ],
+      "operations": [
+        14,
+        15,
+        16
+      ],
+      "new_ids": [
+        217,
+        218,
+        219,
+        223,
+        224,
+        227
+      ],
+      "page": 9
+    },
+    {
+      "source_page": 9,
+      "focused_page": 3,
+      "title": "5  Attach the completed suspension unit",
+      "steps": [
+        5
+      ],
+      "operations": [
+        17
+      ],
+      "new_ids": [],
+      "page": 10
+    },
+    {
+      "source_page": 10,
+      "focused_page": 4,
+      "title": "6  Rear right suspension unit",
+      "steps": [
+        6
+      ],
+      "operations": [
+        18,
+        19,
+        20
+      ],
+      "new_ids": [
+        225,
+        226,
+        230,
+        240,
+        241,
+        242
+      ],
+      "page": 11
+    },
+    {
+      "source_page": 10,
+      "focused_page": 5,
+      "title": "6  Attach the completed suspension unit",
+      "steps": [
+        6
+      ],
+      "operations": [
+        21
+      ],
+      "new_ids": [],
+      "page": 12
+    },
+    {
+      "source_page": 11,
+      "focused_page": 6,
+      "title": "7  Front left suspension unit",
+      "steps": [
+        7
+      ],
+      "operations": [
+        22,
+        23,
+        24
+      ],
+      "new_ids": [
+        220,
+        228,
+        232,
+        237,
+        238,
+        239
+      ],
+      "page": 13
+    },
+    {
+      "source_page": 11,
+      "focused_page": 7,
+      "title": "7  Attach the completed suspension unit",
+      "steps": [
+        7
+      ],
+      "operations": [
+        25
+      ],
+      "new_ids": [],
+      "page": 14
+    },
+    {
+      "source_page": 12,
+      "focused_page": 8,
+      "title": "8  Front right suspension unit",
+      "steps": [
+        8
+      ],
+      "operations": [
+        26,
+        27,
+        28
+      ],
+      "new_ids": [
+        233,
+        234,
+        245,
+        246,
+        247,
+        248
+      ],
+      "page": 15
+    },
+    {
+      "source_page": 12,
+      "focused_page": 9,
+      "title": "8  Attach the completed suspension unit",
+      "steps": [
+        8
+      ],
+      "operations": [
+        29
+      ],
+      "new_ids": [],
+      "page": 16
+    },
+    {
+      "source_page": 13,
+      "unchanged_content": true,
+      "page": 17
+    },
+    {
+      "source_page": 14,
+      "unchanged_content": true,
+      "page": 18
+    },
+    {
+      "source_page": 15,
+      "unchanged_content": true,
+      "page": 19
+    },
+    {
+      "source_page": 16,
+      "unchanged_content": true,
+      "page": 20
+    },
+    {
+      "source_page": 17,
+      "unchanged_content": true,
+      "page": 21
+    },
+    {
+      "source_page": 18,
+      "unchanged_content": true,
+      "page": 22
+    },
+    {
+      "source_page": 19,
+      "focused_page": 11,
+      "title": "13  Install both floor plates",
+      "steps": [
+        13
+      ],
+      "operations": [
+        42
+      ],
+      "new_ids": [
+        99,
+        129
+      ],
+      "page": 23
+    },
+    {
+      "source_page": 19,
+      "focused_page": 10,
+      "title": "14  Four floor spacers - two plates per stack",
+      "steps": [
+        14
+      ],
+      "operations": [
+        43,
+        44
+      ],
+      "new_ids": [
+        106,
+        110,
+        155,
+        159,
+        103,
+        104,
+        139,
+        146
+      ],
+      "page": 24
+    },
+    {
+      "source_page": 20,
+      "focused_page": 12,
+      "title": "15  Four floor spacers - two plates per stack",
+      "steps": [
+        15
+      ],
+      "operations": [
+        45,
+        46
+      ],
+      "new_ids": [
+        154,
+        160,
+        180,
+        186,
+        135,
+        148,
+        174,
+        175
+      ],
+      "page": 25
+    },
+    {
+      "source_page": 20,
+      "focused_page": 13,
+      "title": "16  Build the bed floor and supports",
+      "steps": [
+        16
+      ],
+      "operations": [
+        47,
+        48
+      ],
+      "new_ids": [
+        75,
+        90,
+        63,
+        111,
+        91,
+        151
+      ],
+      "page": 26
+    },
+    {
+      "source_page": 21,
+      "unchanged_content": true,
+      "page": 27
+    },
+    {
+      "source_page": 22,
+      "unchanged_content": true,
+      "page": 28
+    },
+    {
+      "source_page": 23,
+      "unchanged_content": true,
+      "page": 29
+    },
+    {
+      "source_page": 24,
+      "unchanged_content": true,
+      "page": 30
+    },
+    {
+      "source_page": 25,
+      "unchanged_content": true,
+      "page": 31
+    },
+    {
+      "source_page": 26,
+      "unchanged_content": true,
+      "page": 32
+    },
+    {
+      "source_page": 27,
+      "unchanged_content": true,
+      "page": 33
+    },
+    {
+      "source_page": 28,
+      "unchanged_content": true,
+      "page": 34
+    },
+    {
+      "source_page": 29,
+      "unchanged_content": true,
+      "page": 35
+    },
+    {
+      "source_page": 30,
+      "unchanged_content": true,
+      "page": 36
+    },
+    {
+      "source_page": 31,
+      "unchanged_content": true,
+      "page": 37
+    },
+    {
+      "source_page": 32,
+      "unchanged_content": true,
+      "page": 38
+    },
+    {
+      "source_page": 33,
+      "focused_page": 14,
+      "title": "25  Finish the left side trim",
+      "steps": [
+        25
+      ],
+      "operations": [
+        91,
+        92
+      ],
+      "new_ids": [
+        37,
+        43,
+        50,
+        40,
+        47
+      ],
+      "page": 39
+    },
+    {
+      "source_page": 33,
+      "focused_page": 15,
+      "title": "26  Right side panels - use all six listed parts",
+      "steps": [
+        26
+      ],
+      "operations": [
+        93,
+        94
+      ],
+      "new_ids": [
+        61,
+        84,
+        108,
+        60,
+        86,
+        105
+      ],
+      "page": 40
+    },
+    {
+      "source_page": 34,
+      "unchanged_content": true,
+      "page": 41
+    },
+    {
+      "source_page": 35,
+      "unchanged_content": true,
+      "page": 42
+    },
+    {
+      "source_page": 36,
+      "unchanged_content": true,
+      "page": 43
+    },
+    {
+      "source_page": 37,
+      "unchanged_content": true,
+      "page": 44
+    },
+    {
+      "source_page": 38,
+      "unchanged_content": true,
+      "page": 45
+    },
+    {
+      "source_page": 39,
+      "unchanged_content": true,
+      "page": 46
+    },
+    {
+      "source_page": 40,
+      "unchanged_content": true,
+      "page": 47
+    },
+    {
+      "source_page": 41,
+      "focused_page": 16,
+      "title": "40  Build the cabin floor",
+      "steps": [
+        40
+      ],
+      "operations": [
+        122,
+        123
+      ],
+      "new_ids": [
+        56,
+        130,
+        132,
+        16
+      ],
+      "page": 48
+    },
+    {
+      "source_page": 41,
+      "focused_page": 17,
+      "title": "41a  Dashboard and two grilles",
+      "steps": [
+        41
+      ],
+      "operations": [
+        124
+      ],
+      "new_ids": [
+        74,
+        193,
+        201
+      ],
+      "page": 49
+    },
+    {
+      "source_page": 41,
+      "focused_page": 18,
+      "title": "41b  Steering stand and wheel",
+      "steps": [
+        41
+      ],
+      "operations": [
+        125
+      ],
+      "new_ids": [
+        199,
+        200
+      ],
+      "page": 50
+    },
+    {
+      "source_page": 41,
+      "focused_page": 19,
+      "title": "41c  Seat",
+      "steps": [
+        41
+      ],
+      "operations": [
+        126
+      ],
+      "new_ids": [
+        287
+      ],
+      "page": 51
+    },
+    {
+      "source_page": 42,
+      "unchanged_content": true,
+      "page": 52
+    },
+    {
+      "source_page": 43,
+      "unchanged_content": true,
+      "page": 53
+    },
+    {
+      "source_page": 44,
+      "unchanged_content": true,
+      "page": 54
+    },
+    {
+      "source_page": 45,
+      "unchanged_content": true,
+      "page": 55
+    },
+    {
+      "source_page": 46,
+      "unchanged_content": true,
+      "page": 56
+    },
+    {
+      "source_page": 47,
+      "unchanged_content": true,
+      "page": 57
+    },
+    {
+      "source_page": 48,
+      "unchanged_content": true,
+      "page": 58
+    },
+    {
+      "source_page": 49,
+      "unchanged_content": true,
+      "page": 59
+    },
+    {
+      "source_page": 50,
+      "unchanged_content": true,
+      "page": 60
+    },
+    {
+      "source_page": 51,
+      "unchanged_content": true,
+      "page": 61
+    },
+    {
+      "source_page": 52,
+      "unchanged_content": true,
+      "page": 62
+    },
+    {
+      "source_page": 53,
+      "unchanged_content": true,
+      "page": 63
+    },
+    {
+      "source_page": 54,
+      "unchanged_content": true,
+      "page": 64
+    },
+    {
+      "source_page": 55,
+      "unchanged_content": true,
+      "page": 65
+    },
+    {
+      "source_page": 56,
+      "unchanged_content": true,
+      "page": 66
+    },
+    {
+      "source_page": 57,
+      "unchanged_content": true,
+      "page": 67
+    },
+    {
+      "source_page": 58,
+      "focused_page": 20,
+      "title": "63  Apply the triangular flag tile sticker",
+      "steps": [
+        63
+      ],
+      "operations": [
+        209
+      ],
+      "new_ids": [],
+      "page": 68
+    },
+    {
+      "source_page": 58,
+      "focused_page": 21,
+      "title": "64  Thread the four rings in order",
+      "steps": [
+        64
+      ],
+      "operations": [
+        210
+      ],
+      "new_ids": [],
+      "page": 69
+    },
+    {
+      "source_page": 59,
+      "unchanged_content": true,
+      "page": 70
+    },
+    {
+      "source_page": 60,
+      "focused_page": 22,
+      "title": "67  Place the completed figures",
+      "steps": [
+        67
+      ],
+      "operations": [
+        215
+      ],
+      "new_ids": [],
+      "page": 71
+    },
+    {
+      "source_page": 61,
+      "unchanged_content": true,
+      "page": 72
+    },
+    {
+      "source_page": 62,
+      "unchanged_content": true,
+      "page": 73
+    },
+    {
+      "source_page": 63,
+      "unchanged_content": true,
+      "page": 74
+    },
+    {
+      "source_page": 64,
+      "unchanged_content": true,
+      "page": 75
+    },
+    {
+      "source_page": 65,
+      "unchanged_content": true,
+      "page": 76
+    },
+    {
+      "source_page": 66,
+      "unchanged_content": true,
+      "page": 77
+    },
+    {
+      "source_page": 67,
+      "unchanged_content": true,
+      "page": 78
+    },
+    {
+      "source_page": 68,
+      "unchanged_content": true,
+      "page": 79
+    },
+    {
+      "source_page": 69,
+      "unchanged_content": true,
+      "page": 80
+    }
+  ]
+}

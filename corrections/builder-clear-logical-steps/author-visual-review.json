@@ -1,0 +1,66 @@
+{
+  "pdf_sha256": "db13a65349791ea4af2644df5cff26afd1a1bc29a218ec9f1df95983fca02956",
+  "viewer_sha256": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+  "author_reviewed_changed_pages": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    23,
+    24,
+    25,
+    26,
+    30,
+    32,
+    39,
+    40,
+    48,
+    49,
+    50,
+    51,
+    68,
+    69,
+    71
+  ],
+  "contact_sheets": [
+    {
+      "path": "builds/clear-logical/final-review-1.jpg",
+      "sha256": "feb6f1fc2e0ffea836f91e23640350c73a46f0e304303c088b9cb0d6d306d241"
+    },
+    {
+      "path": "builds/clear-logical/final-review-2.jpg",
+      "sha256": "7e1d680ad070ce3b4f52c1932507d48c39b591ac08b8f047382c2c81a49ff861"
+    },
+    {
+      "path": "builds/clear-logical/final-review-3.jpg",
+      "sha256": "22dda32a74c42f04e3e48bc8a04dfe3cf5ee601b2b13fcae93c57d4670faa066"
+    },
+    {
+      "path": "builds/clear-logical/final-review-4.jpg",
+      "sha256": "41adae62024db485be955cac585089e11619829e11855046bbcb79c3e7d915fc"
+    },
+    {
+      "path": "builds/clear-logical/final-review-5.jpg",
+      "sha256": "98206b0ccc4888f98cd2ee4c8c5434a8b81dcf0d3b2c050290d857f249d6dc75"
+    },
+    {
+      "path": "builds/clear-logical/final-review-6.jpg",
+      "sha256": "6dfe8655d4b4abe1522189488a04dc5ea0fb38d6152738198fa2cee201c7e17c"
+    }
+  ],
+  "all_page_rasters_generated": 80,
+  "unchanged_artwork_equivalence": "reuse-check.json: 56 pages pixel-identical above footer",
+  "independent_review": false,
+  "physical_verified": false,
+  "remaining_reader_questions": [
+    "Small suspension inset labels need independent A4 readability judgment.",
+    "Cord knot type and exact cut length are unsupported by source.",
+    "Exact figure stud engagement remains unverified.",
+    "Wheel detail retains source separation and angle."
+  ]
+}

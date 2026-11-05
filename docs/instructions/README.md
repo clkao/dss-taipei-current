@@ -119,6 +119,10 @@ Community feedback from 彭柏源 identified late pin installation at legacy ste
 
 ## Visual simplification and repeat construction
 
+- Give each logical step one visible construction result. Split the step when the receiving area or assembly phase changes.
+- If a cutaway omits installed parts, identify the omission and retain a complete-state locator. Preserve all source poses.
+- Connect a later join to its completed shared recipe explicitly. Reader numbering must not imply missing work.
+
 - Prefer the fewest diagrams that clearly show which parts to use, where they attach, their orientation, order and quantity. Page reduction alone is not success. Do not combine two steps on one page merely to reduce page count. Share a page only when the grouping helps the builder and each view remains readable; separate the steps when orientation, receiving context, part identification or working space needs it. Do not use a page-count quota as an acceptance target.
 - Let geometry, arrows, numbered action marks and target marks explain an action. Omit prose inside the image, beside it and below it when it repeats that visual meaning. Add text only for a specific ambiguity the diagram cannot resolve; revise the diagram first. For the chassis prefix, retain action numbers and paired targets without the three verbal action labels.
 - Show identical construction once with its copy count and quantities for one copy. Check the largest repeatable assembly, not only a convenient prefix. Match exact parts, colors, relative geometry, operation dependencies and occurrence ownership; equal inventories or left/right names do not establish or disprove equivalence.

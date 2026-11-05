@@ -1,0 +1,13 @@
+{
+  "closed_profiles_removed": [
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/tmp/yangliu-preview-chrome-75be18d1",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/tmp/yangliu-preview-chrome-26a2551b",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/tmp/yangliu-preview-chrome-b879c64e",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/tmp/yangliu-preview-chrome-74910b7d",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/tmp/yangliu-preview-chrome-c4df38a5"
+  ],
+  "remaining_free_bytes": 310185984,
+  "active_private_profiles": false,
+  "runtime_peak_RSS": "not captured",
+  "scope": "Only exact task-owned profiles removed after Chrome exit and process census."
+}
