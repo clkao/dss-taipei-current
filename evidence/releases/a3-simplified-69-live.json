@@ -1,0 +1,59 @@
+{
+  "authority": "Captain: Approve a3 and deploy",
+  "gate_digest": "0dd475abf63b14ca5e27ff87641c9de72d12bc98ff4440a1d135f2c8785759a6",
+  "source_merge": "c15aa9b96302058cdf4bcbbdf8b143de558b96de",
+  "publication_commit": "b0b679a1de34a4141ea4e326118cf4dcde22e731",
+  "workflow_run": 42013230102,
+  "verification_utc": "2026-11-05T10:45:40.469365+00:00",
+  "checks": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "ab1b57bbce96a8011a9f9560930d2e886d4a5572a403a67776ae1f38cdf8e1d7",
+      "bytes": 5243499
+    },
+    {
+      "path": "viewer.html",
+      "status": 200,
+      "sha256": "4802fff8c4c9e29828dbf9cdee48a2e945c96934a4a0fc70475962c99dcdd068",
+      "bytes": 5243376
+    },
+    {
+      "path": "instructions.pdf",
+      "status": 200,
+      "sha256": "5c347b0e5d639a5ed5f45be6e867a14772fa01ed92ec4c80b472f956bbcf7bbd",
+      "bytes": 7402617
+    },
+    {
+      "path": "package-manifest.json",
+      "status": 200,
+      "sha256": "7c11b72ad86a7c03f95787f11323ed4667827b4cbd01f3b9102a6f8709b176cd",
+      "bytes": 2866
+    },
+    {
+      "path": "release.zip",
+      "status": 200,
+      "sha256": "d58bcda0441b40efc2aa4698c85ae5cb879236a1b613ee9f74bf54755066889e",
+      "bytes": 15779279
+    },
+    {
+      "path": "ordered-prefix.png",
+      "status": 200,
+      "sha256": "81510ce86c45ee948366fda805ace64ea5d564b35d05ec69941f11bc192fb35f",
+      "bytes": 84507
+    },
+    {
+      "path": "credits.html",
+      "status": 200,
+      "sha256": "0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367",
+      "bytes": 51411
+    },
+    {
+      "path": "pdf-page-map.json",
+      "status": 200,
+      "sha256": "de2bc9955d5472d8113203fd195a20cdc7bd463a52ffc13c154d173d851cf61a",
+      "bytes": 22879
+    }
+  ],
+  "limits": "Approved digital delivery; physical insertion and independent native-UI limitations retained; no StudFleet native adoption claim."
+}
