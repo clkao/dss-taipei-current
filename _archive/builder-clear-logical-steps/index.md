@@ -1,10 +1,10 @@
 ---
 title: Show clear logical construction steps and hidden attachment details
-status: instruction-review
+status: delivered
 source: Captain requested fresh experienced-builder review and next improvement round; no page-count shortcut or oversized steps
 started: 2026-11-05T11:00:32Z
-completed:
-verdict:
+completed: 2026-11-05T20:28:01Z
+verdict: PASSED
 score: 0.94
 worktree: .worktrees/spacedock-ensign-builder-clear-logical-steps
 issue:
@@ -66,7 +66,8 @@ gates:
                 reason: Captain said approve after presentation of exact cycle5 PDF525e42c3f6dc61913d29af791cc27f34699dd9ca8a2ce1036989ae4e62381e97 and ZIPa284f8c62e1fc2b551cbec7329d5d2dd64db47bb22d34e2998b09638821677b3. Accepts local digital edition including disclosed three order exchanges and direct captain review after independent-review cycle limit; no new independent PASS, physical certification or publication authority inferred.
               application:
                 target-stage: delivered
-                state: pending
+                state: consumed
+archived: 2026-11-05T20:28:02Z
 ---
 
 ## Brief
