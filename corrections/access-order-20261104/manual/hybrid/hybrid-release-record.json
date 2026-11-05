@@ -1,0 +1,124 @@
+{
+  "evidence_origin": "Parent live verification supplied in /tmp/dss-hybrid-live-verification.json; no author network rerun",
+  "candidate_source": "17f823e",
+  "source_merge": "6d61ba0",
+  "publication_commit": "24425a3cd5c0e925fe8922425fde7630b5177f7c",
+  "previous_publication": "2105eb69bbc60228fe0eb5a49cd2242db0d0469a",
+  "pages_build": {
+    "status": "built",
+    "error": null,
+    "updated_at": "2026-11-05T01:06:16Z"
+  },
+  "site": "https://clkao.github.io/dss-taipei-current/",
+  "live_verification": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "bytes": 5243497,
+      "sha256": "8e805e7da2b8667d6a3b79f4e8d7d63ce07d41b6fb3064643015ab00db7988b5"
+    },
+    {
+      "file": "viewer.html",
+      "status": 200,
+      "bytes": 5243374,
+      "sha256": "18025ef3f162357eb0fb833b948639e0873db59778997a37356233342666725a"
+    },
+    {
+      "file": "instructions.pdf",
+      "status": 200,
+      "bytes": 6428537,
+      "sha256": "6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062"
+    },
+    {
+      "file": "ordered-prefix.png",
+      "status": 200,
+      "bytes": 94041,
+      "sha256": "69021bb267165d79bae743f98154e1d3853cb81e5d28526ddfb9b19142d6301b"
+    },
+    {
+      "file": "credits.html",
+      "status": 200,
+      "bytes": 51411,
+      "sha256": "0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367"
+    },
+    {
+      "file": "package-manifest.json",
+      "status": 200,
+      "bytes": 2866,
+      "sha256": "28d6a5a2cb18b6a8db6ede24949de0a5311957642a2b67652610bd7844d108c6"
+    },
+    {
+      "file": "release.zip",
+      "status": 200,
+      "bytes": 14961417,
+      "sha256": "3d9300eaad2c4deaf910f7f60d0e9648b83ffd8367cb5cc3d54f2ce3dd3a7769"
+    }
+  ],
+  "reviewed_files": {
+    "sequence-audit.json": "1d7f9b6035bcd4fff064a10bfb2bb7f9839eaea4e82e4492c638aacb8bf61f54",
+    "model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+    "instruction-plan.json": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+    "render-scene.json": "94dd266f0f12eb45ebab2c1ebae7f17778eb87ac81800ed2b37f4ee560e35ecc",
+    "catalog-meshes.json": "890e8ca24848e179e485b86c1ac925b2d5a3e63e88fb369774bd2ff3e53d3810",
+    "index.html": "8e805e7da2b8667d6a3b79f4e8d7d63ce07d41b6fb3064643015ab00db7988b5",
+    "viewer.html": "18025ef3f162357eb0fb833b948639e0873db59778997a37356233342666725a",
+    "instructions.pdf": "6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062",
+    "pdf-page-map.json": "5aee7e6fd9b08d304a9335e424d1a61cde45395f041053f45fe4fb2c55e9dc78",
+    "full-instruction-check.json": "8de7ab192fc0d117103a11b00f582023003ccefa79eb7f314b0e51e3c0760c73",
+    "print-preflight.json": "9fa76e2a524c1d2f5654be0bb0a1b13c882aa0737d9eb9bc1d4239faabab8556",
+    "digital-fit-audit.md": "9035719ca9afda97c8da5422b0ce7645a7dbe5fed8ef3f429e0ab71730382c0e",
+    "README.txt": "53791460eae1a67f52e04232356ad82d2143c6adc595d1a6e3b33c8c3dadb30e",
+    "sticker-artwork.zip": "804dc963a58215bb15f872183fec6cb2e87d44dea6853cc851582d5490068fe8",
+    "yangliu-shape.mpd": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
+    "inventory.csv": "5237a9b7d39085b8b51761f1b2207ee72d0dd476396ec76ddf2dc4d45e677000",
+    "wanted-list.xml": "600bf2ec6b45b2eb0993b03a5b9c9431bd8912e1b9d537e715a03fa8b1b50a20",
+    "bricklink-inventory.csv": "b34b587913bf9c8082bb6edf9a593a531d91a5a68b7cc713d57e1f3867822262",
+    "bricklink-mapping.json": "1a5b70edf850f3ebdb173fc6c8cef1f0912bf601fe50ca39ce6c19d67ff0605e",
+    "LICENSE.txt": "c1dc239072ccb99271ea51b85daa9568fb8d218a5e914ef81f83edaab9dc0dd4",
+    "credits.html": "0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367",
+    "physical-vehicle-attribution.json": "7cfe02897ce2c02af3da90a6070c1c45b39988e9488ad11fe8e1e9d53ef0ac7e",
+    "contributor-count.json": "a67b61c78a6cd76f6fb0c6a5f3e3d1028f8d13c230baa3afc5a16e79aa0f63b2",
+    "soon-white.svg": "40b3ab5921c7f12957f2eb047d66cfe0652242614f55d50c3472ef52d4f94c46",
+    "soon-white-4096.png": "8ea39a606395ae850774d2eb131e1a0931c0237c761f3abb32c2684ad76ab5e3",
+    "ordered-prefix.png": "69021bb267165d79bae743f98154e1d3853cb81e5d28526ddfb9b19142d6301b",
+    "release-provenance.json": "3d20374f992618bfe52ac5d0d40ed3d995022771938d6a9b40ef3baaf16c3734",
+    "release.zip": "3d9300eaad2c4deaf910f7f60d0e9648b83ffd8367cb5cc3d54f2ce3dd3a7769",
+    "package-manifest.json": "28d6a5a2cb18b6a8db6ede24949de0a5311957642a2b67652610bd7844d108c6"
+  },
+  "transport": {
+    "allowlist_files": 29,
+    "changed_paths": 12,
+    "all_postcopy_hashes_match": true,
+    "technic_unrelated_unchanged": true
+  },
+  "review": {
+    "state_commit": "335239c",
+    "report": "instruction-review cycle4",
+    "recommendation": "PASSED affected digital scope"
+  },
+  "integration": {
+    "experimental_shared_asset_integrated": true,
+    "scope": "first three chassis-core operations, one diagram in136page actual manual and viewer",
+    "native_studfleet_adopted": false
+  },
+  "open_limits": [
+    "AC2 physical/supported continuous insertion",
+    "AC4 independent native UI",
+    "Native production adoption and full-edition parity",
+    "Prior physical sweep limits"
+  ],
+  "follow_ups": [
+    {
+      "issue": "Optional Inspect selector display inconsistent; correct action title/image/tray/return remain",
+      "owner": "DSS viewer presentation adapter",
+      "disposition": "Polish/FOLLOW-UP accepted as nonblocking"
+    },
+    {
+      "issue": "Inherited3666 label mismatch",
+      "owner": "DSS label metadata",
+      "disposition": "Separate follow-up"
+    }
+  ],
+  "historical_resource_failures_preserved": true,
+  "author_package_mutation": false
+}
