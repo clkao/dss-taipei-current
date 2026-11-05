@@ -1,6 +1,6 @@
 ---
 title: Show clear logical construction steps and hidden attachment details
-status: authoring
+status: instruction-review
 source: Captain requested fresh experienced-builder review and next improvement round; no page-count shortcut or oversized steps
 started: 2026-11-05T11:00:32Z
 completed:
