@@ -1,0 +1,530 @@
+[
+  {
+    "page": 4,
+    "kind": "prefix",
+    "steps": [
+      1
+    ]
+  },
+  {
+    "page": 5,
+    "kind": "frames",
+    "steps": [
+      1
+    ],
+    "frames": [
+      4,
+      5
+    ],
+    "title": "Chassis ties"
+  },
+  {
+    "page": 6,
+    "kind": "frames",
+    "steps": [
+      1
+    ],
+    "frames": [
+      6,
+      7,
+      8
+    ],
+    "title": "Complete the chassis core"
+  },
+  {
+    "page": 7,
+    "kind": "main",
+    "steps": [
+      2,
+      3
+    ]
+  },
+  {
+    "page": 8,
+    "kind": "main",
+    "steps": [
+      4
+    ]
+  },
+  {
+    "page": 9,
+    "kind": "callout",
+    "steps": [
+      5
+    ]
+  },
+  {
+    "page": 10,
+    "kind": "callout",
+    "steps": [
+      6
+    ]
+  },
+  {
+    "page": 11,
+    "kind": "callout",
+    "steps": [
+      7
+    ]
+  },
+  {
+    "page": 12,
+    "kind": "callout",
+    "steps": [
+      8
+    ]
+  },
+  {
+    "page": 13,
+    "kind": "main",
+    "steps": [
+      9
+    ]
+  },
+  {
+    "page": 14,
+    "kind": "frames",
+    "steps": [
+      10
+    ],
+    "frames": [
+      1,
+      2
+    ],
+    "title": "Underside dishes"
+  },
+  {
+    "page": 15,
+    "kind": "frames",
+    "steps": [
+      11
+    ],
+    "frames": [
+      1,
+      2
+    ],
+    "title": "Rear support / separate bumper seed"
+  },
+  {
+    "page": 16,
+    "kind": "frames",
+    "steps": [
+      12
+    ],
+    "frames": [
+      1,
+      2,
+      3
+    ],
+    "title": "Bumper / layers"
+  },
+  {
+    "page": 17,
+    "kind": "frames",
+    "steps": [
+      12
+    ],
+    "frames": [
+      4,
+      5
+    ],
+    "title": "Bumper / trim"
+  },
+  {
+    "page": 18,
+    "kind": "frames",
+    "steps": [
+      12
+    ],
+    "frames": [
+      6,
+      7,
+      8
+    ],
+    "title": "Bumper installation / front dish last"
+  },
+  {
+    "page": 19,
+    "kind": "main",
+    "steps": [
+      13,
+      14
+    ]
+  },
+  {
+    "page": 20,
+    "kind": "main",
+    "steps": [
+      15,
+      16
+    ]
+  },
+  {
+    "page": 21,
+    "kind": "frames",
+    "steps": [
+      17
+    ],
+    "frames": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "title": "Lower carrier / 2x",
+    "copies": 2
+  },
+  {
+    "page": 22,
+    "kind": "frames",
+    "steps": [
+      17,
+      18
+    ],
+    "frames": [
+      5,
+      6,
+      7
+    ],
+    "title": "Four-piece rail / 2x",
+    "copies": 2,
+    "repeat": "rail1"
+  },
+  {
+    "page": 23,
+    "kind": "rail2",
+    "steps": [
+      17,
+      18
+    ],
+    "title": "Three-piece rail / 2x",
+    "copies": 2
+  },
+  {
+    "page": 24,
+    "kind": "frames",
+    "steps": [
+      17
+    ],
+    "frames": [
+      8,
+      9,
+      13,
+      14
+    ],
+    "title": "Carrier 17 / attach the completed rails"
+  },
+  {
+    "page": 25,
+    "kind": "frames",
+    "steps": [
+      17
+    ],
+    "frames": [
+      15,
+      16
+    ],
+    "title": "Carrier 17 / vehicle attachment"
+  },
+  {
+    "page": 26,
+    "kind": "frames",
+    "steps": [
+      18
+    ],
+    "frames": [
+      8,
+      9,
+      13,
+      14
+    ],
+    "title": "Carrier 18 / attach the completed rails"
+  },
+  {
+    "page": 27,
+    "kind": "frames",
+    "steps": [
+      18
+    ],
+    "frames": [
+      15,
+      16
+    ],
+    "title": "Carrier 18 / vehicle attachment"
+  },
+  {
+    "page": 28,
+    "kind": "main",
+    "steps": [
+      19
+    ]
+  },
+  {
+    "page": 29,
+    "kind": "frames",
+    "steps": [
+      20
+    ],
+    "frames": [
+      1,
+      2,
+      3
+    ],
+    "title": "Rear bed / lower layers"
+  },
+  {
+    "page": 30,
+    "kind": "callout",
+    "steps": [
+      20
+    ],
+    "frames": [
+      4,
+      5
+    ]
+  },
+  {
+    "page": 31,
+    "kind": "main",
+    "steps": [
+      21,
+      22
+    ]
+  },
+  {
+    "page": 32,
+    "kind": "main",
+    "steps": [
+      23,
+      24
+    ]
+  },
+  {
+    "page": 33,
+    "kind": "main",
+    "steps": [
+      25,
+      26
+    ]
+  },
+  {
+    "page": 34,
+    "kind": "main",
+    "steps": [
+      27,
+      28
+    ]
+  },
+  {
+    "page": 35,
+    "kind": "main",
+    "steps": [
+      29,
+      30
+    ]
+  },
+  {
+    "page": 36,
+    "kind": "main",
+    "steps": [
+      31,
+      32
+    ]
+  },
+  {
+    "page": 37,
+    "kind": "callout",
+    "steps": [
+      33
+    ]
+  },
+  {
+    "page": 38,
+    "kind": "main",
+    "steps": [
+      34,
+      35
+    ]
+  },
+  {
+    "page": 39,
+    "kind": "main",
+    "steps": [
+      36,
+      37
+    ]
+  },
+  {
+    "page": 40,
+    "kind": "main",
+    "steps": [
+      38,
+      39
+    ]
+  },
+  {
+    "page": 41,
+    "kind": "main",
+    "steps": [
+      40,
+      41
+    ]
+  },
+  {
+    "page": 42,
+    "kind": "main",
+    "steps": [
+      42,
+      43
+    ]
+  },
+  {
+    "page": 43,
+    "kind": "main",
+    "steps": [
+      44,
+      45
+    ]
+  },
+  {
+    "page": 44,
+    "kind": "main",
+    "steps": [
+      46
+    ]
+  },
+  {
+    "page": 45,
+    "kind": "small-pair",
+    "steps": [
+      47,
+      48
+    ],
+    "title": "Wheels / platform risers"
+  },
+  {
+    "page": 46,
+    "kind": "main",
+    "steps": [
+      49,
+      50
+    ]
+  },
+  {
+    "page": 47,
+    "kind": "frames",
+    "steps": [
+      51
+    ],
+    "frames": [
+      1,
+      2,
+      3
+    ],
+    "title": "Helm / support"
+  },
+  {
+    "page": 48,
+    "kind": "callout",
+    "steps": [
+      51
+    ],
+    "frames": [
+      4,
+      5
+    ]
+  },
+  {
+    "page": 49,
+    "kind": "callout",
+    "steps": [
+      52
+    ]
+  },
+  {
+    "page": 50,
+    "kind": "approach",
+    "steps": [
+      52
+    ],
+    "title": "Shield attachment"
+  },
+  {
+    "page": 51,
+    "kind": "main",
+    "steps": [
+      53,
+      54
+    ]
+  },
+  {
+    "page": 52,
+    "kind": "callout",
+    "steps": [
+      55
+    ]
+  },
+  {
+    "page": 53,
+    "kind": "main",
+    "steps": [
+      56
+    ]
+  },
+  {
+    "page": 54,
+    "kind": "callout",
+    "steps": [
+      57
+    ]
+  },
+  {
+    "page": 55,
+    "kind": "main",
+    "steps": [
+      58,
+      59
+    ]
+  },
+  {
+    "page": 56,
+    "kind": "ring-hood",
+    "steps": [
+      60,
+      61
+    ],
+    "title": "Life rings / hood sticker"
+  },
+  {
+    "page": 57,
+    "kind": "sticker",
+    "steps": [
+      62
+    ],
+    "title": "Banner stickers"
+  },
+  {
+    "page": 58,
+    "kind": "main",
+    "steps": [
+      63,
+      64
+    ]
+  },
+  {
+    "page": 59,
+    "kind": "figures",
+    "steps": [
+      65,
+      66
+    ],
+    "title": "Figures"
+  },
+  {
+    "page": 60,
+    "kind": "main",
+    "steps": [
+      67
+    ]
+  }
+]

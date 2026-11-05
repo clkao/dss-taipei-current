@@ -1,0 +1,26 @@
+{
+  "planned_pages": 69,
+  "construction_pages": 57,
+  "source_steps": 67,
+  "source_operations": 215,
+  "unique_parts": 348,
+  "syntax": "PASS",
+  "rendered": false,
+  "region_semantics": "bounded image regions only; no contact points or motion arrows",
+  "small_unit_frames": {
+    "47": [
+      1,
+      2
+    ],
+    "48": [
+      1,
+      2
+    ],
+    "60": [
+      1,
+      2
+    ]
+  },
+  "retained_source_order": true,
+  "image_bytes_changed": false
+}
