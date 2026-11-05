@@ -1,0 +1,82 @@
+{
+  "suspension": [
+    {
+      "step": 5,
+      "projected_direction_cross_product": -2.6118044723494327e-09,
+      "source_features": "cycle1/features.json",
+      "offset_ldu": [
+        0,
+        0,
+        -120
+      ],
+      "source_unchanged": true
+    },
+    {
+      "step": 6,
+      "projected_direction_cross_product": 5.756637954518196e-09,
+      "source_features": "cycle1/features.json",
+      "offset_ldu": [
+        0,
+        0,
+        120
+      ],
+      "source_unchanged": true
+    },
+    {
+      "step": 7,
+      "projected_direction_cross_product": -1.6576975873580646e-08,
+      "source_features": "cycle1/features.json",
+      "offset_ldu": [
+        0,
+        0,
+        -120
+      ],
+      "source_unchanged": true
+    },
+    {
+      "step": 8,
+      "projected_direction_cross_product": 3.326053543348251e-08,
+      "source_features": "cycle1/features.json",
+      "offset_ldu": [
+        0,
+        0,
+        120
+      ],
+      "source_unchanged": true
+    }
+  ],
+  "bed_operation": 82,
+  "bed_recipe_operations": [
+    77,
+    78,
+    79,
+    80,
+    81
+  ],
+  "bed_unit_ids": [
+    14,
+    33,
+    34,
+    54,
+    58,
+    59,
+    100,
+    109,
+    118
+  ],
+  "receiving_plates": [
+    38,
+    81
+  ],
+  "visible_callout_plate": 81,
+  "rail_underside_to_plate_top_error_scene_units": [
+    2.3630065593137696e-06,
+    7.08660708038958e-07
+  ],
+  "bed_display_offset_ldu": [
+    0,
+    -120,
+    0
+  ],
+  "physical_insertion_verified": false
+}

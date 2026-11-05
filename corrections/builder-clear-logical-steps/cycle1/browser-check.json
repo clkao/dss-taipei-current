@@ -1,0 +1,112 @@
+{
+  "checks": [
+    {
+      "page": 10,
+      "actual_link": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-10.jpg",
+      "fit": {
+        "naturalWidth": 1200,
+        "width": 662,
+        "height": 469,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-10.jpg"
+      },
+      "enlarged": {
+        "naturalWidth": 1200,
+        "width": 1200,
+        "height": 849,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-10.jpg"
+      },
+      "interaction": "Actual Enlarge page link click, then native image click and browser scrolling"
+    },
+    {
+      "page": 24,
+      "actual_link": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-24.jpg",
+      "fit": {
+        "naturalWidth": 1200,
+        "width": 662,
+        "height": 469,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-24.jpg"
+      },
+      "enlarged": {
+        "naturalWidth": 1200,
+        "width": 1200,
+        "height": 849,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-24.jpg"
+      },
+      "interaction": "Actual Enlarge page link click, then native image click and browser scrolling"
+    },
+    {
+      "page": 69,
+      "actual_link": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-69.jpg",
+      "fit": {
+        "naturalWidth": 1200,
+        "width": 662,
+        "height": 469,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-69.jpg"
+      },
+      "enlarged": {
+        "naturalWidth": 1200,
+        "width": 1200,
+        "height": 849,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-69.jpg"
+      },
+      "interaction": "Actual Enlarge page link click, then native image click and browser scrolling"
+    },
+    {
+      "page": 71,
+      "actual_link": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-71.jpg",
+      "fit": {
+        "naturalWidth": 1200,
+        "width": 390,
+        "height": 275,
+        "scrollX": 0,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-71.jpg"
+      },
+      "enlarged": {
+        "naturalWidth": 1200,
+        "width": 1200,
+        "height": 849,
+        "scrollX": 600,
+        "scrollY": 0,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/pages/page-71.jpg"
+      },
+      "interaction": "Actual Enlarge page link click, then native image click and browser scrolling"
+    },
+    {
+      "actual_3D_link": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/model-viewer.html",
+      "back_history_entry": {
+        "id": 6,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/viewer.html#page=71",
+        "userTypedURL": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/package/viewer.html",
+        "title": "DSS Taipei Current — build guide",
+        "transitionType": "auto_toplevel"
+      },
+      "returned_guide": {
+        "page": 71,
+        "pages": 80,
+        "imageLoaded": true,
+        "image": "pages/page-71.jpg",
+        "title": "67  Place the completed figures"
+      },
+      "interaction": "Actual 3D inspection anchor click, then Page.navigateToHistoryEntry for Back"
+    }
+  ],
+  "errors": [],
+  "headless": true,
+  "native_browser_image_viewer": true,
+  "human_testing": false,
+  "default_fit_detail_readability_claimed": false,
+  "enlarged_readability": "Author image inspection required for the captured natural-pixel state"
+}

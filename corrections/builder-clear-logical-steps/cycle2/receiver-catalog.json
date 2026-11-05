@@ -1,0 +1,12 @@
+{
+  "member": "ldraw/parts/3666.dat",
+  "sha256": "f4fc83d8c3fc1df32c1a217dc09775a99fad1ced348cffc5167f9c6a69aa9bca",
+  "actual_part": "Plate 1 x 6",
+  "footprint_ldu": [
+    -60,
+    60,
+    -10,
+    10
+  ],
+  "legacy_label_limit": "Source pieces38/81 retain stale Plate 1 x 10 label; actual part3666 and geometry unchanged. Overlay follows catalog geometry."
+}

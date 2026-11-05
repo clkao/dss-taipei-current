@@ -1,0 +1,39 @@
+{
+  "checks": [
+    {
+      "actual_heading_style": {
+        "text": "18k. Fit the first bracket to the loose short rail",
+        "background": "rgb(216, 108, 85)",
+        "color": "rgb(255, 255, 255)"
+      }
+    },
+    {
+      "print_link": "Print sheets: pages 71\u201372 in the instruction PDF",
+      "pdf_download_79": true
+    },
+    {
+      "actual_3D_link": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/model-viewer.html",
+      "back_history_entry": {
+        "id": 6,
+        "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/index.html#page=1",
+        "userTypedURL": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/index.html",
+        "title": "DSS Taipei Current \u2014 build guide",
+        "transitionType": "auto_toplevel"
+      },
+      "returned_guide": {
+        "page": 1,
+        "pages": 79,
+        "imageLoaded": true,
+        "image": "pages/page-01.jpg",
+        "title": "\u6d0b\u6d41\u865f / DSS Taipei Current"
+      },
+      "interaction": "Actual 3D inspection anchor click, then Page.navigateToHistoryEntry for Back"
+    }
+  ],
+  "errors": [],
+  "headless": true,
+  "native_browser_image_viewer": true,
+  "human_testing": false,
+  "default_fit_detail_readability_claimed": false,
+  "enlarged_readability": "Author image inspection required for the captured natural-pixel state"
+}

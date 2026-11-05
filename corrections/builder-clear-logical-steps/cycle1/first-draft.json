@@ -1,0 +1,10 @@
+{
+  "pdf_sha256": "4bdbd9c078e2f56f28fa69f8afde4ec1cdd89f93572ec37e70ce964960e3d66c",
+  "status": "author camera revision required before package binding",
+  "retained_visual_evidence": [
+    "builds/clear-logical/cycle1/renders/feet-receiver.png",
+    "builds/clear-logical/cycle1/renders/feet-detail.png"
+  ],
+  "reason": "Oblique receiver view still obscures platform. Retain same direct overhead camera for both corrected foot views.",
+  "not_independently_rejected": true
+}

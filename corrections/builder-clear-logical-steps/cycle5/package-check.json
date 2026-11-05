@@ -1,0 +1,11 @@
+{
+  "pdf_sha256": "525e42c3f6dc61913d29af791cc27f34699dd9ca8a2ce1036989ae4e62381e97",
+  "viewer_sha256": "da294f78a64a6260cec36de22bdd5aa5a795123b64b1cbc9431290ed45fee9c9",
+  "zip_sha256": "a284f8c62e1fc2b551cbec7329d5d2dd64db47bb22d34e2998b09638821677b3",
+  "package_manifest_sha256": "d36a38059619579d4423714bb8a9e051d54db8bcad90fb1211edeb178d9435c7",
+  "archive_members_verified": 109,
+  "min_free_bytes": 1232252928,
+  "elapsed_seconds": 2.4807202080264688,
+  "rejected_package_preserved": true,
+  "accepted": false
+}

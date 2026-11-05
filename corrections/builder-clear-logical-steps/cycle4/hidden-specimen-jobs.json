@@ -1,0 +1,160 @@
+[
+  {
+    "name": "core-thread",
+    "ids": [
+      172,
+      216,
+      231,
+      178
+    ],
+    "focus": [
+      172,
+      216,
+      231,
+      178
+    ],
+    "direction": [
+      1,
+      0.7,
+      -1.6
+    ],
+    "view": "front",
+    "targets": [
+      {
+        "id": 178,
+        "local": [
+          -120,
+          10,
+          10
+        ],
+        "label": "closing-hole"
+      },
+      {
+        "id": 216,
+        "local": [
+          20,
+          0,
+          0
+        ],
+        "label": "pin-outer-end"
+      },
+      {
+        "id": 216,
+        "local": [
+          -20,
+          0,
+          0
+        ],
+        "label": "pin-inner-end"
+      },
+      {
+        "id": 172,
+        "local": [
+          -120,
+          10,
+          10
+        ],
+        "label": "first-hole"
+      },
+      {
+        "id": 178,
+        "local": [
+          120,
+          10,
+          10
+        ],
+        "label": "closing-hole"
+      },
+      {
+        "id": 231,
+        "local": [
+          20,
+          0,
+          0
+        ],
+        "label": "pin-outer-end"
+      },
+      {
+        "id": 231,
+        "local": [
+          -20,
+          0,
+          0
+        ],
+        "label": "pin-inner-end"
+      },
+      {
+        "id": 172,
+        "local": [
+          120,
+          10,
+          10
+        ],
+        "label": "first-hole"
+      },
+      {
+        "id": 172,
+        "local": [
+          0,
+          -4,
+          0
+        ],
+        "label": "1"
+      },
+      {
+        "id": 216,
+        "local": [
+          0,
+          0,
+          0
+        ],
+        "label": "2"
+      },
+      {
+        "id": 178,
+        "local": [
+          0,
+          -4,
+          0
+        ],
+        "label": "3"
+      }
+    ],
+    "offsets": [
+      {
+        "ids": [
+          216,
+          231
+        ],
+        "ldraw": [
+          0,
+          0,
+          100
+        ]
+      },
+      {
+        "ids": [
+          178
+        ],
+        "ldraw": [
+          0,
+          0,
+          240
+        ]
+      }
+    ],
+    "bands": false,
+    "newIds": [],
+    "margin": 1.2,
+    "axisPairs": [
+      [
+        0,
+        3
+      ],
+      [
+        4,
+        7
+      ]
+    ]
+  }
+]

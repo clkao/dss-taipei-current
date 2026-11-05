@@ -1,0 +1,38 @@
+{
+  "affected_A4_pages_inspected": [
+    4,
+    23,
+    24,
+    25,
+    36
+  ],
+  "source_pixel_mobile_regions_inspected": [
+    4,
+    23,
+    24,
+    25,
+    36
+  ],
+  "source_pixel_horizontal_scrolling_required": true,
+  "default_fit_detail_readability_claimed": false,
+  "human_device_test": false,
+  "3D_spacer_screenshots_inspected": [
+    "step14-frame1.png",
+    "step15-frame2.png"
+  ],
+  "four_frame_states_checked": "browser-check.json",
+  "screenshots": {
+    "returned-guide-390.png": "2893b3abd3025f6196e0eb3eeb72ec1741edc3ca76018b91716d6003d20beef9",
+    "step14-frame1.png": "26f6fd21133c37b29bbe87cae9361001a08fb7e43a4a685ad706e7e0154eab88",
+    "enlarged-24.png": "549c41f0a01ce5cc1264573586a41c534be127716edfb18fc4c8cc05a6fd393c",
+    "enlarged-25.png": "dff1c1f61d215e1e9111075cd9c9b73e92fa340f14538156c414926431eadc1b",
+    "step14-frame2.png": "3c25ccbca897683a841673b365687037d0f3d70074de1a8b26307aee08ed6404",
+    "enlarged-36.png": "59fbbb963300dd67c5bb856bcb507810d2c9b63e28694b5817311b4cf3db7a2a",
+    "enlarged-23.png": "e3c5666b02a87569ce903f4a1d376563dff822ae46ba8a03a7cb0d5cf78d20d7",
+    "enlarged-4.png": "305e5a8d3cba23575d44b955a17e8ad0ab5ee07c596df3152d14a8a101c96c19",
+    "step15-frame1.png": "191a7b001ca0ab4922a5027af1ace527586d3b1644c11ccb9624cd19109f0af6",
+    "step15-frame2.png": "3a147265528682de4250eaaca483c8ea5570774e3b6d2ce6f1fa89f4dba18e21"
+  },
+  "independent_pass": false,
+  "captain_acceptance": false
+}

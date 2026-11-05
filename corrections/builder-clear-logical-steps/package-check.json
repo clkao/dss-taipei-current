@@ -1,0 +1,33 @@
+{
+  "immutable_files_verified": [
+    "model.json",
+    "instruction-plan.json",
+    "yangliu-shape.mpd",
+    "inventory.csv",
+    "wanted-list.xml",
+    "bricklink-inventory.csv",
+    "bricklink-mapping.json",
+    "catalog-meshes.json",
+    "render-scene.json",
+    "LICENSE.txt",
+    "credits.html",
+    "digital-fit-audit.md",
+    "sequence-audit.json",
+    "ordered-prefix.png",
+    "soon-white-4096.png",
+    "soon-white.svg",
+    "physical-vehicle-attribution.json",
+    "contributor-count.json"
+  ],
+  "archive_members_verified": 109,
+  "zip_sha256": "5c34b1d1783d4d67b12b0989431a0277a008f6356b530f952c9d8753cc0ea459",
+  "pages": 80,
+  "print_pages": [
+    72,
+    73
+  ],
+  "new_viewer_sha256": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+  "pdf_sha256": "db13a65349791ea4af2644df5cff26afd1a1bc29a218ec9f1df95983fca02956",
+  "remaining_free_bytes": 565055488,
+  "independent_review": "pending"
+}

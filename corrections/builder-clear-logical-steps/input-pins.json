@@ -1,0 +1,152 @@
+{
+  "files": {
+    "builds/clear-logical/simplification-package-retry1/model.json": {
+      "resolved_path": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-r2/model.json",
+      "sha256": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229"
+    },
+    "builds/clear-logical/simplification-package-retry1/instruction-plan.json": {
+      "resolved_path": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-r2/instruction-plan.json",
+      "sha256": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff"
+    },
+    "builds/clear-logical/simplification-package-retry1/instructions.pdf": {
+      "resolved_path": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/instructions.pdf",
+      "sha256": "5c347b0e5d639a5ed5f45be6e867a14772fa01ed92ec4c80b472f956bbcf7bbd"
+    },
+    "builds/clear-logical/simplification-package-retry1/viewer.html": {
+      "resolved_path": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/viewer.html",
+      "sha256": "4802fff8c4c9e29828dbf9cdee48a2e945c96934a4a0fc70475962c99dcdd068"
+    },
+    "builds/clear-logical/simplification-package-retry1/package-manifest.json": {
+      "resolved_path": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/package-manifest.json",
+      "sha256": "7c11b72ad86a7c03f95787f11323ed4667827b4cbd01f3b9102a6f8709b176cd"
+    },
+    "builds/clear-logical/access-corrected-hybrid-prefix/part-icons.json": {
+      "resolved_path": "/Users/clkao/git/house-demo/output/yangliu-refined-v10/part-icons.json",
+      "sha256": "72427f5ec3fa5606d765a7d16935cd8cc0bc5ebe7d9a938fbd1a8052bed93928"
+    }
+  },
+  "runtime": {
+    "node": {
+      "path": "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+      "sha256": "6f32069480ec14d52b6d7b1f3c7124cfbbc46203abf5ddf5c65b127435f3f329"
+    },
+    "python": {
+      "path": "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+      "sha256": "87d4df53fd91304be5bac391fb204643c36b7df2023c04a0953bcbc7d4fdf634"
+    },
+    "chrome": {
+      "path": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+      "sha256": "3f0acaf1e585195596d73ffa1824baa72c3c3ac115b5cfc43d789030a3f23d93"
+    },
+    "poppler": {
+      "path": "/opt/homebrew/bin/pdftoppm",
+      "sha256": "889fd534de30496ebd349a517141342e1491be028df1f7d7763c326366c82efb"
+    }
+  },
+  "generated_assets": {
+    "assets/helm-before.png": "d057c6be2abe7556c24a91b334881b2f40959323dda81eb1859a28cee6c55963",
+    "assets/cabin-1-after.png": "bb036421ffc5d0c9d259b2431387508996f21f54728f233214748aeeec74a298",
+    "assets/s14-1-before.png": "5a807af4ccd990e0d9231570a536da0480d1dec575140cb1a6c17de98efe4ee5",
+    "assets/s8-after.png": "d485b2d125ad64bbab288ab16989505d565e333c770b7d20ff05beb5ec0ec467",
+    "assets/s7-unit.png": "d6f664deade550fdcb8a64cca3b22a2c7a0841a46255eb9ae6766bab72cd74da",
+    "assets/s6-unit.png": "4d006847135b3dd011f0cde60de5b637404ce22221227dbcf977dcaf6beb063f",
+    "assets/s6-before.png": "3a391ab286f83fa51d0e97173f5531069e782e3a714890ce7aaa495e128bf1dc",
+    "assets/s5-after.png": "b5f1ca035ae81b8e00e6f124a4f6337ae2a39841550c933f67dfc919e91a560c",
+    "assets/s15-1-after.png": "ee9b36c00219db1458f309568633cf8855306e36e3070908a06e6c78eb2daf89",
+    "assets/s15-1-before.png": "6b77899b95930565a2b56b7fdb92ced8ca250db11baa3d887caa7a892eb3b76d",
+    "assets/s14-2-after.png": "a32ed4daa39409aad227739d7f0f331224f1ce5fbdca7657a7597ea8af5e66f2",
+    "assets/cabin-2-before.png": "bc6c750a7c213ab4b4dc1bd31ac14c672d96d2a49b59b6b6f569d0a89f9e4155",
+    "assets/s14-1-after.png": "9960b87809b1d9a6e2ed58a27755f9d82de78dbde1f87ef6e2ac51de84a6dafd",
+    "assets/s7-before.png": "000127788ddb592cdf7176db5a96476112a1277e2b1097709cf9eaf1aff962ed",
+    "assets/s5-unit.png": "aca486ea78a3220c1ca08f8228d8b589e20e915f337cec9fbb7dbabd835d27cf",
+    "assets/cabin-3-after.png": "49e59077c1c12f691f749d362d8bd65fbbeb31132c82f51e9b7fd093bf4b41b3",
+    "assets/cabin-1-before.png": "34676e7a1ecc1d85748be7901945354889d26101b6785bb9506eb5e6f6f3f541",
+    "assets/helm-after.png": "7784ec9b9543a4aaba0c2b61b09e045f6ea177b8c42ec4a12b5f3ceb6cf750db",
+    "assets/cord-front-other.png": "e36ded96b6a7d26db1e112b558d9af1b96bfd6735380743f3838db0f66b16e2f",
+    "assets/s7-after.png": "0d8337c43dd6431c5270d9da7871c56b7b6b196951d6948d2772b050068af293",
+    "assets/s5-before.png": "7174329798bc19b4745e29f279b61b11911c3f1def8c42b6643dee40b581fb3f",
+    "assets/s8-before.png": "20c53ad0e00fb91da3f33a481c293635f754c6ac240d1a061ef050840c674303",
+    "assets/s15-2-before.png": "0ba529306c9804069721238ff36297745a22254f8eb71a1885dd6f3bba6cacb0",
+    "assets/cord-top.png": "ab981e19822ba8a9a46a71b1b02b26f806f0730512ed4b92fc1c8098639fcf30",
+    "assets/cabin-2-after.png": "5779d2e92fad204deaddd5baaf5d39b66af42be6cda5c8910ab718e7f49712d5",
+    "assets/s8-unit.png": "fb557fdbc661c85843a676deeb14385d5b097224becc108d2caed319a7682506",
+    "assets/cabin-3-before.png": "eff642f71c306386873c317f18e7acda3c846f86fceee815d9940e867d431911",
+    "assets/steering-detail.png": "4148493d97ad0aea46ae6d9ed5ef4d7f73a2f6399ab4b04bbf5e03ad7644146f",
+    "assets/s15-2-after.png": "f312dda6943339d44bbc02722bb3bc17292002a41418db6d5b56a2db081f583e",
+    "assets/s14-2-before.png": "bc272c19e68c443af011b7c130848964e1a53b13ea9f8e1aeb478a00207a9ba0",
+    "assets/cord-front.png": "6d7c600a427d01e7cfd096ab307ee63568dacff6f01e4c5286af56af19b5fbe5",
+    "assets/s6-after.png": "9fd47710b4a4782d381cf4cabcaf03454e1488dfbb88dc591816fce5b3b80076",
+    "assets-v2/helm-before.png": "d67ec3245e46771f4557acd29ba1c4166509d4b2edfb8f2a627cbffaaa6ec587",
+    "assets-v2/cabin-1-after.png": "0131adbb05cf9c21fbf264f0587a2f89af45afbefbba86af072c139f8d3c650d",
+    "assets-v2/s14-1-before.png": "a4b4d3ad385689bbfae1745ac2629c6c2c508039d8a76fcd25973939939a87b4",
+    "assets-v2/s8-after.png": "d485b2d125ad64bbab288ab16989505d565e333c770b7d20ff05beb5ec0ec467",
+    "assets-v2/s7-unit.png": "d6f664deade550fdcb8a64cca3b22a2c7a0841a46255eb9ae6766bab72cd74da",
+    "assets-v2/s6-unit.png": "4d006847135b3dd011f0cde60de5b637404ce22221227dbcf977dcaf6beb063f",
+    "assets-v2/s6-before.png": "3a391ab286f83fa51d0e97173f5531069e782e3a714890ce7aaa495e128bf1dc",
+    "assets-v2/s5-after.png": "b5f1ca035ae81b8e00e6f124a4f6337ae2a39841550c933f67dfc919e91a560c",
+    "assets-v2/s15-1-after.png": "8fc99cf701763efa6ab8b41bee54279aa23c476c611f474d35d4737570a9f78d",
+    "assets-v2/s15-1-before.png": "cdf70aca25cfd0a3a9b3759c087c84fc6794be038ec74f6c2c08334d2cf840f5",
+    "assets-v2/s14-2-after.png": "2982fc21bce1724b49e124c547315339c3a86381dd38c205daaeecc275d2124f",
+    "assets-v2/cabin-2-before.png": "a99251de1edfa500c8eab84279d84f05794bb674610246c0c576e519e978ca02",
+    "assets-v2/s14-1-after.png": "fc8ce7b1d1aaad26ae15f3fae56890fd72be3484fc6d436be64b963bc862f935",
+    "assets-v2/s7-before.png": "000127788ddb592cdf7176db5a96476112a1277e2b1097709cf9eaf1aff962ed",
+    "assets-v2/s5-unit.png": "aca486ea78a3220c1ca08f8228d8b589e20e915f337cec9fbb7dbabd835d27cf",
+    "assets-v2/cabin-3-after.png": "0d6141203da8a93c2def59e315dd5fbb571599b809d42f1f1ca4f3ff9fbaac5f",
+    "assets-v2/cabin-1-before.png": "5f7904e2189b23be3a5bc20bd33b81a6dd2f1f5afb3cdf7bdf168192f9dfa75a",
+    "assets-v2/helm-after.png": "a4e408caef11b1602dcb32d49dac3843bae529b8ddd844681539310182fe6148",
+    "assets-v2/cord-front-other.png": "e36ded96b6a7d26db1e112b558d9af1b96bfd6735380743f3838db0f66b16e2f",
+    "assets-v2/s7-after.png": "0d8337c43dd6431c5270d9da7871c56b7b6b196951d6948d2772b050068af293",
+    "assets-v2/s5-before.png": "7174329798bc19b4745e29f279b61b11911c3f1def8c42b6643dee40b581fb3f",
+    "assets-v2/s8-before.png": "20c53ad0e00fb91da3f33a481c293635f754c6ac240d1a061ef050840c674303",
+    "assets-v2/s15-2-before.png": "358537c02da5843642fb0a2b86ad090071e368b84fa8c51fad9476fb892ad42e",
+    "assets-v2/cord-top.png": "ab981e19822ba8a9a46a71b1b02b26f806f0730512ed4b92fc1c8098639fcf30",
+    "assets-v2/cabin-2-after.png": "29994c181a7e1d84ba9386f8e43c9131876853dac94fd66529258899f6a95d6a",
+    "assets-v2/s8-unit.png": "fb557fdbc661c85843a676deeb14385d5b097224becc108d2caed319a7682506",
+    "assets-v2/cabin-3-before.png": "f5966869ed23b9d4b07acb77a0c7897e22976ea6aedbde73bedcfde22116592f",
+    "assets-v2/steering-detail.png": "85e45622af61b086f751430b3bed91556a28f6d0532e4396bfa366a47cd5a9c7",
+    "assets-v2/s15-2-after.png": "062d431d2cc4a4c5af26b824e0bfee4fbc43a2e72c4537867a91904480799442",
+    "assets-v2/s14-2-before.png": "29e04a886b1c87ca8b0451edea5f62f0716f70f0374b7e6e99f16b9257327f81",
+    "assets-v2/cord-front.png": "6d7c600a427d01e7cfd096ab307ee63568dacff6f01e4c5286af56af19b5fbe5",
+    "assets-v2/s6-after.png": "9fd47710b4a4782d381cf4cabcaf03454e1488dfbb88dc591816fce5b3b80076",
+    "assets-v3/helm-before.png": "d67ec3245e46771f4557acd29ba1c4166509d4b2edfb8f2a627cbffaaa6ec587",
+    "assets-v3/cabin-1-after.png": "807c6381f0668308f9342d7edf562bcbef08b38c18ea075a0899880df856becc",
+    "assets-v3/s14-1-before.png": "ba9ec136b2b89cb5e0c8934b1b0e6a8f8e62e7c5906727fce6c40cea9262611a",
+    "assets-v3/s15-1-after.png": "9753c3282f8538b1a64fc65f9d9f2c325200911d82a30a5a80824319e1368282",
+    "assets-v3/s15-1-before.png": "65e2c2d59dbd3fff93a2b02fcada98014805895df3da687e1c6ee5f055951aab",
+    "assets-v3/s14-2-after.png": "f424ccaec2d95bd9da67646a213880387957b93f0521313577ce50d19994c198",
+    "assets-v3/cabin-2-before.png": "a678d9d6139d11a9b1f6f5beab804d75cba464ece8cbc17bea9bf58c3d8934b5",
+    "assets-v3/s14-1-after.png": "f6154053d1c88e7d538236e871bd15810dc1e9c43c4fa81d03426e30d84915b6",
+    "assets-v3/cabin-3-after.png": "1530c720b1962ebed93a1941e29e561b913a2592200841340fd1057324795e63",
+    "assets-v3/cabin-1-before.png": "7e144113d9edc1eb12a969dfce97c1c746b0e5fb7a8155822ba98b8e835220bb",
+    "assets-v3/s15-2-before.png": "f2d2c9537224e2326c91dd88a2bcda0ec26fe0957de27d15f1f52b2b552d791e",
+    "assets-v3/cabin-2-after.png": "b8ad4118c5d4709e4126a959b373120ecde996672765ebd3ee0ece551dd4f233",
+    "assets-v3/cabin-3-before.png": "30aa0b23b84ca3c70bd261787eec6b6f437315d9d3553b85f3e8fcc38afe34de",
+    "assets-v3/s15-2-after.png": "ed72dcb67a321b297bdae4871948b396e90556e5f52b95360440c242036f8dad",
+    "assets-v3/s14-2-before.png": "48824146da3fd62ea0fbda3589edd67c5e56d5a7b2b867649b8a94b21b52e22a",
+    "detail-final/s8-after.png": "e274e79d0fa2101134a76f083ae433eb49f7bb16743d0a24ed225f7a181a5380",
+    "detail-final/s7-unit.png": "d6f664deade550fdcb8a64cca3b22a2c7a0841a46255eb9ae6766bab72cd74da",
+    "detail-final/s6-unit.png": "c5b1671649ce0fd0091c130a531add8eef83f89d479a2b8e434340373a59a2cd",
+    "detail-final/s6-before.png": "ad664e68084991df41e05e726477a337f768e1810cbfece5843bcd0c6517cc15",
+    "detail-final/s15-stack.png": "fc79c6cc6c8b899a26aa5562a159042df1b7df4f3774c46e19c4242d4fece7c1",
+    "detail-final/s5-after.png": "b5f1ca035ae81b8e00e6f124a4f6337ae2a39841550c933f67dfc919e91a560c",
+    "detail-final/s15-before.png": "b8a8f227f7381e0662c96d39b74a401fe53160902555e8a01cf19ea095bb89ca",
+    "detail-final/s14-stack.png": "6210965240e330293af47890ec8b45376aa180b64003114ec7e96676eb93e918",
+    "detail-final/s7-before.png": "000127788ddb592cdf7176db5a96476112a1277e2b1097709cf9eaf1aff962ed",
+    "detail-final/s5-unit.png": "aca486ea78a3220c1ca08f8228d8b589e20e915f337cec9fbb7dbabd835d27cf",
+    "detail-final/s15-after.png": "dccb89d4554ea36fecbed31f1df916d3242782bd97ea03d12c7fb00f81d75a3c",
+    "detail-final/s7-after.png": "0d8337c43dd6431c5270d9da7871c56b7b6b196951d6948d2772b050068af293",
+    "detail-final/s14-before.png": "98e6ed75299cf5a8449148379423729d01e6f80fe39ea6b99782bdfa8f411dbe",
+    "detail-final/s5-before.png": "7174329798bc19b4745e29f279b61b11911c3f1def8c42b6643dee40b581fb3f",
+    "detail-final/s8-before.png": "d93ade2a99aa135449b5e50886b9b2e7d7bd60c9ea0d43bcb04376044d1606a7",
+    "detail-final/s14-after.png": "789684874be00ced45f3551735f8d1ddc82e3e53a8d16b237f6a36bdf8529d34",
+    "detail-final/s8-unit.png": "4bfe28e532ce6b516a54dbed3b110198a4cb4cfe21f82379f2c4e2432b13a9bf",
+    "detail-final/s6-after.png": "0c1f9f800ca467867e3fa3d73d7b3d58c39230e8f2741ebba6183d2e3d247ae3",
+    "cabin-detail/cabin-1-after.png": "4433d6600954cf47b474e90d263bef4f116d0347e67c1c481ea82eec92f62764",
+    "cabin-detail/cabin-2-before.png": "323e3474741f3685cb21229cc874202b1b99bd14f5b2b241262f326de6bb986b",
+    "cabin-detail/cabin-3-after.png": "5f7356abb4d18330ba9e60048872832a462fef98a9864dd880f54918a9a4d5a2",
+    "cabin-detail/cabin-1-before.png": "f0780dbc718f6c48b16147fed3a3df29f2c4ea9c32e2e68ed84aff35634908cb",
+    "cabin-detail/cabin-2-after.png": "ee89ceccd201b8f2b1d83090d345792e08831bf1d4c04666b5d7c7a9c61a8e95",
+    "cabin-detail/cabin-3-before.png": "10964ad919461556de1ea454d36316def88b110d746d4ff9b5e43f4fb3f06d5f",
+    "feet/helm-feet.png": "e21d5b6b3199a1a0eb1e82e46f7771e5019b4b26c15e6dabf900a6563c15608e"
+  }
+}

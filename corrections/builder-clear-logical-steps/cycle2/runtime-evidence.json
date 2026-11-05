@@ -1,0 +1,58 @@
+{
+  "suspension-specimen": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 8098770944,
+    "min_free_bytes": 7018598400,
+    "elapsed_seconds": 15.088180749677122
+  },
+  "suspension-specimen2": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 7022276608,
+    "min_free_bytes": 7017996288,
+    "elapsed_seconds": 8.764442208223045
+  },
+  "representative": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 7046692864,
+    "min_free_bytes": 7042772992,
+    "elapsed_seconds": 8.89488420728594
+  },
+  "representative-fit": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 7046164480,
+    "min_free_bytes": 5967675392,
+    "elapsed_seconds": 8.902504708617926
+  },
+  "remaining": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 5965627392,
+    "min_free_bytes": 5960470528,
+    "elapsed_seconds": 8.870891999453306
+  },
+  "bed-final": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 5958676480,
+    "min_free_bytes": 5954252800,
+    "elapsed_seconds": 8.737461624667048
+  },
+  "bed-overhead": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 6109650944,
+    "min_free_bytes": 5030748160,
+    "elapsed_seconds": 9.10387016646564
+  },
+  "browser-review": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 5029158912,
+    "min_free_bytes": 5024534528,
+    "elapsed_seconds": 8.648477458395064
+  }
+}

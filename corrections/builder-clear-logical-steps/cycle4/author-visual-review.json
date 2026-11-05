@@ -1,0 +1,32 @@
+{
+  "role": "author, not independent reviewer",
+  "full_pages_inspected": [
+    4,
+    23,
+    24,
+    25,
+    36
+  ],
+  "page_raster_bindings": {
+    "4": "f234efa965ad30ffd6a61ff3660ba07ca80c5807aa2f22cbb101eb56621de7f9",
+    "23": "bd33435328f1e8e582821295c9a06c58b1089291a0ab8c8d6e575642faf8f8a9",
+    "24": "3aa561efb91b1c85d8bbebe14c5e746d9eb3e0ffc47225193bdaab075cdad35d",
+    "25": "1e59106bbce56370c838440be5964726310e5bd5847a5b30d95a1204df498753",
+    "36": "42eacaf34cb289e7bd8b6d0fa90360151ef94175bdc761f476e8cf1424ec6ab5"
+  },
+  "observations": {
+    "4": "Two beams/two pins, one orange axis each with 1/2/3 order; pin and closing-beam hidden spans dashed.",
+    "23": "Two targets visibly land on stud tops, short hidden source-plate spans dashed.",
+    "24/25": "Eight round plates, four continuous axes, first/second layer numbers, C locator and full count caption; upper body spans dashed.",
+    "36": "Fixed B natural view, both receiving surfaces visible; left recipe/tray retained. Segment behind raised unit dashed, exposed tails and heads solid."
+  },
+  "correction_during_inspection": "Moved spacer count caption above image after finding it partly covered; no geometry/render change.",
+  "browser_source_pixel_crops_inspected": [
+    4,
+    24,
+    25,
+    36
+  ],
+  "browser_crop_limit": "390px viewport crops parts of complete page; horizontal scrolling is needed. Full-page evidence is separate. No default-fit readability or live-phone claim.",
+  "captain_acceptance": false
+}

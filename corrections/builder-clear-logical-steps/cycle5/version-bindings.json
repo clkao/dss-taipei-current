@@ -1,0 +1,37 @@
+{
+  "versions": {
+    "cycle4": {
+      "path": "builds/clear-logical/cycle4/package",
+      "files": {
+        "instructions.pdf": "89c7b5aee2ce4584e8bc9fc6bce6dfe92f997b8cca06cc6d1f2de28cdb1da28f",
+        "release.zip": "06689b907c4780982ace5ac8acfdfa60b3ca3677bdbaab6a72017f658e21f1e1",
+        "model.json": "ccf58ae4031e4a466f471bb87668f897375684cbd10c0ca892fc219553edd5f3",
+        "instruction-plan.json": "5cf8c157b465e8c633a8fd4200202011a66dff8107531f3558aa99e2d9bffd00",
+        "viewer.html": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+        "index.html": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+        "model-viewer.html": "3970194314667626daad3f660d07a5b9ec507c22329ca6c0bf70c77c1542d819",
+        "package-manifest.json": "a78ce5ec4bd35fc34390119278719c641c5139595acc5dbd7c237d10b84d8c48"
+      }
+    },
+    "current": {
+      "path": "builds/clear-logical/cycle5/package",
+      "files": {
+        "instructions.pdf": "525e42c3f6dc61913d29af791cc27f34699dd9ca8a2ce1036989ae4e62381e97",
+        "release.zip": "a284f8c62e1fc2b551cbec7329d5d2dd64db47bb22d34e2998b09638821677b3",
+        "model.json": "d7081640aac6a6bf39ba561f576c1cebdb5edaa1f9dc7b1da81e7eecc1643bb0",
+        "instruction-plan.json": "ff41d3c3b2007140dc509200cc6eee6da068def6645dcb5fce1930b9aaa96d76",
+        "viewer.html": "da294f78a64a6260cec36de22bdd5aa5a795123b64b1cbc9431290ed45fee9c9",
+        "index.html": "da294f78a64a6260cec36de22bdd5aa5a795123b64b1cbc9431290ed45fee9c9",
+        "model-viewer.html": "d45f5b58bb49af7b94e484bb04ab4c4b4fc1c80187bada7f7dbd2a919d455f97",
+        "package-manifest.json": "d36a38059619579d4423714bb8a9e051d54db8bcad90fb1211edeb178d9435c7"
+      }
+    },
+    "pre_viewer_style_zip": {
+      "path": "builds/clear-logical/cycle5/pre-viewer-style-release.zip",
+      "sha256": "692e240fca4061f28c83278190c38818662eac3142ff9f40ec7def88bb670aef"
+    }
+  },
+  "earlier_snapshot_bindings": "../cycle4/version-bindings.json",
+  "accepted": false,
+  "published": false
+}

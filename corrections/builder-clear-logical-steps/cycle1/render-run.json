@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle1/render.mjs",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/renders"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps",
+  "active_floor_bytes": 536870912,
+  "admission_free_bytes": 637214720,
+  "started_unix": 1793881200.934935,
+  "memory_snapshot": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                     4389.\nPages active:                                 378177.\nPages inactive:                               376189.\nPages speculative:                              1257.\nPages throttled:                                   0.\nPages wired down:                             338333.\nPages purgeable:                                   4.\n\"Translation faults\":                   319802382267.\nPages copy-on-write:                     60603517746.\nPages zero filled:                      116736231203.\nPages reactivated:                       11036922611.\nPages purged:                             2411986775.\nFile-backed pages:                            250212.\nAnonymous pages:                              505411.\nPages stored in compressor:                  3282085.\nPages occupied by compressor:                 959269.\nDecompressions:                          10520621245.\nCompressions:                            11221600656.\nPageins:                                  2975982836.\nPageouts:                                   28420792.\nSwapins:                                    30205012.\nSwapouts:                                   44587760.\n",
+  "exit": 0,
+  "stop_reason": null,
+  "min_free_bytes": 625688576,
+  "elapsed_seconds": 16.913555833511055
+}

@@ -1,0 +1,24 @@
+{
+  "schema": "dss-local-instruction-candidate/1",
+  "predecessor_pdf_sha256": "5c347b0e5d639a5ed5f45be6e867a14772fa01ed92ec4c80b472f956bbcf7bbd",
+  "pdf_sha256": "db13a65349791ea4af2644df5cff26afd1a1bc29a218ec9f1df95983fca02956",
+  "model_sha256": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+  "plan_sha256": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+  "pages": 80,
+  "print_pages": [
+    72,
+    73
+  ],
+  "accepted": false,
+  "published": false,
+  "native_studfleet_adopted": false,
+  "physical_verified": false,
+  "headless_review_only": true,
+  "source": "corrections/builder-clear-logical-steps",
+  "known_limits": [
+    "Target locators are source-position markers, not connector certification.",
+    "Cord length, slack and knot type remain unspecified.",
+    "Cutaways preserve part poses but omit surrounding context explicitly.",
+    "3D inspection retains its predecessor operation navigation; the primary guide follows PDF pages."
+  ]
+}

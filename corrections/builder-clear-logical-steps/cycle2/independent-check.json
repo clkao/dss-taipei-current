@@ -1,0 +1,41 @@
+{
+  "source_reviewed": "9d30303",
+  "checks": "PASS",
+  "successor_hashes": {
+    "instructions.pdf": "19d5c4262279624e38635367f958fcb9ccd6ffa87ca3b9a8f0da91da87d1716c",
+    "viewer.html": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+    "release.zip": "98fc465d0f6bb04d4eb4100efb2bb40984f9a80469b007e472befe88c5325c00",
+    "package-manifest.json": "a69c695f58b89ffbdd98b66cbe88a6a5ccf2678b4b4427a4421fb4ae637a2ec3"
+  },
+  "loose_manifest_members": 108,
+  "archive_members": 109,
+  "unchanged_page_content_streams_and_rasters": 75,
+  "new_page_visual_review": [
+    10,
+    12,
+    14,
+    16,
+    36
+  ],
+  "A4_pages": 80,
+  "source_plan_byte_equal": true,
+  "stock_order_mapping_unchanged": true,
+  "unique_introductions": 348,
+  "operations": 215,
+  "parallel_arrow_projection_and_bed_alignment_checks": true,
+  "page36_recipe_region_pixel_equality": [
+    0,
+    0,
+    520,
+    849
+  ],
+  "prior_package_pins_preserved": true,
+  "recorded_browser_screenshots_inspected": [
+    "enlarged-10.png",
+    "enlarged-36.png",
+    "returned-guide-390.png"
+  ],
+  "new_render_or_browser_run": false,
+  "physical_verified": false,
+  "captain_acceptance": false
+}

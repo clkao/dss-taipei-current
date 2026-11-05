@@ -1,0 +1,67 @@
+{
+  "model_sha256": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+  "plan_sha256": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+  "pdf_sha256": "db13a65349791ea4af2644df5cff26afd1a1bc29a218ec9f1df95983fca02956",
+  "viewer_sha256": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+  "zip_sha256": "5c34b1d1783d4d67b12b0989431a0277a008f6356b530f952c9d8753cc0ea459",
+  "pieces": 348,
+  "unique_introductions": 348,
+  "source_operations": 215,
+  "changed_steps_stock_and_operation_coverage": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    13,
+    14,
+    15,
+    16,
+    25,
+    26,
+    40,
+    41,
+    63,
+    64,
+    67
+  ],
+  "source_render_checks": [
+    {
+      "folder": "assets",
+      "rendered_views": 32,
+      "source_records_unchanged": true
+    },
+    {
+      "folder": "assets-v2",
+      "rendered_views": 32,
+      "source_records_unchanged": true
+    },
+    {
+      "folder": "assets-v3",
+      "rendered_views": 15,
+      "source_records_unchanged": true
+    },
+    {
+      "folder": "detail-final",
+      "rendered_views": 18,
+      "source_records_unchanged": true
+    },
+    {
+      "folder": "feet",
+      "rendered_views": 1,
+      "source_records_unchanged": true
+    },
+    {
+      "folder": "cabin-detail",
+      "rendered_views": 6,
+      "source_records_unchanged": true
+    }
+  ],
+  "pages": 80,
+  "all_page_rasters_exist": true,
+  "all_pages_A4_landscape": true,
+  "zip_member_hashes_match": true,
+  "independent_review": "pending",
+  "human_acceptance": false,
+  "physical_verified": false
+}

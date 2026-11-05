@@ -1,0 +1,16 @@
+{
+  "argv": [
+    "/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle1/review-mobile.mjs",
+    "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle1/browser-review"
+  ],
+  "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps",
+  "active_floor_bytes": 536870912,
+  "admission_free_bytes": 605536256,
+  "started_unix": 1793881766.413831,
+  "memory_snapshot": "Mach Virtual Memory Statistics: (page size of 16384 bytes)\nPages free:                                    15272.\nPages active:                                 362741.\nPages inactive:                               343489.\nPages speculative:                             18829.\nPages throttled:                                   0.\nPages wired down:                             328600.\nPages purgeable:                                1177.\n\"Translation faults\":                   319807400378.\nPages copy-on-write:                     60603887880.\nPages zero filled:                      116738356038.\nPages reactivated:                       11037236225.\nPages purged:                             2412016084.\nFile-backed pages:                            296633.\nAnonymous pages:                              428426.\nPages stored in compressor:                  3350109.\nPages occupied by compressor:                 988558.\nDecompressions:                          10520765985.\nCompressions:                            11221823120.\nPageins:                                  2976102112.\nPageouts:                                   28420869.\nSwapins:                                    30205332.\nSwapouts:                                   44591464.\n",
+  "exit": 0,
+  "stop_reason": null,
+  "min_free_bytes": 599244800,
+  "elapsed_seconds": 8.273580667562783
+}

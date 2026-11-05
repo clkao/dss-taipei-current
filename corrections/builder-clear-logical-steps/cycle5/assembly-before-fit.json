@@ -1,0 +1,50 @@
+{
+  "commands": [
+    {
+      "command": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle5/compose-pointer.py"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 1.2270895410329103
+    },
+    {
+      "command": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle5/compose-sides.py"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 2.8625915413722396
+    },
+    {
+      "command": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle5/headings.py",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/content.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/builds/clear-logical/cycle5/package/instructions.pdf"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 4.879549459554255
+    },
+    {
+      "command": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle5/page-map-guide.py"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 0.2079635001718998
+    },
+    {
+      "command": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps/corrections/builder-clear-logical-steps/cycle5/prepare-package.py"
+      ],
+      "exit": 0,
+      "elapsed_seconds": 16.635469666682184
+    }
+  ],
+  "minimum_free_bytes": 2028298240,
+  "elapsed_seconds": 25.81420962419361,
+  "admission_MiB": 576,
+  "active_MiB": 512
+}

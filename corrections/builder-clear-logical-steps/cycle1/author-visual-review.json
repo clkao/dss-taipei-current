@@ -1,0 +1,32 @@
+{
+  "category": "author visual inspection; independent review pending",
+  "affected_pages": [
+    10,
+    12,
+    14,
+    16,
+    24,
+    25,
+    69,
+    71
+  ],
+  "disposition": "ready for independent re-review",
+  "native_zoom_screenshots_inspected": [
+    10,
+    24,
+    69,
+    71
+  ],
+  "screenshot_sha256": {
+    "returned-guide-390.png": "b7ec1832fd4c7130ffa0cbe4177d303eb01c7529f5027c5b1a3eaa201e7b2773",
+    "enlarged-69.png": "b8fb9dab23fd13d9c455897ebd987bf56dcd3f13f2e453dcaa1ecc26ec999551",
+    "enlarged-24.png": "24b0699af291c4da24317bec8dfb47a7247d4de91b1d61ebbf71f5e41af1c790",
+    "enlarged-10.png": "eda46ccb1b383f909f45e92779e082e67eeb61bb70dc93d7770411e47ddf19e6",
+    "enlarged-71.png": "1630e22fbc00741ad46576cba259bc8c8662946fe1cb2573320eb918782cd7f4"
+  },
+  "source_pixel_details_readable": true,
+  "horizontal_scrolling_required": true,
+  "default_fit_detail_readability_claimed": false,
+  "human_device_testing": false,
+  "final_ring_badges_and_plate_highlights_inspected": true
+}

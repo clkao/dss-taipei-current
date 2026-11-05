@@ -1,0 +1,46 @@
+{
+  "role": "author; direct captain judgment pending",
+  "full_pages_inspected": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    35,
+    36,
+    54,
+    65,
+    69
+  ],
+  "heading_regions_inspected": "All67 main-step page heading strips, including lower panel headings, across9 sheets. Last mask corrections on54/65/69 inspected at full-page scale afterward.",
+  "heading_sheets": "heading-review-sheets.json; initial7/8/9 preserve the mask issue, corrected full pages are separately bound here.",
+  "final_page_bindings": {
+    "27": "23d5f6f2fdc9b5432169c2227a6304ed5d6de23586d9e9d08cb01760aa65bcc8",
+    "28": "ab9a3cac93dc0476a23702033433d3a93f5db5d31936c234718cd28e41e35ecc",
+    "29": "f6f302166a37c222d4b97876d8ef11b59727d2c2c97e5b1b2f8c901b1c43f2cc",
+    "30": "377dd6adb20923f9f4cad3b77ffafbcb71e18207005515dd83516d752475c280",
+    "31": "28c900e8a27f3bfef929db6d94fa84467128607770d5da551241a1a9e19b6c9a",
+    "32": "e271fefe44f419c54102f5628271dbe76ee190cecf1f64f49494d4daf724fb7b",
+    "35": "94cacbee6507260026dcd106a66fa3a6d54725b80bfcb5c99c2f07547b4375f9",
+    "36": "78d3c23fd60aef96a2dcbaec736cbdedd755a73a2031916a8c134ff613a6af75",
+    "54": "54516c54a87b974f19dbdb6ddaaea3b20255d9b6cbf6ee76a423fa2f5060296e",
+    "65": "8831dee11f3204a0c441feed84f5c37354457c8f3fc8086e3757c7cf9ab269f7",
+    "69": "1fc05bded67e1e50337eaf5f94fe3640fcc773315ad7f3f2093dbc8e5e8ee0bb"
+  },
+  "source_pixel_browser_frames_inspected": [
+    "browser-review/step18-frame11.png",
+    "browser-review/step18-frame12.png",
+    "viewer-heading-check/actual-heading.png"
+  ],
+  "observations": [
+    "Shared recipes use readable component names, complete per-copy trays and local1/2/3/4 numbers.",
+    "Matched inside views expose opposite1x6/1x4 split. Circled1/2 cues are distinct from quantities.",
+    "Two completed-carrier placement pages show source-bound studs and installed bands; fitted body panels preserve all relevant geometry.",
+    "Rear-bed recipe leader ends on floating crossbar; right outline absent; no clipped subtitle or Install1x ghost.",
+    "Coral headings are consistent; paired21/22 no aggregate duplicate.",
+    "Complete tray icons restored on54/65/69. Actual3D heading has coral background/white text;79-page link label correct."
+  ],
+  "limits": "Fresh full-page review for changed composition; unchanged body regions compared pixel-for-pixel on72 pages outside declared heading/footer edits. Headless browser only; no default-fit/live-phone or physical-fit claim.",
+  "accepted": false
+}

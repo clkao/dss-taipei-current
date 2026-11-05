@@ -1,0 +1,44 @@
+{
+  "bed-specimen": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 7618301952,
+    "min_free_bytes": 7613976576,
+    "elapsed_seconds": 11.400337915867567
+  },
+  "spacer-evidence": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 7616753664,
+    "min_free_bytes": 7613308928,
+    "elapsed_seconds": 6.3307786248624325
+  },
+  "core-floor": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 7454212096,
+    "min_free_bytes": 7449657344,
+    "elapsed_seconds": 6.5197362918406725
+  },
+  "spacers": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 7429554176,
+    "min_free_bytes": 7424913408,
+    "elapsed_seconds": 7.53559145797044
+  },
+  "finalviews": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 8510885888,
+    "min_free_bytes": 8505659392,
+    "elapsed_seconds": 6.515254500322044
+  },
+  "browser-review": {
+    "exit": 0,
+    "stop_reason": null,
+    "admission_free_bytes": 8482000896,
+    "min_free_bytes": 8475353088,
+    "elapsed_seconds": 8.34773120842874
+  }
+}
