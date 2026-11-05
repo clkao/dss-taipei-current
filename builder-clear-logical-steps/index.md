@@ -43,6 +43,14 @@ gates:
                 id: briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-2:revision-1
                 digest: sha256:0ec9de84628c68b75a20ad18e75255cf3d8c220f9d0ce72bcedb20fbf61886de
                 room-ref: '@review/instruction-review/briefing-2'
+              resolution:
+                type: Resolution
+                id: resolution:spacedock:czrrfahe7jyh39409x9jnf6r:instruction-review:2
+                briefing: briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-2:revision-1
+                by: person:captain
+                at: "2026-11-05T16:50:29.551222Z"
+                decision: revise
+                reason: 'Captain likes the direct long-arrow treatment and accepts the direction conditionally: apply it where useful to pages23/24 and4; tilt page36 assembly view to expose both receiving sides and use two long arrows, one per side. Exact corrected bytes still require presentation; no approval/publication is inferred before fixes.'
 ---
 
 ## Brief
