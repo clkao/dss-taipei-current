@@ -168,3 +168,28 @@ Rejected PDF `db13a65349791ea4af2644df5cff26afd1a1bc29a218ec9f1df95983fca02956`,
 ### Summary and limits
 
 Eight affected pages now use visible features and matched context. Previously green grouping, cabin, carrier and tray work remains unchanged. The exact successor is ready for the kept independent reviewer. Independent recommendation and captain acceptance remain pending. No publication occurred. Digital feature correspondence does not certify insertion clearance, physical fit or strength. Sole marks identify regions rather than certified stud/cavity centers. Cord knot, cut length and slack remain unspecified. No shared StudFleet update/test ran; DSS tooling gaps and native full-edition parity remain unchanged.
+
+## Stage Report: instruction-review (cycle 2)
+
+- DONE: Re-review corrected R1–R5 against exact source92cc98d cycle1/REVIEW-HANDOFF.md and PDF59b66fb0/ZIP635049be, inspecting all eight affected pages plus actual enlarged/link/back screenshots; preserve your original rejection.
+  Review commit `d2c94bb`, `corrections/builder-clear-logical-steps/cycle1/INDEPENDENT-REVIEW.md`: eight page rasters and five browser screenshots inspected; R1–R5 resolved at stated scope. Original rejection and rejected package preserved.
+- DONE: Verify exact successor bindings and 72-page/source/stock equivalence at their claimed evidence level without duplicate rendering; distinguish visual features from certified connector/access geometry and headless from human evidence.
+  Fresh `cycle1/independent-check.json`: 108 loose members / exact 109 ZIP members, four artifact pins, 72 decoded PDF content streams and raster bytes, immutable model/plan, 348 unique introductions, 215 operations and source feature transforms pass. A changed member, missing introduction or changed retained raster fails these checks.
+- DONE: Return a durable independent verdict and all AC dispositions for the exact candidate, identifying remaining material defects or acceptance limits; no candidate mutation, publication or new standing tests.
+  PASS for local digital instruction review; recommend captain acceptance review. AC-1–5 met within artifact/visual/headless scope. No remaining material instruction defect found; physical fit/access/strength, live device testing and captain acceptance remain unproved.
+
+### Dispositions and limits
+
+R1: pp10/12/14/16 now identify visible pin ends and beam-hole mouths with enlarged panels and explicit face turn. R2: p69 exposes the four apertures with region locators and source-correct route. R3: pp24/25 pair the installed floor highlight with the same C corner. R4: p71 pairs L/R sole regions in the same overhead view with a helm landmark and explicit omissions. These are source-bound visual correspondences, not certified connector or insertion geometry.
+
+R5: actual Enlarge clicks/native source-pixel zoom, selected-region screenshots, scrolling, actual 3D anchor and browser-history Back supply the missing headless evidence. Screenshots require horizontal scrolling and do not show every detail at once. Three recorded initial-fit widths are 662 pixels; no consistent mobile default-fit or live-phone readability is claimed. Reviewer inspected recorded evidence rather than running a new browser exercise.
+
+The page-map byte-equality assumption initially failed because eight records add correction metadata; independent comparison confirms all previous stock/operation fields remain equal. The 72-page comparison is decoded content-stream/raster equality, not complete PDF resource-object identity. Original all-page inspection supplies the unchanged pages' review scope; no duplicate rendering occurred.
+
+### Exact review target
+
+Package: `builds/clear-logical/cycle1/package` in the author worktree. PDF `59b66fb0bfb8766306b89475e5516cc0c1a5286605355c760ca578a723530f64`; viewer shell `4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865`; ZIP `635049be41e87e1446500e433d58bece6a77822ddd816677abca4d079a0ecf04`; manifest `9bd0220666d3d1af4d3d38c495d5a6069d9c6dd8e53ca9998463d8e6250b1310`. The manifest binds corrected page images despite the unchanged viewer-shell hash.
+
+### Summary
+
+The exact successor resolves the original review's visual blockers while preserving source, stock, order and known-good pages. Present it for the captain's acceptance decision; no delivery/publication approval is inferred. StudFleet gap status and native full-edition parity are unchanged because no shared tool update/test occurred; shared-reference reconciliation and physical certification remain unresolved.
