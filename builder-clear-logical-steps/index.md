@@ -335,3 +335,35 @@ Cycle2 PDF `19d5c4262279624e38635367f958fcb9ccd6ffa87ca3b9a8f0da91da87d1716c` an
 All five named pages now use readable long-arrow correspondence; p36 exposes both sides. The narrow spacer semantic correction is explicit and synchronized. No scope expansion or page-count target. Six guarded browser/render runs exited0 with576MiB admission/512MiB active floors unchanged; archive minimum free8,472,645,632 bytes, elapsed0.70 seconds. No peer/cache cleanup.
 
 Direct captain judgment remains pending. No publication, independent PASS, physical insertion/strength/grip/manufacturing or full-edition native parity claim. Existing cord knot/length/slack limits remain. No shared StudFleet update/test occurred; DSS tooling gaps remain unchanged.
+
+## Stage Report: authoring (cycle 5)
+
+- DONE: Implement consistent orange thread-through alignment arrows on p4/24/25 and actual stud-bound endpoints on p23 without changing the accepted derived sequence or geometry/stock.
+  Source `bfdd556`; two pin axes and four spacer axes per page, exact counts/order. P23 uses actual3460 stud(10,-4,0) and3036 cavity(10,8,-30), not the between-studs origin. `feature-check.json` fails for displaced targets or noncollinear axes.
+- DONE: Render and compare a bounded p36 angle study, choose the naturally readable two-sided receiving view from actual pixels, and retain comparison evidence.
+  Four actual angles retained in `builds/clear-logical/cycle4/camera-comparison.png`; B chosen, same camera with greater display lift and tighter complete-geometry framing. `camera-selection.json` records candidates, selected job and original small specimen. Both supports visible; left recipe/tray retained.
+- DONE: Return exact author-checked five-page correction/package, preserved prior versions and unchanged-content evidence for direct captain judgment, no new independent PASS or publication.
+  `validation.json` compares75 unchanged PDF streams/JPEGs and exact cycle3 model/plan/viewer/crosswalk;80 A4 pages,348 unique introductions,215 operations. `package-check.json` verifies110 archive members. Five actual changed-image links exercised; full pages/detail regions inspected.
+
+### Later captain steering: hidden line portions
+
+Captain clarified “dash the lines that should be behind the parts” / “(the part of the lines)”. Visible portions and arrowheads remain solid orange; hidden portions now continue with dashes instead of blank gaps. Actual triangle/instance raycasts use displayed exploded transforms and fixed cameras, not canonical poses or guessed boxes. `hidden-segment-evidence.json` binds identical projected targets to source raster assets and records all14 paths. Sampling ≤0.5 source pixel, ten transition refinements; thinner visibility features may be missed. This is display occlusion, not physical clearance.
+
+### Exact package and evidence
+
+Worktree `/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps`; source commit `bfdd556` on `builder-clear-logical-steps`.
+
+- Final package `builds/clear-logical/cycle4/package`.
+- PDF SHA256 `89c7b5aee2ce4584e8bc9fc6bce6dfe92f997b8cca06cc6d1f2de28cdb1da28f`.
+- ZIP SHA256 `06689b907c4780982ace5ac8acfdfa60b3ca3677bdbaab6a72017f658e21f1e1`.
+- Manifest SHA256 `a78ce5ec4bd35fc34390119278719c641c5139595acc5dbd7c237d10b84d8c48`.
+- Unchanged cycle3 model `ccf58ae4031e4a466f471bb87668f897375684cbd10c0ca892fc219553edd5f3`; plan `5cf8c157b465e8c633a8fd4200202011a66dff8107531f3558aa99e2d9bffd00`;3D viewer `3970194314667626daad3f660d07a5b9ec507c22329ca6c0bf70c77c1542d819`; guide `4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865`.
+- Prior cycle3 PDF `c2cc842abc833241d8d543831d879c6273d9bfb9b12b05d4077afdd47de92ae0` / ZIP `7427dbd7a7e642b61a852fc7840e8b4075c8494939b2220f22e48fe32e8bf533` preserved. Pre-hidden candidate retained at `cycle4/pre-hidden-package`: PDF `84c1e9267894c219c7b63b52dec95ba44f37220af8c8b31225ec85adaa211990` / ZIP `2642f3474886278ffe26dbfb8df6db3f7a9dab2ecac61ed983e24ac6a4869f48`.
+
+Evidence root `corrections/builder-clear-logical-steps/cycle4/`: `REVIEW-HANDOFF.md`, `CORRECTION-LOG.md`, `before-after.html`, `camera-selection.json`, `feature-check.json`, `hidden-segment-evidence.json`, `validation.json`, `browser-check.json`, `author-visual-review.json`, `runtime-evidence.json`, `package-check.json`, `version-bindings.json`.
+
+### Summary
+
+The named five pages now use orange continuous alignment paths, true stud endpoints, a naturally oriented rear-bed view and geometry-derived partial hidden-line styling. This is explicit captain follow-up after cycle3, not a fourth independent review. The earlier authorized semantic exception original44→43 and46→45 remains unchanged and synchronized; original-order equality remains false. Actual cycle3 four-frame ownership/bands/downstream browser evidence is reused by hash because plan and handlers are identical.
+
+Initial camera startup failed before capture; same four jobs succeeded with bounded20s discovery. Evidence retained.576MiB admission/512MiB active guards stayed unchanged; final archive minimum free10,274,217,984 bytes. Only closed task browser profiles cleaned. No shared StudFleet update, publication, independent PASS, human acceptance, live-device, physical fit/path/strength or full-edition native parity claim. Captain judgment remains pending.
