@@ -1,10 +1,10 @@
 ---
 title: Correct minifigure assembly access and instruction order
-status: instruction-review
+status: delivered
 source: Captain request 2026-11-04; community feedback from 彭柏源; captain step19 clarification
 started: 2026-11-04T16:00:25Z
-completed:
-verdict:
+completed: 2026-11-05T10:43:46Z
+verdict: PASSED
 score: 0.95
 worktree: .worktrees/spacedock-ensign-minifigure-access-correction
 issue:
@@ -32,7 +32,8 @@ gates:
                 reason: 'Captain: Approve a3 and deploy. Approves the exact reviewed 69-page digital package presented at this gate and authorizes deployment. Retained physical insertion and independent native-UI limitations remain disclosed; no physical certification or native adoption is inferred.'
               application:
                 target-stage: delivered
-                state: pending
+                state: consumed
+archived: 2026-11-05T10:43:46Z
 ---
 
 ## Brief
