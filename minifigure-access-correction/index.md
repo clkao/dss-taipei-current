@@ -556,3 +556,13 @@ Candidate builds/access-corrected-hybrid-prefix; author source17f823e. Full pins
 ### Summary
 
 PASSED for the hybrid prefix digital correction, based on five actual A4 pages, six screenshots, retained-equivalence evidence and independent source/hash checks. Optional Inspect selector feedback remains a nonblocking DSS polish follow-up; physical, independent native UI and native adoption limits stay open. Captain/FO publication disposition is separate from this recommendation.
+
+## Hybrid actual publication record
+
+Parent merged source17f823e through main6d61ba0 and pushed publication24425a3cd5c0e925fe8922425fde7630b5177f7c, replacing retained2105eb69bbc60228fe0eb5a49cd2242db0d0469a. Exact29filemap checked againstprior/candidate; only12changedpaths transported, all29postcopyhashes matched. Technic/unrelated untouched. Captain publication/hybrid/concise-text authority retained; Epicurus335239c instruction-reviewcycle4 PASSED affected digital scope.
+
+Parent verified Pages statusbuilt/errornull/updated2026-11-05T01:06:16Z for exact24425a3. SevenliveHTTP200 responses matched reviewedfullSHA andbytes: index8e805e7d/5,243,497; viewer18025ef3/5,243,374; PDF6d02aa7d/6,428,537; diagram69021/94,041; nameonlycredit0d9e/51,411; manifest28d6/2,866; ZIP3d93/14,961,417. Fullpins/parentresponseevidence in source d827de6, manual/hybrid/hybrid-release-record.json and HYBRID-RELEASE.md. No authornetworkrerun orpackage mutation.
+
+The experimental shared task66 asset is now actually integrated in the firstsection of the136page manual and primaryviewer through oneDSScomposer/adapter. This records sectionreuse, not nativeStudFleetproductionadoption; nativeadopted=false retained. Threeoperations/fouridentities/sourceorder/stock unchanged. Name-onlycredit andrights preserved.
+
+OptionalInspectselector inconsistency remains accepted nonblockingPolish/FOLLOW-UP owned byDSSviewerpresentationadapter; correctactionheading/image/tray/return remain. Inherited3666label follow-up staysseparate. FormalAC2physical/supportedcontinuousinsertion andAC4independentnativeUI remainUNPROVEN; no allACpass/fullphysical/nativeadoption/parity claim. Livebyteverification doesnotreplace nativeinteraction. Earlierupstreamoverrun/RSSunknown and supervisor1/TIME_WAIT/laterclosure evidence remain literal, not retrospectivelygreen. Originalrelease records/history preserved. Parentowns transport; authoronlyrecordedevidence, no status/gate mutation.
