@@ -826,3 +826,44 @@ UI runtime11.505s/minfree785297408B/new13860409B; originalsupervisor1 solelybind
 Actualdesktop/narrowprimary numbers-only diagram readable;2+2tray/noextra prose; Inspect1/2/3 sourcecaptions/states andNext4 restored. Sixhashes/fulltelemetry/closure and exact29publicationmap are durable under package/ui-evidence. OriginalZIPfailure and diskstops retained. Authoring now supplies the complete exact digitalcandidate for required independent finalreview; existing publication24425a3 remains unchanged and captain acceptance is not inferred.
 
 Cycle19 formalAC accounting is explicit in final package/REVIEW-HANDOFF.md: AC1 exactgeometry/stock/copy evidence retained, finalindependentpackage check pending; AC2 ordered/context evidence supported but physical/continuousinsertion and carrierwitnesses156/99,166/129,96/99,115/129 open; AC3 retained199/68sweep/rearbed correction with suspension/floor/caps/lights/cabin/roof/shield/lateequipment holds and optionalmesh ownerStudFleet31 unchanged; AC4 exact69PDF independentreview and authorUI/packagechecks complete, finalindependentpackage/nativeUI open; AC5 exactpins/history preserved, independentfinalfindings/captain decision pending. This is ready for formalinstruction-review dispatch, not allcriteria passed. No additional implementation/runtime.
+
+## Stage Report: instruction-review (final simplified digital package)
+
+- DONE: Independently review the exact digital package, affected viewer images/navigation evidence, PDF identity and complete archive bindings.
+  Personally inspected all6 saved actual UI images; independently verified28 manifest file hashes,29 publication-map entries, all418 archive members, retained artwork and identical HTML script blocks. Exact PDF reuses eb1d9f6 coverage of all69 pages.
+- DONE: Reconcile all five acceptance criteria with explicit digital, physical, native and historical evidence limits.
+  AC accounting below retains unmet AC2, native/supported-route aspects of AC4 and pending captain decision under AC5; no criteria were rewritten.
+- DONE: Return a concrete captain-gate recommendation for the exact package without publication or fabricated full acceptance.
+  Recommend presenting this exact package for captain acceptance as a digitally reviewed manual delivery. Digital-package review PASSED; whole-entity/all-AC completion is NOT established.
+- SKIPPED: New browser/render/runtime suite, physical assembly and publication.
+  Read-only small hash/archive/script comparisons only; no browser/backend or renderer started, no product edits and no workflow status change.
+
+### Exact candidate and independent evidence
+
+Candidate builds/simplification-package-retry1, author source5b3ccc6. PDF5c347b0e5d639a5ed5f45be6e867a14772fa01ed92ec4c80b472f956bbcf7bbd; mapde2bc9955d5472d8113203fd195a20cdc7bd463a52ffc13c154d173d851cf61a; viewer4802fff8c4c9e29828dbf9cdee48a2e945c96934a4a0fc70475962c99dcdd068; indexab1b57bbce96a8011a9f9560930d2e886d4a5572a403a67776ae1f38cdf8e1d7; manifest7c11b72ad86a7c03f95787f11323ed4667827b4cbd01f3b9102a6f8709b176cd; ZIPd58bcda0441b40efc2aa4698c85ae5cb879236a1b613ee9f74bf54755066889e. These bytes independently match their recorded hashes.
+
+Manifest has28 bound files (including release.zip); publication-file-map adds the manifest itself for29 entries. Independent comparison verified all29, archive CRC integrity, exact418-member name list against retained hybrid release, and each member against either its current manifest hash or retained archive bytes. Release.zip is correctly not a member of itself. An initial reviewer assertion incorrectly expected every retained archive member to exist loose in the candidate; that assumption failed, then was corrected to compare retained archive-only members against the retained ZIP. No product mismatch was found or repaired.
+
+Independent comparison found all3 script blocks in each final index/viewer byte-identical to the retained hybrid package, including embedded source payload and handlers. Model3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229 and plan df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff match prior reviewed geometry/stock evidence. Source values and every source label were not freshly revalidated.
+
+Personally viewed r2-diagram, diagram-narrow, inspect1/2/3 and next4 PNGs. Primary numbers-only diagram and collect-once2+2 tray are legible at saved1600/900 widths; Inspect pictures/headings show one beam, exposed pins, second beam, then tie plates. Optional Inspect selector still shows blank for1/2 and diagram text for3: inherited Polish/FOLLOW-UP, owner DSS viewer adapter, unchanged from prior disposition; action heading/image/tray and Diagram return remain correct. Inherited3666 description follow-up also remains; neither is claimed fixed or a native StudFleet defect.
+
+Read exact review.mjs and successful navigation/browser records:10 membership/diagram traces cover Start, Inspect1–3 and Diagram returns, Next4, Previous and selector; additional assertions cover root11 versus separate seed, installed bands, base2x, second-copy return, settled caption visibility and overview restoration. These combine DOM button/change actions with internal setters for setup and some checks; they are headless helper evidence, NOT a fresh independent native interaction exercise. Runtime exceptions[] is scoped to this run, not zero-network proof. No fresh every-frame UI review is inferred from6 screenshots.
+
+Final HTML links target instructions.pdf, instructions.pdf#page=61, release.zip, sticker-artwork.zip and existing credits anchors.69-page labels, map print61/62, README and archive PRINTING.txt agree. Independent nested-artwork comparison confirms every other member unchanged. Name-only credit remains彭柏源 in existing credits section, hash0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367. README/provenance explicitly distinguish preferred PDF base8+rail4+rail3 each2x with distinct C17/C18 order from detailed viewer base8-only2x plus separate source-ordered rails; no false pagination/recipe parity is asserted.
+
+### Acceptance criteria accounting
+
+| Criterion | Result and evidence boundary |
+| --- | --- |
+| AC1 same model/honest stock | Digitally satisfied: exact immutable model/plan binding and retained independent348-introduction/215-operation/copy-stock evidence; PDF copy ownership reviewed. No new physical claim. |
+| AC2 usable reported transitions | NOT fulfilled: ordered panels/context are readable, but required physical or supported insertion exercises remain unperformed. Whole-carrier witnesses156/99,166/129,96/99,115/129 remain unresolved; local recipe does not certify later installation. |
+| AC3 comparable-risk review | Review/explicit-hold requirement supported by retained199-operation/68-step sweep and rear-bed-before-trim correction. Suspension/floor/caps/lights/cabin/roof/shield/late-equipment holds persist with retained evidence; optional mesh work owner StudFleet31(315f09esmt0nmg9mhfysv662), physical handling requires real parts. No blanket clearance. |
+| AC4 readable complete exact package | Digital artifact/readability portion satisfied: all69 A4 pages covered by my prior complete review plus66-page equivalence and final3-page inspection; current full archive and affected helper UI reviewed. Independent native main/local/copy exercise remains OPEN, and this explicit legacy/manual route does not establish supported native compiler adoption or native full-edition parity. Formal criterion is not fully fulfilled. |
+| AC5 truthful history/acceptance | Exact pins, independent findings, retained source/prior releases and failure categories supported. Captain decision for this exact package is PENDING; prior publication instructions are not a fabricated new acceptance. No publication/adoption mutation occurred in this review. |
+
+### Summary
+
+Digital package is ready for the requested captain gate with no new blocking digital defect demonstrated. Present the exact69-page package and inherited polish follow-ups alongside the unfulfilled formal criteria; acceptance must specify its scope, and this recommendation does not automatically close the entity or authorize publication.
+
+Prior first-ZIP failure, disk preflight stop and UI supervisor closure failure remain separate historical records. UI Node/Chrome exited0; original supervisor exit1/Errno48 was later resolved by one separately authorized census/bind and owned-profile cleanup, not rewritten as an initial pass. The reviewer used saved evidence and began no runtime resources. Shared-tool/native adoption, physical certification and new captain acceptance remain unclaimed.
