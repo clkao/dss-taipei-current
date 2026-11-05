@@ -566,3 +566,20 @@ Parent verified Pages statusbuilt/errornull/updated2026-11-05T01:06:16Z for exac
 The experimental shared task66 asset is now actually integrated in the firstsection of the136page manual and primaryviewer through oneDSScomposer/adapter. This records sectionreuse, not nativeStudFleetproductionadoption; nativeadopted=false retained. Threeoperations/fouridentities/sourceorder/stock unchanged. Name-onlycredit andrights preserved.
 
 OptionalInspectselector inconsistency remains accepted nonblockingPolish/FOLLOW-UP owned byDSSviewerpresentationadapter; correctactionheading/image/tray/return remain. Inherited3666label follow-up staysseparate. FormalAC2physical/supportedcontinuousinsertion andAC4independentnativeUI remainUNPROVEN; no allACpass/fullphysical/nativeadoption/parity claim. Livebyteverification doesnotreplace nativeinteraction. Earlierupstreamoverrun/RSSunknown and supervisor1/TIME_WAIT/laterclosure evidence remain literal, not retrospectivelygreen. Originalrelease records/history preserved. Parentowns transport; authoronlyrecordedevidence, no status/gate mutation.
+
+## Stage Report: authoring (cycle 12 — visual simplification static audit)
+
+- DONE: Bind the exact four-piece diagram intent and source operations, with paired pin targets and unchanged model/order/stock.
+  Source commits b1fc676 and 1ae64c3, manual/visual-audit/AUDIT.md: legacy001a→legacy012→legacy001b,172/216/231/178, both pin targets,2+2 quantities; no baked verbal labels. Task66 owns pending replacement asset; current69021 remains published and unmodified.
+- SKIPPED: Prepare the smallest real hybrid PDF/viewer integration and honest producer/adoption record, preserving published R2 fixes and name-only credit.
+  This dispatch authorizes static-first work only. No new asset, PDF/viewer integration or package was generated. Exact proposed callouts/copy bindings are recorded; runtime and acceptance remain pending. Existing published24425a3 and all historical evidence are preserved.
+- DONE: Return exact static commits/pins and a bounded affected-generation/review plan without heavy runtime or publication.
+  Commit1ae64c3 contains the ranked audit, exact67-step/215-operation/348-introduction source accounting and carrier matrix/symmetry evidence; first specimen ceiling8diagrams/90seconds/150MiB is a proposal, not a lease or runnable command. Exact renderer/asset/helper pins must precede runtime.
+
+### Summary
+
+The carrier audit extends proposed repetition from the eight-piece base to8+4+3, each2x. Rail1 has equivalent geometry and source groups; rail2 has equivalent final geometry but reversed per-copy bracket arrival order, so common presentation must retain both original sequences. Whole15 and combined source subassemblies fail the common rigid transform; raw matrices, tolerance and exact unique3710 witness are retained. No pose normalization or physical/insertion proof is claimed.
+
+Ranked simplification starts with wheel4x, riser4x and ring2x assembly callouts beside installation, then carrier recipes/receivers and shield/speaker/tailgate/flag compositions. Bed, bumper, suspension and helm need explicit occlusion/order review. Actual saved representative PNGs were inspected; this was not an all-panel visual acceptance. Global entry/new/exit stock is distinguished from local/root membership. Shield step52 installs two copies despite repeat_count3; preserve the later third copy.
+
+FO's workflow rule6423bb7 was inspected without modifying the README. Upstream generic rule3c2f0ef is FO-reported, not a tested tool update. Choose exploded diagram, assembly callout, attachment closeup or necessary ordered view deliberately; separate recipe pages and a completed thumbnail alone are insufficient. Same Epicurus reviews actual affected artifacts after generation. Native adoption remainsfalse; formalAC2 physical/insertion andAC4 nativeUI remain open. Authoring remains partial; no review/gate/status advancement requested.
