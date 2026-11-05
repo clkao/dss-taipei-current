@@ -666,3 +666,16 @@ Page4 is now numbers-only with both full tray IDs; page9's consolidated tray is 
 This critique applies existing3f65b1f rules to actual examples: layout follows the task, complete tray labels remain readable, build quantity differs from installed quantity, and attachment marks must identify real features. No new schema/upstream design is proposed. The house-reference path was not present under the assigned worktree; no external reference checkout was edited or used as substitute evidence.
 
 Iteration2 PDF/static/27 raster successes and released resources remain author execution evidence; older supervisor failures and later closure stay separate. Third actual rendered candidate remains required. No final package/link/archive acceptance, simplified viewer review, physicalAC2, independent nativeUIAC4, native adoption or full-edition parity is claimed; published artifacts remain unchanged by this reviewer.
+
+## Stage Report: authoring (cycle 15 — iteration3 source prepared, runtime pending)
+
+- DONE: Implement third local composition with honest attachment targets, clear compact assembly relationships and truthful copy handoffs.
+  Source20837f1 removes false-precision origin rings and diagnostic IDs; retains bounded context rectangles. Restores both actual local wheel/ring states, axle/rail before-and-after placement crops and explicit wheel inner/outer face captions. Wheels/risers and figures now share pages; sticker targets are enlarged; shield53 explicitly builds1 more with fresh stock. Final readability is unrun.
+- DONE: Bind exact source/assets/page plan and bounded final rendering plus all-page review proposal.
+  i3/PROPOSAL.md and input-pins653c516d bind driverf1803d6c/PDF963ee51b/layoutd9bb0357/check02747101, source model3d23390f and retained images. Expected69 pages/57 construction+12 retained. Pinned Python i3/run.py: ≤160s160MiB, PDF/check then all69 pages110dpi, fresh576MiB/per-child576/active512 floor/directRSS1GiB. Output builds/simplification-i3 and tmp/simplification-i3 must be absent. No browser/3D/marker/install/package. Runtime requires resource grant; no candidate PDF yet.
+- DONE: Preserve prior iterations and report remaining reader/physical/native limits without premature acceptance.
+  All earlier candidates, source failures and closure receipts remain immutable. Same Epicurus af19970 informed this design; all69 actual final pages and independent feedback remain required. Pixel magnification and compact placement legibility remain reader risks. Bounded rectangles are not mating coordinates or insertion proof; physicalAC2/nativeUIAC4/native adoption remain open.
+
+### Summary
+
+This is concrete third-pass source implementation, not a renamed helper repair or a completed third rendering. All existing composition entries were considered; necessary chassis/bumper/carrier sequences remain. A/B/C8+4+3 each2x and distinct whole carriers retain their source order. All348 poses/215 operations/67 main identities, stock, bands and artwork remain unchanged. Exact before/after comparison will follow the actual third candidate. Source-only syntax and page/step coverage pass. No upstream design request, shared mutation, package/publication or acceptance claim.
