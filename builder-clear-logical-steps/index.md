@@ -288,3 +288,50 @@ Package: `builds/clear-logical/cycle2/package` in the author worktree. PDF `19d5
 ### Summary
 
 The exact successor satisfies the captain's direct-placement and local-callout requests and is ready for the next acceptance gate. No candidate edit, publication or physical approval occurred. StudFleet gaps and native full-edition parity remain unchanged; no shared tool was updated/tested, and physical fit/access/strength, cord details and shared-reference reconciliation remain unresolved.
+
+## Stage Report: authoring (cycle 4)
+
+Captain correction round3 completed at source commit `528ec87`. Return directly for captain judgment at the correction-cycle limit; no fourth independent review or independent PASS is claimed. Exact feedback, actual findings and FO disposition are preserved in `corrections/builder-clear-logical-steps/cycle3/CORRECTION-LOG.md`.
+
+### Material AC3 exception: source order changed, geometry did not
+
+The historical lower-first spacer sequence was investigated before drawing. Lower stud tips stop at height3.81875 while the installed floor underside is4.01875; the intervening upper layer is introduced later. Empty catalog pairs and overlapping AABBs alone were not treated as physical/access proof. The four-field finding, source positions, pair metadata and installed-context image remain preserved.
+
+The FO explicitly superseded this round's preserve-order restriction ONLY for original44 before43 and original46 before45. The derived edition uses upper-before-lower spacers. `operation-crosswalk.json` records every source→edition operation. All other order and all348 piece records, geometry, poses, colors, stock and copy ownership remain exact. Original model/plan bytes remain immutable historical inputs. This semantic change is distinct from display-only exploded offsets; source-order equality is explicitly FALSE.
+
+Actual upper stud/floor socket correspondence was checked against the pinned3036 female grid and6141 connector geometry: all eight axes match grid sites and body-top/underside planes. `receiver-correspondence.json` records hashes and tolerances. This is catalog/pose correspondence, not a fresh connector-engine run, insertion sweep or physical fit certification.
+
+### Completion checklist
+
+- [x] Produce clear source-bound long-arrow diagrams for p4/23/24/25 while preserving all source action order, stock and truthful receiving context.
+  - Completed under the explicit FO order exception above: p4 retains actions1→2→3 and2+2tray; p23 retains its actual single operation42 with two plates99/129 (assignment's two-operation assumption corrected). pp24/25 show upper then lower courses, four placements each,8×6141 per page, no invented preassembled unit. C locator and chassis/access limits retained.
+  - One derived authoritative edition plan drives PDF and instruction fields in the3D viewer. Historical model/plan files are preserved. `derive-edition.py` and `validate.py` enforce only the two allowed swaps, exact other operations and unique ownership.
+- [x] Tilt p36 to show both receiving sides and two uncrossed placement arrows; inspect actual pixels and preserve failed/previous versions.
+  - High-tilt trial1 exposes both orange receiving strips and separated rail ends in one frame; two long arrows and actual-area callout retained. Trial2's partial near-side occlusion was not used. Original recipes/tray remain.
+  - All five affected A4 pages inspected. Initial low-contrast red arrows were replaced by dark arrows with white outlines before binding. Raw views and camera trials retained; regenerable draft PDF/JPEGs were overwritten, not represented as delivered evidence.
+- [x] Return exact author-validated affected pages/package and unchanged-content evidence for direct captain judgment at correction-cycle limit; no fabricated independent acceptance or publication.
+  -75 unaffected PDF page streams and JPEG bytes match cycle2 exactly;80 A4 pages,348 unique introductions,215 operations. Spacer entry/exit and downstream step16 unchanged.
+  - Actual changed3D dropdown/frame navigation checked all four upper/lower states: exact visible/new IDs match the same plan, installed bands visible, no presentation offsets. Actual Enlarge/native source-pixel zoom exercised all five pages; actual3D link/history Back restored loaded p36. Errors empty. Source-pixel regions inspected; horizontal scrolling required. Headless only, no live-device or default-fit detail readability claim.
+
+### Exact package and evidence
+
+Author worktree `/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-builder-clear-logical-steps`:
+
+- Package `builds/clear-logical/cycle3/package`; before/after `builds/clear-logical/cycle3/before-after.html`.
+- PDF SHA256 `c2cc842abc833241d8d543831d879c6273d9bfb9b12b05d4077afdd47de92ae0`.
+- ZIP SHA256 `7427dbd7a7e642b61a852fc7840e8b4075c8494939b2220f22e48fe32e8bf533`.
+- Derived model SHA256 `ccf58ae4031e4a466f471bb87668f897375684cbd10c0ca892fc219553edd5f3` (instruction fields changed; piece records exact).
+- Authoritative edition-plan SHA256 `5cf8c157b465e8c633a8fd4200202011a66dff8107531f3558aa99e2d9bffd00`.
+- Synchronized3D viewer SHA256 `3970194314667626daad3f660d07a5b9ec507c22329ca6c0bf70c77c1542d819`.
+- Primary guide shell SHA256 `4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865` unchanged; revised images bound separately.
+- Manifest SHA256 `d3e2c135f56c8f591eb2ee68e92e2027c40d4b962b3337baed22c8ebc26f4427`;110 ZIP members verified.
+
+Evidence root `corrections/builder-clear-logical-steps/cycle3/`: `REVIEW-HANDOFF.md`, `CORRECTION-LOG.md`, `operation-crosswalk.json`, `spacer-source-finding.json`, `receiver-correspondence.json`, `validation.json`, `browser-check.json`, `author-visual-review.json`, `runtime-evidence.json`, `package-check.json`, `version-bindings.json`. The local workflow README now states arrow length/receiving visibility/order synchronization rules.
+
+Cycle2 PDF `19d5c4262279624e38635367f958fcb9ccd6ffa87ca3b9a8f0da91da87d1716c` and ZIP `98fc465d0f6bb04d4eb4100efb2bb40984f9a80469b007e472befe88c5325c00` remain unchanged. All prior package/review identities are retained in version bindings. Original model SHA `3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229` and plan SHA `df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff` remain historical inputs, not replaced.
+
+### Summary and limits
+
+All five named pages now use readable long-arrow correspondence; p36 exposes both sides. The narrow spacer semantic correction is explicit and synchronized. No scope expansion or page-count target. Six guarded browser/render runs exited0 with576MiB admission/512MiB active floors unchanged; archive minimum free8,472,645,632 bytes, elapsed0.70 seconds. No peer/cache cleanup.
+
+Direct captain judgment remains pending. No publication, independent PASS, physical insertion/strength/grip/manufacturing or full-edition native parity claim. Existing cord knot/length/slack limits remain. No shared StudFleet update/test occurred; DSS tooling gaps remain unchanged.
