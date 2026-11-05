@@ -1,0 +1,17 @@
+{
+  "command": "/usr/bin/time -l env PYTHONDONTWRITEBYTECODE=1 /Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python corrections/access-order-20261104/manual/hybrid/bind-package.py",
+  "cwd": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction",
+  "tool_session_id": 1828,
+  "observed_exit": 0,
+  "completion_wait_observed": true,
+  "wall_seconds": 3.52,
+  "user_seconds": 2.32,
+  "sys_seconds": 0.26,
+  "maximum_resident_set_bytes": 149995520,
+  "peak_memory_footprint_bytes": 139313680,
+  "conservative_output_bytes": 36775248,
+  "min_free_bytes": 4568715264,
+  "no_child_processes_spawned_by_script": true,
+  "render_browser_pdf_navigation_repeated": false,
+  "publication_changed": false
+}
