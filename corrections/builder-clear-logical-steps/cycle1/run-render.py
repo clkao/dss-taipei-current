@@ -1,11 +1,11 @@
 """One local render run with the established disk admission and active floor."""
 from pathlib import Path
-import json,subprocess,time,shutil,os,signal,hashlib
-R=Path(__file__).resolve().parents[3];P=Path(__file__).parent;O=R/'builds/clear-logical/cycle1/renders'
+import json,subprocess,time,shutil,os,signal,hashlib,sys
+R=Path(__file__).resolve().parents[3];P=Path(__file__).parent;O=R/'builds/clear-logical/cycle1'/('renders-feet-top' if len(sys.argv)>1 else 'renders')
 assert shutil.disk_usage(R).free>=576*1024**2,'Admission requires 576 MiB free; active floor remains 512 MiB'
 assert not O.exists(),'Preserve any earlier run and its evidence'
 O.mkdir();began=time.monotonic();minimum=shutil.disk_usage(R).free;peak=0;reason=None
-node='/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node';argv=[node,str(P/'render.mjs'),str(O)]
+node='/Users/clkao/.local/share/fnm/node-versions/v24.22.1/installation/bin/node';argv=[node,str(P/('render-feet-top.mjs' if len(sys.argv)>1 else 'render.mjs')),str(O)]
 record={'argv':argv,'cwd':str(R),'active_floor_bytes':512*1024**2,'admission_free_bytes':minimum,'started_unix':time.time(),'memory_snapshot':subprocess.check_output(['vm_stat'],text=True)}
 with (O/'run.log').open('w') as log:
  child=subprocess.Popen(argv,cwd=R,stdout=log,stderr=log,start_new_session=True)

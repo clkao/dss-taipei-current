@@ -9,7 +9,7 @@ from reportlab.lib.utils import ImageReader
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from pypdf import PdfReader,PdfWriter
-R=Path(__file__).resolve().parents[3];B=R/'builds/clear-logical';O=B/'cycle1/package';assert shutil.disk_usage(R).free>=576*1024**2;assert not O.exists();O.mkdir()
+R=Path(__file__).resolve().parents[3];B=R/'builds/clear-logical';O=B/'cycle1/package';assert shutil.disk_usage(R).free>=576*1024**2;assert not (O/'release.zip').exists();O.mkdir(exist_ok=True)
 assert shutil.disk_usage(R).free>512*1024**2
 old=B/'simplification-package-retry1';base=B/'access-corrected-hybrid-prefix'
 m=json.loads((old/'model.json').read_text());steps=m['instruction_plan']['steps'];parts={p['id']:p for p in m['pieces']};icons=json.loads((base/'part-icons.json').read_text())
@@ -37,10 +37,15 @@ def tray(ids,y=H-105,caption=None):
   image(base/icons[part+'|'+color],x,yy-35,42,34);txt(f'{q} x {part}',x+46,yy-20,10,True)
  if caption:txt(caption,36,y-55,10)
 def photo(name,x,y,w,h,marks=True,polygons=True):
-    folder=B/'cycle1/renders';image(folder/(name+'.png'),x,y,w,h)
+    folder=B/'cycle1'/('renders-feet-top' if name.startswith('feet-') else 'renders');image(folder/(name+'.png'),x,y,w,h)
     loc=json.loads((folder/'receiver-locations.json').read_text())[name];scale=min(w/1400,h/1000);ix=x+(w-1400*scale)/2;iy=y+(h-1000*scale)/2
     def xy(v):return ix+v['x']*1400*scale,iy+(1-v['y'])*1000*scale
     c.setStrokeColor(HexColor(ACC));c.setLineWidth(1.3)
+    if name.endswith('-locator'):
+      face=json.loads((Path(__file__).parent/'locator-faces.json').read_text())[name];points=[xy(v) for v in face['points']]
+      path=c.beginPath();path.moveTo(*points[0])
+      for v in points[1:]:path.lineTo(*v)
+      path.close();c.saveState();c.setStrokeColor(HexColor('#1379b5'));c.setFillColor(HexColor('#1379b5'));c.setFillAlpha(.15);c.setLineWidth(2);c.drawPath(path,stroke=1,fill=1);c.restoreState()
     if polygons:
       for poly in loc.get('polygons',[]):
        points=[xy(v) for v in poly['points']];path=c.beginPath();path.moveTo(*points[0])
@@ -49,7 +54,7 @@ def photo(name,x,y,w,h,marks=True,polygons=True):
     if marks:
       for t in loc['targets']:
        px,py=xy(t);lx=ix+t['label_at'][0]*1400*scale;ly=iy+(1-t['label_at'][1])*1000*scale
-       c.circle(px,py,2.2,stroke=1,fill=0);c.line(lx,ly-8,px,py);txt(t['label'],lx-4,ly,14,True,ACC)
+       c.circle(px,py,2.2,stroke=1,fill=0);c.line(lx,ly-8,px,py);c.setFillColor(HexColor('#ffffff'));c.circle(lx,ly+4,10,stroke=1,fill=1);txt(t['label'],lx-4,ly,14,True,ACC)
 
 for n,pg in [(5,10),(6,12),(7,14),(8,16)]:
  s=steps[n-1];begin(f'{n}  Attach the completed suspension unit',n,[s['operations'][-1]])
@@ -66,7 +71,7 @@ for n,pg,plate_title in [(14,24,'Rear floor plate'),(15,25,'Front floor plate')]
  photo(f'plate{n}-receiver',210,160,285,285);photo(f'plate{n}-complete',520,160,285,285)
  txt('Receiving plate underside',210,440,12,True);txt('Four completed stacks',520,440,12,True)
  photo(f'plate{n}-locator',36,48,210,160);txt(plate_title,260,137,12,True)
- txt('Blue outline: installed plate. C: the same front corner.',260,111,10)
+ txt('Blue highlight: installed plate. C: the same front corner.',260,111,10)
  txt('Chassis omitted in underside details only. Keep it assembled.',260,86,10)
  pagejobs[pg]=finish()
 begin('64  Thread the four rings in order',64)
@@ -75,6 +80,13 @@ for order,x,y in [(1,32,300),(2,595,300),(4,32,80),(3,595,80)]:
  photo(f'ring-{order}',x,y,215,210)
  txt('Ring '+str(order),x,y+205,11,True)
 image(B/'assets/cord-top.png',255,150,330,310)
+
+for box in json.loads((Path(__file__).parent/'ring-locator.json').read_text())['boxes']:
+ left,top,right,bottom=box['bounds'];sc=330/1400;ix=255;iy=150+(310-1000*sc)/2
+ x=ix+left*1400*sc;y=iy+(1-bottom)*1000*sc
+ c.setStrokeColor(HexColor(ACC));c.setLineWidth(1);c.rect(x,y,(right-left)*1400*sc,(bottom-top)*1000*sc,stroke=1,fill=0)
+ c.setFillColor(HexColor('#ffffff'));c.circle(x-6,y+10,8,stroke=1,fill=1);txt(box['label'],x-9,y+6,11,True,ACC)
+
 txt('1 > 2 > 3 > 4',280,122,17,True,ACC)
 txt('Cord stays outside the bumper. Leave slack and keep clear of wheels.',36,66,9)
 txt('Tie ends after threading at 1 and 4. Knot type and cut length remain unspecified.',36,51,9)

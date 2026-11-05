@@ -1,0 +1,49 @@
+{
+  "camera_reconstruction_origin_projection_error": 1.1102230246251565e-16,
+  "boxes": [
+    {
+      "label": "1",
+      "id": 25,
+      "bounds": [
+        0.273780608415404,
+        0.4062753212889779,
+        0.3513068620174934,
+        0.5076682071213541
+      ],
+      "meaning": "Projected bounding region of whole 4081b clip. Closeup leader identifies aperture."
+    },
+    {
+      "label": "2",
+      "id": 70,
+      "bounds": [
+        0.49198364368394143,
+        0.7116373835081566,
+        0.5695098972860309,
+        0.8130302693405328
+      ],
+      "meaning": "Projected bounding region of whole 4081b clip. Closeup leader identifies aperture."
+    },
+    {
+      "label": "3",
+      "id": 142,
+      "bounds": [
+        0.648693114376906,
+        0.4923318259132756,
+        0.7262193679789953,
+        0.5937247117456518
+      ],
+      "meaning": "Projected bounding region of whole 4081b clip. Closeup leader identifies aperture."
+    },
+    {
+      "label": "4",
+      "id": 78,
+      "bounds": [
+        0.4304901380231869,
+        0.18696971400335138,
+        0.5080163916252762,
+        0.28836259983572754
+      ],
+      "meaning": "Projected bounding region of whole 4081b clip. Closeup leader identifies aperture."
+    }
+  ]
+}
