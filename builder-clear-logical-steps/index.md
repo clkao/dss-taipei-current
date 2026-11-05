@@ -250,3 +250,28 @@ Reviewed cycle1 PDF `59b66fb0bfb8766306b89475e5516cc0c1a5286605355c760ca578a7235
 Direct suspension arrows replace the matching puzzle; page36 points to a visible receiving surface. All previously successful ring/plate/foot/cabin/carrier/grouping fixes remain unchanged. Eight scoped browser/render runs exited0; established576MiB admission/512MiB active guards retained. Archive minimum free5,008,572,416 bytes, elapsed1.08 seconds. No cleanup of peers or shared caches occurred.
 
 Ready for same-reviewer recommendation and captain gate. No publication or acceptance claimed. Physical insertion, grip, strength and manufacturing remain unverified; cord knot/length/slack limits remain. No shared StudFleet update/test ran; DSS tooling gaps and native full-edition parity remain unchanged.
+
+## Stage Report: instruction-review (cycle 3)
+
+- DONE: Review captain round2 correction at source9d30303 cycle2/REVIEW-HANDOFF.md: actual pp10/12/14/16 common-frame placement without crossed A/B, and p36 callout pointing to visible receiving area; inspect actual five pages against exact captain asks and preserve all prior reports.
+  Review commit `f7f2033`, `corrections/builder-clear-logical-steps/cycle2/INDEPENDENT-REVIEW.md`: five A4 rasters inspected; both captain requests resolved. Uncrossed direct suspension arrows replace matching/turn prose; page36 terminates on visible highlighted plate81.
+- DONE: Verify source/stock/order and 75-page equivalence, exact PDF19d5c426/ZIP98fc465d bindings, relevant changed enlarged/link/back evidence and applied local generalized rules without duplicate rendering or physical claims.
+  Fresh `cycle2/independent-check.json` verifies four successor pins, 108 loose members / exact 109 ZIP members, 75 unchanged decoded content streams/raster bytes, 348 unique introductions, 215 operations and preserved source/stock/order mapping. Changed bytes, missing introductions or altered assignments fail these checks; no new rendering/browser run.
+- DONE: Return durable independent verdict/AC dispositions and any concrete remaining findings for captain gate; no candidate edits or publication. Existing full-edition review is reused only for exact unchanged content.
+  PASS for local digital instruction review; all AC-1–5 met at artifact/visual/headless scope. No remaining material correction found within this round. Captain acceptance remains pending; prior rejection/review and all predecessor packages preserved.
+
+### Dispositions and evidence limits
+
+Suspension pp10/12/14/16 preserve canonical unit orientation and use two parallel arrows toward visible source-bound beam holes in a common camera frame. Page36's recipe/tray remain readable and its callout ends at the exposed orange receiving plate beneath rail58. Local workflow rules are demonstrated by these actual diagrams, not merely added as prose.
+
+Fresh checks recompute projected arrow parallelism, rear-bed target alignment after removing the presentation offset, and exact page36 recipe-region pixels x0–519. These are digital correspondence checks, not certified physical trajectories or engagement. Source model/plan byte equality preserves geometry, colors, poses and copy ownership. The 75-page result is content-stream/raster equality, not serialized PDF resource-object equality.
+
+Recorded `enlarged-10.png`, `enlarged-36.png` and `returned-guide-390.png` inspected. Page36's local receiver is clear at source pixels; page10's narrow crop cannot contain both arrow endpoints simultaneously and requires horizontal scrolling. Actual Enlarge/native zoom and 3D-link/history Back passed at recorded headless scope. No default-fit, fresh independent browser, live-phone or human-device claim.
+
+### Exact review target
+
+Package: `builds/clear-logical/cycle2/package` in the author worktree. PDF `19d5c4262279624e38635367f958fcb9ccd6ffa87ca3b9a8f0da91da87d1716c`; viewer shell `4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865`; ZIP `98fc465d0f6bb04d4eb4100efb2bb40984f9a80469b007e472befe88c5325c00`; manifest `a69c695f58b89ffbdd98b66cbe88a6a5ccf2678b4b4427a4421fb4ae637a2ec3`. The manifest binds the successor images despite unchanged viewer-shell bytes.
+
+### Summary
+
+The exact successor satisfies the captain's direct-placement and local-callout requests and is ready for the next acceptance gate. No candidate edit, publication or physical approval occurred. StudFleet gaps and native full-edition parity remain unchanged; no shared tool was updated/tested, and physical fit/access/strength, cord details and shared-reference reconciliation remain unresolved.
