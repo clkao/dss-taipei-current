@@ -50,6 +50,8 @@ if raster:
  assert len(list((D/'a4-review').glob('*.png')))==5
 else:
  run([PYTHON,str(P/'prepare.py')],10,20,'prepare')
+ for name in ['hood-sticker-cut.png','hood-upper-sticker-guide.png','jacket-print.png']:
+  assert not (D/name).exists() and not (D/name).is_symlink(), 'Generated guide must be absent before PDF: '+name
  run([PYTHON,str(P.parent/'make_pdf.py')],max(5,80-(time.monotonic()-start)),100,'pdf-create')
  run([PYTHON,str(P/'check-pdf.py')],max(4,90-(time.monotonic()-start)),100,'pdf-check')
 record=dict(stages=records,elapsed_seconds=time.monotonic()-start,min_free_bytes=minimum,peak_increment_bytes=peak,pdf_sha256=sha(D/'instructions.pdf'),map_sha256=sha(D/'pdf-page-map.json'),marker_repeated=False)

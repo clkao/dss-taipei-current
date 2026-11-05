@@ -39,3 +39,10 @@ Upstream normal supervisor/Node exit0, time-l18.95s and owned-job postwait absen
 ## Limits
 
 Adopted remains false pending exact integrated section review. Physical insertion, grip and strength remain unknown. Historical H1 evidence and independent native-UI/whole-edition limits stay separate. No publication or shared-code changes are included.
+
+## Pre-run staging isolation finding (authorized narrow FIX)
+
+1. Trigger: afb6ea7 prepare.py links existing R2 root files into the fresh candidate; old prepareSHA2df6028b and run-pdfSHA1e1a09e4 are retained in that commit.
+2. Observation: the exclude set omitted hood-sticker-cut.png, hood-upper-sticker-guide.png and jacket-print.png. Frozen template150df952 writes these exact root names at lines195/205/238 after construction pages. The driver runs staging before that template.
+3. Impact/owner: Deferred risk owned by DSS staging isolation. Generation could follow those new symlinks and overwrite immutable R2 guides. No generation ran and no damage was observed.
+4. Disposition: FO authorized FIX only. Exclude these three names, assert absent AND non-symlink after staging selection, and repeat that assertion immediately before spawning the PDF generator. Pure AST path-selection check confirms all three are excluded; this is static evidence, not executed staging or artifact proof. No retained images changed. Diagram, model/order/stock, UI/port and resource policy remain unchanged; runtime proposal still awaits grant. Future PRINTING.txt/package-link handling remains outside this fix and needs its later check.

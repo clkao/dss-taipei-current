@@ -16,10 +16,13 @@ m=json.loads((OLD/'model.json').read_text());frames=m['instruction_plan']['steps
 assert [(f['source_operation'],f['ids']) for f in frames[:3]]==[('legacy-001a',[172]),('legacy-012',[216,231]),('legacy-001b',[178])]
 NEW.mkdir() # Fail rather than reuse an existing candidate.
 # Reuse unchanged assets; generated files are never links to historical outputs.
-exclude={'index.html','viewer.html','credits.html','instructions.pdf','pdf-page-map.json','release.zip','package-manifest.json','release-provenance.json','print-preflight.json','full-instruction-check.json','sticker-artwork.zip','README.txt'}
+generated_guides={'hood-sticker-cut.png','hood-upper-sticker-guide.png','jacket-print.png'}
+exclude=generated_guides|{'index.html','viewer.html','credits.html','instructions.pdf','pdf-page-map.json','release.zip','package-manifest.json','release-provenance.json','print-preflight.json','full-instruction-check.json','sticker-artwork.zip','README.txt'}
 for p in OLD.iterdir():
  if p.name in exclude or p.name.startswith(('before-','a4-','glyph-','r2-')):continue
  if p.is_file() or p.name=='images':(NEW/p.name).symlink_to(p.resolve())
+for name in generated_guides:
+ assert not (NEW/name).exists() and not (NEW/name).is_symlink(), 'Generated guide must be absent: '+name
 (NEW/'ordered-prefix.png').symlink_to(UP)
 script='<script>'+ (P/'viewer.js').read_text()+'</script>'
 for n in ['viewer.html','index.html']:
