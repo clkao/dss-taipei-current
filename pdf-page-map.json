@@ -1,73 +1,73 @@
 {
-  "pages": 136,
+  "pages": 69,
   "steps": {
     "1": 4,
-    "2": 10,
-    "3": 11,
-    "4": 12,
-    "5": 14,
-    "6": 16,
-    "7": 18,
-    "8": 20,
-    "9": 21,
-    "10": 22,
-    "11": 24,
-    "12": 26,
-    "13": 34,
-    "14": 35,
-    "15": 36,
-    "16": 37,
-    "17": 38,
-    "18": 54,
-    "19": 66,
-    "20": 69,
-    "21": 70,
-    "22": 71,
-    "23": 72,
-    "24": 73,
-    "25": 74,
-    "26": 75,
-    "27": 76,
-    "28": 77,
-    "29": 78,
-    "30": 79,
-    "31": 80,
-    "32": 81,
-    "33": 83,
-    "34": 84,
-    "35": 85,
-    "36": 86,
-    "37": 87,
-    "38": 88,
-    "39": 89,
-    "40": 90,
-    "41": 91,
-    "42": 92,
-    "43": 93,
-    "44": 94,
-    "45": 95,
-    "46": 96,
-    "47": 98,
-    "48": 100,
-    "49": 101,
-    "50": 102,
-    "51": 105,
-    "52": 108,
-    "53": 109,
-    "54": 110,
-    "55": 112,
-    "56": 113,
-    "57": 115,
-    "58": 116,
-    "59": 117,
-    "60": 119,
-    "61": 120,
-    "62": 121,
-    "63": 122,
-    "64": 123,
-    "65": 124,
-    "66": 126,
-    "67": 127
+    "2": 7,
+    "3": 7,
+    "4": 8,
+    "5": 9,
+    "6": 10,
+    "7": 11,
+    "8": 12,
+    "9": 13,
+    "10": 14,
+    "11": 15,
+    "12": 16,
+    "13": 19,
+    "14": 19,
+    "15": 20,
+    "16": 20,
+    "17": 21,
+    "18": 22,
+    "19": 28,
+    "20": 29,
+    "21": 31,
+    "22": 31,
+    "23": 32,
+    "24": 32,
+    "25": 33,
+    "26": 33,
+    "27": 34,
+    "28": 34,
+    "29": 35,
+    "30": 35,
+    "31": 36,
+    "32": 36,
+    "33": 37,
+    "34": 38,
+    "35": 38,
+    "36": 39,
+    "37": 39,
+    "38": 40,
+    "39": 40,
+    "40": 41,
+    "41": 41,
+    "42": 42,
+    "43": 42,
+    "44": 43,
+    "45": 43,
+    "46": 44,
+    "47": 45,
+    "48": 45,
+    "49": 46,
+    "50": 46,
+    "51": 47,
+    "52": 49,
+    "53": 51,
+    "54": 51,
+    "55": 52,
+    "56": 53,
+    "57": 54,
+    "58": 55,
+    "59": 55,
+    "60": 56,
+    "61": 56,
+    "62": 57,
+    "63": 58,
+    "64": 58,
+    "65": 59,
+    "66": 59,
+    "67": 60
   },
   "page_records": [
     {
@@ -84,806 +84,1371 @@
     },
     {
       "page": 4,
-      "kind": "ordered-construction-diagram",
-      "step": 1,
-      "panels": [
-        1,
-        2,
-        3
-      ],
-      "source_operations": [
-        "legacy-001a",
-        "legacy-012",
-        "legacy-001b"
-      ],
-      "image": "ordered-prefix.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "prefix",
+        "steps": [
+          1
+        ]
+      },
+      "source_operations": {
+        "1": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
     },
     {
       "page": 5,
-      "kind": "corrected-ordered-panel",
-      "step": 1,
-      "panel": 4,
-      "source_operation": "legacy-002",
-      "image": "images/corrected-001-04.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          1
+        ],
+        "frames": [
+          4,
+          5
+        ],
+        "title": "Chassis ties"
+      },
+      "source_operations": {
+        "1": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
     },
     {
       "page": 6,
-      "kind": "corrected-ordered-panel",
-      "step": 1,
-      "panel": 5,
-      "source_operation": "legacy-003",
-      "image": "images/corrected-001-05.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          1
+        ],
+        "frames": [
+          6,
+          7,
+          8
+        ],
+        "title": "Complete the chassis core"
+      },
+      "source_operations": {
+        "1": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      }
     },
     {
       "page": 7,
-      "kind": "corrected-ordered-panel",
-      "step": 1,
-      "panel": 6,
-      "source_operation": "legacy-004",
-      "image": "images/corrected-001-06.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          2,
+          3
+        ]
+      },
+      "source_operations": {
+        "2": [
+          9,
+          10,
+          11
+        ],
+        "3": [
+          12
+        ]
+      }
     },
     {
       "page": 8,
-      "kind": "corrected-ordered-panel",
-      "step": 1,
-      "panel": 7,
-      "source_operation": "legacy-005",
-      "image": "images/corrected-001-07.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          4
+        ]
+      },
+      "source_operations": {
+        "4": [
+          13
+        ]
+      }
     },
     {
       "page": 9,
-      "kind": "corrected-ordered-panel",
-      "step": 1,
-      "panel": 8,
-      "source_operation": "legacy-006",
-      "image": "images/corrected-001-08.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "callout",
+        "steps": [
+          5
+        ]
+      },
+      "source_operations": {
+        "5": [
+          14,
+          15,
+          16,
+          17
+        ]
+      }
     },
     {
       "page": 10,
-      "kind": "build-step",
-      "step": 2
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "callout",
+        "steps": [
+          6
+        ]
+      },
+      "source_operations": {
+        "6": [
+          18,
+          19,
+          20,
+          21
+        ]
+      }
     },
     {
       "page": 11,
-      "kind": "build-step",
-      "step": 3
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "callout",
+        "steps": [
+          7
+        ]
+      },
+      "source_operations": {
+        "7": [
+          22,
+          23,
+          24,
+          25
+        ]
+      }
     },
     {
       "page": 12,
-      "kind": "build-step",
-      "step": 4
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "callout",
+        "steps": [
+          8
+        ]
+      },
+      "source_operations": {
+        "8": [
+          26,
+          27,
+          28,
+          29
+        ]
+      }
     },
     {
       "page": 13,
-      "kind": "local-recipe",
-      "step": 5
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          9
+        ]
+      },
+      "source_operations": {
+        "9": [
+          30
+        ]
+      }
     },
     {
       "page": 14,
-      "kind": "build-step",
-      "step": 5
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          10
+        ],
+        "frames": [
+          1,
+          2
+        ],
+        "title": "Underside dishes"
+      },
+      "source_operations": {
+        "10": [
+          31,
+          32
+        ]
+      }
     },
     {
       "page": 15,
-      "kind": "local-recipe",
-      "step": 6
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          11
+        ],
+        "frames": [
+          1,
+          2
+        ],
+        "title": "Rear support / separate bumper seed"
+      },
+      "source_operations": {
+        "11": [
+          33,
+          34
+        ]
+      }
     },
     {
       "page": 16,
-      "kind": "build-step",
-      "step": 6
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          12
+        ],
+        "frames": [
+          1,
+          2,
+          3
+        ],
+        "title": "Bumper / layers"
+      },
+      "source_operations": {
+        "12": [
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      }
     },
     {
       "page": 17,
-      "kind": "local-recipe",
-      "step": 7
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          12
+        ],
+        "frames": [
+          4,
+          5
+        ],
+        "title": "Bumper / trim"
+      },
+      "source_operations": {
+        "12": [
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      }
     },
     {
       "page": 18,
-      "kind": "build-step",
-      "step": 7
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          12
+        ],
+        "frames": [
+          6,
+          7,
+          8
+        ],
+        "title": "Bumper installation / front dish last"
+      },
+      "source_operations": {
+        "12": [
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      }
     },
     {
       "page": 19,
-      "kind": "local-recipe",
-      "step": 8
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          13,
+          14
+        ]
+      },
+      "source_operations": {
+        "13": [
+          42
+        ],
+        "14": [
+          43,
+          44
+        ]
+      }
     },
     {
       "page": 20,
-      "kind": "build-step",
-      "step": 8
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          15,
+          16
+        ]
+      },
+      "source_operations": {
+        "15": [
+          45,
+          46
+        ],
+        "16": [
+          47,
+          48
+        ]
+      }
     },
     {
       "page": 21,
-      "kind": "build-step",
-      "step": 9
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          17
+        ],
+        "frames": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "title": "Lower carrier / 2x",
+        "copies": 2
+      },
+      "source_operations": {
+        "17": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
+      }
     },
     {
       "page": 22,
-      "kind": "corrected-ordered-panel",
-      "step": 10,
-      "panel": 1,
-      "source_operation": "legacy-030",
-      "image": "images/corrected-010-01.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          17,
+          18
+        ],
+        "frames": [
+          5,
+          6,
+          7
+        ],
+        "title": "Four-piece rail / 2x",
+        "copies": 2,
+        "repeat": "rail1"
+      },
+      "source_operations": {
+        "17": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ],
+        "18": [
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74
+        ]
+      }
     },
     {
       "page": 23,
-      "kind": "corrected-ordered-panel",
-      "step": 10,
-      "panel": 2,
-      "source_operation": "legacy-031a",
-      "image": "images/corrected-010-02.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "rail2",
+        "steps": [
+          17,
+          18
+        ],
+        "title": "Three-piece rail / 2x",
+        "copies": 2
+      },
+      "source_operations": {
+        "17": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ],
+        "18": [
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74
+        ]
+      }
     },
     {
       "page": 24,
-      "kind": "corrected-ordered-panel",
-      "step": 11,
-      "panel": 1,
-      "source_operation": "legacy-032a",
-      "image": "images/corrected-011-01.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          17
+        ],
+        "frames": [
+          8,
+          9,
+          13,
+          14
+        ],
+        "title": "Carrier 17 / attach the completed rails"
+      },
+      "source_operations": {
+        "17": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
+      }
     },
     {
       "page": 25,
-      "kind": "corrected-ordered-panel",
-      "step": 11,
-      "panel": 2,
-      "source_operation": "legacy-032b",
-      "image": "images/corrected-011-02.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          17
+        ],
+        "frames": [
+          15,
+          16
+        ],
+        "title": "Carrier 17 / vehicle attachment"
+      },
+      "source_operations": {
+        "17": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
+      }
     },
     {
       "page": 26,
-      "kind": "corrected-ordered-panel",
-      "step": 12,
-      "panel": 1,
-      "source_operation": "legacy-033a",
-      "image": "images/corrected-012-01.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          18
+        ],
+        "frames": [
+          8,
+          9,
+          13,
+          14
+        ],
+        "title": "Carrier 18 / attach the completed rails"
+      },
+      "source_operations": {
+        "18": [
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74
+        ]
+      }
     },
     {
       "page": 27,
-      "kind": "corrected-ordered-panel",
-      "step": 12,
-      "panel": 2,
-      "source_operation": "legacy-033b",
-      "image": "images/corrected-012-02.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          18
+        ],
+        "frames": [
+          15,
+          16
+        ],
+        "title": "Carrier 18 / vehicle attachment"
+      },
+      "source_operations": {
+        "18": [
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74
+        ]
+      }
     },
     {
       "page": 28,
-      "kind": "corrected-ordered-panel",
-      "step": 12,
-      "panel": 3,
-      "source_operation": "legacy-034",
-      "image": "images/corrected-012-03.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          19
+        ]
+      },
+      "source_operations": {
+        "19": [
+          75,
+          76
+        ]
+      }
     },
     {
       "page": 29,
-      "kind": "corrected-ordered-panel",
-      "step": 12,
-      "panel": 4,
-      "source_operation": "legacy-035a",
-      "image": "images/corrected-012-04.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          20
+        ],
+        "frames": [
+          1,
+          2,
+          3
+        ],
+        "title": "Rear bed / lower layers"
+      },
+      "source_operations": {
+        "20": [
+          77,
+          78,
+          79,
+          80,
+          81,
+          82
+        ]
+      }
     },
     {
       "page": 30,
-      "kind": "corrected-ordered-panel",
-      "step": 12,
-      "panel": 5,
-      "source_operation": "legacy-035b",
-      "image": "images/corrected-012-05.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "callout",
+        "steps": [
+          20
+        ],
+        "frames": [
+          4,
+          5
+        ]
+      },
+      "source_operations": {
+        "20": [
+          77,
+          78,
+          79,
+          80,
+          81,
+          82
+        ]
+      }
     },
     {
       "page": 31,
-      "kind": "corrected-ordered-panel",
-      "step": 12,
-      "panel": 6,
-      "source_operation": "legacy-035j",
-      "image": "images/receiver-legacy-035j.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          21,
+          22
+        ]
+      },
+      "source_operations": {
+        "21": [
+          83
+        ],
+        "22": [
+          84,
+          85
+        ]
+      }
     },
     {
       "page": 32,
-      "kind": "corrected-ordered-panel",
-      "step": 12,
-      "panel": 7,
-      "source_operation": "legacy-035j",
-      "image": "images/corrected-012-06.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          23,
+          24
+        ]
+      },
+      "source_operations": {
+        "23": [
+          86,
+          87,
+          88
+        ],
+        "24": [
+          89,
+          90
+        ]
+      }
     },
     {
       "page": 33,
-      "kind": "corrected-ordered-panel",
-      "step": 12,
-      "panel": 8,
-      "source_operation": "legacy-031b",
-      "image": "images/corrected-012-07.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          25,
+          26
+        ]
+      },
+      "source_operations": {
+        "25": [
+          91,
+          92
+        ],
+        "26": [
+          93,
+          94
+        ]
+      }
     },
     {
       "page": 34,
-      "kind": "build-step",
-      "step": 13
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          27,
+          28
+        ]
+      },
+      "source_operations": {
+        "27": [
+          95,
+          96
+        ],
+        "28": [
+          97,
+          98
+        ]
+      }
     },
     {
       "page": 35,
-      "kind": "build-step",
-      "step": 14
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          29,
+          30
+        ]
+      },
+      "source_operations": {
+        "29": [
+          99,
+          100
+        ],
+        "30": [
+          101
+        ]
+      }
     },
     {
       "page": 36,
-      "kind": "build-step",
-      "step": 15
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          31,
+          32
+        ]
+      },
+      "source_operations": {
+        "31": [
+          102,
+          103
+        ],
+        "32": [
+          104,
+          105
+        ]
+      }
     },
     {
       "page": 37,
-      "kind": "build-step",
-      "step": 16
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "callout",
+        "steps": [
+          33
+        ]
+      },
+      "source_operations": {
+        "33": [
+          106,
+          107,
+          108,
+          109
+        ]
+      }
     },
     {
       "page": 38,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 1,
-      "source_operation": "legacy-043",
-      "image": "images/corrected-017-01.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          34,
+          35
+        ]
+      },
+      "source_operations": {
+        "34": [
+          110,
+          111
+        ],
+        "35": [
+          112,
+          113
+        ]
+      }
     },
     {
       "page": 39,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 2,
-      "source_operation": "legacy-044",
-      "image": "images/corrected-017-02.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          36,
+          37
+        ]
+      },
+      "source_operations": {
+        "36": [
+          114,
+          115
+        ],
+        "37": [
+          116,
+          117
+        ]
+      }
     },
     {
       "page": 40,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 3,
-      "source_operation": "legacy-045",
-      "image": "images/corrected-017-03.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          38,
+          39
+        ]
+      },
+      "source_operations": {
+        "38": [
+          118,
+          119
+        ],
+        "39": [
+          120,
+          121
+        ]
+      }
     },
     {
       "page": 41,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 4,
-      "source_operation": "legacy-046",
-      "image": "images/corrected-017-04.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          40,
+          41
+        ]
+      },
+      "source_operations": {
+        "40": [
+          122,
+          123
+        ],
+        "41": [
+          124,
+          125,
+          126
+        ]
+      }
     },
     {
       "page": 42,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 5,
-      "source_operation": "legacy-048a",
-      "image": "images/corrected-017-05.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          42,
+          43
+        ]
+      },
+      "source_operations": {
+        "42": [
+          127,
+          128
+        ],
+        "43": [
+          129,
+          130
+        ]
+      }
     },
     {
       "page": 43,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 6,
-      "source_operation": "legacy-047a",
-      "image": "images/corrected-017-06.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          44,
+          45
+        ]
+      },
+      "source_operations": {
+        "44": [
+          131,
+          132
+        ],
+        "45": [
+          133,
+          134
+        ]
+      }
     },
     {
       "page": 44,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 7,
-      "source_operation": "legacy-049a",
-      "image": "images/corrected-017-07.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          46
+        ]
+      },
+      "source_operations": {
+        "46": [
+          135
+        ]
+      }
     },
     {
       "page": 45,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 8,
-      "source_operation": "legacy-049j1",
-      "image": "images/receiver-legacy-049j1.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "small-pair",
+        "steps": [
+          47,
+          48
+        ],
+        "title": "Wheels / platform risers"
+      },
+      "source_operations": {
+        "47": [
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147
+        ],
+        "48": [
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159
+        ]
+      }
     },
     {
       "page": 46,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 9,
-      "source_operation": "legacy-049j1",
-      "image": "images/corrected-017-08.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          49,
+          50
+        ]
+      },
+      "source_operations": {
+        "49": [
+          160
+        ],
+        "50": [
+          161
+        ]
+      }
     },
     {
       "page": 47,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 10,
-      "source_operation": "legacy-048b",
-      "image": "images/corrected-017-09.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "frames",
+        "steps": [
+          51
+        ],
+        "frames": [
+          1,
+          2,
+          3
+        ],
+        "title": "Helm / support"
+      },
+      "source_operations": {
+        "51": [
+          162,
+          163,
+          164,
+          165,
+          166,
+          167
+        ]
+      }
     },
     {
       "page": 48,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 11,
-      "source_operation": "legacy-047b",
-      "image": "images/corrected-017-10.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "callout",
+        "steps": [
+          51
+        ],
+        "frames": [
+          4,
+          5
+        ]
+      },
+      "source_operations": {
+        "51": [
+          162,
+          163,
+          164,
+          165,
+          166,
+          167
+        ]
+      }
     },
     {
       "page": 49,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 12,
-      "source_operation": "legacy-049b",
-      "image": "images/corrected-017-11.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "callout",
+        "steps": [
+          52
+        ]
+      },
+      "source_operations": {
+        "52": [
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175
+        ]
+      }
     },
     {
       "page": 50,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 13,
-      "source_operation": "legacy-049j2",
-      "image": "images/receiver-legacy-049j2.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "approach",
+        "steps": [
+          52
+        ],
+        "title": "Shield attachment"
+      },
+      "source_operations": {
+        "52": [
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175
+        ]
+      }
     },
     {
       "page": 51,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 14,
-      "source_operation": "legacy-049j2",
-      "image": "images/corrected-017-12.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          53,
+          54
+        ]
+      },
+      "source_operations": {
+        "53": [
+          176,
+          177,
+          178,
+          179
+        ],
+        "54": [
+          180
+        ]
+      }
     },
     {
       "page": 52,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 15,
-      "source_operation": "legacy-050",
-      "image": "images/receiver-legacy-050.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "callout",
+        "steps": [
+          55
+        ]
+      },
+      "source_operations": {
+        "55": [
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190
+        ]
+      }
     },
     {
       "page": 53,
-      "kind": "corrected-ordered-panel",
-      "step": 17,
-      "panel": 16,
-      "source_operation": "legacy-050",
-      "image": "images/corrected-017-13.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          56
+        ]
+      },
+      "source_operations": {
+        "56": [
+          191,
+          192,
+          193
+        ]
+      }
     },
     {
       "page": 54,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 5,
-      "source_operation": "legacy-056a",
-      "image": "images/corrected-018-05.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "callout",
+        "steps": [
+          57
+        ]
+      },
+      "source_operations": {
+        "57": [
+          194,
+          195,
+          196,
+          197
+        ]
+      }
     },
     {
       "page": 55,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 6,
-      "source_operation": "legacy-055a",
-      "image": "images/corrected-018-06.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          58,
+          59
+        ]
+      },
+      "source_operations": {
+        "58": [
+          198
+        ],
+        "59": [
+          199,
+          200
+        ]
+      }
     },
     {
       "page": 56,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 7,
-      "source_operation": "legacy-057a",
-      "image": "images/corrected-018-07.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "ring-hood",
+        "steps": [
+          60,
+          61
+        ],
+        "title": "Life rings / hood sticker"
+      },
+      "source_operations": {
+        "60": [
+          201,
+          202,
+          203,
+          204,
+          205,
+          206
+        ],
+        "61": [
+          207
+        ]
+      }
     },
     {
       "page": 57,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 8,
-      "source_operation": "legacy-057j1",
-      "image": "images/receiver-legacy-057j1.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "sticker",
+        "steps": [
+          62
+        ],
+        "title": "Banner stickers"
+      },
+      "source_operations": {
+        "62": [
+          208
+        ]
+      }
     },
     {
       "page": 58,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 9,
-      "source_operation": "legacy-057j1",
-      "image": "images/corrected-018-08.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          63,
+          64
+        ]
+      },
+      "source_operations": {
+        "63": [
+          209
+        ],
+        "64": [
+          210
+        ]
+      }
     },
     {
       "page": 59,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 10,
-      "source_operation": "legacy-056b",
-      "image": "images/corrected-018-09.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "figures",
+        "steps": [
+          65,
+          66
+        ],
+        "title": "Figures"
+      },
+      "source_operations": {
+        "65": [
+          211
+        ],
+        "66": [
+          212,
+          213,
+          214
+        ]
+      }
     },
     {
       "page": 60,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 11,
-      "source_operation": "legacy-055b",
-      "image": "images/corrected-018-10.png"
+      "kind": "simplification-i3",
+      "composition": {
+        "kind": "main",
+        "steps": [
+          67
+        ]
+      },
+      "source_operations": {
+        "67": [
+          215
+        ]
+      }
     },
     {
       "page": 61,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 12,
-      "source_operation": "legacy-057b",
-      "image": "images/corrected-018-11.png"
-    },
-    {
-      "page": 62,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 13,
-      "source_operation": "legacy-057j2",
-      "image": "images/receiver-legacy-057j2.png"
-    },
-    {
-      "page": 63,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 14,
-      "source_operation": "legacy-057j2",
-      "image": "images/corrected-018-12.png"
-    },
-    {
-      "page": 64,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 15,
-      "source_operation": "legacy-058",
-      "image": "images/receiver-legacy-058.png"
-    },
-    {
-      "page": 65,
-      "kind": "corrected-ordered-panel",
-      "step": 18,
-      "panel": 16,
-      "source_operation": "legacy-058",
-      "image": "images/corrected-018-13.png"
-    },
-    {
-      "page": 66,
-      "kind": "build-step",
-      "step": 19
-    },
-    {
-      "page": 67,
-      "kind": "local-recipe",
-      "step": 20
-    },
-    {
-      "page": 68,
-      "kind": "local-recipe",
-      "step": 20
-    },
-    {
-      "page": 69,
-      "kind": "build-step",
-      "step": 20
-    },
-    {
-      "page": 70,
-      "kind": "build-step",
-      "step": 21
-    },
-    {
-      "page": 71,
-      "kind": "build-step",
-      "step": 22
-    },
-    {
-      "page": 72,
-      "kind": "build-step",
-      "step": 23
-    },
-    {
-      "page": 73,
-      "kind": "build-step",
-      "step": 24
-    },
-    {
-      "page": 74,
-      "kind": "build-step",
-      "step": 25
-    },
-    {
-      "page": 75,
-      "kind": "build-step",
-      "step": 26
-    },
-    {
-      "page": 76,
-      "kind": "build-step",
-      "step": 27
-    },
-    {
-      "page": 77,
-      "kind": "build-step",
-      "step": 28
-    },
-    {
-      "page": 78,
-      "kind": "build-step",
-      "step": 29
-    },
-    {
-      "page": 79,
-      "kind": "build-step",
-      "step": 30
-    },
-    {
-      "page": 80,
-      "kind": "build-step",
-      "step": 31
-    },
-    {
-      "page": 81,
-      "kind": "build-step",
-      "step": 32
-    },
-    {
-      "page": 82,
-      "kind": "local-recipe",
-      "step": 33
-    },
-    {
-      "page": 83,
-      "kind": "build-step",
-      "step": 33
-    },
-    {
-      "page": 84,
-      "kind": "build-step",
-      "step": 34
-    },
-    {
-      "page": 85,
-      "kind": "build-step",
-      "step": 35
-    },
-    {
-      "page": 86,
-      "kind": "build-step",
-      "step": 36
-    },
-    {
-      "page": 87,
-      "kind": "build-step",
-      "step": 37
-    },
-    {
-      "page": 88,
-      "kind": "build-step",
-      "step": 38
-    },
-    {
-      "page": 89,
-      "kind": "build-step",
-      "step": 39
-    },
-    {
-      "page": 90,
-      "kind": "build-step",
-      "step": 40
-    },
-    {
-      "page": 91,
-      "kind": "build-step",
-      "step": 41
-    },
-    {
-      "page": 92,
-      "kind": "build-step",
-      "step": 42
-    },
-    {
-      "page": 93,
-      "kind": "build-step",
-      "step": 43
-    },
-    {
-      "page": 94,
-      "kind": "build-step",
-      "step": 44
-    },
-    {
-      "page": 95,
-      "kind": "build-step",
-      "step": 45
-    },
-    {
-      "page": 96,
-      "kind": "build-step",
-      "step": 46
-    },
-    {
-      "page": 97,
-      "kind": "local-recipe",
-      "step": 47
-    },
-    {
-      "page": 98,
-      "kind": "build-step",
-      "step": 47
-    },
-    {
-      "page": 99,
-      "kind": "local-recipe",
-      "step": 48
-    },
-    {
-      "page": 100,
-      "kind": "build-step",
-      "step": 48
-    },
-    {
-      "page": 101,
-      "kind": "build-step",
-      "step": 49
-    },
-    {
-      "page": 102,
-      "kind": "build-step",
-      "step": 50
-    },
-    {
-      "page": 103,
-      "kind": "local-recipe",
-      "step": 51
-    },
-    {
-      "page": 104,
-      "kind": "local-recipe",
-      "step": 51
-    },
-    {
-      "page": 105,
-      "kind": "build-step",
-      "step": 51
-    },
-    {
-      "page": 106,
-      "kind": "local-recipe",
-      "step": 52
-    },
-    {
-      "page": 107,
-      "kind": "installation-approach",
-      "step": 52
-    },
-    {
-      "page": 108,
-      "kind": "build-step",
-      "step": 52
-    },
-    {
-      "page": 109,
-      "kind": "build-step",
-      "step": 53
-    },
-    {
-      "page": 110,
-      "kind": "build-step",
-      "step": 54
-    },
-    {
-      "page": 111,
-      "kind": "local-recipe",
-      "step": 55
-    },
-    {
-      "page": 112,
-      "kind": "build-step",
-      "step": 55
-    },
-    {
-      "page": 113,
-      "kind": "build-step",
-      "step": 56
-    },
-    {
-      "page": 114,
-      "kind": "local-recipe",
-      "step": 57
-    },
-    {
-      "page": 115,
-      "kind": "build-step",
-      "step": 57
-    },
-    {
-      "page": 116,
-      "kind": "build-step",
-      "step": 58
-    },
-    {
-      "page": 117,
-      "kind": "build-step",
-      "step": 59
-    },
-    {
-      "page": 118,
-      "kind": "local-recipe",
-      "step": 60
-    },
-    {
-      "page": 119,
-      "kind": "build-step",
-      "step": 60
-    },
-    {
-      "page": 120,
-      "kind": "build-step",
-      "step": 61
-    },
-    {
-      "page": 121,
-      "kind": "build-step",
-      "step": 62
-    },
-    {
-      "page": 122,
-      "kind": "build-step",
-      "step": 63
-    },
-    {
-      "page": 123,
-      "kind": "build-step",
-      "step": 64
-    },
-    {
-      "page": 124,
-      "kind": "build-step",
-      "step": 65
-    },
-    {
-      "page": 125,
-      "kind": "local-recipe",
-      "step": 66
-    },
-    {
-      "page": 126,
-      "kind": "build-step",
-      "step": 66
-    },
-    {
-      "page": 127,
-      "kind": "build-step",
-      "step": 67
-    },
-    {
-      "page": 128,
       "kind": "sticker-sheet"
     },
     {
-      "page": 129,
+      "page": 62,
       "kind": "speech-bubble-print-sheet"
     },
     {
-      "page": 130,
+      "page": 63,
       "kind": "inventory"
     },
     {
-      "page": 131,
+      "page": 64,
       "kind": "inventory"
     },
     {
-      "page": 132,
+      "page": 65,
       "kind": "inventory"
     },
     {
-      "page": 133,
+      "page": 66,
       "kind": "inventory"
     },
     {
-      "page": 134,
+      "page": 67,
       "kind": "inventory"
     },
     {
-      "page": 135,
+      "page": 68,
       "kind": "inventory"
     },
     {
-      "page": 136,
+      "page": 69,
       "kind": "validation"
     }
   ],
-  "pdf_sha256": "6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062"
+  "pdf_sha256": "5c347b0e5d639a5ed5f45be6e867a14772fa01ed92ec4c80b472f956bbcf7bbd"
 }
