@@ -114,3 +114,12 @@ No demonstrated model defect; corrections route to instruction authoring. Histor
 ### Summary
 
 The exact candidate has independently verified digital correspondence and substantially clearer logical grouping. Return it to authoring for visible attachment targets and cutaway orientation fixes before asking the captain to accept the package; no geometry change or wholesale reformatting is needed by these findings.
+
+
+## Correction round 1: static preparation and resource hold
+
+FO authorized correction of R1-R5 without a captain rejection. Source commit `420c107` derives actual catalog pin ends, beam-hole mouths, four ring apertures and two sole footprints. `corrections/builder-clear-logical-steps/cycle1/RESOURCE-AND-FEATURE-LOG.md` records the proposed changes, source evidence and resource boundary. Prepared jobs and the affected-page composer are not yet executed.
+
+The FO restored the established 512 MiB active disk floor during source investigation. No new render, PDF, ZIP or browser run occurred under the proposed lower floor. Commands only read source/catalog data, created directories and linked the existing catalog. Static derivation and syntax checks followed under the restored rule. Fresh free space remains about 310 MiB, below 576 MiB admission.
+
+All task-owned closed browser profiles were already removed in the prior round. No peer cleanup occurred. Existing unique evidence and artifacts remain preserved. Fresh read-only SHA256 checks confirm that the rejected PDF `db13a653`, viewer `4d6b7902` and ZIP `5c34b1d1` remain unchanged. R1-R5 remain open until rendered corrections, exact successor-package checks and actual enlarged/link/back exercises run after resource recovery. No authoring completion or acceptance is claimed for this correction round.
