@@ -493,3 +493,27 @@ ONElater authorized birth/profile/listenercensus: noowned/profile/unknown/EPERM/
 ### Minimal package plan and limits
 
 Read-only audit: currentindex/viewer ownedregular; README/fullcheck/preflight/stickerZIP/provenance/manifest/releaseZIP absentnonlinks. ProposedonepinnedPythonbytepatch/hash/ZIP command <=30s60MiB,576start512floor; rootplanreview required beforeexecute. Strictwriteallowlist rejectslinks/unexpectedoutputs; oldHTMLretainedbyrename. PRINTING.txt rewrittenonlyinsidefreshownedZIP; nofilesystemextraction/write orchangededitableartbytes. Actualmap136/128129 driveslinks; exactscript/payload/handlers equal. Baselinepublication2105eb69bbc60228fe0eb5a49cd2242db0d0469a fromroot; planned29rootfilemap (28existing+diagram), Technic/unrelatedpreserved. Experimentalsharedasset+oneDSScomposer provenance, nativeadopted=false/sectionacceptancepending. No publication or gate/reviewadvance. Physical/nativeUI/full-edition limits remain.
+
+## Stage Report: authoring (cycle 11 — complete hybrid package ready for same reviewer)
+
+- DONE — Bind the exact four-piece diagram intent and source operations, with paired pin targets and unchanged model/order/stock. Three authoritative operations legacy-001a/legacy-012/legacy-001b and exact172/216/231/178 remain; one2+2tray and paired216+231marks. Model3d233/plan df9/348records/215operations unchanged. Experimentalasset69021/task66a3972ea, oneDSScomposer, no nativeadoption claim.
+- DONE for authoring — Prepare the smallest real hybrid PDF/viewer integration and honest producer/adoption record, preserving published R2 fixes and name-only credit. Complete candidate builds/access-corrected-hybrid-prefix:136A4/onepage4diagram, optionalexactInspect states/primaryNext4/Previousreturn, no redundantdiagramprose. Author inspected allfiveaffectedA4 and sixUIimages; ten traces/settledtext/source/stock/R2main11bands/2xcopyreturn passed. Actualmap128/129 references/artworkPRINTING/preflight bound, allmanifest/archivehashes verified. OriginalR2/oldcandidate/failure evidence retained. Independentreview/acceptance remains separate.
+- DONE — Return exact static commits/pins and a bounded affected-generation/review plan without heavy runtime or publication. All separately authorized runs/evidence/limits recorded above; no furtherheavy work. Finalsource17f823e and manual/hybrid/AFFECTED-REVIEW-HANDOFF.md freeze completepackage, exact29filemap against2105 and review paths. No publication/state/gateadvance byauthor.
+
+### Final frozen package
+
+PDF6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062; map5aee7e6fd9b08d304a9335e424d1a61cde45395f041053f45fe4fb2c55e9dc78; viewer18025ef3f162357eb0fb833b948639e0873db59778997a37356233342666725a; index8e805e7da2b8667d6a3b79f4e8d7d63ce07d41b6fb3064643015ab00db7988b5; manifest28d6a5a2cb18b6a8db6ede24949de0a5311957642a2b67652610bd7844d108c6; ZIP3d9300eaad2c4deaf910f7f60d0e9648b83ffd8367cb5cc3d54f2ce3dd3a7769. Model3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229; plan df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff. Credit0d9e unchanged/nameonly; rights/Technic unchanged.
+
+FinalHTML differs from tested6f00 only in one pages130–131→128–129 label and onePDFanchor130→128. Fullscriptbytes/payload/handlers equal; exactdiffs in package-evidence. Newordered-prefix.png included for offlineviewer. Everyeditableartworkbyte unchanged except PRINTING.txt member; nofilesystemextraction orlinkwrite. 29roottransportmap baseline2105eb69bbc60228fe0eb5a49cd2242db0d0469a; parentpublishes changedallowlist only afterreview/disposition.
+
+Staticpackaging was expressly authorized under light exemption. Exactscriptd1d98dd, pinnedPython, /usr/bin/time-l, completionwait/exit0:3.52s,maxRSS149,995,520B,conservativeoutput36,775,248B,minfree4,568,715,264. Allownedworkclosed; no browser/PDF/navigationrepeat. Exact source/reference audit and packagecheck retained. No accepted=true/nativeadopted=true invented.
+
+### Review scope and remaining limits
+
+SameEpicurus should inspect actualchangedA4page4 plus adjacent/printpages3/5/128/129, sixUIshots and recordedsource/navigation/settledtext, and finalpackage/reference equivalence. Exact135unaffectedPDFstreams/allimagebytes/boxes and mapexceptPDFhash equality preserved againstfirst136PDF; previousR2correspondence/independentreview separate. No need repeatgreenrender/browser/PDF merely for staticlinks.
+
+Author has no unresolved productfinding in this scope. Originalsupervisor1/TIME_WAIT and laterauthorizedclosure remain separatelyrecorded, not relabeledsuccessful. Physical/supportedcontinuousinsertion, nativeStudFleetproduction adoption, independentnativeUI and full-editionparity remain unproven. Inherited3666label FOLLOW-UP staysoutside thisscope. Sameindependentreview and captain/FOdisposition remain required; publication unchanged.
+
+### Summary
+
+Complete source-bound experimental hybrid section and finalpackage are ready for sameindependent affectedreview. Allauthor-ownedruntimeclosed, artifacts/evidence frozen, limits explicit. No furtherauthor implementation/runtime remains.
