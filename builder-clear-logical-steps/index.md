@@ -1,12 +1,12 @@
 ---
 title: Show clear logical construction steps and hidden attachment details
-status: intake
+status: authoring
 source: Captain requested fresh experienced-builder review and next improvement round; no page-count shortcut or oversized steps
-started:
+started: 2026-11-05T11:00:32Z
 completed:
 verdict:
 score: 0.94
-worktree:
+worktree: .worktrees/spacedock-ensign-builder-clear-logical-steps
 issue:
 pr:
 mod-block:
