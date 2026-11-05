@@ -12,10 +12,18 @@
   document.querySelector('#recipe-navigation').append(actions);
   const fit=()=>{const r=document.querySelector('canvas').getBoundingClientRect();Object.assign(box.style,{left:r.left+'px',top:r.top+'px',width:r.width+'px',height:r.height+'px'});};
   window.addEventListener('resize',fit);
-  function inspect(n){box.hidden=true;frame(n);actions.hidden=false;}
+  function inspect(n){box.hidden=true;frame(n);actions.hidden=false;document.querySelector('#recipe-copy-note').textContent='';}
   function diagram(){
    frame(3);fit();box.hidden=false;actions.hidden=false;
-   document.querySelector('#step-description').textContent='1. Start with one beam. 2. Fit both pins. 3. Seat the second beam on BOTH exposed pins.';
+   // The retained notes wrapper may be outside this wrapper (independent readiness timers).
+   // Apply grouped text after that synchronous call chain; never overwrite Inspect mode.
+   queueMicrotask(()=>{
+    const state=window.inspectInstructions();if(box.hidden||state.step!==1||state.recipeFrame!==3)return;
+    const title=document.querySelector('#step-title'),description=document.querySelector('#step-description');
+    title.hidden=false;title.textContent='Actions 1–3 · Build the chassis core';
+    description.hidden=false;description.textContent='1. Start with one beam. 2. Fit both pins. 3. Seat the second beam on BOTH exposed pins.';
+    document.querySelector('#recipe-copy-note').textContent='One diagram · collect these four parts once.';
+   });
    const tray=document.querySelector('#step-parts');tray.replaceChildren();
    const title=document.createElement('h3');title.textContent='Collect once';
    const parts=document.createElement('p');parts.textContent='2 × 32018 black beams · 2 × 2780 black pins';tray.append(title,parts);tray.hidden=false;

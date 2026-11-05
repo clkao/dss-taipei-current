@@ -79,8 +79,12 @@ try{
  const captures=[['diagram',0,1600,1050],['inspect1',1,1600,1050],['inspect2',2,1600,1050],['inspect3',3,1600,1050],['next4',4,1600,1050],['diagram-narrow',0,900,1000]];
  for(const [name,action,width,height] of captures){
   await call('Emulation.setDeviceMetricsOverride',{width,height,deviceScaleFactor:1,mobile:false});
-  const result=await call('Runtime.evaluate',{expression:`(async()=>{window.setInstructionStep(1);window.setRecipeFrame(1);const b=[...document.querySelector('#ordered-prefix-inspect').querySelectorAll('button')];if(${action}>0&&${action}<4)b[${action}].click();if(${action}===4)document.querySelector('#next-step').click();const img=document.querySelector('#ordered-prefix-diagram img');await img.decode();await new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r)));return {loaded:img.naturalWidth>0};})()`,awaitPromise:true,returnByValue:true});
+  const result=await call('Runtime.evaluate',{expression:`(async()=>{window.setInstructionStep(1);window.setRecipeFrame(1);const b=[...document.querySelector('#ordered-prefix-inspect').querySelectorAll('button')];if(${action}>0&&${action}<4)b[${action}].click();if(${action}===4)document.querySelector('#next-step').click();const img=document.querySelector('#ordered-prefix-diagram img');await img.decode();await new Promise(r=>requestAnimationFrame(()=>requestAnimationFrame(r)));return {loaded:img.naturalWidth>0,title:document.querySelector('#step-title').textContent,description:document.querySelector('#step-description').textContent,note:document.querySelector('#recipe-copy-note').textContent,expectedActionTitle:${action}>0?('1'+String.fromCharCode(96+${action})+'. '+window.PROTOTYPE.model.instruction_plan.steps[0].manual.frames[${action}-1].title):null};})()`,awaitPromise:true,returnByValue:true});
   if(result.exceptionDetails||!result.result?.value?.loaded)throw Error('Image not loaded '+name);
+  const settled=result.result.value;note('settled-reader-text',{name,...settled});
+  if(action===0){
+   if(settled.title!=='Actions 1–3 · Build the chassis core'||settled.description!=='1. Start with one beam. 2. Fit both pins. 3. Seat the second beam on BOTH exposed pins.'||settled.note!=='One diagram · collect these four parts once.')throw Error('Grouped settled reader text '+name);
+  }else if(settled.title!==settled.expectedActionTitle)throw Error('Exact inspect/action caption '+name);
   const shot=await call('Page.captureScreenshot',{format:'png'});fs.writeFileSync(`${out}/r2-${name}.png`,Buffer.from(shot.data,'base64'));
  }
  fs.writeFileSync(`${out}/r2-browser-check.json`,JSON.stringify({errors,screenshots:captures,trace_count:nav.result.value.trace.length},null,2));
