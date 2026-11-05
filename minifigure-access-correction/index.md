@@ -414,3 +414,29 @@ Runtime proposal remains pending explicit lease; authoring does not advance to r
 ### Summary
 
 Narrow pre-run staging isolation fix committed. Original proposal and pins retained; no artifacts regenerated or acceptance inferred.
+
+## Stage Report: authoring (cycle 8 — first hybrid runtime, stopped and static correction)
+
+- DONE for binding/artifact accounting — Bind the exact four-piece diagram intent and source operations, with paired pin targets and unchanged model/order/stock. Grant2b4e247d used source5562901. PDF/static checks passed136A4/page4/one aggregated four-piece tray, exact348records/215operations, remaining-page metadata/images and print128/129. Model3d233/plan df9 unchanged; diagram69021. ActualA4visual remains pending because raster stage did not run.
+- PARTIAL — Prepare the smallest real hybrid PDF/viewer integration and honest producer/adoption record, preserving published R2 fixes and name-only credit. Actual candidate generated and ten UI traces/six screenshots exist. All six inspected: paired rings/one2+2tray, optional1/3/4piece action states and Next4 visible. Material sidebar finding remains: primary diagram still has1c title/installed prose. Authorized static correction7bcefe4 prepared, not applied or tested. No accepted integrated package/adoption claim.
+- DONE for evidence/proposal — Return exact static commits/pins and a bounded affected-generation/review plan without heavy runtime or publication. Runtime was separately explicitly granted; failure stopped before raster, no retry. Original evidence commitda19be4 and follow-up7bcefe4 preserve inputs/exits/screenshots hashes. Failed-only source proposal SIDEBAR-FIX.md and sidebar-static-pins.json ready; no package binding/publication.
+
+### Actual output and resource levels
+
+Candidate builds/access-corrected-hybrid-prefix. PDFd8cb787b8f6572854370e650b4ceb2f59c35d78e3ae5bec7ebd43d16bbabc137; mape9df2efac6f2499a68d1d744848fc82cf522015bc5d1e40c216e107ea371f67c; viewer1d56a99417d2e6d64185398f9c85a76ccea31837803a46c8d737a126831b7a18. Name-only credits0d9e unchanged. Fullpins/rawlogs/results at manual/hybrid/first-run-evidence.
+Stage1 prepare/PDF/check exits0, explicit waitsPIDs50798/50801/51078 and no remaining:18.325s,peak17,167,317B,minfree5,209,223,168. Actual136landscapeA4, no marker replay.
+Stage2 Node51203 explicitlyreaped0 and Chrome51217exit0; assertionsno failures/errors,10traces/6screenshots. Supervisor1 atfinalbindEADDRINUSE; allrecordedPID/profilecensusesempty/unknownnone/EPERMfalse.14.694s,peak15,089,684B,minfree3,720,953,856. Original profile/temp correctlyretained; STOP/computeRELEASE reported, no raster/retry.
+Separate closureauthorizationdb5dd: lsofLISTEN/allstates emptyexit1 and netstatexact19402empty; fresh recordedbirth/profilecensusesempty; ONEbindfree. Removedonlyownedce86b402profile/hybrid-prefix-browser-temp. FullyRELEASED. NoTIME_WAITobserved inlater snapshot; originalsupervisor1 remains, not retroactivegreen. Independent screenshot review is author evidence, not nativeuser acceptance.
+
+### Four-field viewer finding and static FIX
+
+1. Trigger: r2-diagram.png and r2-diagram-narrow.png show three-action diagram with action3-only sidebar.
+2. Evidence/mechanism: legacy base setRecipeFrame synchronously writes1c; hybrid omittedgroupedtitle. Independent50msnotes/60mshybrid readiness timers allow outer notes wrapper: calls hybrid, then readsframe3 and synchronously overwritesdescription with exact f.note+installed disclaimer seen inPNG. This is wrapper-order overwrite, not assumed async rendering.
+3. Impact/owner: Material DSS presentation correctness; reader may mistake diagram for onlyaction3. Source/geometry/order/stock are unchanged.
+4. AuthorizedSTATICFIX: guardqueueMicrotask by visible diagram+step1/frame3, write groupedheading/description/recipenote after synchronouswrapperchain; Inspect restoresoriginalexactactionstate/title and clearsgroupednote. Newsettledsixshotassertions checkactualtext afterdecode+2RAF. Not run/applied yet.
+
+Nextproposed exactstagea42128c9 <=5s15MiB retainsoldHTML/6PNG/logs before replacing only appendedscript; UI driver5b41a59f→review95347283 <=90s150MiB, total100s165MiB includingclosure,576start/512floor. Plannedviewer cd7b46db708cfb16bb18cbbd78f5049c9000049f38e04e9161c4f264d6c81bf4. NoPDFregeneration; affectedrasters3/4/5/128/129 require remaining-onlygrant afterUIassertion+visualpass. No reviewadvance or source/packageacceptance. Physical/insertion, nativeStudFleet and independentnativeUI limits remain.
+
+### Summary
+
+First hybridPDF is generated and statically bound; actualUI exposed a presentation defect and closure accounting stop. Ownedclosure subsequently resolved under explicit separate grant. Narrow staticUI correction and failed-only proposal await authorization; complete hybrid authoring/review remains unfinished.
