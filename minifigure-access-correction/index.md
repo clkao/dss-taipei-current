@@ -605,3 +605,18 @@ Pages5/7 show that two ordinary successive states can share a page while retaini
 Proposed general rules from actual failures: tray width follows the complete printed identifier, not a fixed column count (4/9); alternative source sequences require a visible fork rather than an ordinary sequential grid (23); receiver/installed pairs require a readable visual correspondence, not merely a receiver caption (18/24/26); reused completed units need explicit identity and copy handoff (21–26). A necessary closeup may use more space than an ordinary construction state. These are composition rules, not a new schema design.
 
 Original resource failures remain literal: first run exceeded its observed RSS limit; retry produced PDF/check and14 rasters but stopped before the next child on disk preflight. The missing pages are unreviewed, not failed product pages. Published PDF/viewer remain retained; native adoption, physical insertion/handling, independent nativeUI and full parity are unproven. No status/gate mutation, StudFleet communication, product fix or new runtime was performed by this reviewer.
+
+## Stage Report: authoring (cycle 13 — iteration2 implementation, runtime pending)
+
+- DONE: Implement a source-bound second local composition addressing the reviewed reader failures and useful house-manual patterns.
+  Source6178ed2, manual/simplify/i2: measured-width trays, per-copy total trays, explicit C17/C18 ordered lanes, A/B/C copy allocation, locked receiver cameras with source-origin locators/insets, and exact three-label local HTML derivative. Independent critique254fd6c is the input; no source geometry/order/copy mutation.
+- DONE: Bind exact changed assets/helpers and a bounded rendered iteration2 proposal without shared or publication changes.
+  PROPOSAL.md separates StageA15images≤90s150MiB (driver8c0d7cc1, bundle2518d0df) from actual image review and conditional StageB71-pagePDF/27rasters≤160s160MiB (bundle0aedebc0). PDF refuses without actual review-PASS asset hashes; no runtime has run for i2.
+- DONE: Retain iteration1 evidence and explain remaining iteration3 readability work without claiming acceptance.
+  Root's remaining13-raster record is preserved in i1/rendered-evidence; prior memorySTOP/diskSTOP remain literal. i1 actual71PDF e8739547/map39736335 remains frozen; i2/3 actual design passes and independent feedback are still due.
+
+### Summary
+
+The second local presentation is implemented, not merely audited. Largest measured9pt tray identifier3626cp87 needs105.546875pt including icon/gaps; the checker now verifies label footprints. Rail2 uses two distinct three-frame lanes with one-copy3710×1+99207×2 stock, preserving different bracket order. Receiver marks are source-origin screen locators, not validated connector coordinates, GPU visibility or insertion paths; actual15image inspection must precede PDF generation.
+
+Readonly house-manual examples informed one per-copy tray, recipe/installation correspondence and locator insets. FO local workflow rule3f65b1f was read without overwriting/rebasing. Shared files, published24425a3,348 poses/215 operations, bands, artwork, rights and name-only credit remain unchanged. Iteration3 will address observed i2 weak points and remaining sticker/figure/whole-manual flow; no page quota, acceptance, package/publication, native adoption or physical/nativeUI pass is claimed. Resource grants are pending; all work here is static preparation and tiny syntax/font-metric checks.
