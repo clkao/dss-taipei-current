@@ -1,0 +1,109 @@
+{
+  "upper_to_floor": [
+    {
+      "upper_id": 103,
+      "floor_id": 99,
+      "cavity_local_ldu": [
+        -50.00000719999999,
+        8,
+        -49.999988
+      ],
+      "grid_error_ldu": 1.1999999998124622e-05,
+      "plane_error_scene_units": 3.800000003550963e-07
+    },
+    {
+      "upper_id": 104,
+      "floor_id": 99,
+      "cavity_local_ldu": [
+        -30.000008400000002,
+        8,
+        -49.999988
+      ],
+      "grid_error_ldu": 1.1999999998124622e-05,
+      "plane_error_scene_units": 3.800000003550963e-07
+    },
+    {
+      "upper_id": 139,
+      "floor_id": 99,
+      "cavity_local_ldu": [
+        -49.99998339999999,
+        8,
+        50.00002380000001
+      ],
+      "grid_error_ldu": 2.380000000812288e-05,
+      "plane_error_scene_units": 1.5700000002283332e-06
+    },
+    {
+      "upper_id": 146,
+      "floor_id": 99,
+      "cavity_local_ldu": [
+        -30.000008400000002,
+        8,
+        50.00002079999999
+      ],
+      "grid_error_ldu": 2.079999998727544e-05,
+      "plane_error_scene_units": 1.5700000002283332e-06
+    },
+    {
+      "upper_id": 135,
+      "floor_id": 129,
+      "cavity_local_ldu": [
+        30.00004780000001,
+        8,
+        -49.999976200000006
+      ],
+      "grid_error_ldu": 4.780000001147755e-05,
+      "plane_error_scene_units": 3.800000003550963e-07
+    },
+    {
+      "upper_id": 148,
+      "floor_id": 129,
+      "cavity_local_ldu": [
+        49.99998100000003,
+        8,
+        -49.999976200000006
+      ],
+      "grid_error_ldu": 2.3799999993912024e-05,
+      "plane_error_scene_units": 3.800000003550963e-07
+    },
+    {
+      "upper_id": 174,
+      "floor_id": 129,
+      "cavity_local_ldu": [
+        30.00004780000001,
+        8,
+        50.00002379999999
+      ],
+      "grid_error_ldu": 4.780000001147755e-05,
+      "plane_error_scene_units": 1.5700000002283332e-06
+    },
+    {
+      "upper_id": 175,
+      "floor_id": 129,
+      "cavity_local_ldu": [
+        50.000004800000006,
+        8,
+        50.00002379999999
+      ],
+      "grid_error_ldu": 2.3799999986806597e-05,
+      "plane_error_scene_units": 1.5700000002283332e-06
+    }
+  ],
+  "shadow_sources": {
+    "parts/3036.dat": {
+      "sha256": "67d94611c67c264606058ade504d30b024dea036b5f32c1e7ce411d88967a1c6",
+      "text": "0 LDCad shadow info for \"Plate  6 x  8\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-12-19 {Roland Melkert} Initial info for 3036.dat\n\n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 4] [pos=0 8 0] [grid=C 8 C 6 20 20]\n"
+    },
+    "parts/6141.dat": {
+      "sha256": "db5d34deb581ac7712b2116ceb929fd6752cfd56a008335378c8b08c08d64592",
+      "text": "0 LDCad shadow info for \"Plate  1 x  1 Round\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2015-10-20 {Roland Melkert} Initial info for 6141.dat\n0 !HISTORY 2023-05-01 {Roland Melkert} Split bounding cylinder in two, to prevent 'best fit' fighting shortcomings\n\n0 !LDCAD SNAP_CLEAR \n0 !LDCAD SNAP_CYL [gender=F] [caps=one] [secs=R 6 5] [pos=0 8 0]\n0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 10 3   R 6 4] [slide=true] [pos=0 3 0]\n0 !LDCAD SNAP_CYL [gender=M] [caps=none] [secs=R 10 3   R 8 5] [slide=true] [ori=-1 0 0 0 -1 0 0 0 1]\n"
+    },
+    "p/stud.dat": {
+      "sha256": "15baeb9414a00fac4d1614f97abdc5c6350df7c8a22a2daa4c369f66e611d4db",
+      "text": "0 LDCad shadow info for \"Stud\"\n\n0 Author: LDCad Shadow Library\n0 !LICENSE CC BY-SA 4.0, see LICENSE.md\n\n0 !HISTORY 2013-11-22 {Roland Melkert} Initial info for stud.dat\n\n0 !LDCAD SNAP_CYL [ID=studC] [gender=M] [caps=one] [secs=R 6 4]\n"
+    }
+  },
+  "catalog_alignment_demonstrated": true,
+  "automated_connector_engine_rerun": false,
+  "physical_fit_or_insertion_verified": false
+}

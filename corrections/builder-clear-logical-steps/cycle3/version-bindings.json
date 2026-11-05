@@ -1,0 +1,34 @@
+{
+  "original": {
+    "instructions.pdf": "db13a65349791ea4af2644df5cff26afd1a1bc29a218ec9f1df95983fca02956",
+    "viewer.html": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+    "release.zip": "5c34b1d1783d4d67b12b0989431a0277a008f6356b530f952c9d8753cc0ea459",
+    "model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+    "instruction-plan.json": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+    "model-viewer.html": "76490ced1d9ef3503344f4f6c814f9215f7d4c3ca5390a4e39e17a2709817243"
+  },
+  "cycle1": {
+    "instructions.pdf": "59b66fb0bfb8766306b89475e5516cc0c1a5286605355c760ca578a723530f64",
+    "viewer.html": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+    "release.zip": "635049be41e87e1446500e433d58bece6a77822ddd816677abca4d079a0ecf04",
+    "model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+    "instruction-plan.json": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+    "model-viewer.html": "76490ced1d9ef3503344f4f6c814f9215f7d4c3ca5390a4e39e17a2709817243"
+  },
+  "cycle2": {
+    "instructions.pdf": "19d5c4262279624e38635367f958fcb9ccd6ffa87ca3b9a8f0da91da87d1716c",
+    "viewer.html": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+    "release.zip": "98fc465d0f6bb04d4eb4100efb2bb40984f9a80469b007e472befe88c5325c00",
+    "model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+    "instruction-plan.json": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+    "model-viewer.html": "76490ced1d9ef3503344f4f6c814f9215f7d4c3ca5390a4e39e17a2709817243"
+  },
+  "cycle3": {
+    "instructions.pdf": "c2cc842abc833241d8d543831d879c6273d9bfb9b12b05d4077afdd47de92ae0",
+    "viewer.html": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+    "release.zip": "7427dbd7a7e642b61a852fc7840e8b4075c8494939b2220f22e48fe32e8bf533",
+    "model.json": "ccf58ae4031e4a466f471bb87668f897375684cbd10c0ca892fc219553edd5f3",
+    "instruction-plan.json": "5cf8c157b465e8c633a8fd4200202011a66dff8107531f3558aa99e2d9bffd00",
+    "model-viewer.html": "3970194314667626daad3f660d07a5b9ec507c22329ca6c0bf70c77c1542d819"
+  }
+}
