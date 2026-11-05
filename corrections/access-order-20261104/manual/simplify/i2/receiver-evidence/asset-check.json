@@ -1,0 +1,19 @@
+{
+  "numbers": {
+    "reused_path": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i2-assets/numbers-only.png",
+    "sha256": "81510ce86c45ee948366fda805ace64ea5d564b35d05ec69941f11bc192fb35f",
+    "no_rerender": true
+  },
+  "pairs": [
+    "s12-f7",
+    "s17-f9",
+    "s17-f14",
+    "s17-f16",
+    "s18-f9",
+    "s18-f14",
+    "s18-f16"
+  ],
+  "errors": [],
+  "source_unchanged": true,
+  "physical_verified": false
+}

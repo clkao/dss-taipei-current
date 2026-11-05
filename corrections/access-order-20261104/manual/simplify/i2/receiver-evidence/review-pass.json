@@ -1,0 +1,33 @@
+{
+  "author_image_review": "PASS",
+  "scope": "All14 corrected receiver PNGs plus exact reused numbers-only opening visually inspected; suitable for composing iteration2, not final A4/package/physical acceptance.",
+  "source_commit": "f3d5222",
+  "files": {
+    "numbers-only.png": "81510ce86c45ee948366fda805ace64ea5d564b35d05ec69941f11bc192fb35f",
+    "s12-f7-after.png": "7dd56c258b468f0695146c83801ec87ef74ade24058913a5674f7c3579194e34",
+    "s12-f7-before.png": "5c6cb6332ce0a9bb01bd044b02bc89b6e042ccbb5ab0154cb51cce1852686da0",
+    "s17-f14-after.png": "0f97985f101269e15bbb7555a4adeba5f5c9de540b53ecf6afdc4c473a5c5e87",
+    "s17-f14-before.png": "bedf26cedbcbf323993aea5314cfe9ada261872ff9920b509f0601fcc994291d",
+    "s17-f16-after.png": "08c11113bd251cc49b8bc75e99f1379fd081952a6867a4e3d11f8e1e3055c4d9",
+    "s17-f16-before.png": "ea18f28dae0083b864f78c5c64d80e4ac6612810ccfe10e2aa30de0df23357ff",
+    "s17-f9-after.png": "5cadcee15cb992b684b335e12c7348619aa899d0793bddb6ac3ae4d1f71c2f45",
+    "s17-f9-before.png": "60ff0131338381733f62819bb370b517d768e3e37f4994a125e9827af7e40589",
+    "s18-f14-after.png": "5595ef260e6f7b632225d8179b0256da071b8610b773ca0bc55b9876fce13ed9",
+    "s18-f14-before.png": "d2b672c42b035bdde63cc24785f5bdea7f108eefc3464a273888895600681f1f",
+    "s18-f16-after.png": "73dc9438f97207f74e403bcc3fa37e85cbc8347da0e53f6d8af281916ff69a03",
+    "s18-f16-before.png": "c320072f49a1d93d6f3218413480b7144871778403065dc9cc8965a9c702cdc3",
+    "s18-f9-after.png": "38781b854674010ea64e93e5a436e5ec8556b930d11ab14f3e9f3706fb31803d",
+    "s18-f9-before.png": "871335936f9b23b7c1c2ecaa13a7d314f6c75d94aa410ce0a5cadacd23b882ee",
+    "receiver-locations.json": "4a3344524790c5116acb93907ac703ca42bc879d2bb2459dfc2a435e03a24295",
+    "asset-check.json": "d9eafef800f8ba2a1befdf891177f3eabc9a62e5ccd6db9577cc0a13beee398e"
+  },
+  "observations": {
+    "framing": "Same size/orientation and unclipped before/after for all7 pairs",
+    "receivers": "Prior support structure and newly added unit retained; final physical mating/insertion not validated",
+    "bands": "Retained in bumper and full-carrier contexts",
+    "numbers_only": "Only1/2/3 with both paired pin marks and original arrows; exact green bitmap reused",
+    "projection": "All7 complete projection equality assertions and paired target-coordinate residual0; source-origin locators, not GPU/contact proof"
+  },
+  "closure_scope": "Original supervisor1 busyport retained; no cleanup or PDF authorization implied.",
+  "a4_layout_review": "pending actual iteration2 PDF"
+}
