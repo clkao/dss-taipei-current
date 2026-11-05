@@ -1,0 +1,112 @@
+{
+  "source_commit": "2a3070a",
+  "supervisor_exit": 1,
+  "stop": "next-stage free-space preflight below576MiB; no page27 launch",
+  "normal_pdf_exit": 0,
+  "normal_static_check_exit": 0,
+  "all_launched_children_reaped": true,
+  "closure_observation": "Subsequent ps census found no owned supervisor47356 or child processes; no cleanup or retry.",
+  "actual_pages": 71,
+  "baseline_pages": 136,
+  "files": {
+    "builds/simplification-i1-retry1/instructions.pdf": {
+      "sha256": "e8739547da1352bed969b21b5984d8af49278247a9076a0ff9cf57804ca2f132",
+      "bytes": 6195263
+    },
+    "builds/simplification-i1-retry1/pdf-page-map.json": {
+      "sha256": "39736335368a8f3a8b245b01615306841a88af5474b4fb523a5ffd0398d9c613",
+      "bytes": 23091
+    },
+    "builds/simplification-i1-retry1/static-check.json": {
+      "sha256": "8a7d3eb533020d2dddb7523f79ec062e86bc120ac06961b2af2c8e7751c4a7a2",
+      "bytes": 471
+    },
+    "builds/simplification-i1-retry1/composition-plan.json": {
+      "sha256": "b258195d974f9e7b8522aafeeda152d593ba008828f16a36a7c6ad536819cddf",
+      "bytes": 5337
+    },
+    "builds/simplification-i1-retry1/a4-review/page-04.png": {
+      "sha256": "9d59ad28dd3a7d0b9c134f40fd412ce12f107dd298f4598367b070d9721380cc",
+      "bytes": 206090
+    },
+    "builds/simplification-i1-retry1/a4-review/page-05.png": {
+      "sha256": "a25f50054c2e336fde52df31cae057bf979bcda0a756a78821206c9cc41d3e24",
+      "bytes": 146991
+    },
+    "builds/simplification-i1-retry1/a4-review/page-07.png": {
+      "sha256": "2958f6562d2a4185fba10fe077a7adaf6493d75a789b7998dc3b27850dea74a4",
+      "bytes": 207526
+    },
+    "builds/simplification-i1-retry1/a4-review/page-09.png": {
+      "sha256": "a823f3d17b5f1605697f695201058983a1f288af2ed91efd8d2e36931ca4877d",
+      "bytes": 177394
+    },
+    "builds/simplification-i1-retry1/a4-review/page-14.png": {
+      "sha256": "7ca4fe0c49d5b5978869193a5df7dd0bb884c1bfa9b98d92f20a81b6400ad4a8",
+      "bytes": 183410
+    },
+    "builds/simplification-i1-retry1/a4-review/page-15.png": {
+      "sha256": "d19d59001a2e02a3cc7db17da6f9e2b54d276d98917d7284c8b61ddba0c1d54f",
+      "bytes": 179361
+    },
+    "builds/simplification-i1-retry1/a4-review/page-16.png": {
+      "sha256": "5354439f51b2fb67d04c0cc92c92d85dcd85941c9385d89b57c4516a76e6181c",
+      "bytes": 117274
+    },
+    "builds/simplification-i1-retry1/a4-review/page-18.png": {
+      "sha256": "959e5502f84a7d62e0633f494fc384235108aeaa43463fec4e47356b201c5341",
+      "bytes": 142207
+    },
+    "builds/simplification-i1-retry1/a4-review/page-21.png": {
+      "sha256": "d2bc33545bbbd20de22bb119b642687ab30bd2df7ece86e12e6d391c0361862a",
+      "bytes": 177833
+    },
+    "builds/simplification-i1-retry1/a4-review/page-22.png": {
+      "sha256": "3f3b59eae60d2931eb954902f971cc91a4ba0740cf29b171a76105c441584641",
+      "bytes": 146909
+    },
+    "builds/simplification-i1-retry1/a4-review/page-23.png": {
+      "sha256": "22b2b36a7d10ea681973b73ec0b331d7ff6bc7cb95bdf53651ab8ddbd9d360a4",
+      "bytes": 174944
+    },
+    "builds/simplification-i1-retry1/a4-review/page-24.png": {
+      "sha256": "0e2a941e8df25dadb3db3091b515022925867564d97d3a434ef66a5164473f53",
+      "bytes": 170847
+    },
+    "builds/simplification-i1-retry1/a4-review/page-25.png": {
+      "sha256": "ee5619708b08dd0ae94619500ce8a5f5e092e43a652cf8dc71bbdc9fa29e5807",
+      "bytes": 205422
+    },
+    "builds/simplification-i1-retry1/a4-review/page-26.png": {
+      "sha256": "ecf0b89a569a1e69f6f8cb8726f7e7cc224a2c79c90a338f8226f82d47d0c859",
+      "bytes": 162066
+    }
+  },
+  "visual_scope": "14 saved pages only; author inspected all14, independent feedback pending",
+  "unrun_pages": [
+    27,
+    30,
+    37,
+    45,
+    46,
+    49,
+    50,
+    51,
+    53,
+    55,
+    57,
+    58,
+    61
+  ],
+  "resource_evidence": {
+    "elapsed_seconds": 8.988334583118558,
+    "min_free_bytes": 585330688,
+    "peak_increment_bytes": 8789756,
+    "observed_peak_direct_rss_bytes": 703807488
+  },
+  "after_stop_df_available_bytes": 330854400,
+  "disk_usage_attribution": "unknown; no peer attribution inferred",
+  "physical_insertion_verified": false,
+  "native_ui_verified": false,
+  "published_changed": false
+}
