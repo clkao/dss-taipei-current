@@ -1,0 +1,21 @@
+{
+  "stages": [
+    {
+      "argv": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/simplify/i1/make_pdf.py"
+      ],
+      "exit": -15,
+      "pid": 42929,
+      "observed_identity": "42929 42867   3968 Wed Nov  4 21:24:11 2026     /opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/simplify/i1/make_pdf.py",
+      "explicit_parent_wait": true,
+      "survivors": [],
+      "elapsed_seconds": 3.507166207768023,
+      "stop_reason": "resource/deadline"
+    }
+  ],
+  "elapsed_seconds": 3.664183083921671,
+  "min_free_bytes": 790003712,
+  "peak_increment_bytes": 59583,
+  "observed_peak_direct_rss_bytes": 1196032000
+}
