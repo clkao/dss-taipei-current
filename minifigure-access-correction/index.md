@@ -374,3 +374,24 @@ Next minimum: exact corrected upstream image/path/SHA and two-target provenance,
 ### Summary
 
 Static hybrid integration is committed and ready for corrected asset handoff. Generation is explicitly blocked until that exact asset and a coordinated lease arrive; this is not a completed artifact or adoption claim.
+
+## Stage Report: authoring (cycle 6 — paired-target static handoff)
+
+- DONE for static binding — Bind the exact four-piece diagram intent and source operations, with paired pin targets and unchanged model/order/stock.
+  Independently read the supplied asset packet, verified image69021bb267165d79bae743f98154e1d3853cb81e5d28526ddfb9b19142d6301b, bindingb5669accd2c7a101fd0c0172d32a6320ef9d6774ae104a015f11c79e642127fa and upstream viewer8342318d322f149510ddc423a96a77a4eaf77916faddd428d54df3d249082e1c, and viewed the actual PNG. Orange rings identify both216+231; caption says Fit over both pins. Moving178, source occurrences/instance identities, availability afterlegacy012 and source order retained. Exact sourcea3972ea/patch6b0b38dc/intenta2c749c5/generatorf0b7f1b0 recorded; original artifacts untouched. Integrated usability remains untested.
+- DONE for static integration preparation — Prepare the smallest real hybrid PDF/viewer integration and honest producer/adoption record, preserving published R2 fixes and name-only credit.
+  Source afb6ea7 binds selected image in existing b534d5a opt-in composer/viewer path. One primary diagram and2+2tray, optional exact-state inspection, Next4/Previousreturn; no source/model/stock change. Candidate would be new builds/access-corrected-hybrid-prefix. Name-only credits/index source hashes pinned; current package untouched. Experimental projection identity and adopted=false retained; no native StudFleet claim.
+- DONE — Return exact static commits/pins and a bounded affected-generation/review plan without heavy runtime or publication.
+  manual/hybrid/PROPOSAL.md SHA45663373fceb6aa544c7f49d0dbefa1488c20482fecb233fc07a00730a193356; all helper/input hashes in hybrid/static-pins.json. Exact pinnedPython87d4df53→run-pdf.py1e1a09e4 (prepare2df6028b/PDFf4766310/check28c20c46), run-ui.pyfc02563c→pinnedNode24/review588e3ba8, then run-pdf.py --raster→Poppler889. Planned candidate viewer1d56a99417d2e6d64185398f9c85a76ccea31837803a46c8d737a126831b7a18. Runtime private profilece86b402/port19402 and isolated temp paths listed. No helper was executed.
+
+### Resource proposal and actual limits
+
+Proposed conditional stages90s100MiB PDF/static,90s150MiB UI/sixshots,30s20MiB fiveaffectedrasters; total225s270MiB including closure,576MiBstart/512floor. Exact cwd/argv/ownership/waits/closure in proposal. Actual136page count and map must be verified; expected newpage4 replaces old4–6; inspect actualpages3/4/5/128/129 and diagram/inspect/Next4/Previous/overview paths. Existing R2 main11bands/local seed/2xcopy return assertions included. First failure stops; no automatic retry or publication. Only static authoring occurred, so no runtime or full artifact completion is claimed.
+
+Upstream normal supervisor/Node0,time-l18.95s and exact own-job postwait absence are retained. Administrative90.677s budget overrun remains. Combined RSS UNKNOWN from truncated/mixed ps; arithmetic1059840KiB is not a complete cohort peak. No older/personal renderer attribution is established. Usable asset is not successful lease evidence or native production acceptance.
+
+Prior pending launcher handle57881 completed exit0: e2a53bc committed/pushed; no duplicate state push. Current handoff is ready for FO resource review. Remaining blocker is explicit coordinated lease; section adoption, actual integration/review and physical/nativeUI limits remain open. Authoring state is preserved.
+
+### Summary
+
+Corrected upstream asset is selected and a pinned, affected-only hybrid generation/review proposal is committed as afb6ea7. No runtime, package mutation, publication or review advance occurred.
