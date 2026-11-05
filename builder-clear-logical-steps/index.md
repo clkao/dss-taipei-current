@@ -38,6 +38,11 @@ gates:
                 at: "2026-11-05T16:00:58.418097Z"
                 decision: revise
                 reason: 'Captain accepts the clarity direction but requests revision: replace suspension crossed A/B matching with a clearer diagram-led placement explanation, informed by typical LEGO conventions; page36 callout must identify the actual assembly area rather than the whole model. Preserve source/stock/order and return the exact revision for review.'
+            - id: gate-attempt:czrrfahe7jyh39409x9jnf6r-instruction-review-2
+              briefing:
+                id: briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-2:revision-1
+                digest: sha256:0ec9de84628c68b75a20ad18e75255cf3d8c220f9d0ce72bcedb20fbf61886de
+                room-ref: '@review/instruction-review/briefing-2'
 ---
 
 ## Brief

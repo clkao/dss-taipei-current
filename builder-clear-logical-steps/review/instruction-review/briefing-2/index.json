@@ -1,0 +1,24 @@
+{
+  "type": "Briefing",
+  "version": "1",
+  "id": "briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-2:revision-1",
+  "question": "Accept the corrected digital edition with direct suspension placement diagrams and the localized page36 callout?",
+  "artifacts": [
+    {
+      "id": "artifact:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-2:revision-1:item-1",
+      "uri": "git-root://state/021fa78c44812194466d49442b6cd7e2868a3313/builder-clear-logical-steps/index.md",
+      "rev": "sha256:000cf1bad30e2f4e72f0f6290485559a23b71678cd23b82721ebd8b63ab8b11a",
+      "mediaType": "text/markdown",
+      "summary": "Same reviewer passed captain round2 corrections: four common-frame suspension diagrams with uncrossed arrows, page36 receiver-area callout; 75 unchanged pages and immutable model/stock/order verified. PDF19d5c426 and ZIP98fc465d at source9d30303. Physical and live-phone limits remain; publication is separate."
+    }
+  ],
+  "context": [
+    {
+      "type": "Reference",
+      "id": "reference:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-2:revision-1:item-2",
+      "uri": "git-root://main/6c123228b4d19d7cc48ae573037f359492d052e0/docs/instructions/README.md",
+      "mediaType": "text/markdown",
+      "rev": "sha256:fd46b4c05a4f76a8bb9ea541d784ce18e304d4ae3a7ed008d6a3f7d6b5393cd5"
+    }
+  ]
+}
