@@ -131,6 +131,16 @@ Community feedback from 彭柏源 identified late pin installation at legacy ste
 - During authoring, audit adjacent short substeps and repeated recipes for consolidation. Record the exact source operations, copy maps and why any separate panel remains necessary. Keep one authoritative construction sequence across legacy, custom and shared rendering.
 - During independent review, inspect the actual diagram without relying on explanatory prose. Confirm parts, targets, orientation, order, counts, receiving context and subsequent placement are readable at A4 and the intended viewer size. Review all three text surfaces, including words baked into images. A source-count or successful export check cannot establish visual clarity.
 
+### Lessons from the side-carrier and callout review
+
+- A repeated recipe must be a complete, supported assembly. The largest matching subset is not usable if removing the differing parts leaves loose brackets. Check the whole candidate first, then share the largest complete units and show only the real variant.
+- Compare variants in the same orientation and at the same scale. Choose a view that exposes the difference; a view that hides the differing plate split cannot explain why two recipes differ. Use readable part or component names, not internal occurrence or branch identifiers.
+- Give each annotation one role. A recipe leader points to the newly built component; a placement arrow connects its mating feature to the receiving feature; a detail locator points to the specific area enlarged. Remove redundant outlines. Anchor arrows to actual studs or holes, not approximate part centers.
+- Use continuous alignment arrows for coaxial connections when clear. Keep exposed spans solid and dash only the spans hidden behind parts in the displayed view. Display offsets and arrows do not establish a physical insertion path.
+- Preserve visual hierarchy through revisions: one main-step heading, subordinate action numbers distinct from quantities, and the established orange step badge. Do not add an aggregate heading that merely repeats the individual steps below it. Inspect heading overlays for clipped tray icons, old text fragments and diagram overlap.
+- A simpler shared method may justify a local order correction, but never a silent one. Record the exact operation exchange, preserve access and support, and derive PDF and viewer from the same corrected sequence. Geometry and stock remain unchanged unless a separate model revision is authorized.
+- Review changes at their actual scope. Inspect every changed heading when a global style changes; reuse unchanged scenes only with equivalence evidence. Check final links and the packaged viewer as well as the PDF. A successful export does not establish reader clarity.
+
 These rules govern both original authoring and migrated editions. Fewer pages, preserved source operations and successful export do not establish a usable construction sequence.
 
 ## Workflow State
