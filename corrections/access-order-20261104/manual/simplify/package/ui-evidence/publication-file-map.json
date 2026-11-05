@@ -1,0 +1,184 @@
+{
+  "baseline": "24425a3cd5c0e925fe8922425fde7630b5177f7c",
+  "files": [
+    {
+      "publication_path": "sequence-audit.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/sequence-audit.json",
+      "sha256": "1d7f9b6035bcd4fff064a10bfb2bb7f9839eaea4e82e4492c638aacb8bf61f54",
+      "previous_sha256": "1d7f9b6035bcd4fff064a10bfb2bb7f9839eaea4e82e4492c638aacb8bf61f54"
+    },
+    {
+      "publication_path": "model.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/model.json",
+      "sha256": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+      "previous_sha256": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229"
+    },
+    {
+      "publication_path": "instruction-plan.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/instruction-plan.json",
+      "sha256": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+      "previous_sha256": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff"
+    },
+    {
+      "publication_path": "render-scene.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/render-scene.json",
+      "sha256": "94dd266f0f12eb45ebab2c1ebae7f17778eb87ac81800ed2b37f4ee560e35ecc",
+      "previous_sha256": "94dd266f0f12eb45ebab2c1ebae7f17778eb87ac81800ed2b37f4ee560e35ecc"
+    },
+    {
+      "publication_path": "catalog-meshes.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/catalog-meshes.json",
+      "sha256": "890e8ca24848e179e485b86c1ac925b2d5a3e63e88fb369774bd2ff3e53d3810",
+      "previous_sha256": "890e8ca24848e179e485b86c1ac925b2d5a3e63e88fb369774bd2ff3e53d3810"
+    },
+    {
+      "publication_path": "index.html",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/index.html",
+      "sha256": "ab1b57bbce96a8011a9f9560930d2e886d4a5572a403a67776ae1f38cdf8e1d7",
+      "previous_sha256": "8e805e7da2b8667d6a3b79f4e8d7d63ce07d41b6fb3064643015ab00db7988b5"
+    },
+    {
+      "publication_path": "viewer.html",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/viewer.html",
+      "sha256": "4802fff8c4c9e29828dbf9cdee48a2e945c96934a4a0fc70475962c99dcdd068",
+      "previous_sha256": "18025ef3f162357eb0fb833b948639e0873db59778997a37356233342666725a"
+    },
+    {
+      "publication_path": "instructions.pdf",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/instructions.pdf",
+      "sha256": "5c347b0e5d639a5ed5f45be6e867a14772fa01ed92ec4c80b472f956bbcf7bbd",
+      "previous_sha256": "6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062"
+    },
+    {
+      "publication_path": "pdf-page-map.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/pdf-page-map.json",
+      "sha256": "de2bc9955d5472d8113203fd195a20cdc7bd463a52ffc13c154d173d851cf61a",
+      "previous_sha256": "5aee7e6fd9b08d304a9335e424d1a61cde45395f041053f45fe4fb2c55e9dc78"
+    },
+    {
+      "publication_path": "full-instruction-check.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/full-instruction-check.json",
+      "sha256": "f4d99515515f159264b15fab13928fd081134b2f739922b82bc41135f64b3822",
+      "previous_sha256": "8de7ab192fc0d117103a11b00f582023003ccefa79eb7f314b0e51e3c0760c73"
+    },
+    {
+      "publication_path": "print-preflight.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/print-preflight.json",
+      "sha256": "beacc76f795eda0fe3c72b02a8fbf39d3c67627bef3aa7745716a9266ca9901f",
+      "previous_sha256": "9fa76e2a524c1d2f5654be0bb0a1b13c882aa0737d9eb9bc1d4239faabab8556"
+    },
+    {
+      "publication_path": "digital-fit-audit.md",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/digital-fit-audit.md",
+      "sha256": "9035719ca9afda97c8da5422b0ce7645a7dbe5fed8ef3f429e0ab71730382c0e",
+      "previous_sha256": "9035719ca9afda97c8da5422b0ce7645a7dbe5fed8ef3f429e0ab71730382c0e"
+    },
+    {
+      "publication_path": "README.txt",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/README.txt",
+      "sha256": "2d84e7f1371baf2e35fd0a67f2e4c42cafc9b480afe20e9a6564c6c818be61f8",
+      "previous_sha256": "53791460eae1a67f52e04232356ad82d2143c6adc595d1a6e3b33c8c3dadb30e"
+    },
+    {
+      "publication_path": "sticker-artwork.zip",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/sticker-artwork.zip",
+      "sha256": "42dfefb48e7359f3a213568ac57ff6ebb18d98cd7eb207a207aa7f8a4b1956f4",
+      "previous_sha256": "804dc963a58215bb15f872183fec6cb2e87d44dea6853cc851582d5490068fe8"
+    },
+    {
+      "publication_path": "yangliu-shape.mpd",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/yangliu-shape.mpd",
+      "sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2",
+      "previous_sha256": "963953af7cd31d23d4adbfa8314b8cde23505d1fb5485da17950872c2cd6d1e2"
+    },
+    {
+      "publication_path": "inventory.csv",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/inventory.csv",
+      "sha256": "5237a9b7d39085b8b51761f1b2207ee72d0dd476396ec76ddf2dc4d45e677000",
+      "previous_sha256": "5237a9b7d39085b8b51761f1b2207ee72d0dd476396ec76ddf2dc4d45e677000"
+    },
+    {
+      "publication_path": "wanted-list.xml",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/wanted-list.xml",
+      "sha256": "600bf2ec6b45b2eb0993b03a5b9c9431bd8912e1b9d537e715a03fa8b1b50a20",
+      "previous_sha256": "600bf2ec6b45b2eb0993b03a5b9c9431bd8912e1b9d537e715a03fa8b1b50a20"
+    },
+    {
+      "publication_path": "bricklink-inventory.csv",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/bricklink-inventory.csv",
+      "sha256": "b34b587913bf9c8082bb6edf9a593a531d91a5a68b7cc713d57e1f3867822262",
+      "previous_sha256": "b34b587913bf9c8082bb6edf9a593a531d91a5a68b7cc713d57e1f3867822262"
+    },
+    {
+      "publication_path": "bricklink-mapping.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/bricklink-mapping.json",
+      "sha256": "1a5b70edf850f3ebdb173fc6c8cef1f0912bf601fe50ca39ce6c19d67ff0605e",
+      "previous_sha256": "1a5b70edf850f3ebdb173fc6c8cef1f0912bf601fe50ca39ce6c19d67ff0605e"
+    },
+    {
+      "publication_path": "LICENSE.txt",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/LICENSE.txt",
+      "sha256": "c1dc239072ccb99271ea51b85daa9568fb8d218a5e914ef81f83edaab9dc0dd4",
+      "previous_sha256": "c1dc239072ccb99271ea51b85daa9568fb8d218a5e914ef81f83edaab9dc0dd4"
+    },
+    {
+      "publication_path": "credits.html",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/credits.html",
+      "sha256": "0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367",
+      "previous_sha256": "0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367"
+    },
+    {
+      "publication_path": "physical-vehicle-attribution.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/physical-vehicle-attribution.json",
+      "sha256": "7cfe02897ce2c02af3da90a6070c1c45b39988e9488ad11fe8e1e9d53ef0ac7e",
+      "previous_sha256": "7cfe02897ce2c02af3da90a6070c1c45b39988e9488ad11fe8e1e9d53ef0ac7e"
+    },
+    {
+      "publication_path": "contributor-count.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/contributor-count.json",
+      "sha256": "a67b61c78a6cd76f6fb0c6a5f3e3d1028f8d13c230baa3afc5a16e79aa0f63b2",
+      "previous_sha256": "a67b61c78a6cd76f6fb0c6a5f3e3d1028f8d13c230baa3afc5a16e79aa0f63b2"
+    },
+    {
+      "publication_path": "soon-white.svg",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/soon-white.svg",
+      "sha256": "40b3ab5921c7f12957f2eb047d66cfe0652242614f55d50c3472ef52d4f94c46",
+      "previous_sha256": "40b3ab5921c7f12957f2eb047d66cfe0652242614f55d50c3472ef52d4f94c46"
+    },
+    {
+      "publication_path": "soon-white-4096.png",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/soon-white-4096.png",
+      "sha256": "8ea39a606395ae850774d2eb131e1a0931c0237c761f3abb32c2684ad76ab5e3",
+      "previous_sha256": "8ea39a606395ae850774d2eb131e1a0931c0237c761f3abb32c2684ad76ab5e3"
+    },
+    {
+      "publication_path": "ordered-prefix.png",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/ordered-prefix.png",
+      "sha256": "81510ce86c45ee948366fda805ace64ea5d564b35d05ec69941f11bc192fb35f",
+      "previous_sha256": "69021bb267165d79bae743f98154e1d3853cb81e5d28526ddfb9b19142d6301b"
+    },
+    {
+      "publication_path": "release-provenance.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/release-provenance.json",
+      "sha256": "6c1fbf8fa22fc86c10fa81f29e46d6c3959817883a65ca6c110ccdb76b65d21c",
+      "previous_sha256": "3d20374f992618bfe52ac5d0d40ed3d995022771938d6a9b40ef3baaf16c3734"
+    },
+    {
+      "publication_path": "release.zip",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/release.zip",
+      "sha256": "d58bcda0441b40efc2aa4698c85ae5cb879236a1b613ee9f74bf54755066889e",
+      "previous_sha256": "3d9300eaad2c4deaf910f7f60d0e9648b83ffd8367cb5cc3d54f2ce3dd3a7769"
+    },
+    {
+      "publication_path": "package-manifest.json",
+      "source": "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/package-manifest.json",
+      "sha256": "7c11b72ad86a7c03f95787f11323ed4667827b4cbd01f3b9102a6f8709b176cd",
+      "previous_sha256": "28d6a5a2cb18b6a8db6ede24949de0a5311957642a2b67652610bd7844d108c6"
+    }
+  ],
+  "publication_changed": false,
+  "preserve": [
+    "technic/",
+    "unrelated paths"
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "started": "2026-11-05T07:37:37.397Z",
+  "nodePid": 84323,
+  "phase": "finally-complete",
+  "events": [
+    {
+      "time": 1793864257404,
+      "phase": "before-chrome-spawn"
+    },
+    {
+      "time": 1793864257467,
+      "phase": "chrome-spawned",
+      "pid": 84330
+    },
+    {
+      "time": 1793864257467,
+      "phase": "before-target-discovery"
+    },
+    {
+      "time": 1793864263500,
+      "phase": "target-found"
+    },
+    {
+      "time": 1793864263554,
+      "phase": "websocket-open"
+    },
+    {
+      "time": 1793864263555,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.enable",
+      "id": 1
+    },
+    {
+      "time": 1793864263733,
+      "phase": "cdp-result",
+      "method": "Runtime.enable",
+      "elapsed": 178,
+      "error": null
+    },
+    {
+      "time": 1793864263733,
+      "phase": "before-cdp-wait",
+      "method": "Page.enable",
+      "id": 2
+    },
+    {
+      "time": 1793864263772,
+      "phase": "cdp-result",
+      "method": "Page.enable",
+      "elapsed": 38,
+      "error": null
+    },
+    {
+      "time": 1793864263772,
+      "phase": "before-cdp-wait",
+      "method": "Page.addScriptToEvaluateOnNewDocument",
+      "id": 3
+    },
+    {
+      "time": 1793864263863,
+      "phase": "cdp-result",
+      "method": "Page.addScriptToEvaluateOnNewDocument",
+      "elapsed": 91,
+      "error": null
+    },
+    {
+      "time": 1793864263863,
+      "phase": "before-cdp-wait",
+      "method": "Page.reload",
+      "id": 4
+    },
+    {
+      "time": 1793864263867,
+      "phase": "cdp-result",
+      "method": "Page.reload",
+      "elapsed": 4,
+      "error": null
+    },
+    {
+      "time": 1793864263868,
+      "phase": "before-cdp-wait",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "id": 5
+    },
+    {
+      "time": 1793864263921,
+      "phase": "browser-event",
+      "method": "Page.frameNavigated",
+      "details": {
+        "frame": {
+          "id": "9C386058708D555E1333256D297E6945",
+          "loaderId": "9F6AC9C3CF61CC33E1CC445032FCE1C9",
+          "url": "file:///Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-package-retry1/viewer.html",
+          "domainAndRegistry": "",
+          "securityOrigin": "file://",
+          "securityOriginDetails": {
+            "isLocalhost": false
+          },
+          "mimeType": "text/html",
+          "adFrameStatus": {
+            "adFrameType": "none"
+          },
+          "secureContextType": "Secure",
+          "crossOriginIsolatedContextType": "NotIsolated",
+          "gatedAPIFeatures": []
+        },
+        "type": "Navigation"
+      }
+    },
+    {
+      "time": 1793864263926,
+      "phase": "cdp-result",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "elapsed": 58,
+      "error": null
+    },
+    {
+      "time": 1793864263927,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 6
+    },
+    {
+      "time": 1793864263929,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 2,
+      "error": null
+    },
+    {
+      "time": 1793864263929,
+      "phase": "readiness-state",
+      "state": {
+        "previewReady": false,
+        "hookInstalled": true,
+        "callbackInvoked": false,
+        "observer": "undefined",
+        "hybrid": false
+      }
+    },
+    {
+      "time": 1793864264031,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 7
+    },
+    {
+      "time": 1793864264078,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 46,
+      "error": null
+    },
+    {
+      "time": 1793864264079,
+      "phase": "browser-event",
+      "method": "Page.loadEventFired",
+      "details": {
+        "timestamp": 5383430.776742
+      }
+    },
+    {
+      "time": 1793864264181,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 8
+    },
+    {
+      "time": 1793864264233,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 52,
+      "error": null
+    },
+    {
+      "time": 1793864264233,
+      "phase": "readiness-state",
+      "state": {
+        "previewReady": true,
+        "hookInstalled": true,
+        "callbackInvoked": true,
+        "observer": "function",
+        "hybrid": false
+      }
+    },
+    {
+      "time": 1793864264336,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 9
+    },
+    {
+      "time": 1793864264352,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 16,
+      "error": null
+    },
+    {
+      "time": 1793864264352,
+      "phase": "readiness-state",
+      "state": {
+        "previewReady": true,
+        "hookInstalled": true,
+        "callbackInvoked": true,
+        "observer": "function",
+        "hybrid": true
+      }
+    },
+    {
+      "time": 1793864264353,
+      "phase": "ready-for-assertions"
+    },
+    {
+      "time": 1793864264353,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 10
+    },
+    {
+      "time": 1793864264355,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 2,
+      "error": null
+    },
+    {
+      "time": 1793864264355,
+      "phase": "package-links",
+      "pdf": "instructions.pdf",
+      "label": "Build instructions (69-page PDF)",
+      "print": true
+    },
+    {
+      "time": 1793864264507,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 11
+    },
+    {
+      "time": 1793864264530,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 23,
+      "error": null
+    },
+    {
+      "time": 1793864264531,
+      "phase": "before-cdp-wait",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "id": 12
+    },
+    {
+      "time": 1793864264531,
+      "phase": "cdp-result",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "elapsed": 0,
+      "error": null
+    },
+    {
+      "time": 1793864264531,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 13
+    },
+    {
+      "time": 1793864264559,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 28,
+      "error": null
+    },
+    {
+      "time": 1793864264559,
+      "phase": "settled-reader-text",
+      "name": "diagram",
+      "loaded": true,
+      "proseVisible": [
+        false,
+        false,
+        false
+      ],
+      "extraCaption": false,
+      "title": "1c. Mate the second beam with the exposed pins",
+      "description": "Align both holes before pressing the beams together. Add no tie plates until both pins are seated. Installed view; insertion clearance remains unverified.",
+      "note": "Follow all panels in order.",
+      "expectedActionTitle": null
+    },
+    {
+      "time": 1793864264559,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 14
+    },
+    {
+      "time": 1793864264629,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 70,
+      "error": null
+    },
+    {
+      "time": 1793864264629,
+      "phase": "before-cdp-wait",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "id": 15
+    },
+    {
+      "time": 1793864264630,
+      "phase": "cdp-result",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "elapsed": 1,
+      "error": null
+    },
+    {
+      "time": 1793864264631,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 16
+    },
+    {
+      "time": 1793864264659,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 28,
+      "error": null
+    },
+    {
+      "time": 1793864264659,
+      "phase": "settled-reader-text",
+      "name": "inspect1",
+      "loaded": true,
+      "proseVisible": [
+        true,
+        true,
+        true
+      ],
+      "extraCaption": false,
+      "title": "1a. Start with one long chassis beam",
+      "description": "Keep the second long beam separate until both pins are fitted. Installed view; insertion clearance remains unverified.",
+      "note": "Follow all panels in order.",
+      "expectedActionTitle": "1a. Start with one long chassis beam"
+    },
+    {
+      "time": 1793864264659,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 17
+    },
+    {
+      "time": 1793864264721,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 61,
+      "error": null
+    },
+    {
+      "time": 1793864264721,
+      "phase": "before-cdp-wait",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "id": 18
+    },
+    {
+      "time": 1793864264722,
+      "phase": "cdp-result",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "elapsed": 0,
+      "error": null
+    },
+    {
+      "time": 1793864264722,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 19
+    },
+    {
+      "time": 1793864264742,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 20,
+      "error": null
+    },
+    {
+      "time": 1793864264743,
+      "phase": "settled-reader-text",
+      "name": "inspect2",
+      "loaded": true,
+      "proseVisible": [
+        true,
+        true,
+        true
+      ],
+      "extraCaption": false,
+      "title": "1b. Fit the two friction pins into the first beam",
+      "description": "Use the two holes shown by the unchanged final model, one near each end. Leave the other halves exposed toward the second beam. Installed view; insertion clearance remains unverified.",
+      "note": "Follow all panels in order.",
+      "expectedActionTitle": "1b. Fit the two friction pins into the first beam"
+    },
+    {
+      "time": 1793864264743,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 20
+    },
+    {
+      "time": 1793864264814,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 71,
+      "error": null
+    },
+    {
+      "time": 1793864264814,
+      "phase": "before-cdp-wait",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "id": 21
+    },
+    {
+      "time": 1793864264815,
+      "phase": "cdp-result",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "elapsed": 1,
+      "error": null
+    },
+    {
+      "time": 1793864264815,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 22
+    },
+    {
+      "time": 1793864264843,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 28,
+      "error": null
+    },
+    {
+      "time": 1793864264843,
+      "phase": "settled-reader-text",
+      "name": "inspect3",
+      "loaded": true,
+      "proseVisible": [
+        true,
+        true,
+        true
+      ],
+      "extraCaption": false,
+      "title": "1c. Mate the second beam with the exposed pins",
+      "description": "Align both holes before pressing the beams together. Add no tie plates until both pins are seated. Installed view; insertion clearance remains unverified.",
+      "note": "Follow all panels in order.",
+      "expectedActionTitle": "1c. Mate the second beam with the exposed pins"
+    },
+    {
+      "time": 1793864264843,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 23
+    },
+    {
+      "time": 1793864264912,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 69,
+      "error": null
+    },
+    {
+      "time": 1793864264912,
+      "phase": "before-cdp-wait",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "id": 24
+    },
+    {
+      "time": 1793864264913,
+      "phase": "cdp-result",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "elapsed": 1,
+      "error": null
+    },
+    {
+      "time": 1793864264913,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 25
+    },
+    {
+      "time": 1793864264943,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 30,
+      "error": null
+    },
+    {
+      "time": 1793864264943,
+      "phase": "settled-reader-text",
+      "name": "next4",
+      "loaded": true,
+      "proseVisible": [
+        true,
+        true,
+        true
+      ],
+      "extraCaption": false,
+      "title": "1d. Tie both beams with the square plates",
+      "description": " Installed view; insertion clearance remains unverified.",
+      "note": "Follow all panels in order.",
+      "expectedActionTitle": "1d. Tie both beams with the square plates"
+    },
+    {
+      "time": 1793864264943,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 26
+    },
+    {
+      "time": 1793864265002,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 59,
+      "error": null
+    },
+    {
+      "time": 1793864265002,
+      "phase": "before-cdp-wait",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "id": 27
+    },
+    {
+      "time": 1793864265006,
+      "phase": "cdp-result",
+      "method": "Emulation.setDeviceMetricsOverride",
+      "elapsed": 3,
+      "error": null
+    },
+    {
+      "time": 1793864265006,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 28
+    },
+    {
+      "time": 1793864265026,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 20,
+      "error": null
+    },
+    {
+      "time": 1793864265026,
+      "phase": "settled-reader-text",
+      "name": "diagram-narrow",
+      "loaded": true,
+      "proseVisible": [
+        false,
+        false,
+        false
+      ],
+      "extraCaption": false,
+      "title": "1c. Mate the second beam with the exposed pins",
+      "description": "Align both holes before pressing the beams together. Add no tie plates until both pins are seated. Installed view; insertion clearance remains unverified.",
+      "note": "Follow all panels in order.",
+      "expectedActionTitle": null
+    },
+    {
+      "time": 1793864265026,
+      "phase": "before-cdp-wait",
+      "method": "Page.captureScreenshot",
+      "id": 29
+    },
+    {
+      "time": 1793864265077,
+      "phase": "cdp-result",
+      "method": "Page.captureScreenshot",
+      "elapsed": 51,
+      "error": null
+    },
+    {
+      "time": 1793864265078,
+      "phase": "before-cdp-wait",
+      "method": "Runtime.evaluate",
+      "id": 30
+    },
+    {
+      "time": 1793864265110,
+      "phase": "cdp-result",
+      "method": "Runtime.evaluate",
+      "elapsed": 32,
+      "error": null
+    },
+    {
+      "time": 1793864265110,
+      "phase": "settled-overview-restoration",
+      "diagramHidden": true,
+      "titleVisible": true,
+      "noteVisible": true
+    },
+    {
+      "time": 1793864265112,
+      "phase": "before-owned-chrome-close",
+      "chromePid": 84330,
+      "exitCode": null,
+      "stderrTail": "\nDevTools listening on ws://127.0.0.1:19817/devtools/browser/06253657-7fcc-422b-874a-8c52156dfffe\nTrying to load the allocator multiple times. This is *not* supported.\n[84404:1568115520:1104/233743.490624:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115596:1104/233743.490908:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115520:1104/233743.491368:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115596:1104/233743.491409:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115520:1104/233743.492191:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115596:1104/233743.492230:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115520:1104/233743.492375:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115596:1104/233743.492408:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115520:1104/233743.492496:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115596:1104/233743.492532:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115520:1104/233743.497421:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n[84404:1568115596:1104/233743.497467:ERROR:ui/display/mac/cv_display_link_mac.mm:188] CVDisplayLinkCreateWithCGDisplay failed. CVReturn: -6670\n"
+    },
+    {
+      "time": 1793864265139,
+      "phase": "chrome-exit",
+      "code": 0,
+      "signal": null
+    },
+    {
+      "time": 1793864265139,
+      "phase": "finally-complete",
+      "chromeExitCode": 0,
+      "chromeSignal": null
+    }
+  ],
+  "chromeExit": {
+    "code": 0,
+    "signal": null
+  },
+  "chromePid": 84330
+}

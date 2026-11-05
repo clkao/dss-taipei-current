@@ -1,0 +1,15 @@
+{
+  "original_supervisor_exit": 1,
+  "node_waited_exit": 0,
+  "chrome_exit": 0,
+  "fresh_owned_live": [],
+  "fresh_unknown": [],
+  "fresh_profile_users": {},
+  "one_port_bind_free": true,
+  "bind_error": null,
+  "eperm": false,
+  "removed_only_owned_profile_temp": true,
+  "profile_absent": true,
+  "temp_absent": true,
+  "later_resolution_not_retroactive_pass": true
+}
