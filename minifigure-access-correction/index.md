@@ -22,6 +22,17 @@ gates:
                 id: briefing:a3cc03jvy7vrj9e0bvn3gf0w:instruction-review:attempt-1:revision-1
                 digest: sha256:0dd475abf63b14ca5e27ff87641c9de72d12bc98ff4440a1d135f2c8785759a6
                 room-ref: '@review/instruction-review/briefing-1'
+              resolution:
+                type: Resolution
+                id: resolution:spacedock:a3cc03jvy7vrj9e0bvn3gf0w:instruction-review:1
+                briefing: briefing:a3cc03jvy7vrj9e0bvn3gf0w:instruction-review:attempt-1:revision-1
+                by: person:captain
+                at: "2026-11-05T10:43:17.697484Z"
+                decision: approve
+                reason: 'Captain: Approve a3 and deploy. Approves the exact reviewed 69-page digital package presented at this gate and authorizes deployment. Retained physical insertion and independent native-UI limitations remain disclosed; no physical certification or native adoption is inferred.'
+              application:
+                target-stage: delivered
+                state: pending
 ---
 
 ## Brief
