@@ -1,0 +1,34 @@
+{
+  "source_reviewed": "92cc98d",
+  "checks": "PASS",
+  "successor_hashes": {
+    "instructions.pdf": "59b66fb0bfb8766306b89475e5516cc0c1a5286605355c760ca578a723530f64",
+    "viewer.html": "4d6b790223e3a666ba1c3d6dc7b3fe88dc5dc5d3803b59bdf03e1bf7c7b84865",
+    "release.zip": "635049be41e87e1446500e433d58bece6a77822ddd816677abca4d079a0ecf04",
+    "package-manifest.json": "9bd0220666d3d1af4d3d38c495d5a6069d9c6dd8e53ca9998463d8e6250b1310"
+  },
+  "archive_members": 109,
+  "loose_manifest_members": 108,
+  "unchanged_content_streams_and_rasters": 72,
+  "inspected_changed_pages": [
+    10,
+    12,
+    14,
+    16,
+    24,
+    25,
+    69,
+    71
+  ],
+  "source_and_plan_byte_equal": true,
+  "page_map_stock_and_operation_fields_equal": true,
+  "unique_introductions": 348,
+  "operations": 215,
+  "feature_transform_and_catalog_hash_checks": true,
+  "rejected_artifacts_preserved": true,
+  "rendering_rerun": false,
+  "new_browser_exercise": false,
+  "physical_certification": false,
+  "captain_acceptance": false,
+  "initial_check_correction": "An overbroad page-map byte-equality assertion failed: eight rows correctly add correction-round/focused-page metadata. All pre-existing fields independently compare equal."
+}
