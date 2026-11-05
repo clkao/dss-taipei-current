@@ -19,6 +19,17 @@ review-round:
         id: briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:round-1
         digest: sha256:eac3c16126c37373f89e5ba91fb83252f5f089c07bf2fdb64a9debb417051e61
         room-ref: '@review/instruction-review/round-1'
+gates:
+    version: 1
+    records:
+        - id: gate:czrrfahe7jyh39409x9jnf6r:instruction-review
+          stage: instruction-review
+          attempts:
+            - id: gate-attempt:czrrfahe7jyh39409x9jnf6r-instruction-review-1
+              briefing:
+                id: briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-1:revision-1
+                digest: sha256:fd9bea1525ca78db0fbbe5c6d8b7955336f3829961c71f10e70871d4d589c68a
+                room-ref: '@review/instruction-review/briefing-1'
 ---
 
 ## Brief

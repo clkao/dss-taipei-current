@@ -1,0 +1,24 @@
+{
+  "type": "Briefing",
+  "version": "1",
+  "id": "briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-1:revision-1",
+  "question": "Accept this exact 80-page digital instruction edition with the disclosed physical and live-device limits?",
+  "artifacts": [
+    {
+      "id": "artifact:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-1:revision-1:item-1",
+      "uri": "git-root://state/ab570627dece0912b2af50989357d3748cb3eb40/builder-clear-logical-steps/index.md",
+      "rev": "sha256:e67ebbe09ae73cbb831a44e033dce9c57bf311769e0cc412f58858fb49a3f0e9",
+      "mediaType": "text/markdown",
+      "summary": "Independent cycle-2 review passed R1-R5: visible attachment targets, ring apertures, spacer orientation, foot placement and enlarged navigation evidence. Exact PDF59b66fb0 and ZIP635049be; unchanged model, stock and 72 retained pages. Local digital acceptance only; publication remains separate."
+    }
+  ],
+  "context": [
+    {
+      "type": "Reference",
+      "id": "reference:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-1:revision-1:item-2",
+      "uri": "git-root://main/6c123228b4d19d7cc48ae573037f359492d052e0/docs/instructions/README.md",
+      "mediaType": "text/markdown",
+      "rev": "sha256:fd46b4c05a4f76a8bb9ea541d784ce18e304d4ae3a7ed008d6a3f7d6b5393cd5"
+    }
+  ]
+}
