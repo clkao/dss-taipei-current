@@ -1,7 +1,7 @@
 """One bounded local PDF experiment; adapted from retained hybrid/run-pdf.py."""
 from pathlib import Path
 import os,time,json,subprocess,hashlib,shutil,stat
-R=Path.cwd();P=R/'corrections/access-order-20261104/manual/simplify/i1';D=R/'builds/simplification-i1';T=R/'tmp/simplification-i1';PY='/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python'
+R=Path.cwd();P=R/'corrections/access-order-20261104/manual/simplify/i1';D=R/'builds/simplification-i1-retry1';T=R/'tmp/simplification-i1-retry1';PY='/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python'
 start=time.monotonic();records=[];minimum=shutil.disk_usage(R).free;peak=0;peakrss=0
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 assert not D.exists() and not T.exists() and minimum>=576*1024**2

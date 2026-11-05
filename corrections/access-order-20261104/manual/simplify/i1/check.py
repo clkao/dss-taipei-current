@@ -1,7 +1,7 @@
 from pathlib import Path
 import json,hashlib
 from pypdf import PdfReader
-ROOT=Path(__file__).resolve().parents[5];D=ROOT/'builds/simplification-i1';BASE=ROOT/'builds/access-corrected-hybrid-prefix'
+ROOT=Path(__file__).resolve().parents[5];D=ROOT/'builds/simplification-i1-retry1';BASE=ROOT/'builds/access-corrected-hybrid-prefix'
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 model=json.loads((D/'model.json').read_text());mapping=json.loads((D/'pdf-page-map.json').read_text());pdf=PdfReader(D/'instructions.pdf')
 assert sha(D/'model.json')==sha(BASE/'model.json')=='3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229'
