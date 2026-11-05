@@ -17,10 +17,21 @@ for old,new in zip(expected,actual):assert new['page']==old['page']-(2 if old['p
 for r in actual:
  if 'image' in r:assert sha(D/r['image'])==sha(OLD/r['image'])
 texts=[p.extract_text() for p in pdf.pages]
-assert 'BOTH exposed pins' in texts[3]
+assert 'Chassis core' in texts[3] and 'BOTH exposed pins' not in texts[3]
+prior_pdf_path=D/'before-diagram-text-trim/instructions.pdf'
+if prior_pdf_path.exists():
+ assert sha(prior_pdf_path)=='d8cb787b8f6572854370e650b4ceb2f59c35d78e3ae5bec7ebd43d16bbabc137'
+ oldpdf=PdfReader(prior_pdf_path);assert len(oldpdf.pages)==len(pdf.pages)
+ for i,(a,b) in enumerate(zip(oldpdf.pages,pdf.pages)):
+  assert list(a.mediabox)==list(b.mediabox)
+  assert {x.name:hashlib.sha256(x.data).hexdigest() for x in a.images}=={x.name:hashlib.sha256(x.data).hexdigest() for x in b.images}
+  if i!=3:assert a.get_contents().get_data()==b.get_contents().get_data(), 'Unchanged page stream '+str(i+1)
+ oldmap=json.loads((D/'before-diagram-text-trim/pdf-page-map.json').read_text())
+ assert oldmap['pdf_sha256']==sha(prior_pdf_path)
+ assert {k:v for k,v in oldmap.items() if k!='pdf_sha256'}=={k:v for k,v in page.items() if k!='pdf_sha256'}
 assert sum('2x / parts for one copy' in t for t in texts)==4
 assert sum('Use the second base from step 17' in t for t in texts)==1
 sheets=[r['page'] for r in records if r['kind'] in ['sticker-sheet','speech-bubble-print-sheet']];assert sheets==[128,129]
 assert page['pdf_sha256']==sha(D/'instructions.pdf')
-result=dict(actual_pages=136,diagram_page=4,source_operations=diagram[0]['source_operations'],actual_print_sheets=sheets,remaining_page_metadata_equal=True,model_plan_images_unchanged=True,pdf_sha256=sha(D/'instructions.pdf'),map_sha256=sha(D/'pdf-page-map.json'),visual_review='pending',physical_tested=False)
+result=dict(actual_pages=136,diagram_page=4,source_operations=diagram[0]['source_operations'],actual_print_sheets=sheets,remaining_page_metadata_equal=True,model_plan_images_unchanged=True,pdf_sha256=sha(D/'instructions.pdf'),map_sha256=sha(D/'pdf-page-map.json'),unchanged_135_page_streams_and_all_page_images_equal=prior_pdf_path.exists(),visual_review='pending',physical_tested=False)
 (D/'hybrid-pdf-check.json').write_text(json.dumps(result,indent=2));print(json.dumps(result))

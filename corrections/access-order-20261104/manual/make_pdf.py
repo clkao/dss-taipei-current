@@ -42,10 +42,9 @@ block='''    if a.get('corrected'):
         for f in display_frames:
             if os.environ.get('DSS_ORDERED_PREFIX')=='1' and n==1 and f['number']<=3:
                 if f['number']!=1:continue
-                start(s['section'],'Fit both pins before the second beam',n)
+                start(s['section'],'Chassis core',n)
                 part_box([172,216,231,178],x=36,y=HH-149,width=165)
                 picture(D/'ordered-prefix.png',206,135,W-240,HH-260)
-                para('3. Seat the second beam on BOTH exposed pins.',210,123,W-247,11)
                 finish('ordered-construction-diagram',step=n,panels=[1,2,3],source_operations=['legacy-001a','legacy-012','legacy-001b'],image='ordered-prefix.png')
                 continue
             start(s['section'],f['title'],n)

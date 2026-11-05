@@ -3,7 +3,9 @@ import os,time,json,subprocess,hashlib,shutil,stat,sys
 R=Path.cwd();D=R/'builds/access-corrected-hybrid-prefix';PYTHON='/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python';start=time.monotonic();records=[];minimum=shutil.disk_usage(R).free;peak=0
 sha=lambda p:hashlib.sha256(p.read_bytes()).hexdigest()
 raster='--raster' in sys.argv
+text_trim='--text-trim' in sys.argv
 if raster:assert D.exists() and not (D/'a4-review').exists()
+elif text_trim:assert D.exists()
 else:assert not D.exists()
 TEMP=R/'tmp/hybrid-prefix-pdf-temp'
 assert not TEMP.exists()
@@ -49,7 +51,7 @@ if raster:
  for n in [3,4,5,128,129]:run(['/opt/homebrew/bin/pdftoppm','-r','110','-png','-f',str(n),'-l',str(n),str(D/'instructions.pdf'),str(D/'a4-review/page')],max(4,30-(time.monotonic()-start)),20,'raster-'+str(n))
  assert len(list((D/'a4-review').glob('*.png')))==5
 else:
- run([PYTHON,str(P/'prepare.py')],10,20,'prepare')
+ run([PYTHON,str(P/('stage-pdf-text.py' if text_trim else 'prepare.py'))],10,20,'preserve-text-inputs' if text_trim else 'prepare')
  for name in ['hood-sticker-cut.png','hood-upper-sticker-guide.png','jacket-print.png']:
   assert not (D/name).exists() and not (D/name).is_symlink(), 'Generated guide must be absent before PDF: '+name
  run([PYTHON,str(P.parent/'make_pdf.py')],max(5,80-(time.monotonic()-start)),100,'pdf-create')
@@ -58,5 +60,5 @@ record=dict(stages=records,elapsed_seconds=time.monotonic()-start,min_free_bytes
 if raster:record['rasters']={p.name:sha(p) for p in sorted((D/'a4-review').glob('*.png'))}
 (D/('hybrid-raster-run.json' if raster else 'hybrid-generation-run.json')).write_text(json.dumps(record,indent=2))
 # Retain owned logs; no deletion is used as process-closure proof.
-TEMP.rename(D/('raster-logs' if raster else 'generation-logs'))
+TEMP.rename(D/('raster-logs' if raster else 'text-trim-generation-logs' if text_trim else 'generation-logs'))
 print(json.dumps(record))
