@@ -31,3 +31,9 @@ Reviewer uses same Epicurus: final HTML/assets/links at actual viewport size,69P
 ## Gate readiness
 
 Still missing: actual package run/hash map; actual changed diagram UI review; final exact-package independent recommendation; captain gate presentation and decision. Physical/insertionAC2 and nativeUIAC4 remain open, native adoption false. Digital release acceptance must be explicit and scoped, not rewrite these criteria. Existing publication and all three experiments remain untouched. No automatic approval, gate promotion or publication.
+
+## First-failure successor — static, UNRUN
+
+Original sourceb1f2eed and partial builds/simplification-package retained; exact receipt FIRST-RUN-STOP.md. Direct Python3.14 stdlib source confirms `ZipFile.open(ZipInfo)` retains the same object; `_open_to_write` resets CRC/compress_size/flags and assigns destination header_offset before returning. The reader then uses that mutated header_offset in `_SharedFile`; insufficient bytes cause the exact observed Truncated file header. Prior working hybrid code evaluates src.read before writestr; this new streaming loop reversed that lifetime. No source archive corruption demonstrated.
+
+Authorized minimal fix imports copy and passes `copy.copy(info)` to destination open. Original source ZipInfo remains intact for the later source read; desired member metadata starts as the same shallow-copy scalar/bytes values. No changes to content, member order, hashes, checks or publication. Fresh output builds/simplification-package-retry1; same command/bounds and input bundle. Revised script a29220ce76eb30b71787c6dec5c0d457325396b7dd2bd8d3ec0b38f2e9fb361a; syntax parsed only. Existing complete member equality assertions are the falsifiable runtime proof on the next dispositioned run; they have not passed yet. No test/retry/browser performed in this static repair.

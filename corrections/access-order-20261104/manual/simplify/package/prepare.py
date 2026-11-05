@@ -1,8 +1,8 @@
 """Static package integration. No PDF/render/browser; fail on existing output."""
 from pathlib import Path
-import hashlib,json,re,shutil,time,zipfile
+import hashlib,json,re,shutil,time,zipfile,copy
 P=Path(__file__).resolve().parent;R=P.parents[4]
-OLD=R/'builds/access-corrected-hybrid-prefix';PDF=R/'builds/simplification-i3-polish';B=R/'builds/simplification-package'
+OLD=R/'builds/access-corrected-hybrid-prefix';PDF=R/'builds/simplification-i3-polish';B=R/'builds/simplification-package-retry1'
 pins=json.loads((P/'inputs.json').read_text());start=time.monotonic()
 def sha(p):
  h=hashlib.sha256()
@@ -55,7 +55,7 @@ js('release-provenance.json',prov);files['release-provenance.json']=sha(B/'relea
 with zipfile.ZipFile(OLD/'release.zip') as src,zipfile.ZipFile(B/'release.zip','x') as dst:
  for info in src.infolist():
   guard()
-  with dst.open(info,'w') as out:
+  with dst.open(copy.copy(info),'w') as out:
    if info.filename in files:
     with (B/info.filename).open('rb') as inp:shutil.copyfileobj(inp,out,1024*1024)
    else:
