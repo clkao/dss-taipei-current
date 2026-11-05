@@ -769,3 +769,18 @@ Read polish-check.json, run.json and check_polish.py. The successful author-run 
 The local experiment progressed from the136-page baseline through actual71-page iteration1,71-page iteration2 and69-page iteration3. It now combines ordinary operations while retaining ordered branches, uses truthful receiving regions, restores compact assembly/placement relationships and explicitly builds the later shield copy; prior all-page observations remain valid for unchanged content. The three requested actual iterations and this bounded polish closure support a PASSED digital PDF composition recommendation for the exact final hash.
 
 The viewer/package has not been newly integrated or reviewed here. Native adoption, complete-edition package parity, physical/insertion AC2, native UI AC4, captain acceptance and publication authority remain separate and unclaimed; previous inherited label/Inspect follow-ups and historical resource stops remain preserved. No frontmatter or workflow terminal state changed.
+
+## Stage Report: authoring (cycle 17 — static final-package integration)
+
+- DONE: Prepare source-bound integration of the reviewed69-page composition into the existing viewer and exact package without changing publication.
+  Commitb1f2eed adds manual/simplify/package/prepare.py,inputs.json,PLAN.md. Script16648d85154bdbb4db71b0d1913cb527a327cd0c35bc4f8bc7dd1f0ecedf339e binds finalPDF5c347b0e/mapde2bc995 and numbers-only81510ce8. Source syntax parsed only; package generation UNRUN. Preferred69PDF remains byte-identical; actual print pages61/62. Name-only credit/rights/Technic preserved.
+- DONE: Define minimal affected verification and final package review with owned-output isolation and fresh resource guards.
+  Fresh builds/simplification-package; all changed HTML/README/checks/archives/provenance/manifest new regular files, immutable inputs only linked. Streamed archive member verification and artwork equality exceptPRINTING; exact script/payload equality. Future static≤60s/<64MiB with576MiB fresh start/512MiB active floor; no browser/PDF/render in packaging. Existing hybrid six-shot/ten-trace affected check follows exact package pins, then same Epicurus package review. No new standing harness or full69 render repeat.
+- DONE: Record exact remaining acceptance limits and concrete gate-readiness work without fabricating completion.
+  Existing detailed viewer repeats only8-piece base2x; PDF repeats8+4+3 each2x with C17/C18 source-order branches. No B/Cdedup viewer claim. Gate still needs actual package/hash map, actual changed-diagram UI inspection, independent final package recommendation and captain decision. AC2physical/insertion and AC4nativeUI remain open; native adoption false.
+
+### Summary
+
+Same Epicurus eb1d9f6 passes only final69-page PDF composition. The static implementation changes the primary bitmap and PDF/print links, keeping embedded scripts/model/handlers exact. Source348pieces/215operations/67mainidentities unchanged. Package output does not yet exist; no finalpackage acceptance or publication claim.
+
+Dispatch began under422MiB diskhold. A later read-only df showed1,265,436KiB available, but no generated outputs ran and a future command must take its own fresh guard. No peer cleanup, shared write, upstream design request or resource approval loop. Existing publication24425a3 and all three experiments remain preserved. Exact input bundle e3cdaabe1d0ef4175abee9d15bb293c1b7dd6cf551ba43b4ab2d270aee515701; proposed bounded command and review handoff are in PLAN.md. This completes static preparation only; authoring of the final usable package remains incomplete.
