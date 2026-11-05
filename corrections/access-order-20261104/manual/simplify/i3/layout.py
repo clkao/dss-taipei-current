@@ -70,7 +70,7 @@ def region_picture(file,region,x,y,w,h):
     scale=min(w/(sw*cw),h/(sh*ch));iw=sw*scale;ih=sh*scale
     ox=x+(w-sw*cw*scale)/2-left*iw;oy=y+(h-sh*ch*scale)/2-(1-top-ch)*ih
     c.saveState();path=c.beginPath();path.rect(x,y,w,h);c.clipPath(path,stroke=0,fill=0)
-    picture(file,ox,oy,iw,ih);c.restoreState()
+    c.drawImage(ImageReader(str(file)),ox,oy,iw,ih,preserveAspectRatio=True,anchor='c',mask='auto');c.restoreState()
 
 def small_unit(s,top,height):
     n=s['number'];a=s['manual'];ff=a['frames']
@@ -96,6 +96,18 @@ def small_unit(s,top,height):
 
 def sticker_detail(s,x,y,w,h):
     n=s['number'];a=s['manual'];label(str(n),x,y,12,CORAL,True)
+    if n==62:
+        # Exact retained artwork at useful scale; placement stays within source-pixel limits.
+        import zipfile
+        from io import BytesIO
+        with zipfile.ZipFile(D.parents[1]/'sources/artwork/sticker-artwork.zip') as archive:
+            for j,name in enumerate(['banner-upper-printed.png','banner-lower-printed.png']):
+                c.drawImage(ImageReader(BytesIO(archive.read(name))),x+55,y-160-j*125,100,100,mask='auto')
+                label(str(j+1),x+35,y-85-j*125,10,CORAL,True)
+        region_picture(D/a['image'],REGIONS[n],x+280,y-280,180,150)
+        picture(D/a['image'],x+500,y-310,220,230)
+        label('洋 above / 流 below / both faces',x+280,y-300,10,INK)
+        return
     region_picture(D/a['image'],REGIONS[n],x,y-h+20,w*.76,h-45)
     picture(D/a['image'],x+w*.78,y-h*.65,w*.22,h*.5)
     if n==61:label('Two films / keep the height change clear',x,y-h+4,9,INK)
