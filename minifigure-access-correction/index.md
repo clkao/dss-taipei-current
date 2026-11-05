@@ -740,3 +740,32 @@ DSS authorized static polish source37ab201: only45/56/57. Region crops use exist
 Durable i3/REVIEW-HANDOFF.md at source5a5d9b6 includes the before/after table, exact review paths and limits. Grantf7b16c54 supervisor/PDF/check/3rasters all0; explicit waits and emptycensuses;8.156776s,minfree1994129408B,peakincrement8340045B,observed directRSS692944896B (not combined). RELEASE sent immediately. Final45 caption is unobstructed;45/56 full-resolution source crops are sharper;57 exact retained artwork and moderate placement crop replace excessive enlargement. Author inspected all3 and found no new unresolved issue. Same reviewer/root also see actual final3; no acceptance claim is fabricated.
 
 Iteration1:71pages, combined ordinary steps and local recipes, exposed tray/branch/camera failures. Iteration2:71pages, readable measured trays, explicit2x source-order branches and matched cameras, exposed origin-marker precision and oversized finished-unit pages. Iteration3:69pages, honest bounded regions, compact actual assembly-to-placement relationships, useful sticker targets and truthful copy handoffs. Native metadata was not required for these local presentation experiments. Existing website remains unchanged.
+
+## Stage Report: instruction-review (third simplification affected-page closure)
+
+- DONE: Inspect every actual third-candidate A4 page and verify simplification preserves readable construction, copy ownership and source correspondence.
+  Personally inspected corrected A4 pages45/56/57; reuse the other66 pages personally inspected in a2f31e7, supported by the exact equivalence proof below. All69 pages are covered; no fresh all-page render/review was claimed.
+- DONE: Consolidate remaining material and polish findings against prior feedback, preserving exact evidence and limits.
+  Both required Polish/FIX findings from a2f31e7 are closed on actual output; related45/56 crop softness is improved. No additional material or polish defect demonstrated in the affected scope.
+- DONE: Return a scoped third-PDF recommendation without claiming unchanged viewer or physical acceptance.
+  PASSED for the exact69-page PDF composition only. Recommend this local rendering experiment to the captain for preview; no package/publication or all-AC approval.
+- SKIPPED: New renderer, test suite, browser, physical exercise and package integration.
+  Existing evidence and source were read only; reviewer started no runtime resources. Physical/insertion AC2 and native UI AC4 remain unfulfilled.
+
+### Evidence and disposition
+
+Independently hashed final builds/simplification-i3-polish/instructions.pdf:5c347b0e5d639a5ed5f45be6e867a14772fa01ed92ec4c80b472f956bbcf7bbd; map:de2bc9955d5472d8113203fd195a20cdc7bd463a52ffc13c154d173d851cf61a. Independently hashed viewed rasters match run.json:45=c177a6af564e55dbf074c65ca49eed0ec48a1ed1592bcc2d7986dd053244dd58;56=e0eb3a0ff8b1d80d79f3bfcb3fd7088865930752bf5f157d1c3fb5b2c1b5e3b1;57=0aee29a0d6825de32ac56b6335180af109e1c62c9c336184de5de7dc1adcd479.
+
+Read polish-check.json, run.json and check_polish.py. The successful author-run check binds oldPDF42948683 to this final PDF, asserts all69 MediaBoxes equal, and for each of the66 unaffected pages compares decoded content bytes, recursively resolved semantic resource dictionaries/decoded streams and image data hashes. It also asserts page maps identical except their independently bound PDF hashes, and both source models equal3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229. Source proof would fail on changed unaffected content/resources/images, page dimensions, map entries or model bytes; it is stronger than a page-count comparison. This reviewer inspected that proof and its successful execution record, not reran it. run.json records PDF/check/three raster children exit0, explicit waits and no survivors; no new resource lease needed.
+
+**p45 caption — CLOSED.** “After / outer face” is fully visible above the installed wheel. Inner-face recipe, before axle, after wheel,4x count, riser assembly states and four-stack placement remain readable. Crops are visibly sharper than42948683.
+
+**p57 banner — CLOSED.** Crisp upper/lower retained artwork appears separately beside a moderate placement crop and whole-truck context. The actual page shows 洋 above 流 and the both-faces instruction clearly. Source layout reads banner-upper-printed.png and banner-lower-printed.png directly from retained sources/artwork/sticker-artwork.zip; it does not invent replacement artwork or geometry. Placement image retains some source softness but is useful at this scale and no longer dominates the page as enlarged pixel blocks.
+
+**p56 related softness — IMPROVED, no remaining required fix.** Actual clip/ring recipe, bare-rail/installed-ring comparison and hood film height boundary are recognizable and clearer.2x ownership and two-film guidance remain. This is visual instruction evidence, not physical attachment or sticker-fit certification.
+
+### Summary
+
+The local experiment progressed from the136-page baseline through actual71-page iteration1,71-page iteration2 and69-page iteration3. It now combines ordinary operations while retaining ordered branches, uses truthful receiving regions, restores compact assembly/placement relationships and explicitly builds the later shield copy; prior all-page observations remain valid for unchanged content. The three requested actual iterations and this bounded polish closure support a PASSED digital PDF composition recommendation for the exact final hash.
+
+The viewer/package has not been newly integrated or reviewed here. Native adoption, complete-edition package parity, physical/insertion AC2, native UI AC4, captain acceptance and publication authority remain separate and unclaimed; previous inherited label/Inspect follow-ups and historical resource stops remain preserved. No frontmatter or workflow terminal state changed.
