@@ -395,3 +395,22 @@ Prior pending launcher handle57881 completed exit0: e2a53bc committed/pushed; no
 ### Summary
 
 Corrected upstream asset is selected and a pinned, affected-only hybrid generation/review proposal is committed as afb6ea7. No runtime, package mutation, publication or review advance occurred.
+
+## Stage Report: authoring (cycle 7 — static staging isolation FIX)
+
+- DONE, retained static binding — Bind the exact four-piece diagram intent and source operations, with paired pin targets and unchanged model/order/stock. Asset69021 and binding697490d9 unchanged; no source/stock/UI change.
+- DONE for static preparation — Prepare the smallest real hybrid PDF/viewer integration and honest producer/adoption record, preserving published R2 fixes and name-only credit. Only three generated guide names are now excluded from staging links, with absent/non-symlink assertions after selection and immediately before PDF invocation. No candidate generated; adopted=false and prior proof limits unchanged.
+- DONE — Return exact static commits/pins and a bounded affected-generation/review plan without heavy runtime or publication. Successor source5562901; prepare4bbcdda11e28c0765b09af6501195d28503b6ac789f9731c6979c7e6e2ef1309; driver71ca526965686e4cb9fe70a46163acef89c323eb550ad40f079b9d52c5c698d4; proposal6686d6a2e617f807a7cf035c5a1d5eee5bbe29ed892cb053c2d2b8c87ac7fb7c; static-pinse7151098461919ae867c5e0e62bd5e9501c1dd7262e542d7d0f6bb9ee623b385. All other frozen helpers and resource bounds remain unchanged.
+
+### Four-field finding and evidence level
+
+1. Trigger: afb6ea7 staging links R2 root files; originals prepare2df6028b/driver1e1a09e4 preserved in Git.
+2. Observation: missing excludes hood-sticker-cut.png, hood-upper-sticker-guide.png, jacket-print.png; frozen template150df952 saves those names at195/205/238. Staging precedes generator invocation.
+3. Harm/owner: possible overwrite through candidate symlinks into retained R2. DSS staging isolation; Deferred risk. No runtime or damage observed.
+4. Authorized FIX: exactly three exclusions plus pre-generation absence/nonlink assertions. Pure AST path-selection check confirms all three excluded; record hybrid/staging-isolation-check.json SHA67373e646696f487b729341d4f17c78fc01ad2ba156805dc9adcae5d23ab3e85. No staging/PDF/Node/browser/Poppler/package/shared-write or retained-image mutation occurred. This is static proof only.
+
+Runtime proposal remains pending explicit lease; authoring does not advance to review. Future package PRINTING.txt/link handling remains outside this fix and needs its own later check. No geometry/order/stock/renderer/UI/port/resource-policy changes.
+
+### Summary
+
+Narrow pre-run staging isolation fix committed. Original proposal and pins retained; no artifacts regenerated or acceptance inferred.
