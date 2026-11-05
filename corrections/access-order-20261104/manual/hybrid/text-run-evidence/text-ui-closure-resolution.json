@@ -1,0 +1,36 @@
+{
+  "authorization": "93f74524 port-only closure",
+  "original_supervisor_exit": 1,
+  "observed_unix": 1793839562.987692,
+  "listen": {
+    "exit": 1,
+    "stdout": "",
+    "stderr": ""
+  },
+  "sockets": {
+    "exit": 1,
+    "stdout": "",
+    "stderr": ""
+  },
+  "netstat": {
+    "exit": 0,
+    "stdout": "tcp4       0      0  127.0.0.1.19402        127.0.0.1.58086        TIME_WAIT  \ntcp4       0      0  127.0.0.1.19402        127.0.0.1.58083        TIME_WAIT  ",
+    "stderr": ""
+  },
+  "initial_census": {
+    "live_owned": {},
+    "profile_users": {},
+    "unknown_identities": []
+  },
+  "eperm_observed": false,
+  "fresh_census": {
+    "live_owned": {},
+    "profile_users": {},
+    "unknown_identities": []
+  },
+  "port_bind_free": false,
+  "bind_error": "[Errno 48] Address already in use",
+  "closure_resolved": false,
+  "profile_absent": false,
+  "temp_absent": false
+}

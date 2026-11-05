@@ -1,0 +1,52 @@
+{
+  "authorization": "db5dd closure-only",
+  "original_supervisor_exit": 1,
+  "observed_unix": 1793838913.9150012,
+  "listen": {
+    "argv": [
+      "/usr/sbin/lsof",
+      "-nP",
+      "-iTCP:19402",
+      "-sTCP:LISTEN"
+    ],
+    "exit": 1,
+    "stdout": "",
+    "stderr": ""
+  },
+  "sockets": {
+    "argv": [
+      "/usr/sbin/lsof",
+      "-nP",
+      "-iTCP:19402"
+    ],
+    "exit": 1,
+    "stdout": "",
+    "stderr": ""
+  },
+  "netstat": {
+    "argv": [
+      "/usr/sbin/netstat",
+      "-an",
+      "-p",
+      "tcp"
+    ],
+    "exit": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  "initial_census": {
+    "live_owned": {},
+    "profile_users": {},
+    "unknown_identities": []
+  },
+  "eperm_observed": false,
+  "fresh_census": {
+    "live_owned": {},
+    "profile_users": {},
+    "unknown_identities": []
+  },
+  "port_bind_free": true,
+  "closure_resolved": true,
+  "profile_absent": true,
+  "temp_absent": true
+}

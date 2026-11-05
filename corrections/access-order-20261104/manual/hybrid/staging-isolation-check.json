@@ -1,0 +1,16 @@
+{
+  "kind": "pure static path-selection check; no staging or generation",
+  "baseline_commit": "afb6ea7",
+  "old_prepare_sha256": "2df6028b6caf7ea6df256e03a9d218dde8a5523845ab51701a371c88f50b03af",
+  "old_run_pdf_sha256": "1e1a09e46cbe19e5f72f2b4e7b4ef6a61cfc6a4f37b903050b3aa03811adb1d1",
+  "template_sha256": "150df9527e35dddbb02964fb8839ed097be5741411cd1f5a94030a6405d57b99",
+  "excluded_generated_names": [
+    "hood-sticker-cut.png",
+    "hood-upper-sticker-guide.png",
+    "jacket-print.png"
+  ],
+  "all_three_excluded": true,
+  "preflight": "exists false AND is_symlink false after staging selection and immediately before PDF command",
+  "runtime": "UNRUN",
+  "retained_images_touched": false
+}

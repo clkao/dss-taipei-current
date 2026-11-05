@@ -1,0 +1,14 @@
+{
+  "corrections/access-order-20261104/manual/hybrid/planned-runtime.json": "c3c5329428b16458cea78b2b9a2ffb386a146472b2d6a87e48f8026f89b61b05",
+  "corrections/access-order-20261104/manual/hybrid/binding.json": "697490d9ffafa96692206ee201106e88a517edecc5c240ae8a9b99656f7b191e",
+  "corrections/access-order-20261104/manual/hybrid/check-pdf.py": "28c20c46e48a0c8420a13059d4567f1893ed176610fd06d3d91d0a43cbe1d502",
+  "corrections/access-order-20261104/manual/hybrid/run-pdf.py": "71ca526965686e4cb9fe70a46163acef89c323eb550ad40f079b9d52c5c698d4",
+  "corrections/access-order-20261104/manual/hybrid/viewer.js": "a4d6c82e4b8aa04c5608c87270342534baa0e53434712505f16cf8705d788e9f",
+  "corrections/access-order-20261104/manual/hybrid/PROPOSAL.md": "6686d6a2e617f807a7cf035c5a1d5eee5bbe29ed892cb053c2d2b8c87ac7fb7c",
+  "corrections/access-order-20261104/manual/hybrid/review.mjs": "588e3ba8268f08f5cdc4b8e1eb90e392586235ea2362dabd79ad82cd008e0db1",
+  "corrections/access-order-20261104/manual/hybrid/prepare.py": "4bbcdda11e28c0765b09af6501195d28503b6ac789f9731c6979c7e6e2ef1309",
+  "corrections/access-order-20261104/manual/hybrid/run-ui.py": "fc02563ce21d5259a363b4cc17868ae479f18cbe18e45ca301f897f147a554df",
+  "corrections/access-order-20261104/manual/make_pdf.py": "f47663108f95c686e63b5c1cae9f5466710265551cc2bffe06af78c98651aa3b",
+  "sources/legacy-recipes/make_full_instruction_pdf.py": "150df9527e35dddbb02964fb8839ed097be5741411cd1f5a94030a6405d57b99",
+  "corrections/access-order-20261104/manual/hybrid/staging-isolation-check.json": "67373e646696f487b729341d4f17c78fc01ad2ba156805dc9adcae5d23ab3e85"
+}

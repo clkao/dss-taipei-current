@@ -1,0 +1,142 @@
+{
+  "stages": [
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "3",
+        "-l",
+        "3",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/a4-review/page"
+      ],
+      "exit": 0,
+      "pids": [
+        71768
+      ],
+      "pid_identities": {
+        "71768": "Wed Nov  4 16:53:56 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 3 -l 3 /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/instructions.pdf /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/a4-review/page"
+      },
+      "remaining_pids": [],
+      "explicit_parent_wait": true,
+      "elapsed_seconds": 0.7962189158424735,
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "4",
+        "-l",
+        "4",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/a4-review/page"
+      ],
+      "exit": 0,
+      "pids": [
+        71786
+      ],
+      "pid_identities": {
+        "71786": "Wed Nov  4 16:53:57 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 4 -l 4 /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/instructions.pdf /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/a4-review/page"
+      },
+      "remaining_pids": [],
+      "explicit_parent_wait": true,
+      "elapsed_seconds": 0.22231616731733084,
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "5",
+        "-l",
+        "5",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/a4-review/page"
+      ],
+      "exit": 0,
+      "pids": [
+        71789
+      ],
+      "pid_identities": {
+        "71789": "Wed Nov  4 16:53:57 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 5 -l 5 /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/instructions.pdf /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/a4-review/page"
+      },
+      "remaining_pids": [],
+      "explicit_parent_wait": true,
+      "elapsed_seconds": 0.23608566541224718,
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "128",
+        "-l",
+        "128",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/a4-review/page"
+      ],
+      "exit": 0,
+      "pids": [
+        71792
+      ],
+      "pid_identities": {
+        "71792": "Wed Nov  4 16:53:57 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 128 -l 128 /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/instructions.pdf /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/a4-review/page"
+      },
+      "remaining_pids": [],
+      "explicit_parent_wait": true,
+      "elapsed_seconds": 1.3025163747370243,
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "129",
+        "-l",
+        "129",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/a4-review/page"
+      ],
+      "exit": 0,
+      "pids": [
+        71806
+      ],
+      "pid_identities": {
+        "71806": "Wed Nov  4 16:53:59 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 129 -l 129 /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/instructions.pdf /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/access-corrected-hybrid-prefix/a4-review/page"
+      },
+      "remaining_pids": [],
+      "explicit_parent_wait": true,
+      "elapsed_seconds": 0.4267047084867954,
+      "stop_reason": null
+    }
+  ],
+  "elapsed_seconds": 2.993974625132978,
+  "min_free_bytes": 7724638208,
+  "peak_increment_bytes": 876052,
+  "pdf_sha256": "6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062",
+  "map_sha256": "5aee7e6fd9b08d304a9335e424d1a61cde45395f041053f45fe4fb2c55e9dc78",
+  "marker_repeated": false,
+  "rasters": {
+    "page-003.png": "30f03569690a1f14d030cd6730f176f890ea4550faf2bddc2f50bec00b380988",
+    "page-004.png": "d4585806aea9f3927c00afb689201dbb318f51ac5d2ef158e77943f902a59d29",
+    "page-005.png": "840a1760cd06df7f1c43e66e5fa95ef8f0d3996e5421764df2559e5995c63737",
+    "page-128.png": "6a374548265d3f2cf5eb06d5eec17acd87a48aadb736549c8a40d2fc141fc306",
+    "page-129.png": "071c9b73b1834603433806ee802745fd6c35cff5e3ece4c6e4596911f373b873"
+  }
+}

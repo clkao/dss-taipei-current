@@ -1,0 +1,44 @@
+{
+  "source_commit": "5562901",
+  "grant": "2b4e247d",
+  "stage1": "PASS: generation and static136A4; actualA4visual pending",
+  "stage2": "Node0 Chrome0, assertions PASS; supervisor1 closure port EADDRINUSE; NOT clean success",
+  "stage3": "UNRUN, stopped before raster",
+  "candidate_pins": {
+    "model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+    "instruction-plan.json": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+    "viewer.html": "1d56a99417d2e6d64185398f9c85a76ccea31837803a46c8d737a126831b7a18",
+    "index.html": "40b24abb1f0004aacf35b0845de5653bce05f8468ecdb14fe039259c6bea3462",
+    "credits.html": "0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367",
+    "instructions.pdf": "d8cb787b8f6572854370e650b4ceb2f59c35d78e3ae5bec7ebd43d16bbabc137",
+    "pdf-page-map.json": "e9df2efac6f2499a68d1d744848fc82cf522015bc5d1e40c216e107ea371f67c",
+    "ordered-prefix.png": "69021bb267165d79bae743f98154e1d3853cb81e5d28526ddfb9b19142d6301b"
+  },
+  "screenshots": {
+    "builds/access-corrected-hybrid-prefix/r2-diagram-narrow.png": "74a61be99aa8983600f18362497fc1cc01ddaefd50b8ea8d55299e60ae0c348a",
+    "builds/access-corrected-hybrid-prefix/r2-diagram.png": "6f88739df0a1b8e2da634a808ba395ca54db652ffe410a5c243a5fcade54253b",
+    "builds/access-corrected-hybrid-prefix/r2-inspect1.png": "c512acc453b09524cd2e8d87c4fbf9351405f73d538339e2309132726810e981",
+    "builds/access-corrected-hybrid-prefix/r2-inspect2.png": "2261c206b8f583950726c014f08ec64d18ce2a0401334d2d88e02a4b84f8f1dd",
+    "builds/access-corrected-hybrid-prefix/r2-inspect3.png": "5863c2754fd2fe534d6af526e404a33137530b584853676b1a288de410dfd27f",
+    "builds/access-corrected-hybrid-prefix/r2-next4.png": "c2925f759b5b5f93ae52252900876be7c6874e3ff695fe9cae7119b688c615f8"
+  },
+  "actual_six_screenshot_inspection": "Paired marks/one2+2tray/optional source1,3,4states and Next4 visible; diagram sidebar stale action3 title/prose is unresolved finding",
+  "findings": [
+    {
+      "trigger": "Stage2 final closure, exact19402/privateprofilece86b402",
+      "observation": "Node and Chrome exits0, all recorded identities absent/profile census empty/unknownnone/EPERMfalse; bind EADDRINUSE. Attribution unknown pending authorization.",
+      "impact_owner": "DSS evidence closure; cannot claim clean profile cleanup. No product defect follows from port state.",
+      "disposition": "STOP; retain profile/temp and originalsupervisor1; await authorized read-only attribution and closure disposition, no retries."
+    },
+    {
+      "trigger": "Diagram mode at viewer1d56a994; diagram and narrow PNGs",
+      "observation": "Image has3actions/pairedrings and one2+2tray, but sidebar title remains1c and legacy installed-state prose.",
+      "impact_owner": "DSS viewer adapter; grouped-action meaning is inconsistent, source/stock unchanged.",
+      "disposition": "Proposed narrow title/description synchronization; no mutation pendingFO."
+    }
+  ],
+  "resource_release": "Compute released to root; retained profile/temp closure unresolved",
+  "physical_tested": false,
+  "native_studfleet_adopted": false,
+  "publication_changed": false
+}
