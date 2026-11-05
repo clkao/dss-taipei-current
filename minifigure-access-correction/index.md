@@ -687,3 +687,35 @@ Grant3ef4e6b0 ran source20837f1 once. Actual69-pagePDF42948683c57d88986c5eb85029
 Author personally read all49 saved pages;50–69 remain unrendered/unreviewed. New page45 caption overlap is DSS Polish/FIX: lower Outer face caption ascenders are painted over by the crop. Exact static fix removes lower label and moves wording into above-image After / outer face. Originalsource/PDF/49rasters preserved; revised layout303e2bc5 is unrendered. Consolidated final narrow PDF proposal waits remaining20-page read. Existing driver pins intentionally still reference original source; no accidental rerun authorized.
 
 Compact before/after evidence: i2p45–46 giant finished wheel/stack pages become i3p45 one page with both actual assembly states, bare axle/installed-wheel closeup and riser placement. i2p24 floating rings/raw39:96 become i3p24 honest enlarged region plus rectangular context locator. i3p23 reservation clears the panel border. Source arrays/348poses/215operations remain unchanged; no claim that region crops prove contacts or insertion paths. This is the third actual design PDF, still awaiting full visual review and narrow caption correction; no acceptance or stage/gate promotion.
+
+## Stage Report: instruction-review (third simplification PDF composition)
+
+- DONE: Inspect every actual third-candidate A4 page and verify simplification preserves readable construction, copy ownership and source correspondence.
+  Independently viewed every saved A4 raster, pages 1–69 inclusive, individually at readable size; no thumbnails substituted. Read composition plan and source correspondence checks, and independently hashed PDF, map and model. No new renderer or test suite ran.
+- DONE: Consolidate remaining material and polish findings against prior feedback, preserving exact evidence and limits.
+  Compared actual pages with iteration2 critique af19970; two required Polish/FIX findings below, no new material construction or stock regression demonstrated.
+- DONE: Return a scoped third-PDF recommendation without claiming unchanged viewer or physical acceptance.
+  Recommendation: retain the third composition, correct the two polish defects, then review only changed pages with equality evidence for unaffected pages. Current PDF is not yet recommended as the final artifact.
+- SKIPPED: New runtime, browser, physical assembly and final package verification.
+  Dispatch authorized existing-image and source review only; no runtime resource started. Formal physical/insertion AC2 and native UI AC4 remain unfulfilled; viewer/package integration remains pending.
+
+### Exact scope and findings
+
+Reviewed source20837f1 output in builds/simplification-i3: PDF42948683c57d88986c5eb85029a848d6212c156b14ac566cb3c875afdef64ae3; map7cbf4ccf4ca14eeb1562dd86f8f9a63ff01b342cbc3427aaf9e85040fcec1cd4. Independently hashed model3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229 equals the previously reviewed source identity. The existing author check records67 source steps,215 operations,348 unique introductions and69 pages; source check asserts exact model identity and all step-map coverage. This review did not rerun that suite or equate count checks with readability. Later static caption source61eac83 is not the PDF reviewed here.
+
+1. **Polish / FIX — p45 wheel orientation caption. Evidence:** actual lower “Outer face” label is partly painted over by the installed-wheel crop. **Reader impact:** orientation text is damaged despite useful inner-face/axle/outer-face pictures. **Correction:** remove lower label and place “After / outer face” above the image, as already statically prepared. **Closure:** inspect actual corrected p45 and preserve assembly states, four-copy count, parts and placement.
+2. **Polish / FIX — p57 banner closeup. Evidence:** actual A4 closeup has conspicuous large pixel blocks and blurred character/clip edges; the small context image and textual above/below/both-faces instruction remain readable. **Reader impact:** enlargement undermines the intended placement detail; no geometry or stock defect demonstrated. **Correction:** use the retained full-resolution source region before downsampling, at a moderate display size; retained artwork may supplement placement but must not replace its source relationship. **Closure:** inspect actual corrected p57 for clear banner edges, character order and context. Author's downscale-before-clip diagnosis is supporting source evidence, not a new renderer test by this reviewer.
+
+Related p45 riser/axle and p56 ring/hood crops are visibly soft, but their placement and receiving areas remain recognizable. Improve these through the same bounded source-resolution correction if practical; do not fabricate geometry or start a general render redesign. Include every changed page in the affected-page review and prove decoded streams/images unchanged for all remaining pages.
+
+### Resolved feedback and retained limits
+
+P4 full part IDs and p9 tray remain legible. P13–18 visibly retain suspension bands, separate bumper seed, layered bumper construction and front dish last. P18 and24–27 now use relevant enlarged receiving regions and context rectangles without origin rings/raw diagnostic IDs: these are useful location views, not exact contact or path proof. P21–23 preserve A/B/C two-copy recipes, separate C17/C18 order, and reserved second copies; p24–27 show their later distinct joins.
+
+P45 restores rim then tyre, inner/outer orientation and bare axle/installed placement; risers retain one-plate/two-plate states and four-stack placement. P56 restores clip then ring and before/after receiving rail; p59 combines distinct preassembled figures with the accessory result. The earlier source-only shield clarity issue is now visibly fixed on **p51, step53**, with “Build 1 more shield / recipe52” and fresh stock tray; p49 builds two and p50 retains attachment guidance. P52 is speakers. No missing-third-copy or stock-regression claim is made.
+
+All69 pages, including print guides61–62, inventory63–68 and limits69, were visually inspected. No additional material defect was demonstrated in this composition review. Exact published viewer is outside this PDF review; no new UI, package parity, native adoption, physical fit, continuous insertion replay or captain acceptance is claimed. Existing inherited label/Inspect follow-ups and previous failure records remain separate and unchanged. Three actual design iterations now have independent visual critique; final package integration and captain preview remain future work.
+
+### Summary
+
+The third composition substantially resolves the prior task-layout, receiving-region and copy-handoff findings. Preserve it and make the bounded p45/p57 polish correction before final artifact recommendation; reuse this all69-page inspection for unchanged content with exact equality evidence, and inspect every altered page. This is a scoped PDF composition recommendation, not an all-AC gate approval or publication authority.
