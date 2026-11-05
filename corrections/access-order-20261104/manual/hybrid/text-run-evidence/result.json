@@ -1,0 +1,35 @@
+{
+  "source": "0c5787d",
+  "grant": "93f74524",
+  "pdf": "136A4 PASS; 135 unaffected decoded content streams equal, all image bytes/boxes equal; map only PDF hash changes",
+  "ui": "Node0 Chrome0;10traces/settledtext/sixshots PASS and author visually inspected; supervisor1 closure unresolved",
+  "stage3": "UNRUN",
+  "pins": {
+    "model.json": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+    "instruction-plan.json": "df9ef0bf23d3f1ab71ac98dbe8dc351073658f241b7f705bf84a991cc412d9ff",
+    "viewer.html": "6f00c106ad2decca8f8bb6b868956ef8da0da1428dfa0fbbe972e5203e1d836f",
+    "index.html": "098bd2d1a7df43b3844b270bb9a7607d12901e24db538fec1fecb7bb5d35dc72",
+    "credits.html": "0d9e0d055958a4a256253f9715f9856bd452af67d677a99eb49d7ef025b6b367",
+    "instructions.pdf": "6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062",
+    "pdf-page-map.json": "5aee7e6fd9b08d304a9335e424d1a61cde45395f041053f45fe4fb2c55e9dc78",
+    "ordered-prefix.png": "69021bb267165d79bae743f98154e1d3853cb81e5d28526ddfb9b19142d6301b"
+  },
+  "screenshots": {
+    "r2-diagram-narrow.png": "9b396639b9c3fd8e5ee67d2d9530a602f2bddd101888f926edc2ccd1c9c7f95a",
+    "r2-diagram.png": "7bac78f599c2f3986829701154105716f65528cb264e7b9d303bdb6d5f4c8d64",
+    "r2-inspect1.png": "c512acc453b09524cd2e8d87c4fbf9351405f73d538339e2309132726810e981",
+    "r2-inspect2.png": "2261c206b8f583950726c014f08ec64d18ce2a0401334d2d88e02a4b84f8f1dd",
+    "r2-inspect3.png": "5863c2754fd2fe534d6af526e404a33137530b584853676b1a288de410dfd27f",
+    "r2-next4.png": "c2925f759b5b5f93ae52252900876be7c6874e3ff695fe9cae7119b688c615f8"
+  },
+  "four_field_closure_finding": {
+    "trigger": "Final exact19402 bind after successful Node/Chrome exit",
+    "observation": "No owned/profile/unknown/EPERM/listener; one authorized attribution finds two TIME_WAIT; one freshbind stillEADDRINUSE",
+    "impact_owner": "DSS closure accounting; no product failure established; retained profile/temp prevent clean closure claim",
+    "disposition": "STOP/computeRELEASE; preserve supervisor1 and later attribution separately; no loop/cleanup/raster; await disposition"
+  },
+  "reader_findings": "No new finding in sixactualPNG review; prior duplicate diagram prose fixed. Actual A4 review pending.",
+  "native_studfleet_adopted": false,
+  "physical_tested": false,
+  "publication_changed": false
+}

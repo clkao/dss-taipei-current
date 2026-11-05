@@ -1,0 +1,226 @@
+{
+  "trace": [
+    {
+      "name": "start diagram",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 3,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          178
+        ],
+        "offsets": []
+      },
+      "diagram": true,
+      "tray": "Collect once2 × 32018 black beams · 2 × 2780 black pins"
+    },
+    {
+      "name": "inspect1",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 1,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172
+        ],
+        "newIds": [
+          172
+        ],
+        "offsets": []
+      },
+      "diagram": false,
+      "tray": "Parts for one copy1 ×Technic Brick  1 x 14 with Holes32018 · Black"
+    },
+    {
+      "name": "diagram return1",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 3,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          178
+        ],
+        "offsets": []
+      },
+      "diagram": true,
+      "tray": "Collect once2 × 32018 black beams · 2 × 2780 black pins"
+    },
+    {
+      "name": "inspect2",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 2,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172,
+          216,
+          231
+        ],
+        "newIds": [
+          216,
+          231
+        ],
+        "offsets": []
+      },
+      "diagram": false,
+      "tray": "Parts for one copy2 ×Technic Pin with Friction and Slots2780 · Black"
+    },
+    {
+      "name": "diagram return2",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 3,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          178
+        ],
+        "offsets": []
+      },
+      "diagram": true,
+      "tray": "Collect once2 × 32018 black beams · 2 × 2780 black pins"
+    },
+    {
+      "name": "inspect3",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 3,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          178
+        ],
+        "offsets": []
+      },
+      "diagram": false,
+      "tray": "Parts for one copy1 ×Technic Brick  1 x 14 with Holes32018 · Black"
+    },
+    {
+      "name": "diagram return3",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 3,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          178
+        ],
+        "offsets": []
+      },
+      "diagram": true,
+      "tray": "Collect once2 × 32018 black beams · 2 × 2780 black pins"
+    },
+    {
+      "name": "Next4",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 4,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          150,
+          163,
+          172,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          150,
+          163
+        ],
+        "offsets": []
+      },
+      "diagram": false,
+      "tray": "Parts for one copy2 ×Plate  4 x  43031 · Light Bluish Gray"
+    },
+    {
+      "name": "Previous diagram",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 3,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          178
+        ],
+        "offsets": []
+      },
+      "diagram": true,
+      "tray": "Collect once2 × 32018 black beams · 2 × 2780 black pins"
+    },
+    {
+      "name": "selector diagram",
+      "state": {
+        "steps": 67,
+        "step": 1,
+        "recipeFrame": 3,
+        "approachFrame": 0,
+        "slider": 1,
+        "visible": [
+          172,
+          178,
+          216,
+          231
+        ],
+        "newIds": [
+          178
+        ],
+        "offsets": []
+      },
+      "diagram": true,
+      "tray": "Collect once2 × 32018 black beams · 2 × 2780 black pins"
+    }
+  ],
+  "failures": [],
+  "physical_tested": false
+}

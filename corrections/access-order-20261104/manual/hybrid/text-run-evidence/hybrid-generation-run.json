@@ -1,0 +1,61 @@
+{
+  "stages": [
+    {
+      "argv": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/hybrid/stage-pdf-text.py"
+      ],
+      "exit": 0,
+      "pids": [
+        62764
+      ],
+      "pid_identities": {
+        "62764": "Wed Nov  4 16:45:06 2026     (Python)"
+      },
+      "remaining_pids": [],
+      "explicit_parent_wait": true,
+      "elapsed_seconds": 0.21021270751953125,
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/make_pdf.py"
+      ],
+      "exit": 0,
+      "pids": [
+        62776
+      ],
+      "pid_identities": {
+        "62776": "Wed Nov  4 16:45:06 2026     /opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/make_pdf.py"
+      },
+      "remaining_pids": [],
+      "explicit_parent_wait": true,
+      "elapsed_seconds": 9.042546500451863,
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/hybrid/check-pdf.py"
+      ],
+      "exit": 0,
+      "pids": [
+        62958
+      ],
+      "pid_identities": {
+        "62958": "Wed Nov  4 16:45:15 2026     /opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/hybrid/check-pdf.py"
+      },
+      "remaining_pids": [],
+      "explicit_parent_wait": true,
+      "elapsed_seconds": 7.141611042432487,
+      "stop_reason": null
+    }
+  ],
+  "elapsed_seconds": 16.398983375169337,
+  "min_free_bytes": 5172088832,
+  "peak_increment_bytes": 6628780,
+  "pdf_sha256": "6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062",
+  "map_sha256": "5aee7e6fd9b08d304a9335e424d1a61cde45395f041053f45fe4fb2c55e9dc78",
+  "marker_repeated": false
+}

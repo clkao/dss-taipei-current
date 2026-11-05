@@ -1,0 +1,20 @@
+{
+  "actual_pages": 136,
+  "diagram_page": 4,
+  "source_operations": [
+    "legacy-001a",
+    "legacy-012",
+    "legacy-001b"
+  ],
+  "actual_print_sheets": [
+    128,
+    129
+  ],
+  "remaining_page_metadata_equal": true,
+  "model_plan_images_unchanged": true,
+  "pdf_sha256": "6d02aa7dbf0e9fc58cbc4f963bd9fbe805bba9a1cdd134a1ecc3d1b22e9ac062",
+  "map_sha256": "5aee7e6fd9b08d304a9335e424d1a61cde45395f041053f45fe4fb2c55e9dc78",
+  "unchanged_135_page_streams_and_all_page_images_equal": true,
+  "visual_review": "pending",
+  "physical_tested": false
+}
