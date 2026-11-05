@@ -12,13 +12,13 @@ pr:
 mod-block:
 id: czrrfahe7jyh39409x9jnf6r
 review-round:
-    id: round:czrrfahe7jyh39409x9jnf6r:instruction-review:3
+    id: round:czrrfahe7jyh39409x9jnf6r:instruction-review:4
     stage: instruction-review
-    cycle: 3
+    cycle: 4
     briefing:
-        id: briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:round-3
-        digest: sha256:406de1d84d670d1d9bd3d3f0c57002695ce3610b9dbbc2627db0f62a5c135d06
-        room-ref: '@review/instruction-review/round-3'
+        id: briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:round-4
+        digest: sha256:dd88c7f934a8d6266642878e8dba817585ed5409ba43902ec43858110bac5454
+        room-ref: '@review/instruction-review/round-4'
 gates:
     version: 1
     records:
