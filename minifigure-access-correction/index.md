@@ -11,6 +11,17 @@ issue:
 pr:
 mod-block:
 id: a3cc03jvy7vrj9e0bvn3gf0w
+gates:
+    version: 1
+    records:
+        - id: gate:a3cc03jvy7vrj9e0bvn3gf0w:instruction-review
+          stage: instruction-review
+          attempts:
+            - id: gate-attempt:a3cc03jvy7vrj9e0bvn3gf0w-instruction-review-1
+              briefing:
+                id: briefing:a3cc03jvy7vrj9e0bvn3gf0w:instruction-review:attempt-1:revision-1
+                digest: sha256:0dd475abf63b14ca5e27ff87641c9de72d12bc98ff4440a1d135f2c8785759a6
+                room-ref: '@review/instruction-review/briefing-1'
 ---
 
 ## Brief

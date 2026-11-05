@@ -1,0 +1,24 @@
+{
+  "type": "Briefing",
+  "version": "1",
+  "id": "briefing:a3cc03jvy7vrj9e0bvn3gf0w:instruction-review:attempt-1:revision-1",
+  "question": "Accept the exact 69-page digital package, or return it for revision? Physical insertion and independent native-UI criteria remain open; this decision alone does not establish full task completion.",
+  "artifacts": [
+    {
+      "id": "artifact:a3cc03jvy7vrj9e0bvn3gf0w:instruction-review:attempt-1:revision-1:item-1",
+      "uri": "git-root://state/03072e89c9486cc8a58438c2979a22065dd4e014/minifigure-access-correction/index.md",
+      "rev": "sha256:f5cd26ff486e909c3a67cdbd62d3cdd4d29fab12e90081aa77a71e463101fbca",
+      "mediaType": "text/markdown",
+      "summary": "Three rendered simplification passes reduced 136 pages to 69. Independent exact-package review passed all 69 PDF pages, 29 publication bindings, 418 archive members and six affected UI images. Recommend acceptance of the digital composition/package, while holding full-entity closure for AC2 and the unresolved native-UI portion of AC4. Publication remains separate."
+    }
+  ],
+  "context": [
+    {
+      "type": "Reference",
+      "id": "reference:a3cc03jvy7vrj9e0bvn3gf0w:instruction-review:attempt-1:revision-1:item-2",
+      "uri": "git-root://main/3f65b1f6547a1e7f68741a252b16c2ebbf0d144a/docs/instructions/README.md",
+      "mediaType": "text/markdown",
+      "rev": "sha256:b40db58439a8e36a7a3af7e189048e23a8febf7ef7c7df689fcf99b23468cb1e"
+    }
+  ]
+}
