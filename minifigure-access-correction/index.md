@@ -719,3 +719,9 @@ All69 pages, including print guides61–62, inventory63–68 and limits69, were 
 ### Summary
 
 The third composition substantially resolves the prior task-layout, receiving-region and copy-handoff findings. Preserve it and make the bounded p45/p57 polish correction before final artifact recommendation; reuse this all69-page inspection for unchanged content with exact equality evidence, and inspect every altered page. This is a scoped PDF composition recommendation, not an all-AC gate approval or publication authority.
+
+## Iteration3 full-page inspection and final narrow proposal
+
+Separate grant5f22dbed completed20 serial one-page rasters50–69: all exit0/waited/census empty, supervisor0,4.925s/minfree755347456B/peaknew3248929B/directRSS79577088B. Old49 hashes unchanged. RELEASE sent. All69 actual pages personally inspected; same Epicurus independently confirmed p45 caption overlap and p57 heavy pixelation, without another construction/copy regression. Shield53 fresh Build1 more handoff is visible onp51. Original diskSTOP remains literal.
+
+DSS authorized static polish source37ab201: only45/56/57. Region crops use existing full-resolution source rather than first downsampling whole image;57 has moderate150pt placement crop plus exact retained upper/lower artwork streamed from ownZIP;45 caption moves above crop. All original69PDF/map/rasters preserved. Exact i3/POLISH-PROPOSAL.md binds driver042f46f4/PDFc2ea52a7/checkb4121ee1/layout5ce71786/bundle00380d01, fresh builds/tmp simplification-i3-polish,≤150s100MiB,69PDF/check/only3rasters. Checker requires66 exactdecodedstreams/resources/images and map identical except independently bound PDF hash. Runtime UNRUN awaiting grant; same reviewer will use66 proven unchanged pages plus3 newactualrasters. No acceptance, package/publication or native/physical claims.
