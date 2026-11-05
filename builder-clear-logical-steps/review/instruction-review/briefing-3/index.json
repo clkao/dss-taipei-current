@@ -1,0 +1,24 @@
+{
+  "type": "Briefing",
+  "version": "1",
+  "id": "briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-3:revision-1",
+  "question": "Accept the exact cycle5 79-page edition approved by the captain, with the disclosed order corrections and review limits?",
+  "artifacts": [
+    {
+      "id": "artifact:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-3:revision-1:item-1",
+      "uri": "git-root://state/04af1cf9364b376aab1fcc43561dd02eb1e010e4/builder-clear-logical-steps/index.md",
+      "rev": "sha256:df6699b839fb4883548d80032d8785c15e91392dc31c4b60ffc986fdd9e0e16b",
+      "mediaType": "text/markdown",
+      "summary": "Captain approved the presented PDF525e42c3 and ZIPa284f8c6 after direct correction review. Three author outcomes done; prior independent reviews retained, later corrections accepted by captain without a fourth independent PASS. Geometry and stock unchanged; three explicit order exchanges; no physical certification or publication."
+    }
+  ],
+  "context": [
+    {
+      "type": "Reference",
+      "id": "reference:czrrfahe7jyh39409x9jnf6r:instruction-review:attempt-3:revision-1:item-2",
+      "uri": "git-root://main/dfa3644aa53e25b7c64be7f26ddeddd2ea349bac/docs/instructions/README.md",
+      "mediaType": "text/markdown",
+      "rev": "sha256:0595e013e825de57be71f65bb29a32b954c237e7d11795f23116350c4eae8048"
+    }
+  ]
+}
