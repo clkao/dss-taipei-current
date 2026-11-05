@@ -1,0 +1,509 @@
+{
+  "schema": "dss-visible-feature-correspondence/1",
+  "model_sha256": "3d23390fdec3df05c4f7ade4ec11c47ef15330c722579ab8e47aa5603a12d229",
+  "render_scene_sha256": "94dd266f0f12eb45ebab2c1ebae7f17778eb87ac81800ed2b37f4ee560e35ecc",
+  "catalog_meshes_sha256": "890e8ca24848e179e485b86c1ac925b2d5a3e63e88fb369774bd2ff3e53d3810",
+  "catalog_archive_member_hashes": {
+    "parts/32018.dat": "52544f2b606467ec6f4097afc6b3d3a85cc4827031f16f166c8ec817140265e1",
+    "parts/4081b.dat": "a4bf62ed93aaa3a6395e275b6a2fe93a9eb6644ee410ce54b85f9a9aca3ec917",
+    "parts/32556b.dat": "5d5986840ac14e09a1e30a3a68af57b8cc5546fadad98ae68111ac6a3f7110ac",
+    "parts/2780.dat": "2628d30bcfa42b3a616da38b8020cbc2b1edb98b055329cfac56425cdc9a8277"
+  },
+  "suspension": [
+    {
+      "step": 5,
+      "operation": 17,
+      "pairs": [
+        {
+          "label": "A",
+          "pin_id": 217,
+          "pin_part": "32556b",
+          "pin_end_local_ldu": [
+            -30,
+            0,
+            0
+          ],
+          "receiver_id": 172,
+          "hole_mouth_local_ldu": [
+            -80,
+            10,
+            -10
+          ],
+          "receiver_source_line": 65,
+          "pin_end_world_ldu": [
+            139.99988150000001,
+            -54.37506260000001,
+            80.0000116
+          ],
+          "hole_mouth_world_ldu": [
+            139.999801,
+            -54.37504060000002,
+            60.00002860000001
+          ],
+          "axis_radial_error_ldu": 8.345208207898059e-05,
+          "axial_depth_ldu": 19.999982999999986,
+          "meaning": "Catalog end-face center and nearest outside beam-hole mouth. Axis correspondence only; no insertion proof."
+        },
+        {
+          "label": "B",
+          "pin_id": 219,
+          "pin_part": "2780",
+          "pin_end_local_ldu": [
+            20,
+            0,
+            0
+          ],
+          "receiver_id": 172,
+          "hole_mouth_local_ldu": [
+            -100,
+            10,
+            -10
+          ],
+          "receiver_source_line": 67,
+          "pin_end_world_ldu": [
+            119.9998766,
+            -54.37506260000001,
+            80.0000132
+          ],
+          "hole_mouth_world_ldu": [
+            119.99980099999999,
+            -54.37504060000002,
+            60.00002860000001
+          ],
+          "axis_radial_error_ldu": 7.873601462986388e-05,
+          "axial_depth_ldu": 19.99998459999999,
+          "meaning": "Catalog end-face center and nearest outside beam-hole mouth. Axis correspondence only; no insertion proof."
+        }
+      ]
+    },
+    {
+      "step": 6,
+      "operation": 21,
+      "pairs": [
+        {
+          "label": "A",
+          "pin_id": 226,
+          "pin_part": "32556b",
+          "pin_end_local_ldu": [
+            -30,
+            0,
+            0
+          ],
+          "receiver_id": 178,
+          "hole_mouth_local_ldu": [
+            -80,
+            10,
+            10
+          ],
+          "receiver_source_line": 64,
+          "pin_end_world_ldu": [
+            139.9998813,
+            -54.3750626,
+            79.9999878
+          ],
+          "hole_mouth_world_ldu": [
+            139.9998188,
+            -54.37505260000002,
+            100.00000800000001
+          ],
+          "axis_radial_error_ldu": 6.329494448750278e-05,
+          "axial_depth_ldu": 20.00002020000001,
+          "meaning": "Catalog end-face center and nearest outside beam-hole mouth. Axis correspondence only; no insertion proof."
+        },
+        {
+          "label": "B",
+          "pin_id": 225,
+          "pin_part": "2780",
+          "pin_end_local_ldu": [
+            -20,
+            0,
+            0
+          ],
+          "receiver_id": 178,
+          "hole_mouth_local_ldu": [
+            -100,
+            10,
+            10
+          ],
+          "receiver_source_line": 66,
+          "pin_end_world_ldu": [
+            119.99991500000002,
+            -54.3750804,
+            79.9999988
+          ],
+          "hole_mouth_world_ldu": [
+            119.99981880000001,
+            -54.37505260000002,
+            100.00000800000001
+          ],
+          "axis_radial_error_ldu": 0.00010013630709886036,
+          "axial_depth_ldu": 20.000009200000008,
+          "meaning": "Catalog end-face center and nearest outside beam-hole mouth. Axis correspondence only; no insertion proof."
+        }
+      ]
+    },
+    {
+      "step": 7,
+      "operation": 25,
+      "pairs": [
+        {
+          "label": "A",
+          "pin_id": 220,
+          "pin_part": "32556b",
+          "pin_end_local_ldu": [
+            -30,
+            0,
+            0
+          ],
+          "receiver_id": 172,
+          "hole_mouth_local_ldu": [
+            80,
+            10,
+            -10
+          ],
+          "receiver_source_line": 51,
+          "pin_end_world_ldu": [
+            299.9997735,
+            -54.37506260000001,
+            80.00000560000001
+          ],
+          "hole_mouth_world_ldu": [
+            299.999801,
+            -54.37504060000002,
+            60.00002860000001
+          ],
+          "axis_radial_error_ldu": 3.5217183287985434e-05,
+          "axial_depth_ldu": 19.999977,
+          "meaning": "Catalog end-face center and nearest outside beam-hole mouth. Axis correspondence only; no insertion proof."
+        },
+        {
+          "label": "B",
+          "pin_id": 228,
+          "pin_part": "2780",
+          "pin_end_local_ldu": [
+            20,
+            0,
+            0
+          ],
+          "receiver_id": 172,
+          "hole_mouth_local_ldu": [
+            100,
+            10,
+            -10
+          ],
+          "receiver_source_line": 53,
+          "pin_end_world_ldu": [
+            319.9997424,
+            -54.37506260000001,
+            80.0000042
+          ],
+          "hole_mouth_world_ldu": [
+            319.999801,
+            -54.37504060000002,
+            60.00002860000001
+          ],
+          "axis_radial_error_ldu": 6.259360988216731e-05,
+          "axial_depth_ldu": 19.9999756,
+          "meaning": "Catalog end-face center and nearest outside beam-hole mouth. Axis correspondence only; no insertion proof."
+        }
+      ]
+    },
+    {
+      "step": 8,
+      "operation": 29,
+      "pairs": [
+        {
+          "label": "A",
+          "pin_id": 234,
+          "pin_part": "32556b",
+          "pin_end_local_ldu": [
+            -30,
+            0,
+            0
+          ],
+          "receiver_id": 178,
+          "hole_mouth_local_ldu": [
+            80,
+            10,
+            10
+          ],
+          "receiver_source_line": 50,
+          "pin_end_world_ldu": [
+            299.9997735,
+            -54.3750626,
+            79.99998180000001
+          ],
+          "hole_mouth_world_ldu": [
+            299.9998188,
+            -54.37505260000002,
+            100.00000800000001
+          ],
+          "axis_radial_error_ldu": 4.639062405923344e-05,
+          "axial_depth_ldu": 20.000026199999994,
+          "meaning": "Catalog end-face center and nearest outside beam-hole mouth. Axis correspondence only; no insertion proof."
+        },
+        {
+          "label": "B",
+          "pin_id": 233,
+          "pin_part": "2780",
+          "pin_end_local_ldu": [
+            -20,
+            0,
+            0
+          ],
+          "receiver_id": 178,
+          "hole_mouth_local_ldu": [
+            100,
+            10,
+            10
+          ],
+          "receiver_source_line": 52,
+          "pin_end_world_ldu": [
+            319.9997556,
+            -54.3750804,
+            79.99998980000001
+          ],
+          "hole_mouth_world_ldu": [
+            319.9998188,
+            -54.37505260000002,
+            100.00000800000001
+          ],
+          "axis_radial_error_ldu": 6.904404390712534e-05,
+          "axial_depth_ldu": 20.0000182,
+          "meaning": "Catalog end-face center and nearest outside beam-hole mouth. Axis correspondence only; no insertion proof."
+        }
+      ]
+    }
+  ],
+  "rings": [
+    {
+      "order": 1,
+      "id": 25,
+      "part": "4081b",
+      "aperture_faces_local_ldu": [
+        [
+          -4,
+          2,
+          -20
+        ],
+        [
+          4,
+          2,
+          -20
+        ]
+      ],
+      "aperture_faces_world_ldu": [
+        [
+          105.9998,
+          -134.37500440000002,
+          -10.0000452
+        ],
+        [
+          113.9998,
+          -134.37500440000002,
+          -10.0000452
+        ]
+      ],
+      "inner_radius_ldu": 4,
+      "source": "4081b.dat stud2a / inner 4-4cyli primitives",
+      "route_unchanged": true
+    },
+    {
+      "order": 2,
+      "id": 70,
+      "part": "4081b",
+      "aperture_faces_local_ldu": [
+        [
+          -4,
+          2,
+          -20
+        ],
+        [
+          4,
+          2,
+          -20
+        ]
+      ],
+      "aperture_faces_world_ldu": [
+        [
+          325.9997806,
+          -134.3750162,
+          -10.0000214
+        ],
+        [
+          333.9997806,
+          -134.3750162,
+          -10.0000214
+        ]
+      ],
+      "inner_radius_ldu": 4,
+      "source": "4081b.dat stud2a / inner 4-4cyli primitives",
+      "route_unchanged": true
+    },
+    {
+      "order": 3,
+      "id": 142,
+      "part": "4081b",
+      "aperture_faces_local_ldu": [
+        [
+          -4,
+          2,
+          -20
+        ],
+        [
+          4,
+          2,
+          -20
+        ]
+      ],
+      "aperture_faces_world_ldu": [
+        [
+          333.9997806,
+          -134.3750758,
+          170.0
+        ],
+        [
+          325.9997806,
+          -134.3750758,
+          170.0
+        ]
+      ],
+      "inner_radius_ldu": 4,
+      "source": "4081b.dat stud2a / inner 4-4cyli primitives",
+      "route_unchanged": true
+    },
+    {
+      "order": 4,
+      "id": 78,
+      "part": "4081b",
+      "aperture_faces_local_ldu": [
+        [
+          -4,
+          2,
+          -20
+        ],
+        [
+          4,
+          2,
+          -20
+        ]
+      ],
+      "aperture_faces_world_ldu": [
+        [
+          113.9998118,
+          -134.375064,
+          170.0000238
+        ],
+        [
+          105.9998118,
+          -134.375064,
+          170.0000238
+        ]
+      ],
+      "inner_radius_ldu": 4,
+      "source": "4081b.dat stud2a / inner 4-4cyli primitives",
+      "route_unchanged": true
+    }
+  ],
+  "feet": [
+    {
+      "label": "L",
+      "piece_id": 255,
+      "sole_bounds_local_ldu": [
+        [
+          -19.5,
+          40,
+          -11
+        ],
+        [
+          -1.5,
+          40,
+          -11
+        ],
+        [
+          -1.5,
+          40,
+          9
+        ],
+        [
+          -19.5,
+          40,
+          9
+        ]
+      ],
+      "world_ldu": [
+        [
+          60.0,
+          -144.3750672,
+          60.5
+        ],
+        [
+          60.0,
+          -144.3750672,
+          78.5
+        ],
+        [
+          40.0,
+          -144.3750672,
+          78.5
+        ],
+        [
+          40.0,
+          -144.3750672,
+          60.5
+        ]
+      ],
+      "meaning": "Projected sole bounding footprint, not certified stud/cavity centers."
+    },
+    {
+      "label": "R",
+      "piece_id": 255,
+      "sole_bounds_local_ldu": [
+        [
+          1.5,
+          40,
+          -11
+        ],
+        [
+          19.5,
+          40,
+          -11
+        ],
+        [
+          19.5,
+          40,
+          9
+        ],
+        [
+          1.5,
+          40,
+          9
+        ]
+      ],
+      "world_ldu": [
+        [
+          60.0,
+          -144.3750672,
+          81.5
+        ],
+        [
+          60.0,
+          -144.3750672,
+          99.5
+        ],
+        [
+          40.0,
+          -144.3750672,
+          99.5
+        ],
+        [
+          40.0,
+          -144.3750672,
+          81.5
+        ]
+      ],
+      "meaning": "Projected sole bounding footprint, not certified stud/cavity centers."
+    }
+  ],
+  "physical_verified": false
+}
