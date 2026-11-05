@@ -628,3 +628,20 @@ Sourcef3d5222 retains the first15PNG hashes and actual findings under manual/sim
 All15 images were inspected. Numbers-only81510ce8 removes the three verbal labels while retaining numbers and paired pin marks. Receiver images fail consistent framing: helper omitted OrthographicCamera left/right/top/bottom/zoom, leaving before views enlarged/clipped. No imagePASS/PDF was produced. FO authorized the minimal helper correction; sourcef3d5222 restores complete projection, asserts matrix equality and records paired projected coordinates. Geometry/order/selection remain unchanged; locators are not GPU/contact/insertion proof.
 
 Exact14receiver-only successor is frozen in PROPOSAL.md: driver066ec6c9/helper4119f40b/bundle4c023f33, fresh receiver output/profilef0c05ede/port19038,≤90s150MiB,576start512floor. Original green numbers-only bitmap is reused without rerender. Runtime awaits explicit scheduling; StageB and remaining actual design iterations are still pending. No package, publication, shared-code or status/gate changes.
+
+## Stage Report: authoring (cycle 14 — actual iteration2 rendered)
+
+- DONE: Implement a source-bound second local composition addressing the reviewed reader failures and useful house-manual patterns.
+  Source78bb526 binds actual second candidate: measured trays, explicit rail lanes/copy allocation, recipe beside placement, numbers-only opening, and matched receiver projections. Geometry/model/215 operations/348 parts remain unchanged. Original orthographic helper failure and its narrow repair remain retained; repair is not a third design iteration.
+- DONE: Bind exact changed assets/helpers and a bounded rendered iteration2 proposal without shared or publication changes.
+  Grant020d2ba8 executed once on frozen db92137 inputs. PDF/check/27 raster children and supervisor exited0; all explicitly waited, survivor lists empty. Actual71-pagePDF a8fdb1b6fc76194613702a530d36f708a2f16561188fd963ca39e7135a7f2b73, map d3cf43c710b9aa9427f627ede432cb4bfa96f344078d2931db51c400e3f14edb. RELEASE sent. 10.936s, minfree1466314752B, peakincrement12117681B, observed directRSS674217984B, not combined. Full commands/hashes/waits in i2/rendered-evidence/run.json.
+- DONE: Retain iteration1 evidence and explain remaining iteration3 readability work without claiming acceptance.
+  Both prior candidate and all failures/closure resolutions remain retained. Author inspected all27 selected A4 rasters, not all71 pages. Same Epicurus feedback and third actual candidate remain due; no implementation before consolidated feedback.
+
+### Summary
+
+Source78bb526 includes manual/simplify/i2/REVIEW-HANDOFF.md. Trays now show full identifiers; C17/C18 lanes and saved-copy identities read distinctly. Matched closeups retain scale/orientation. Author findings for iteration3: raw pair IDs and source-origin circles on18/24–27 add clutter and can imply unsupported mating precision; reservation line23 touches border; large assembled-component snapshots45/46/57 need proportional callout and placement-flow assessment. Circles are source-origin locators, not connector/visibility/access proof. Inherited shield motion guidance51 remains physically unvalidated. Parent independently observed the locator and oversized-component concerns. Keep actuali2 frozen for review.
+
+Separate d3bd7af4 closure found no attributed/profile processes or TCP19038 entries, one bindfree, no EPERM/unknown; only owned profilef0c05ede and receiver temp removed. Original supervisor1/Node0/Errno48 is preserved and not retroactively green. Corrected14 images plus reused numbers-only asset were personally inspected before the PDF; exact scoped imagePASS e46e027c remains bound.
+
+No package/publication/shared changes, native adoption, final acceptance, full-edition parity, physicalAC2 or nativeUIAC4 claimed. This finishes the rendered iteration2 author handoff only; iteration3 remains required.
