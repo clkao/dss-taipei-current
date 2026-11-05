@@ -11,6 +11,14 @@ issue:
 pr:
 mod-block:
 id: czrrfahe7jyh39409x9jnf6r
+review-round:
+    id: round:czrrfahe7jyh39409x9jnf6r:instruction-review:1
+    stage: instruction-review
+    cycle: 1
+    briefing:
+        id: briefing:czrrfahe7jyh39409x9jnf6r:instruction-review:round-1
+        digest: sha256:eac3c16126c37373f89e5ba91fb83252f5f089c07bf2fdb64a9debb417051e61
+        room-ref: '@review/instruction-review/round-1'
 ---
 
 ## Brief
