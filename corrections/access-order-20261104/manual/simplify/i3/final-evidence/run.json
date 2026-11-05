@@ -1,0 +1,105 @@
+{
+  "stages": [
+    {
+      "argv": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/simplify/i3/make_polish.py"
+      ],
+      "exit": 0,
+      "pid": 13419,
+      "observed_identity": "13419 13411   4240 Wed Nov  4 22:31:28 2026     /opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/simplify/i3/make_polish.py",
+      "explicit_parent_wait": true,
+      "survivors": [],
+      "elapsed_seconds": 4.427872834727168,
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/Users/clkao/git/house-demo/tmp/lego-standards-venv/bin/python",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/simplify/i3/check_polish.py"
+      ],
+      "exit": 0,
+      "pid": 13473,
+      "observed_identity": "13473 13411   3424 Wed Nov  4 22:31:32 2026     /opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/corrections/access-order-20261104/manual/simplify/i3/check_polish.py",
+      "explicit_parent_wait": true,
+      "survivors": [],
+      "elapsed_seconds": 2.488047333434224,
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "45",
+        "-l",
+        "45",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/a4-review/page"
+      ],
+      "exit": 0,
+      "pid": 13506,
+      "observed_identity": "13506 13411    176 Wed Nov  4 22:31:35 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 45 -l 45 /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/instructions.pdf /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/a4-review/page",
+      "explicit_parent_wait": true,
+      "survivors": [],
+      "elapsed_seconds": 0.31939687486737967,
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "56",
+        "-l",
+        "56",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/a4-review/page"
+      ],
+      "exit": 0,
+      "pid": 13513,
+      "observed_identity": "13513 13411    928 Wed Nov  4 22:31:35 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 56 -l 56 /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/instructions.pdf /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/a4-review/page",
+      "explicit_parent_wait": true,
+      "survivors": [],
+      "elapsed_seconds": 0.32544112484902143,
+      "stop_reason": null
+    },
+    {
+      "argv": [
+        "/opt/homebrew/bin/pdftoppm",
+        "-r",
+        "110",
+        "-png",
+        "-f",
+        "57",
+        "-l",
+        "57",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/instructions.pdf",
+        "/Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/a4-review/page"
+      ],
+      "exit": 0,
+      "pid": 13518,
+      "observed_identity": "13518 13411    944 Wed Nov  4 22:31:36 2026     /opt/homebrew/bin/pdftoppm -r 110 -png -f 57 -l 57 /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/instructions.pdf /Users/clkao/git/spacedock-research/dss-taipei-current/.worktrees/spacedock-ensign-minifigure-access-correction/builds/simplification-i3-polish/a4-review/page",
+      "explicit_parent_wait": true,
+      "survivors": [],
+      "elapsed_seconds": 0.4817701671272516,
+      "stop_reason": null
+    }
+  ],
+  "elapsed_seconds": 8.156775999814272,
+  "min_free_bytes": 1994129408,
+  "peak_increment_bytes": 8340045,
+  "observed_peak_direct_rss_bytes": 692944896,
+  "pdf_sha256": "5c347b0e5d639a5ed5f45be6e867a14772fa01ed92ec4c80b472f956bbcf7bbd",
+  "map_sha256": "de2bc9955d5472d8113203fd195a20cdc7bd463a52ffc13c154d173d851cf61a",
+  "rasters": {
+    "page-45.png": "c177a6af564e55dbf074c65ca49eed0ec48a1ed1592bcc2d7986dd053244dd58",
+    "page-56.png": "e0eb3a0ff8b1d80d79f3bfcb3fd7088865930752bf5f157d1c3fb5b2c1b5e3b1",
+    "page-57.png": "0aee29a0d6825de32ac56b6335180af109e1c62c9c336184de5de7dc1adcd479"
+  },
+  "marker_repeated": false
+}
